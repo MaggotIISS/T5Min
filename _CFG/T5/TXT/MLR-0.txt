@@ -1,0 +1,31 @@
+//	MLR-0.txt
+# MarineLR.cfg
+#  Annotate -f MarineLR.cfg -op giftravellerMarineLR
+#----------------------------------------------------------------------------5184
+# RHQ  126
+# TF1  41
+# TF2  41
+# TF3  41
+# RSP  556
+# RMU  153
+# RTC  165
+# 1LM  309
+# 2LM  309
+# 3LM  309
+# 4LM  309
+# 5LM  309
+# 6LM  309
+# 7LM  309
+# 8LM  309
+# 9LM  309
+# 1LC  490
+# 2LC  490
+# MB1  60
+# MB2  60
+# MB3  60
+# MB4  60
+# MB5  60
+# MB6  60
+armim.gif
+lines.gif c c 000000
+MLR-0.gif

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-shicut-frames.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Field1","PLANS","TITLE","Career-Norm","HP","PAYLOAD","LWT","CARGO""
+""BASIC","35","CM=50","H","4500","2.5","75","0.5""
+  <Catalog>
+    <col0>BASIC</col0>
+    <col1>35</col1>
+    <col2>CM=50</col2>
+    <col3>H</col3>
+    <col4>4500</col4>
+    <col5>2.5</col5>
+    <col6>75</col6>
+    <col7>0.5</col7>
+  </Catalog>
+ 
+""SLOW","36","CU=45","O","3750","2.5","52","0.5""
+  <Catalog>
+    <col0>SLOW</col0>
+    <col1>36</col1>
+    <col2>CU=45</col2>
+    <col3>O</col3>
+    <col4>3750</col4>
+    <col5>2.5</col5>
+    <col6>52</col6>
+    <col7>0.5</col7>
+  </Catalog>
+ 
+""FAST","37","CR=60","A","6000","2.5","109","0.5""
+  <Catalog>
+    <col0>FAST</col0>
+    <col1>37</col1>
+    <col2>CR=60</col2>
+    <col3>A</col3>
+    <col4>6000</col4>
+    <col5>2.5</col5>
+    <col6>109</col6>
+    <col7>0.5</col7>
+  </Catalog>
+ 
+""MULTI","36","CC=90","M","12000","2.5","114","0.5""
+  <Catalog>
+    <col0>MULTI</col0>
+    <col1>36</col1>
+    <col2>CC=90</col2>
+    <col3>M</col3>
+    <col4>12000</col4>
+    <col5>2.5</col5>
+    <col6>114</col6>
+    <col7>0.5</col7>
+  </Catalog>
+ 
+""ADVANCED","38","CM2=50","N","9000","2.5","135","0.5""
+  <Catalog>
+    <col0>ADVANCED</col0>
+    <col1>38</col1>
+    <col2>CM2=50</col2>
+    <col3>N</col3>
+    <col4>9000</col4>
+    <col5>2.5</col5>
+    <col6>135</col6>
+    <col7>0.5</col7>
+  </Catalog>
+ 
+""ASSAULT","39","CA=50","M","18000","-","203","-""
+  <Catalog>
+    <col0>ASSAULT</col0>
+    <col1>39</col1>
+    <col2>CA=50</col2>
+    <col3>M</col3>
+    <col4>18000</col4>
+    <col5>-</col5>
+    <col6>203</col6>
+    <col7>-</col7>
+  </Catalog>
+ 
+""STEALTH","40","CS=50","S","18000","-","115","-""
+  <Catalog>
+    <col0>STEALTH</col0>
+    <col1>40</col1>
+    <col2>CS=50</col2>
+    <col3>S</col3>
+    <col4>18000</col4>
+    <col5>-</col5>
+    <col6>115</col6>
+    <col7>-</col7>
+  </Catalog>
+ 
+</Catalogs>

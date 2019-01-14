@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="WeaponSkillStat.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"WEAPON USED","SKILL","CHARACTERISTIC"
+"Portable","BattleDress","Dexterity"
+  <Catalog>
+    <col0>Portable</col0>
+    <col1>BattleDress</col1>
+    <col2>Dexterity</col2>
+  </Catalog>
+ 
+"Fixed, Tank Mount","Atillery","Intelligence"
+  <Catalog>
+    <col0>Fixed, Tank Mount</col0>
+    <col1>Atillery</col1>
+    <col2>Intelligence</col2>
+  </Catalog>
+ 
+"Laser,Fusion,Plasma","Beams","Dexterity"
+  <Catalog>
+    <col0>Laser,Fusion,Plasma</col0>
+    <col1>Beams</col1>
+    <col2>Dexterity</col2>
+  </Catalog>
+ 
+"Gun,Gatling,Cannon,Autocannon","Artillery","Intelligence"
+  <Catalog>
+    <col0>Gun,Gatling,Cannon,Autocannon</col0>
+    <col1>Artillery</col1>
+    <col2>Intelligence</col2>
+  </Catalog>
+ 
+"Launcher","Launcher","Dexterity"
+  <Catalog>
+    <col0>Launcher</col0>
+    <col1>Launcher</col1>
+    <col2>Dexterity</col2>
+  </Catalog>
+ 
+"Acid,Fire,Gas or Stench","Sprays","C2"
+  <Catalog>
+    <col0>Acid,Fire,Gas or Stench</col0>
+    <col1>Sprays</col1>
+    <col2>C2</col2>
+  </Catalog>
+ 
+"Shock,EMP,Rad,Flash","Exotics","C2"
+  <Catalog>
+    <col0>Shock,EMP,Rad,Flash</col0>
+    <col1>Exotics</col1>
+    <col2>C2</col2>
+  </Catalog>
+ 
+"Freeze,Mag,Sonic,Grav","Exotics","C2"
+  <Catalog>
+    <col0>Freeze,Mag,Sonic,Grav</col0>
+    <col1>Exotics</col1>
+    <col2>C2</col2>
+  </Catalog>
+ 
+"Psi Amp","Exotics","Psi"
+  <Catalog>
+    <col0>Psi Amp</col0>
+    <col1>Exotics</col1>
+    <col2>Psi</col2>
+  </Catalog>
+ 
+"Edged Weapons","Blades","Strength"
+  <Catalog>
+    <col0>Edged Weapons</col0>
+    <col1>Blades</col1>
+    <col2>Strength</col2>
+  </Catalog>
+ 
+"Hand-to-Hand, Martial Arts","Unarmed","Strength"
+  <Catalog>
+    <col0>Hand-to-Hand, Martial Arts</col0>
+    <col1>Unarmed</col1>
+    <col2>Strength</col2>
+  </Catalog>
+ 
+"Designator","Forward Observer","Dexterity"
+  <Catalog>
+    <col0>Designator</col0>
+    <col1>Forward Observer</col1>
+    <col2>Dexterity</col2>
+  </Catalog>
+ 
+"Fires Bullets","Slugthrower","Dexterity"
+  <Catalog>
+    <col0>Fires Bullets</col0>
+    <col1>Slugthrower</col1>
+    <col2>Dexterity</col2>
+  </Catalog>
+ 
+</Catalogs>

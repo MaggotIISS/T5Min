@@ -1,0 +1,7 @@
+//	YB2E-0.txt
+blank.gif
+im.gif c c replace
+harvehastr.gif c c 000000
+YB2E c 7 35 H 000000
+13 2 7 35 H 000000
+YB2E-0.gif

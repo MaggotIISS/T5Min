@@ -1,0 +1,4 @@
+//	LI-2.txt
+lines.gif
+box.gif c c 336633
+LI-2.gif

@@ -1,0 +1,7 @@
+//	FieldArmy-0.txt
+# FieldArmy.cfg
+lines.gif
+O10 46 7 35 H 000000
+box.gif c c 505050
+Star.gif c c 000000
+FieldArmy-0.gif

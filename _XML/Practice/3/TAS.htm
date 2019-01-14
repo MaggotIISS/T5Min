@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+  <head>
+    <title>Address Example</title>
+    <script language="javascript" type="text/javascript">
+      function alertTasData() {
+        var xmldata1 = document.getElementById("tas");
+        var hex = document.getElementsByTagName("hex")[0].firstChild.data;
+        var name = document.getElementsByTagName("name")[0].firstChild.data;
+        var uwp = document.getElementsByTagName("uwp")[0].firstChild.data;
+        var remarks = document.getElementsByTagName("remarks")[0].firstChild.data;
+        var ix = document.getElementsByTagName("ix")[0].firstChild.data;
+        var ex = document.getElementsByTagName("ex")[0].firstChild.data;
+        var cx = document.getElementsByTagName("cx")[0].firstChild.data;
+        var n = document.getElementsByTagName("n")[0].firstChild.data;
+        var b = document.getElementsByTagName("b")[0].firstChild.data;
+        var z = document.getElementsByTagName("z")[0].firstChild.data;
+        var pbg = document.getElementsByTagName("pbg")[0].firstChild.data;
+        var w = document.getElementsByTagName("w")[0].firstChild.data;
+        var a = document.getElementsByTagName("a")[0].firstChild.data;
+        var stellar = document.getElementsByTagName("stellar")[0].firstChild.data;
+        alert(hex + "\n" + name + "\n" + uwp + "\n" + remarks + "\n" + ix + "\n" + ex + "\n" + cx + "\n" + n + "\n" + b + "\n" + z + "\n" + pbg + "\n" + w + "\n" + a + "\n" + stellar + "\n");
+      }
+    </script>
+  </head>
+  <body>
+    <tas>
+      <hex>Hex</hex>
+      <name>Name</name>
+      <uwp>UWP</uwp>
+      <remarks>Remarks</remarks>
+      <ix>Ix</ix>
+      <ex>Ex</ex>
+      <cx>Cx</cx>
+      <n>N</n>
+      <b>B</b>
+      <z>Z</z>
+      <pbg>PBG</pbg>
+      <w>W</w>
+      <a>A</a>
+      <stellar>STELLAR</stellar>
+    </tas>
+    <a href="javascript:alertTasData()">Alert TAS Data</a>
+  </body>
+</html>

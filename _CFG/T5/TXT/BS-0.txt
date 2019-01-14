@@ -1,0 +1,4 @@
+//	BS-0.txt
+lines.gif
+battleship.gif c c d0d0d0
+BS-0.gif

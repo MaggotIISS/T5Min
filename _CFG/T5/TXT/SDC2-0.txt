@@ -1,0 +1,7 @@
+//	SDC2-0.txt
+blank.gif
+im.gif c c replace
+harvehastn.gif c c 000000
+SDC2 c 7 35 H 000000
+4 2 7 35 H 000000
+SDC2-0.gif

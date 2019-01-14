@@ -1,0 +1,4 @@
+//	ImpGrandSurvey-0.txt
+lines.gif
+igs.gif c c replace
+ImpGrandSurvey-0.gif

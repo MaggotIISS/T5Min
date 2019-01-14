@@ -1,0 +1,5 @@
+//	Admin-0.txt
+# Scout.cfg
+lines.gif
+admin.gif c c replace
+Admin-0.gif

@@ -1,0 +1,4 @@
+//	ScoutBase1-0.txt
+# Bases.cfg
+lines.gif
+ScoutBase1-0.gif

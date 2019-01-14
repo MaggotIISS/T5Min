@@ -1,0 +1,5 @@
+//	AO6-3.txt
+lines.gif
+box.gif c c 0000FF
+AO6.gif c c FFFFFF
+AO6-3.gif

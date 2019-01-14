@@ -1,0 +1,5 @@
+//	FL-1.txt
+lines.gif
+box.gif c c F0CAA6
+star.gif c c 000000
+FL-1.gif

@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="uwp-allegiance.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Algn","Description","Colour""
+""","Default - Imperial or Comsentient","&HFFFF00""
+  <Catalog>
+    <col0></col0>
+    <col1>Default - Imperial or Comsentient</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A0","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A0</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A1","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A1</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A2","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A2</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A3","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A3</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A4","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A4</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A5","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A5</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A6","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A6</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A7","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A7</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A8","Aslan Tlaukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A8</col0>
+    <col1>Aslan Tlaukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""A9","Aslan Talukhu bloc","&HFFFF00""
+  <Catalog>
+    <col0>A9</col0>
+    <col1>Aslan Talukhu bloc</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Aa","(Un-named ARW Foreven)","&HFFFF00""
+  <Catalog>
+    <col0>Aa</col0>
+    <col1>(Un-named ARW Foreven)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ac","Anubian Trade Coalition","&HFFFF00""
+  <Catalog>
+    <col0>Ac</col0>
+    <col1>Anubian Trade Coalition</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ak","The Aku Corporation","&HFFFF00""
+  <Catalog>
+    <col0>Ak</col0>
+    <col1>The Aku Corporation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Am","Amondiage","&HFFFF00""
+  <Catalog>
+    <col0>Am</col0>
+    <col1>Amondiage</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""As","Aslan (general designation)","&HFFFF00""
+  <Catalog>
+    <col0>As</col0>
+    <col1>Aslan (general designation)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Bb","(Un-named ARW Foreven)","&HFFFF00""
+  <Catalog>
+    <col0>Bb</col0>
+    <col1>(Un-named ARW Foreven)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Bs","Belgardian Sojurn","&HFFFF00""
+  <Catalog>
+    <col0>Bs</col0>
+    <col1>Belgardian Sojurn</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Bw","Border Worlds","&HFFFF00""
+  <Catalog>
+    <col0>Bw</col0>
+    <col1>Border Worlds</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ca","Corsair Alliance","&HFFFF00""
+  <Catalog>
+    <col0>Ca</col0>
+    <col1>Corsair Alliance</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ch","Chirper","&HFFFF00""
+  <Catalog>
+    <col0>Ch</col0>
+    <col1>Chirper</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Cs","Client state (usually Imperial)","&HFFFF00""
+  <Catalog>
+    <col0>Cs</col0>
+    <col1>Client state (usually Imperial)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Cu","Cytrialin Unity","&HFFFF00""
+  <Catalog>
+    <col0>Cu</col0>
+    <col1>Cytrialin Unity</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Da","Darrian Confederation","&HFFFF00""
+  <Catalog>
+    <col0>Da</col0>
+    <col1>Darrian Confederation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Dd","Domain of Deneb","&HFFFF00""
+  <Catalog>
+    <col0>Dd</col0>
+    <col1>Domain of Deneb</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Dr","Droyne","&HFFFF00""
+  <Catalog>
+    <col0>Dr</col0>
+    <col1>Droyne</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Es","Esperanza","&HFFFF00""
+  <Catalog>
+    <col0>Es</col0>
+    <col1>Esperanza</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Fa","Federation of Arden","&HFFFF00""
+  <Catalog>
+    <col0>Fa</col0>
+    <col1>Federation of Arden</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Fi","Federation of Ilelish","&HFFFF00""
+  <Catalog>
+    <col0>Fi</col0>
+    <col1>Federation of Ilelish</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Fl","Florian League","&HFFFF00""
+  <Catalog>
+    <col0>Fl</col0>
+    <col1>Florian League</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Gf","Glimmerdrift Spread","&HFFFF00""
+  <Catalog>
+    <col0>Gf</col0>
+    <col1>Glimmerdrift Spread</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Gi","Gniivi","&HFFFF00""
+  <Catalog>
+    <col0>Gi</col0>
+    <col1>Gniivi</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Gl","Glorious Empire","&HFFFF00""
+  <Catalog>
+    <col0>Gl</col0>
+    <col1>Glorious Empire</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Hv","Hive Federation","&HFFFF00""
+  <Catalog>
+    <col0>Hv</col0>
+    <col1>Hive Federation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ic","Islands Cluster (Various)","&HFFFF00""
+  <Catalog>
+    <col0>Ic</col0>
+    <col1>Islands Cluster (Various)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Im","Third Imperium","&HFFFF00""
+  <Catalog>
+    <col0>Im</col0>
+    <col1>Third Imperium</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jl","Julian Protectrate","&HFFFF00""
+  <Catalog>
+    <col0>Jl</col0>
+    <col1>Julian Protectrate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jo","Joyeuse","&HFFFF00""
+  <Catalog>
+    <col0>Jo</col0>
+    <col1>Joyeuse</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jr","Joint Action Confederation","&HFFFF00""
+  <Catalog>
+    <col0>Jr</col0>
+    <col1>Joint Action Confederation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Kk","K'kree","&HFFFF00""
+  <Catalog>
+    <col0>Kk</col0>
+    <col1>K'kree</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""La","League of Antares","&HFFFF00""
+  <Catalog>
+    <col0>La</col0>
+    <col1>League of Antares</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Li","Lucan's Imperium","&HFFFF00""
+  <Catalog>
+    <col0>Li</col0>
+    <col1>Lucan's Imperium</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Lp","Council of Leh Perash","&HFFFF00""
+  <Catalog>
+    <col0>Lp</col0>
+    <col1>Council of Leh Perash</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Na","Non-aligned; neutral world","&HFFFF00""
+  <Catalog>
+    <col0>Na</col0>
+    <col1>Non-aligned; neutral world</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Nb","Neubayern","&HFFFF00""
+  <Catalog>
+    <col0>Nb</col0>
+    <col1>Neubayern</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Nc","New Colchis","&HFFFF00""
+  <Catalog>
+    <col0>Nc</col0>
+    <col1>New Colchis</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Nh","New Home","&HFFFF00""
+  <Catalog>
+    <col0>Nh</col0>
+    <col1>New Home</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""On","The Orion Nebula","&HFFFF00""
+  <Catalog>
+    <col0>On</col0>
+    <col1>The Orion Nebula</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ow","Outcasts of the Whispering Sky","&HFFFF00""
+  <Catalog>
+    <col0>Ow</col0>
+    <col1>Outcasts of the Whispering Sky</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""P1","Langemarck Coalition","&HFFFF00""
+  <Catalog>
+    <col0>P1</col0>
+    <col1>Langemarck Coalition</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""P2","Florian League","&HFFFF00""
+  <Catalog>
+    <col0>P2</col0>
+    <col1>Florian League</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""P3","Grossdeutschland Confederation","&HFFFF00""
+  <Catalog>
+    <col0>P3</col0>
+    <col1>Grossdeutschland Confederation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""P4","Pioneer Fellowship","&HFFFF00""
+  <Catalog>
+    <col0>P4</col0>
+    <col1>Pioneer Fellowship</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pa","Altarean Confederation","&HFFFF00""
+  <Catalog>
+    <col0>Pa</col0>
+    <col1>Altarean Confederation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pc","Comsentient Alliance","&HFFFF00""
+  <Catalog>
+    <col0>Pc</col0>
+    <col1>Comsentient Alliance</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pe","Eslyat Magistracy","&HFFFF00""
+  <Catalog>
+    <col0>Pe</col0>
+    <col1>Eslyat Magistracy</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pf","Four Corners Sovreign Array","&HFFFF00""
+  <Catalog>
+    <col0>Pf</col0>
+    <col1>Four Corners Sovreign Array</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pg","Mal'Gnar Primarchic","&HFFFF00""
+  <Catalog>
+    <col0>Pg</col0>
+    <col1>Mal'Gnar Primarchic</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pi","I'Sred*Ni Heptad Protectrate","&HFFFF00""
+  <Catalog>
+    <col0>Pi</col0>
+    <col1>I'Sred*Ni Heptad Protectrate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pj","Jarnac Pashalic","&HFFFF00""
+  <Catalog>
+    <col0>Pj</col0>
+    <col1>Jarnac Pashalic</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pk","Kajaani Triumvirate","&HFFFF00""
+  <Catalog>
+    <col0>Pk</col0>
+    <col1>Kajaani Triumvirate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pm","Mapepire Cluster","&HFFFF00""
+  <Catalog>
+    <col0>Pm</col0>
+    <col1>Mapepire Cluster</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pr","Trelyn Domain","&HFFFF00""
+  <Catalog>
+    <col0>Pr</col0>
+    <col1>Trelyn Domain</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pt","Tellerian Cluster","&HFFFF00""
+  <Catalog>
+    <col0>Pt</col0>
+    <col1>Tellerian Cluster</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pw","Die Weltbund","&HFFFF00""
+  <Catalog>
+    <col0>Pw</col0>
+    <col1>Die Weltbund</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Py","Trelyn Domain","&HFFFF00""
+  <Catalog>
+    <col0>Py</col0>
+    <col1>Trelyn Domain</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pz","Zydarian Codominium","&HFFFF00""
+  <Catalog>
+    <col0>Pz</col0>
+    <col1>Zydarian Codominium</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ra","Ral Ranta","&HFFFF00""
+  <Catalog>
+    <col0>Ra</col0>
+    <col1>Ral Ranta</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Rc","Ramalux Confederation","&HFFFF00""
+  <Catalog>
+    <col0>Rc</col0>
+    <col1>Ramalux Confederation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Rv","Restored Vilani Empire","&HFFFF00""
+  <Catalog>
+    <col0>Rv</col0>
+    <col1>Restored Vilani Empire</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Sa","Sansterre","&HFFFF00""
+  <Catalog>
+    <col0>Sa</col0>
+    <col1>Sansterre</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Sb","Serendip Belt","&HFFFF00""
+  <Catalog>
+    <col0>Sb</col0>
+    <col1>Serendip Belt</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Sf","Fenlis Foederate","&HFFFF00""
+  <Catalog>
+    <col0>Sf</col0>
+    <col1>Fenlis Foederate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""So","Solomani Confederation","&HFFFF00""
+  <Catalog>
+    <col0>So</col0>
+    <col1>Solomani Confederation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""St","The Real Strephon","&HFFFF00""
+  <Catalog>
+    <col0>St</col0>
+    <col1>The Real Strephon</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Sw","Sword Worlds","&HFFFF00""
+  <Catalog>
+    <col0>Sw</col0>
+    <col1>Sword Worlds</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Sy","Sylean Federation","&HFFFF00""
+  <Catalog>
+    <col0>Sy</col0>
+    <col1>Sylean Federation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Tc","Toranaga Cluster","&HFFFF00""
+  <Catalog>
+    <col0>Tc</col0>
+    <col1>Toranaga Cluster</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""V7","17th Disjuncture","&HFFFF00""
+  <Catalog>
+    <col0>V7</col0>
+    <col1>17th Disjuncture</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Va","Vargr (general designation)","&HFFFF00""
+  <Catalog>
+    <col0>Va</col0>
+    <col1>Vargr (general designation)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vb","Bian I'Vargr (Privateer worlds)","&HFFFF00""
+  <Catalog>
+    <col0>Vb</col0>
+    <col1>Bian I'Vargr (Privateer worlds)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vd","Dzen Aeng Kho (Society of Equals)","&HFFFF00""
+  <Catalog>
+    <col0>Vd</col0>
+    <col1>Dzen Aeng Kho (Society of Equals)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ve","Vegan Autonomous District","&HFFFF00""
+  <Catalog>
+    <col0>Ve</col0>
+    <col1>Vegan Autonomous District</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vf","Dzarrgh Federate","&HFFFF00""
+  <Catalog>
+    <col0>Vf</col0>
+    <col1>Dzarrgh Federate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vg","Vaenggvae (Corridor)","&HFFFF00""
+  <Catalog>
+    <col0>Vg</col0>
+    <col1>Vaenggvae (Corridor)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vh","The Irrgh Manifest","&HFFFF00""
+  <Catalog>
+    <col0>Vh</col0>
+    <col1>The Irrgh Manifest</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vi","Vargr/Imperial Client State","&HFFFF00""
+  <Catalog>
+    <col0>Vi</col0>
+    <col1>Vargr/Imperial Client State</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vk","Kedzuth Aeng(Commonality Kedzuth)","&HFFFF00""
+  <Catalog>
+    <col0>Vk</col0>
+    <col1>Kedzuth Aeng(Commonality Kedzuth)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vn","Rukh Aegz (Worlds of Leader Rukh)","&HFFFF00""
+  <Catalog>
+    <col0>Vn</col0>
+    <col1>Rukh Aegz (Worlds of Leader Rukh)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vo","Oudzvuez (Vargr League of Worlds)","&HFFFF00""
+  <Catalog>
+    <col0>Vo</col0>
+    <col1>Oudzvuez (Vargr League of Worlds)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vp","Thirz Uerra (Thirz Empire)","&HFFFF00""
+  <Catalog>
+    <col0>Vp</col0>
+    <col1>Thirz Uerra (Thirz Empire)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vr","Gnoerrgh Rukh Lloell (Anti-Rukh)","&HFFFF00""
+  <Catalog>
+    <col0>Vr</col0>
+    <col1>Gnoerrgh Rukh Lloell (Anti-Rukh)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vs","Saeknouth Igz (Saeknouth Dpdcy)","&HFFFF00""
+  <Catalog>
+    <col0>Vs</col0>
+    <col1>Saeknouth Igz (Saeknouth Dpdcy)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vt","Thoengling Reghz (Thoengling Emp)","&HFFFF00""
+  <Catalog>
+    <col0>Vt</col0>
+    <col1>Thoengling Reghz (Thoengling Emp)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vu","Urukhu (Nation of Urukhu)","&HFFFF00""
+  <Catalog>
+    <col0>Vu</col0>
+    <col1>Urukhu (Nation of Urukhu)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Zc","Colonnade Administrative District","&HFFFF00""
+  <Catalog>
+    <col0>Zc</col0>
+    <col1>Colonnade Administrative District</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Zh","Zhodani Consulate","&HFFFF00""
+  <Catalog>
+    <col0>Zh</col0>
+    <col1>Zhodani Consulate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Zv","Zhodani Vargr Client State","&HFFFF00""
+  <Catalog>
+    <col0>Zv</col0>
+    <col1>Zhodani Vargr Client State</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""dA","Daraar Corporation","&HFFFF00""
+  <Catalog>
+    <col0>dA</col0>
+    <col1>Daraar Corporation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""dC","Carillian Assembly","&HFFFF00""
+  <Catalog>
+    <col0>dC</col0>
+    <col1>Carillian Assembly</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""dD","Confederation of Duncinae","&HFFFF00""
+  <Catalog>
+    <col0>dD</col0>
+    <col1>Confederation of Duncinae</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""vg","Gaerr Thue (Pact of Gaerr)","&HFFFF00""
+  <Catalog>
+    <col0>vg</col0>
+    <col1>Gaerr Thue (Pact of Gaerr)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Sd","Slater's Deep","&HFFFF00""
+  <Catalog>
+    <col0>Sd</col0>
+    <col1>Slater's Deep</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ma","Margaret","&HFFFF00""
+  <Catalog>
+    <col0>Ma</col0>
+    <col1>Margaret</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""V6","Assemblage of 1116","&HFFFF00""
+  <Catalog>
+    <col0>V6</col0>
+    <col1>Assemblage of 1116</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""V8","Council of the Four-Pair","&HFFFF00""
+  <Catalog>
+    <col0>V8</col0>
+    <col1>Council of the Four-Pair</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ui","Uninhabited","&HFFFF00""
+  <Catalog>
+    <col0>Ui</col0>
+    <col1>Uninhabited</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Qu","Nomarac Alliance","&HFFFF00""
+  <Catalog>
+    <col0>Qu</col0>
+    <col1>Nomarac Alliance</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Cv","Unknown - Lishun","&HFFFF00""
+  <Catalog>
+    <col0>Cv</col0>
+    <col1>Unknown - Lishun</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""V1","Unknown (Lishun)","&HFFFF00""
+  <Catalog>
+    <col0>V1</col0>
+    <col1>Unknown (Lishun)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vv","Unknown - Lishun","&HFFFF00""
+  <Catalog>
+    <col0>Vv</col0>
+    <col1>Unknown - Lishun</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vx","Unknown - Lishun","&HFFFF00""
+  <Catalog>
+    <col0>Vx</col0>
+    <col1>Unknown - Lishun</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Hl","Julian Prot. (Lorean Hegem.)","&HFFFF00""
+  <Catalog>
+    <col0>Hl</col0>
+    <col1>Julian Prot. (Lorean Hegem.)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""**","**** NOT MATCHED! ****","&HFFFF00""
+  <Catalog>
+    <col0>**</col0>
+    <col1>**** NOT MATCHED! ****</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""J-","Julian Prot. (Unincorporated)","&HFFFF00""
+  <Catalog>
+    <col0>J-</col0>
+    <col1>Julian Prot. (Unincorporated)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ja","Julian Prot. (Asimikigir Confed.)","&HFFFF00""
+  <Catalog>
+    <col0>Ja</col0>
+    <col1>Julian Prot. (Asimikigir Confed.)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jc","Julian Prot. (Const. of Koekhon)","&HFFFF00""
+  <Catalog>
+    <col0>Jc</col0>
+    <col1>Julian Prot. (Const. of Koekhon)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jh","Julian Prot. (Hhkar Sphere)","&HFFFF00""
+  <Catalog>
+    <col0>Jh</col0>
+    <col1>Julian Prot. (Hhkar Sphere)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jp","Julian Prot. (Pirbarish Starlane)","&HFFFF00""
+  <Catalog>
+    <col0>Jp</col0>
+    <col1>Julian Prot. (Pirbarish Starlane)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Vw","Julian Prot. (Rar Errall/Wolves W.)","&HFFFF00""
+  <Catalog>
+    <col0>Vw</col0>
+    <col1>Julian Prot. (Rar Errall/Wolves W.)</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ga","Galian Federation","&HFFFF00""
+  <Catalog>
+    <col0>Ga</col0>
+    <col1>Galian Federation</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ho","Hochiken People's Assembly","&HFFFF00""
+  <Catalog>
+    <col0>Ho</col0>
+    <col1>Hochiken People's Assembly</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Me","Megusard Corporate","&HFFFF00""
+  <Catalog>
+    <col0>Me</col0>
+    <col1>Megusard Corporate</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Pl","Plavian League","&HFFFF00""
+  <Catalog>
+    <col0>Pl</col0>
+    <col1>Plavian League</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Re","Renkard Union","&HFFFF00""
+  <Catalog>
+    <col0>Re</col0>
+    <col1>Renkard Union</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Tr","Trindel Confederacy","&HFFFF00""
+  <Catalog>
+    <col0>Tr</col0>
+    <col1>Trindel Confederacy</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Tb","Trita Brotherhood","&HFFFF00""
+  <Catalog>
+    <col0>Tb</col0>
+    <col1>Trita Brotherhood</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Jn","Juristiction of Nadon","&HFFFF00""
+  <Catalog>
+    <col0>Jn</col0>
+    <col1>Juristiction of Nadon</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Mu","Malorn Union","&HFFFF00""
+  <Catalog>
+    <col0>Mu</col0>
+    <col1>Malorn Union</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Of","Oleaiy'fte","&HFFFF00""
+  <Catalog>
+    <col0>Of</col0>
+    <col1>Oleaiy'fte</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Al","Alto/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Al</col0>
+    <col1>Alto/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Au","Austa/Imperial","&HFFFF00""
+  <Catalog>
+    <col0>Au</col0>
+    <col1>Austa/Imperial</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Bl","Blackjack/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Bl</col0>
+    <col1>Blackjack/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Bo","Bobbo/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Bo</col0>
+    <col1>Bobbo/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""De","Deriabar/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>De</col0>
+    <col1>Deriabar/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ek","Ekar/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Ek</col0>
+    <col1>Ekar/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Et","Ethlum/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Et</col0>
+    <col1>Ethlum/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Gu","Gursky/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Gu</col0>
+    <col1>Gursky/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Ha","Hachiman/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Ha</col0>
+    <col1>Hachiman/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""He","Hessoun/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>He</col0>
+    <col1>Hessoun/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Hr","Harpring/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Hr</col0>
+    <col1>Harpring/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Kl","Kline/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Kl</col0>
+    <col1>Kline/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Lg","Landgrebe/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Lg</col0>
+    <col1>Landgrebe/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+""Mi","Minsk/Solomani","&HFFFF00""
+  <Catalog>
+    <col0>Mi</col0>
+    <col1>Minsk/Solomani</col1>
+    <col2>&HFFFF00</col2>
+  </Catalog>
+ 
+</Catalogs>

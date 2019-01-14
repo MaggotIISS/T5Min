@@ -1,0 +1,4 @@
+//	TechnicalServices-0.txt
+lines.gif
+tec.gif c c replace
+TechnicalServices-0.gif

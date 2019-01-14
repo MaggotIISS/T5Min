@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="5fw-atmmodbak.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Atmosphere","Modifier""
+""Breathable","0""
+  <Catalog>
+    <col0>Breathable</col0>
+    <col1>0</col1>
+  </Catalog>
+ 
+""Tainted/Hostile","-1""
+  <Catalog>
+    <col0>Tainted/Hostile</col0>
+    <col1>-1</col1>
+  </Catalog>
+ 
+""Vacuum","-2""
+  <Catalog>
+    <col0>Vacuum</col0>
+    <col1>-2</col1>
+  </Catalog>
+ 
+</Catalogs>

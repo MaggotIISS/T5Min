@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="NIL.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Pop","Atm","TL","Comment","Note"
+"7+","2-9","1+","Intelligent life evolved on this world","Natives"
+  <Catalog>
+    <col0>7</col0>
+    <col1>2-9</col1>
+    <col2>1</col2>
+    <col3>Intelligent life evolved on this world</col3>
+    <col4>Natives</col4>
+  </Catalog>
+ 
+"7+","A+","1+","Local intelligent life incompatible with human enviroments","Exotics"
+  <Catalog>
+    <col0>7</col0>
+    <col1>A</col1>
+    <col2>1</col2>
+    <col3>Local intelligent life incompatible with human enviroments</col3>
+    <col4>Exotics</col4>
+  </Catalog>
+ 
+"7+","0-1","1+","Sophonts evolved elsewhere and settled here years ago","Transplants"
+  <Catalog>
+    <col0>7</col0>
+    <col1>0-1</col1>
+    <col2>1</col2>
+    <col3>Sophonts evolved elsewhere and settled here years ago</col3>
+    <col4>Transplants</col4>
+  </Catalog>
+ 
+"0","2+","1+","Intelligent life evolved on this world, but is now extinct","Extinct"
+  <Catalog>
+    <col0>0</col0>
+    <col1>2</col1>
+    <col2>1</col2>
+    <col3>Intelligent life evolved on this world, but is now extinct</col3>
+    <col4>Extinct</col4>
+  </Catalog>
+ 
+"0","0-1","1+","Evidence of Transplants, but are no longer present","Vanished"
+  <Catalog>
+    <col0>0</col0>
+    <col1>0-1</col1>
+    <col2>1</col2>
+    <col3>Evidence of Transplants, but are no longer present</col3>
+    <col4>Vanished</col4>
+  </Catalog>
+ 
+"1-3","","","Non permanent commercial or scientific activity","Transients"
+  <Catalog>
+    <col0>1-3</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>Non permanent commercial or scientific activity</col3>
+    <col4>Transients</col4>
+  </Catalog>
+ 
+"4-6","","","The initial steps of creating a colony","Settlers"
+  <Catalog>
+    <col0>4-6</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>The initial steps of creating a colony</col3>
+    <col4>Settlers</col4>
+  </Catalog>
+ 
+</Catalogs>

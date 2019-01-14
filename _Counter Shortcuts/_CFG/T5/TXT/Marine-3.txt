@@ -1,0 +1,6 @@
+//	Marine-3.txt
+#MARINE  FF FF FF
+lines.gif
+box.gif c c FFFFFF
+MARINE 1 1 35 H 000000
+Marine-3.gif

@@ -1,0 +1,10 @@
+//	GaussPistol4-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+Pistol.gif c c 000000
+GaussPistol4 2 1 35 H 000000
+TL10 50 1 35 H 000000
+15.8.-1 2 7 35 H 000000
+6D.2 2 13 35 H 000000
+GaussPistol4-0.gif

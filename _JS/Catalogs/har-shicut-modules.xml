@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-shicut-modules.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Module","Payload","LWgt","Cargo DT","HP","Occ","Plans""
+""BOARDING/12","50","294","5","24000","24","66""
+  <Catalog>
+    <col0>BOARDING/12</col0>
+    <col1>50</col1>
+    <col2>294</col2>
+    <col3>5</col3>
+    <col4>24000</col4>
+    <col5>24</col5>
+    <col6>66</col6>
+  </Catalog>
+ 
+""CARGO","120","144","24","6000","0","68""
+  <Catalog>
+    <col0>CARGO</col0>
+    <col1>120</col1>
+    <col2>144</col2>
+    <col3>24</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>68</col6>
+  </Catalog>
+ 
+""CARGO_ADV/12","","202","24","6000","0","68""
+  <Catalog>
+    <col0>CARGO_ADV/12</col0>
+    <col1></col1>
+    <col2>202</col2>
+    <col3>24</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>68</col6>
+  </Catalog>
+ 
+""CARGO_ARM/12","","287","24","6000","0","68""
+  <Catalog>
+    <col0>CARGO_ARM/12</col0>
+    <col1></col1>
+    <col2>287</col2>
+    <col3>24</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>68</col6>
+  </Catalog>
+ 
+""CARGO_STE/12","","166","24","6000","0","68""
+  <Catalog>
+    <col0>CARGO_STE/12</col0>
+    <col1></col1>
+    <col2>166</col2>
+    <col3>24</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>68</col6>
+  </Catalog>
+ 
+""STARPORT_I","18","66","4","6000","0","69""
+  <Catalog>
+    <col0>STARPORT_I</col0>
+    <col1>18</col1>
+    <col2>66</col2>
+    <col3>4</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>69</col6>
+  </Catalog>
+ 
+""CUSTOMS","30","87","6","6000","1","72""
+  <Catalog>
+    <col0>CUSTOMS</col0>
+    <col1>30</col1>
+    <col2>87</col2>
+    <col3>6</col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>72</col6>
+  </Catalog>
+ 
+""ECM/12","10","170","2","6000","4","73""
+  <Catalog>
+    <col0>ECM/12</col0>
+    <col1>10</col1>
+    <col2>170</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>4</col5>
+    <col6>73</col6>
+  </Catalog>
+ 
+""EXPANDABLE_BASE","20","119","4","6000","14","74""
+  <Catalog>
+    <col0>EXPANDABLE_BASE</col0>
+    <col1>20</col1>
+    <col2>119</col2>
+    <col3>4</col3>
+    <col4>6000</col4>
+    <col5>14</col5>
+    <col6>74</col6>
+  </Catalog>
+ 
+""FAST_COURIER/12","40","176","8","6000","13","75""
+  <Catalog>
+    <col0>FAST_COURIER/12</col0>
+    <col1>40</col1>
+    <col2>176</col2>
+    <col3>8</col3>
+    <col4>6000</col4>
+    <col5>13</col5>
+    <col6>75</col6>
+  </Catalog>
+ 
+""FIGHTER_POD","72","117","3","6000","2","76""
+  <Catalog>
+    <col0>FIGHTER_POD</col0>
+    <col1>72</col1>
+    <col2>117</col2>
+    <col3>3</col3>
+    <col4>6000</col4>
+    <col5>2</col5>
+    <col6>76</col6>
+  </Catalog>
+ 
+""FIGHTER_POD/12","","","3","6000","2","76""
+  <Catalog>
+    <col0>FIGHTER_POD/12</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3</col3>
+    <col4>6000</col4>
+    <col5>2</col5>
+    <col6>76</col6>
+  </Catalog>
+ 
+""FIRE-FIGHTER","354","385","25","6000/1200","1","77""
+  <Catalog>
+    <col0>FIRE-FIGHTER</col0>
+    <col1>354</col1>
+    <col2>385</col2>
+    <col3>25</col3>
+    <col4>6000/1200</col4>
+    <col5>1</col5>
+    <col6>77</col6>
+  </Catalog>
+ 
+""FUEL_SKIMMER","","55","-22","6000","0","78""
+  <Catalog>
+    <col0>FUEL_SKIMMER</col0>
+    <col1></col1>
+    <col2>55</col2>
+    <col3>-22</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>78</col6>
+  </Catalog>
+ 
+""FUEL_SKIMMER_ADV/12","","113","-22","6000","0","78""
+  <Catalog>
+    <col0>FUEL_SKIMMER_ADV/12</col0>
+    <col1></col1>
+    <col2>113</col2>
+    <col3>-22</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>78</col6>
+  </Catalog>
+ 
+""FUEL_SKIMMER_ARM/12","","198","-22","6000","0","78""
+  <Catalog>
+    <col0>FUEL_SKIMMER_ARM/12</col0>
+    <col1></col1>
+    <col2>198</col2>
+    <col3>-22</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>78</col6>
+  </Catalog>
+ 
+""FUEL_SKIMMER_STE/12","","77","-22","6000","0","78""
+  <Catalog>
+    <col0>FUEL_SKIMMER_STE/12</col0>
+    <col1></col1>
+    <col2>77</col2>
+    <col3>-22</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>78</col6>
+  </Catalog>
+ 
+""GARAGE","80","118","9","6000","0","79""
+  <Catalog>
+    <col0>GARAGE</col0>
+    <col1>80</col1>
+    <col2>118</col2>
+    <col3>9</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>79</col6>
+  </Catalog>
+ 
+""GARAGE_ADV/12","80","176","9","6000","0","79""
+  <Catalog>
+    <col0>GARAGE_ADV/12</col0>
+    <col1>80</col1>
+    <col2>176</col2>
+    <col3>9</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>79</col6>
+  </Catalog>
+ 
+""GARAGE_ARM/12","","260","9","6000","0","79""
+  <Catalog>
+    <col0>GARAGE_ARM/12</col0>
+    <col1></col1>
+    <col2>260</col2>
+    <col3>9</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>79</col6>
+  </Catalog>
+ 
+""GARAGE_STE/12","","140","9","6000","0","79""
+  <Catalog>
+    <col0>GARAGE_STE/12</col0>
+    <col1></col1>
+    <col2>140</col2>
+    <col3>9</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>79</col6>
+  </Catalog>
+ 
+""LOUNGE","10","50","2","6000","0","94""
+  <Catalog>
+    <col0>LOUNGE</col0>
+    <col1>10</col1>
+    <col2>50</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>94</col6>
+  </Catalog>
+ 
+""LUXURY_PASSENGER","50","91","10","6000","2","86""
+  <Catalog>
+    <col0>LUXURY_PASSENGER</col0>
+    <col1>50</col1>
+    <col2>91</col2>
+    <col3>10</col3>
+    <col4>6000</col4>
+    <col5>2</col5>
+    <col6>86</col6>
+  </Catalog>
+ 
+""LUXURY_QUARTERS","20","65","4","6000","2","87""
+  <Catalog>
+    <col0>LUXURY_QUARTERS</col0>
+    <col1>20</col1>
+    <col2>65</col2>
+    <col3>4</col3>
+    <col4>6000</col4>
+    <col5>2</col5>
+    <col6>87</col6>
+  </Catalog>
+ 
+""MARINE_COMMAND","2","278","0","24000","10","88""
+  <Catalog>
+    <col0>MARINE_COMMAND</col0>
+    <col1>2</col1>
+    <col2>278</col2>
+    <col3>0</col3>
+    <col4>24000</col4>
+    <col5>10</col5>
+    <col6>88</col6>
+  </Catalog>
+ 
+""MEDEVAC","62","67","1","6000","108","90""
+  <Catalog>
+    <col0>MEDEVAC</col0>
+    <col1>62</col1>
+    <col2>67</col2>
+    <col3>1</col3>
+    <col4>6000</col4>
+    <col5>108</col5>
+    <col6>90</col6>
+  </Catalog>
+ 
+""MEDICAL","30","80","6","6000","3","91""
+  <Catalog>
+    <col0>MEDICAL</col0>
+    <col1>30</col1>
+    <col2>80</col2>
+    <col3>6</col3>
+    <col4>6000</col4>
+    <col5>3</col5>
+    <col6>91</col6>
+  </Catalog>
+ 
+""MINING","125","184","25","6000","0","92""
+  <Catalog>
+    <col0>MINING</col0>
+    <col1>125</col1>
+    <col2>184</col2>
+    <col3>25</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>92</col6>
+  </Catalog>
+ 
+""NUCLEAR_DAMPER","10","278","2","24000","4","93""
+  <Catalog>
+    <col0>NUCLEAR_DAMPER</col0>
+    <col1>10</col1>
+    <col2>278</col2>
+    <col3>2</col3>
+    <col4>24000</col4>
+    <col5>4</col5>
+    <col6>93</col6>
+  </Catalog>
+ 
+""PASSENGER","95","125","19","6000","49","95""
+  <Catalog>
+    <col0>PASSENGER</col0>
+    <col1>95</col1>
+    <col2>125</col2>
+    <col3>19</col3>
+    <col4>6000</col4>
+    <col5>49</col5>
+    <col6>95</col6>
+  </Catalog>
+ 
+""PASSENGER_ADV/12","","183","19","6000","49","95""
+  <Catalog>
+    <col0>PASSENGER_ADV/12</col0>
+    <col1></col1>
+    <col2>183</col2>
+    <col3>19</col3>
+    <col4>6000</col4>
+    <col5>49</col5>
+    <col6>95</col6>
+  </Catalog>
+ 
+""PASSENGER_ARM/12","","265","19","6000","49","95""
+  <Catalog>
+    <col0>PASSENGER_ARM/12</col0>
+    <col1></col1>
+    <col2>265</col2>
+    <col3>19</col3>
+    <col4>6000</col4>
+    <col5>49</col5>
+    <col6>95</col6>
+  </Catalog>
+ 
+""PASSENGER_STE/12","","147","19","6000","49","95""
+  <Catalog>
+    <col0>PASSENGER_STE/12</col0>
+    <col1></col1>
+    <col2>147</col2>
+    <col3>19</col3>
+    <col4>6000</col4>
+    <col5>49</col5>
+    <col6>95</col6>
+  </Catalog>
+ 
+""PLANETARY_INFRASTRUCTURE","10","108","2","6000","7","96""
+  <Catalog>
+    <col0>PLANETARY_INFRASTRUCTURE</col0>
+    <col1>10</col1>
+    <col2>108</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>7</col5>
+    <col6>96</col6>
+  </Catalog>
+ 
+""RECOVERY","200","254","","6000","1","100""
+  <Catalog>
+    <col0>RECOVERY</col0>
+    <col1>200</col1>
+    <col2>254</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>100</col6>
+  </Catalog>
+ 
+""RECREATION","8","32","2","6000","0","101""
+  <Catalog>
+    <col0>RECREATION</col0>
+    <col1>8</col1>
+    <col2>32</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>101</col6>
+  </Catalog>
+ 
+""SAFARI","61","87","7","6000","0","102""
+  <Catalog>
+    <col0>SAFARI</col0>
+    <col1>61</col1>
+    <col2>87</col2>
+    <col3>7</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>102</col6>
+  </Catalog>
+ 
+""SMALL_CRAFT_BAY","84","109","2","6000","0","107""
+  <Catalog>
+    <col0>SMALL_CRAFT_BAY</col0>
+    <col1>84</col1>
+    <col2>109</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>107</col6>
+  </Catalog>
+ 
+""THEATRE","10","52","2","6000","100","110""
+  <Catalog>
+    <col0>THEATRE</col0>
+    <col1>10</col1>
+    <col2>52</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>100</col5>
+    <col6>110</col6>
+  </Catalog>
+ 
+""TROOP_TRANSPORT","30","137","6","6000","48","112""
+  <Catalog>
+    <col0>TROOP_TRANSPORT</col0>
+    <col1>30</col1>
+    <col2>137</col2>
+    <col3>6</col3>
+    <col4>6000</col4>
+    <col5>48</col5>
+    <col6>112</col6>
+  </Catalog>
+ 
+""TUGBOAT","12","299","2","6000","1","113""
+  <Catalog>
+    <col0>TUGBOAT</col0>
+    <col1>12</col1>
+    <col2>299</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>113</col6>
+  </Catalog>
+ 
+""VEHICLE_TRANSPORT","17","65","2","6000","0","114""
+  <Catalog>
+    <col0>VEHICLE_TRANSPORT</col0>
+    <col1>17</col1>
+    <col2>65</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>114</col6>
+  </Catalog>
+ 
+""MAGLEV","","","","6000","0","124""
+  <Catalog>
+    <col0>MAGLEV</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>0</col5>
+    <col6>124</col6>
+  </Catalog>
+ 
+""LASER","80","154","16","6000","1","115""
+  <Catalog>
+    <col0>LASER</col0>
+    <col1>80</col1>
+    <col2>154</col2>
+    <col3>16</col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""LASER-ADV/12","","209","","6000","1","115""
+  <Catalog>
+    <col0>LASER-ADV/12</col0>
+    <col1></col1>
+    <col2>209</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""ENERGY","80","161","16","6000","1","115""
+  <Catalog>
+    <col0>ENERGY</col0>
+    <col1>80</col1>
+    <col2>161</col2>
+    <col3>16</col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""ENERGY-ADV/12","","213","","6000","1","115""
+  <Catalog>
+    <col0>ENERGY-ADV/12</col0>
+    <col1></col1>
+    <col2>213</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""ENERGY-ARM/12","","298","","6000","1","115""
+  <Catalog>
+    <col0>ENERGY-ARM/12</col0>
+    <col1></col1>
+    <col2>298</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""MISSILE","80","153","16","6000","1","115""
+  <Catalog>
+    <col0>MISSILE</col0>
+    <col1>80</col1>
+    <col2>153</col2>
+    <col3>16</col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""MISSILE-ADV/12","","225","","6000","1","115""
+  <Catalog>
+    <col0>MISSILE-ADV/12</col0>
+    <col1></col1>
+    <col2>225</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""MISSILE-ARM/12","","310","","6000","1","115""
+  <Catalog>
+    <col0>MISSILE-ARM/12</col0>
+    <col1></col1>
+    <col2>310</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""SANDCASTER","80","144","16","6000","1","115""
+  <Catalog>
+    <col0>SANDCASTER</col0>
+    <col1>80</col1>
+    <col2>144</col2>
+    <col3>16</col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""SANDCASTER-ADV/12","","201","","6000","1","115""
+  <Catalog>
+    <col0>SANDCASTER-ADV/12</col0>
+    <col1></col1>
+    <col2>201</col2>
+    <col3></col3>
+    <col4>6000</col4>
+    <col5>1</col5>
+    <col6>115</col6>
+  </Catalog>
+ 
+""COMMAND","5","80","1","6000","10","117""
+  <Catalog>
+    <col0>COMMAND</col0>
+    <col1>5</col1>
+    <col2>80</col2>
+    <col3>1</col3>
+    <col4>6000</col4>
+    <col5>10</col5>
+    <col6>117</col6>
+  </Catalog>
+ 
+""COMMUNICATIONS","8","208","2","6000","6","119""
+  <Catalog>
+    <col0>COMMUNICATIONS</col0>
+    <col1>8</col1>
+    <col2>208</col2>
+    <col3>2</col3>
+    <col4>6000</col4>
+    <col5>6</col5>
+    <col6>119</col6>
+  </Catalog>
+ 
+</Catalogs>

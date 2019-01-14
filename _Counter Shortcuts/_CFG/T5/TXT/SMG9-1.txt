@@ -1,0 +1,12 @@
+//	SMG9-1.txt
+#####################
+# Submachineguns use GunsTL (LightAuto)
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+smg.gif c c 000000
+SMG9 2 1 35 H 000000
+TL7 50 1 35 H 000000
+32.10.-1 2 7 35 H 000000
+3d-1.1 2 13 35 H 000000
+SMG9-1.gif

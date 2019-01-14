@@ -1,0 +1,6 @@
+//	MD-0.txt
+#MD   
+lines.gif
+box.gif c c FF909F
+MD 1 1 35 H 000000
+MD-0.gif

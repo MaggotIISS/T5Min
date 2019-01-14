@@ -1,0 +1,3 @@
+Frame4DBView.loadFromFile(String
+Frame4DBView.names
+Frame4DBView.strings

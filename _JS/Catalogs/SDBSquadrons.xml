@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="SDBSquadrons.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- --------------------- ------ ------- ------ ----- -- - --- -- ---- ---------------
+"TL/Pop","7","8","9","A"
+"7","1","5","50","500"
+  <Catalog>
+    <col0>7</col0>
+    <col1>1</col1>
+    <col2>5</col2>
+    <col3>50</col3>
+    <col4>500</col4>
+  </Catalog>
+ 
+"8","1","5","50","500"
+  <Catalog>
+    <col0>8</col0>
+    <col1>1</col1>
+    <col2>5</col2>
+    <col3>50</col3>
+    <col4>500</col4>
+  </Catalog>
+ 
+"9","1","10","100","1000"
+  <Catalog>
+    <col0>9</col0>
+    <col1>1</col1>
+    <col2>10</col2>
+    <col3>100</col3>
+    <col4>1000</col4>
+  </Catalog>
+ 
+"A","1","10","100","1000"
+  <Catalog>
+    <col0>A</col0>
+    <col1>1</col1>
+    <col2>10</col2>
+    <col3>100</col3>
+    <col4>1000</col4>
+  </Catalog>
+ 
+"B","1","12","120","1200"
+  <Catalog>
+    <col0>B</col0>
+    <col1>1</col1>
+    <col2>12</col2>
+    <col3>120</col3>
+    <col4>1200</col4>
+  </Catalog>
+ 
+"C","1","12","120","1200"
+  <Catalog>
+    <col0>C</col0>
+    <col1>1</col1>
+    <col2>12</col2>
+    <col3>120</col3>
+    <col4>1200</col4>
+  </Catalog>
+ 
+"D","1","15","150","1500"
+  <Catalog>
+    <col0>D</col0>
+    <col1>1</col1>
+    <col2>15</col2>
+    <col3>150</col3>
+    <col4>1500</col4>
+  </Catalog>
+ 
+"E","1","15","150","1500"
+  <Catalog>
+    <col0>E</col0>
+    <col1>1</col1>
+    <col2>15</col2>
+    <col3>150</col3>
+    <col4>1500</col4>
+  </Catalog>
+ 
+"F","1","20","200","2000"
+  <Catalog>
+    <col0>F</col0>
+    <col1>1</col1>
+    <col2>20</col2>
+    <col3>200</col3>
+    <col4>2000</col4>
+  </Catalog>
+ 
+</Catalogs>

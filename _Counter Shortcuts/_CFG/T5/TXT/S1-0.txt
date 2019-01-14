@@ -1,0 +1,6 @@
+//	S1-0.txt
+#S1   
+lines.gif
+box.gif c c 60FF6F
+S1 1 1 35 H 000000
+S1-0.gif

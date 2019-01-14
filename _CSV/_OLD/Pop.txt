@@ -1,0 +1,19 @@
+Pop
+--------------------
+Digit	Description	Value	
+0	Unpopulated		
+1	Tens	0	
+2	Hundred	00	
+3	Thousand	,000	
+4	Ten thousand	0,000	
+5	Hundred thousand	00,000	
+6	Million	,000,000	
+7	Ten million	0,000,000	
+8	Hundred million	00,000,000	
+9	Billion	,000,000,000	
+A	Ten billion	0,000,000,000	
+B	Hundred billion	00,000,000,000	
+C	Trillion	,000,000,000,000	
+D	Ten trillion	0,000,000,000,000	
+E	Hundred trillion	00,000,000,000,0000	
+F	Quadrillion	,000,000,000,000,000	

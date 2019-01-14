@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="gt-jobs.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Status","Job","PR1","PR2","PR3","PR4","CR/MTH","EXTRA","SUCCESS","CRIT""
+""POOR","BOUNCER","ST10+","","","","400","","ST","LJ,4D/8D""
+  <Catalog>
+    <col0>POOR</col0>
+    <col1>BOUNCER</col1>
+    <col2>ST10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>400</col6>
+    <col7></col7>
+    <col8>ST</col8>
+    <col9>LJ,4D/8D</col9>
+  </Catalog>
+ 
+""POOR","STARPORT_PANHANDLER*","PANHANDLING","","","","300","","PR","1D/4D""
+  <Catalog>
+    <col0>POOR</col0>
+    <col1>STARPORT_PANHANDLER*</col1>
+    <col2>PANHANDLING</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>300</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1D/4D</col9>
+  </Catalog>
+ 
+""POOR","STREET_ENTERTAINER*","VARIOUS-10+","","","","50*SKILL","","PR","1I""
+  <Catalog>
+    <col0>POOR</col0>
+    <col1>STREET_ENTERTAINER*</col1>
+    <col2>VARIOUS-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>50*SKILL</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1I</col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""STRUGGLING","ACTOR*","ACTING-10+","","","","50*SKILL","","PR","1I/LJ,1D""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>ACTOR*</col1>
+    <col2>ACTING-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>50*SKILL</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1I/LJ,1D</col9>
+  </Catalog>
+ 
+""STRUGGLING","DOORMAN","ST10+,INTIMIDATION","","","","650","","PR","LJ,4D/8D""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>DOORMAN</col1>
+    <col2>ST10,INTIMIDATION</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>650</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>LJ,4D/8D</col9>
+  </Catalog>
+ 
+""STRUGGLING","GENERAL_LABOURER","ST10+","","","","550","","PR","1I/5D""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>GENERAL_LABOURER</col1>
+    <col2>ST10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>550</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1I/5D</col9>
+  </Catalog>
+ 
+""STRUGGLING","JOURNALIST","RESEARCH-12+","BARD/PHOTOG-12+","","","70*BPR","500XREP","BPR","2I/LJ,2D""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>JOURNALIST</col1>
+    <col2>RESEARCH-12</col2>
+    <col3>BARD/PHOTOG-12</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>70*BPR</col6>
+    <col7>500XREP</col7>
+    <col8>BPR</col8>
+    <col9>2I/LJ,2D</col9>
+  </Catalog>
+ 
+""STRUGGLING","MECH/TECH","MECH/TECH-12+","","","","120*SKILL","","PR","1I/1I,LJ,2D""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>MECH/TECH</col1>
+    <col2>MECH/TECH-12</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>120*SKILL</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1I/1I,LJ,2D</col9>
+  </Catalog>
+ 
+""STRUGGLING","ROADIE","ST10+","","","","650","","PR","1I/LJ""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>ROADIE</col1>
+    <col2>ST10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>650</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1I/LJ</col9>
+  </Catalog>
+ 
+""STRUGGLING","SALES_CLERK","MERCHANT-10+","","","","600","","PR+REACTION","LJ""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>SALES_CLERK</col1>
+    <col2>MERCHANT-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>600</col6>
+    <col7></col7>
+    <col8>PRREACTION</col8>
+    <col9>LJ</col9>
+  </Catalog>
+ 
+""STRUGGLING","SECURITY_GUARD","COMBAT-10+","ST10+","","","600","","PR","1I,LJ/LJ,4D""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>SECURITY_GUARD</col1>
+    <col2>COMBAT-10</col2>
+    <col3>ST10</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>600</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>1I,LJ/LJ,4D</col9>
+  </Catalog>
+ 
+""STRUGGLING","TRANSLATOR","2*LANGS-12+","","","","100*SKILL","","BPR-2","2I/3I,LJ""
+  <Catalog>
+    <col0>STRUGGLING</col0>
+    <col1>TRANSLATOR</col1>
+    <col2>2*LANGS-12</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*SKILL</col6>
+    <col7></col7>
+    <col8>BPR-2</col8>
+    <col9>2I/3I,LJ</col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""AVERAGE","BODYGUARD","ST11+","COMBAT-12+","","","90*IQ","","ST","1I,LJ/1I,LJ,4D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>BODYGUARD</col1>
+    <col2>ST11</col2>
+    <col3>COMBAT-12</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>90*IQ</col6>
+    <col7></col7>
+    <col8>ST</col8>
+    <col9>1I,LJ/1I,LJ,4D</col9>
+  </Catalog>
+ 
+""AVERAGE","LAB_ASSISTANT","COMP_OPS-10+","RESEARCH-11+","SCIENCE-10+","","100*WPR-6","","WPR","2I/LJ,2D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>LAB_ASSISTANT</col1>
+    <col2>COMP_OPS-10</col2>
+    <col3>RESEARCH-11</col3>
+    <col4>SCIENCE-10</col4>
+    <col5></col5>
+    <col6>100*WPR-6</col6>
+    <col7></col7>
+    <col8>WPR</col8>
+    <col9>2I/LJ,2D</col9>
+  </Catalog>
+ 
+""AVERAGE","TECH_WORKER","COMP_OPS-10+","RESEARCH-11+","SCIENCE-10+","","100*WPR-6","","WPR","2I/LJ,2D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>TECH_WORKER</col1>
+    <col2>COMP_OPS-10</col2>
+    <col3>RESEARCH-11</col3>
+    <col4>SCIENCE-10</col4>
+    <col5></col5>
+    <col6>100*WPR-6</col6>
+    <col7></col7>
+    <col8>WPR</col8>
+    <col9>2I/LJ,2D</col9>
+  </Catalog>
+ 
+""AVERAGE","LOCAL_LAW:PATROL","LAW_ENF-12+","STREETWISE-12+","CRIMINOLOGY-12+","","75*BPR","","WPR","3I,2D/LJ,4D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>LOCAL_LAW:PATROL</col1>
+    <col2>LAW_ENF-12</col2>
+    <col3>STREETWISE-12</col3>
+    <col4>CRIMINOLOGY-12</col4>
+    <col5></col5>
+    <col6>75*BPR</col6>
+    <col7></col7>
+    <col8>WPR</col8>
+    <col9>3I,2D/LJ,4D</col9>
+  </Catalog>
+ 
+""AVERAGE","LOW_LEVEL_SPY","FAST_TALK","RESEARCH","STEALTH","","100*WPR","","WPR","4D,LJ/JAIL""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>LOW_LEVEL_SPY</col1>
+    <col2>FAST_TALK</col2>
+    <col3>RESEARCH</col3>
+    <col4>STEALTH</col4>
+    <col5></col5>
+    <col6>100*WPR</col6>
+    <col7></col7>
+    <col8>WPR</col8>
+    <col9>4D,LJ/JAIL</col9>
+  </Catalog>
+ 
+""AVERAGE","MERCENARY_TROOPER","2*COMBAT-10+","","","","100*BPR","","BPR-2","2I,4D/8D,LJ""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>MERCENARY_TROOPER</col1>
+    <col2>2*COMBAT-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*BPR</col6>
+    <col7></col7>
+    <col8>BPR-2</col8>
+    <col9>2I,4D/8D,LJ</col9>
+  </Catalog>
+ 
+""AVERAGE","PRIVATE_DETECTIVE","LAW_ENF-12+","RESEARCH-12+","STREETWISE-12+","","75*BPR","","WPR","3I,2D/LJ,4D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>PRIVATE_DETECTIVE</col1>
+    <col2>LAW_ENF-12</col2>
+    <col3>RESEARCH-12</col3>
+    <col4>STREETWISE-12</col4>
+    <col5></col5>
+    <col6>75*BPR</col6>
+    <col7></col7>
+    <col8>WPR</col8>
+    <col9>3I,2D/LJ,4D</col9>
+  </Catalog>
+ 
+""AVERAGE","PROSPECTOR*","PROSPECTING-10+","","","","100*PR","","PR","3I,1D/LJ,3D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>PROSPECTOR*</col1>
+    <col2>PROSPECTING-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>3I,1D/LJ,3D</col9>
+  </Catalog>
+ 
+""AVERAGE","BELTER*","PROSPECTING-10+","","","","100*PR","","PR","3I,1D/LJ,3D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>BELTER*</col1>
+    <col2>PROSPECTING-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>3I,1D/LJ,3D</col9>
+  </Catalog>
+ 
+""AVERAGE","STARSHIP_CREW","STATUS-0+","SHIPBOARD-10+","","","80*PR","200*RNK/STATUS","PR","LJ,2D/LJ,8D""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>STARSHIP_CREW</col1>
+    <col2>STATUS-0</col2>
+    <col3>SHIPBOARD-10</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>80*PR</col6>
+    <col7>200*RNK/STATUS</col7>
+    <col8>PR</col8>
+    <col9>LJ,2D/LJ,8D</col9>
+  </Catalog>
+ 
+""AVERAGE","STUDIO_MUSICIAN","MUSICAL-10+","","","","100*PR","","PR","LJ""
+  <Catalog>
+    <col0>AVERAGE</col0>
+    <col1>STUDIO_MUSICIAN</col1>
+    <col2>MUSICAL-10</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>LJ</col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""COMFORTABLE","BACKUP_MUSICIAN","MUSICAL-12+","","","","100*PR","","PR","LJ""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>BACKUP_MUSICIAN</col1>
+    <col2>MUSICAL-12</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>LJ</col9>
+  </Catalog>
+ 
+""COMFORTABLE","BLACK_MARKETEER*","STREETWISE-12+","MERCHANT-10+","","","300*WPR","","PR","3I/5I,ARREST""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>BLACK_MARKETEER*</col1>
+    <col2>STREETWISE-12</col2>
+    <col3>MERCHANT-10</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>300*WPR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>3I/5I,ARREST</col9>
+  </Catalog>
+ 
+""COMFORTABLE","DOCTOR","PHYSICIAN-13+","STATUS-O+","","","350*PR","","PR","3I/10I,LOSE""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>DOCTOR</col1>
+    <col2>PHYSICIAN-13</col2>
+    <col3>STATUS-O</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>350*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>3I/10I,LOSE</col9>
+  </Catalog>
+ 
+""COMFORTABLE","ENGINEER","ENGINEER-12+","","","","200*PR","","PR","2I/4I,LJ""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>ENGINEER</col1>
+    <col2>ENGINEER-12</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>200*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>2I/4I,LJ</col9>
+  </Catalog>
+ 
+""COMFORTABLE","LAWER","","","","","","","","""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>LAWER</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""COMFORTABLE","LOCAL_LAW-DETECTIVE","STATUS-0+","LAW_ENF-12+","STREETWISE-12+","CRIMINOLOGY0-12+","75*BPR","10*STATUS","WPR","4D,LJ/JAILED""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>LOCAL_LAW-DETECTIVE</col1>
+    <col2>STATUS-0</col2>
+    <col3>LAW_ENF-12</col3>
+    <col4>STREETWISE-12</col4>
+    <col5>CRIMINOLOGY0-12</col5>
+    <col6>75*BPR</col6>
+    <col7>10*STATUS</col7>
+    <col8>WPR</col8>
+    <col9>4D,LJ/JAILED</col9>
+  </Catalog>
+ 
+""COMFORTABLE","MID_LEVEL_SPY","DIPLOMACY","INTEL_ANALYSIS","RESEARCH","","375","","WPR","6I/LJ""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>MID_LEVEL_SPY</col1>
+    <col2>DIPLOMACY</col2>
+    <col3>INTEL_ANALYSIS</col3>
+    <col4>RESEARCH</col4>
+    <col5></col5>
+    <col6>375</col6>
+    <col7></col7>
+    <col8>WPR</col8>
+    <col9>6I/LJ</col9>
+  </Catalog>
+ 
+""COMFORTABLE","MERCENARY_OFFICER","RANK-1+","COMBAT-10+","LEADERSHIP-10+","TACTICS-10+","100*PR","10*RANK/STATUS","BPR-2","2I,4D/8D,LJ""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>MERCENARY_OFFICER</col1>
+    <col2>RANK-1</col2>
+    <col3>COMBAT-10</col3>
+    <col4>LEADERSHIP-10</col4>
+    <col5>TACTICS-10</col5>
+    <col6>100*PR</col6>
+    <col7>10*RANK/STATUS</col7>
+    <col8>BPR-2</col8>
+    <col9>2I,4D/8D,LJ</col9>
+  </Catalog>
+ 
+""COMFORTABLE","SCIENTIST","COMP_OP-12+","RESEARCH-13+","SCIENCE-14+","","300*SCIENCE","","","2I/LJ,2D""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>SCIENTIST</col1>
+    <col2>COMP_OP-12</col2>
+    <col3>RESEARCH-13</col3>
+    <col4>SCIENCE-14</col4>
+    <col5></col5>
+    <col6>300*SCIENCE</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2I/LJ,2D</col9>
+  </Catalog>
+ 
+""COMFORTABLE","STARSHIP_OFFICER","RANK-1+","LEADERSHIP-10+","SHIPBOARD-10+","","100*SKILL","200*RANK/STATUS","PR","LJ,2D/LJ,8D""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>STARSHIP_OFFICER</col1>
+    <col2>RANK-1</col2>
+    <col3>LEADERSHIP-10</col3>
+    <col4>SHIPBOARD-10</col4>
+    <col5></col5>
+    <col6>100*SKILL</col6>
+    <col7>200*RANK/STATUS</col7>
+    <col8>PR</col8>
+    <col9>LJ,2D/LJ,8D</col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""WEALTHY","MAJOR_STOCKHOLDER","VERY_WEALTHY+","","","","50000","","10","2I/5I,-1WLTH,2D""
+  <Catalog>
+    <col0>WEALTHY</col0>
+    <col1>MAJOR_STOCKHOLDER</col1>
+    <col2>VERY_WEALTHY</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>50000</col6>
+    <col7></col7>
+    <col8>10</col8>
+    <col9>2I/5I,-1WLTH,2D</col9>
+  </Catalog>
+ 
+""WEALTHY","REMITTANCE_MAN","STATUS-2+","","","","12000*STATUS","","IQ+STATUS","LJ**""
+  <Catalog>
+    <col0>WEALTHY</col0>
+    <col1>REMITTANCE_MAN</col1>
+    <col2>STATUS-2</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>12000*STATUS</col6>
+    <col7></col7>
+    <col8>IQSTATUS</col8>
+    <col9>LJ**</col9>
+  </Catalog>
+ 
+""WEALTHY","ROCK_STAR","STATUS-2+","PERFORMANCE-12+","","","1500*STATUS","","PR","LJ***""
+  <Catalog>
+    <col0>WEALTHY</col0>
+    <col1>ROCK_STAR</col1>
+    <col2>STATUS-2</col2>
+    <col3>PERFORMANCE-12</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>1500*STATUS</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>LJ***</col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","ASLAN","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>ASLAN</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""COMFORTABLE","FTEIRKO(M)","PHILOSOPHY-14+ OR","THEOLOGY-14+","","","100*PR","","PR","-2I/-5I,LJ,2D""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>FTEIRKO(M)</col1>
+    <col2>PHILOSOPHY-14 OR</col2>
+    <col3>THEOLOGY-14</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>-2I/-5I,LJ,2D</col9>
+  </Catalog>
+ 
+""COMFORTABLE","EARLEATRAIS(M)","DIPLOMACY-14+ OR","PHOLOSOPH-14+ OR","THEOLOGY-14+","STATUS-1+","300*PR","","PR","-2I,LJ,2D""
+  <Catalog>
+    <col0>COMFORTABLE</col0>
+    <col1>EARLEATRAIS(M)</col1>
+    <col2>DIPLOMACY-14 OR</col2>
+    <col3>PHOLOSOPH-14 OR</col3>
+    <col4>THEOLOGY-14</col4>
+    <col5>STATUS-1</col5>
+    <col6>300*PR</col6>
+    <col7></col7>
+    <col8>PR</col8>
+    <col9>-2I,LJ,2D</col9>
+  </Catalog>
+ 
+""WEALTHY","AIHOHO_SIYLAKHT(F)","","","","","100*SKILL","200*STATUS","PR","""
+  <Catalog>
+    <col0>WEALTHY</col0>
+    <col1>AIHOHO_SIYLAKHT(F)</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>100*SKILL</col6>
+    <col7>200*STATUS</col7>
+    <col8>PR</col8>
+    <col9></col9>
+  </Catalog>
+ 
+</Catalogs>

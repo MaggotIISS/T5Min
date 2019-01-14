@@ -1,0 +1,7 @@
+//	OST-0.txt
+#   
+#OST   
+lines.gif
+box.gif c c 6F38A0
+OST 1 1 35 H 000000
+OST-0.gif

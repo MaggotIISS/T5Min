@@ -1,0 +1,6 @@
+STAR
+    Col
+    Size
+    Type
+    Companion
+  

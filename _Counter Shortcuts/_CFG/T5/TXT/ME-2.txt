@@ -1,0 +1,6 @@
+//	ME-2.txt
+#ME   
+lines.gif
+box.gif c c FFB0BF
+ME 1 1 35 H 000000
+ME-2.gif

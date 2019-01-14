@@ -1,0 +1,2189 @@
+//=============================================================================
+
+
+	ALPHA CRUCIS
+	http://wiki.travellerrpg.com/Alpha_Crucis_Sector
+
+A Ximenes
+http://wiki.travellerrpg.com/Ximenes_Subsector
+http://wiki.travellerrpg.com/Wulfe_(world)
+
+B McKenzie
+http://wiki.travellerrpg.com/McKenzie_Subsector
+http://wiki.travellerrpg.com/Port_Royal_(AC_1506)_(world)
+
+C Dagir
+http://wiki.travellerrpg.com/Dagir_Subsector
+http://wiki.travellerrpg.com/Killbrouha_(world)
+
+D Alba
+http://wiki.travellerrpg.com/Alba_Subsector
+http://wiki.travellerrpg.com/White_(world)
+
+E Orichalc
+http://wiki.travellerrpg.com/Orichalc_Subsector
+http://wiki.travellerrpg.com/Summit_(AC_0716)_(world)
+
+F Auva
+http://wiki.travellerrpg.com/Auva_Subsector
+http://wiki.travellerrpg.com/Water_(AC_0912)_(world)
+
+G Oriah
+http://wiki.travellerrpg.com/Oriah_Subsector
+http://wiki.travellerrpg.com/Point_(AC_1919)_(world)
+
+H Fervore
+http://wiki.travellerrpg.com/Fervore_Subsector
+http://wiki.travellerrpg.com/Cyan_(AC_2613)_(world)
+
+I Denebola
+http://wiki.travellerrpg.com/Denebola_Subsector
+http://wiki.travellerrpg.com/Turin_(AC_0630)_(world)
+
+J Veracruz
+http://wiki.travellerrpg.com/Veracruz_Subsector
+http://wiki.travellerrpg.com/Truax_(world)
+
+K Vald
+http://wiki.travellerrpg.com/Vald_Subsector
+http://wiki.travellerrpg.com/Pesacce_(world)
+
+L Addison
+http://wiki.travellerrpg.com/Addison_Subsector
+http://wiki.travellerrpg.com/Duni_(world)
+
+M Ziusudra
+http://wiki.travellerrpg.com/Ziusudra_Subsector
+TBD
+
+N Regulus
+http://wiki.travellerrpg.com/Regulus_Subsector
+http://wiki.travellerrpg.com/Tino_(world)
+
+O New Holland
+http://wiki.travellerrpg.com/New_Holland_Subsector
+TBD
+
+P Galloway
+http://wiki.travellerrpg.com/Galloway_Subsector
+http://wiki.travellerrpg.com/New_Jakarta_(world)
+
+//=============================================================================
+
+
+	ANTARES
+	http://wiki.travellerrpg.com/Antares_Sector
+
+A Pelusium
+http://wiki.travellerrpg.com/Pelusium_Subsector
+http://wiki.travellerrpg.com/Uran_(world)
+
+B Ninik
+http://wiki.travellerrpg.com/Ninik_Subsector
+http://wiki.travellerrpg.com/Gumurlag_(world)
+
+C Dartho	
+http://wiki.travellerrpg.com/Dartho_Subsector
+http://wiki.travellerrpg.com/Nojityt_(world)
+
+D Oulduktak
+http://wiki.travellerrpg.com/Oulduktak_Subsector
+http://wiki.travellerrpg.com/Iim_(world)
+
+E Shurlarlem
+http://wiki.travellerrpg.com/Shurlarlem_Subsector
+http://wiki.travellerrpg.com/Ereshkigal_(world)
+
+F Sarar
+http://wiki.travellerrpg.com/Sarar_Subsector
+http://wiki.travellerrpg.com/Inbali_(world)
+
+G Gimgir
+http://wiki.travellerrpg.com/Gimgir_Subsector
+http://wiki.travellerrpg.com/Irale_(world)
+
+H Kiirkandin
+http://wiki.travellerrpg.com/Kiirkandin_Subsector
+http://wiki.travellerrpg.com/Vulno_(world)
+
+I Urunishu
+http://wiki.travellerrpg.com/Urunishu_Subsector
+http://wiki.travellerrpg.com/Taku_(world)
+
+J Uradnim
+http://wiki.travellerrpg.com/Uradnim_Subsector
+http://wiki.travellerrpg.com/Ishiishala_(world)
+
+K Antares
+http://wiki.travellerrpg.com/Antares_Subsector
+http://wiki.travellerrpg.com/Antares_(An_2421)_(world)
+
+L Mukusi
+http://wiki.travellerrpg.com/Mukusi_Subsector
+TBD
+
+M Urgusap
+http://wiki.travellerrpg.com/Urgusap_Subsector
+http://wiki.travellerrpg.com/Drim_(world)
+
+N Gaakish
+http://wiki.travellerrpg.com/Gaakish_Subsector
+http://wiki.travellerrpg.com/Shinar_(world)
+
+O Sakhag
+http://wiki.travellerrpg.com/Sakhag_Subsector
+http://wiki.travellerrpg.com/Naean_(world)
+
+P Celebes
+http://wiki.travellerrpg.com/Celebes_Subsector
+http://wiki.travellerrpg.com/Likarudig_(world)
+
+//=============================================================================
+
+
+	CORE
+	https://wiki.travellerrpg.com/Core_Sector
+	
+A Apge
+https://wiki.travellerrpg.com/Apge_Subsector
+https://wiki.travellerrpg.com/Apge_(world)
+
+B Perite
+https://wiki.travellerrpg.com/Perite_Subsector
+https://wiki.travellerrpg.com/Sirma_(world)
+
+C Ameros
+https://wiki.travellerrpg.com/Ameros_Subsector
+https://wiki.travellerrpg.com/Ameros_(world)
+
+D Shinkan
+https://wiki.travellerrpg.com/Shinkan_Subsector
+https://wiki.travellerrpg.com/Ninua_(world)
+
+E Sanches
+https://wiki.travellerrpg.com/Sanches_Subsector
+https://wiki.travellerrpg.com/Sanches_(world)
+
+F Mekee
+https://wiki.travellerrpg.com/Mekee_Subsector
+https://wiki.travellerrpg.com/Ushra_(world)
+
+G Core
+https://wiki.travellerrpg.com/Core_Subsector
+https://wiki.travellerrpg.com/Capital_(world)
+
+H Kaskii
+https://wiki.travellerrpg.com/Kaskii_Subsector
+https://wiki.travellerrpg.com/Kaskii_(world)
+
+I Bunkeria
+https://wiki.travellerrpg.com/Bunkeria_Subsector
+None
+
+J Cemplas
+https://wiki.travellerrpg.com/Cemplas_Subsector
+https://wiki.travellerrpg.com/Velpare_(world)
+
+K Chant
+https://wiki.travellerrpg.com/Chant_Subsector
+https://wiki.travellerrpg.com/Vvrin_(world)
+
+L Dingtra
+https://wiki.travellerrpg.com/Dingtra_Subsector
+https://wiki.travellerrpg.com/Kamsii_(world)
+
+M Cadion
+https://wiki.travellerrpg.com/Cadion_Subsector
+https://wiki.travellerrpg.com/Night_(Co_0839)_(world)
+
+N Ch'naar
+https://wiki.travellerrpg.com/Ch%27naar_Subsector
+https://wiki.travellerrpg.com/Aursis_(world)
+
+O Dunea
+https://wiki.travellerrpg.com/Dunea_Subsector
+https://wiki.travellerrpg.com/Uundizi_(world)
+
+P Saregon
+https://wiki.travellerrpg.com/Saregon_Subsector
+https://wiki.travellerrpg.com/Saregon_(world)
+
+//=============================================================================
+
+
+	CORRIDOR
+	https://wiki.travellerrpg.com/Corridor_Sector
+
+A Khouth
+https://wiki.travellerrpg.com/Khouth_Subsector
+https://wiki.travellerrpg.com/Khouth_(world)
+
+B Khukish
+https://wiki.travellerrpg.com/Khukish_Subsector
+https://wiki.travellerrpg.com/Khukish_(world)
+
+C Lemish
+https://wiki.travellerrpg.com/Lemish_Subsector
+https://wiki.travellerrpg.com/Lemish_Subsector
+
+D The Narrows
+https://wiki.travellerrpg.com/The_Narrows_Subsector
+https://wiki.travellerrpg.com/Narrows_Subsector
+
+E Ian
+https://wiki.travellerrpg.com/Ian_Subsector
+https://wiki.travellerrpg.com/Ian_(world)
+
+F Strand
+https://wiki.travellerrpg.com/Strand_Subsector
+https://wiki.travellerrpg.com/Strand_(world)
+
+G Naadi
+https://wiki.travellerrpg.com/Naadi_Subsector
+https://wiki.travellerrpg.com/Naadi_(world)
+
+H Uantil
+https://wiki.travellerrpg.com/Uantil_Subsector
+
+I Shush
+https://wiki.travellerrpg.com/Shush_Subsector
+
+J The Empty Void
+https://wiki.travellerrpg.com/The_Empty_Void_Subsector
+
+K Atu'l
+https://wiki.travellerrpg.com/Atu%27l_Subsector
+
+L Kivu
+https://wiki.travellerrpg.com/Kivu_Subsector
+
+M Two Worlds
+https://wiki.travellerrpg.com/Two_Worlds_Subsector
+
+N Ashishinipar
+https://wiki.travellerrpg.com/Ashishinipar_Subsector
+
+O Sinta
+https://wiki.travellerrpg.com/Sinta_Subsector
+https://wiki.travellerrpg.com/Sinta_(world)
+
+P Sashrakusha
+https://wiki.travellerrpg.com/Sashrakusha_Subsector
+https://wiki.travellerrpg.com/Sashrakusha_(world)
+
+//=============================================================================
+
+
+	DAGUDASHAAG
+	https://wiki.travellerrpg.com/Dagudashaag_Sector
+
+A Mimu
+https://wiki.travellerrpg.com/Mimu_Subsector
+https://wiki.travellerrpg.com/Mimu_(world)
+
+B Old Suns
+https://wiki.travellerrpg.com/Old_Suns_Subsector
+https://wiki.travellerrpg.com/Kimalad_(world)
+
+C Arnakhish
+https://wiki.travellerrpg.com/Arnakhish_Subsector
+https://wiki.travellerrpg.com/Likhukam_(world)
+
+D Iiradu
+https://wiki.travellerrpg.com/Iiradu_Subsector
+https://wiki.travellerrpg.com/Iiradu_(world)
+
+E Shallows
+https://wiki.travellerrpg.com/Shallows_Subsector
+https://wiki.travellerrpg.com/Diishalum_(world)
+
+F Ushra
+https://wiki.travellerrpg.com/Ushra_Subsector
+https://wiki.travellerrpg.com/Ushra_(world)
+
+G Khandi
+https://wiki.travellerrpg.com/Khandi_Subsector
+https://wiki.travellerrpg.com/Khandi_(world)
+
+H Kuriishe
+https://wiki.travellerrpg.com/Kuriishe_Subsector
+https://wiki.travellerrpg.com/Eraki_(world)
+
+I Zeda
+https://wiki.travellerrpg.com/Zeda_Subsector
+https://wiki.travellerrpg.com/Zeda_(world)
+
+J Remnants
+https://wiki.travellerrpg.com/Remnants_Subsector
+https://wiki.travellerrpg.com/Liikiir_(world)
+
+K Pact
+https://wiki.travellerrpg.com/Pact_Subsector
+https://wiki.travellerrpg.com/Medurma_(world)
+
+L Gadde
+https://wiki.travellerrpg.com/Gadde_Subsector
+https://wiki.travellerrpg.com/Collette_(world)
+
+M Bolivar
+https://wiki.travellerrpg.com/Bolivar_Subsector
+https://wiki.travellerrpg.com/Bolivar_(Da_0240)_(world)
+
+N Argi
+https://wiki.travellerrpg.com/Argi_Subsector
+https://wiki.travellerrpg.com/Argi_(world)
+
+O Sapphyre
+https://wiki.travellerrpg.com/Sapphyre_Subsector
+https://wiki.travellerrpg.com/Piileir_(world)
+
+P Laraa
+https://wiki.travellerrpg.com/Laraa_Subsector
+https://wiki.travellerrpg.com/Laraa_(world)
+
+//=============================================================================
+
+
+	DAIBEI
+	https://wiki.travellerrpg.com/Daibei_Sector
+
+A Edge (Da A)
+https://wiki.travellerrpg.com/Edge_(Da_A)_Subsector
+https://wiki.travellerrpg.com/Warinir_(world)	
+
+B Alun
+https://wiki.travellerrpg.com/Alun_Subsector
+https://wiki.travellerrpg.com/Diamond_Head_(world)
+
+C Standish
+https://wiki.travellerrpg.com/Standish_Subsector
+https://wiki.travellerrpg.com/Seddon_(world)
+
+D Iingar
+https://wiki.travellerrpg.com/Iingar_Subsector
+https://wiki.travellerrpg.com/Iinen_(world)
+
+E Woomera
+https://wiki.travellerrpg.com/Woomera_Subsector
+https://wiki.travellerrpg.com/Woomera_(Da_0114)_(world)
+
+F Outback
+https://wiki.travellerrpg.com/Outback_Subsector
+https://wiki.travellerrpg.com/Thebes_(world)
+
+G Amdani
+https://wiki.travellerrpg.com/Amdani_Subsector
+https://wiki.travellerrpg.com/Amdani_(world)
+
+H Conda
+https://wiki.travellerrpg.com/Conda_Subsector
+https://wiki.travellerrpg.com/Conda_(world)
+
+I Zhemi
+https://wiki.travellerrpg.com/Zhemi_Subsector
+https://wiki.travellerrpg.com/Zhemi_(world)
+
+J Mulaar
+https://wiki.travellerrpg.com/Mulaar_Subsector
+https://wiki.travellerrpg.com/Juuri_Banii_(world)
+
+K Dudin
+https://wiki.travellerrpg.com/Dudin_Subsector
+https://wiki.travellerrpg.com/Udo_(world)
+
+L Cruxway
+https://wiki.travellerrpg.com/Cruxway_Subsector
+https://wiki.travellerrpg.com/Helena_(Da_2627)_(world)
+
+M Gaalorn
+https://wiki.travellerrpg.com/Gaalorn_Subsector
+https://wiki.travellerrpg.com/Harp_(world)
+
+N Hermes
+https://wiki.travellerrpg.com/Hermes_Subsector
+https://wiki.travellerrpg.com/Oifuerr_(world)
+
+O Narya
+https://wiki.travellerrpg.com/Narya_Subsector
+https://wiki.travellerrpg.com/Kimel_(world)
+
+P Orvon
+https://wiki.travellerrpg.com/Orvon_Subsector
+https://wiki.travellerrpg.com/Mgg_(world)
+
+//=============================================================================
+
+
+	DELPHI
+	https://wiki.travellerrpg.com/Delphi_Sector
+
+A Kirkankhim
+https://wiki.travellerrpg.com/Kirkankhim_Subsector
+	McPherson (Delphi 0107)
+
+B Tsent
+https://wiki.travellerrpg.com/Tsent_Subsector
+https://wiki.travellerrpg.com/Tsent_(De_1103)_(world)
+
+C Dighirpi
+https://wiki.travellerrpg.com/Dighirpi_Subsector
+??
+
+D Forlorn
+https://wiki.travellerrpg.com/Forlorn_Subsector
+Various
+
+E Zukhumi
+https://wiki.travellerrpg.com/Zukhumi_Subsector
+https://wiki.travellerrpg.com/Zukhimi_(world)
+
+F Rifts Reach
+https://wiki.travellerrpg.com/Rifts_Reach_Subsector
+https://wiki.travellerrpg.com/Antler_(world)
+
+G Rayoci'Ailr
+https://wiki.travellerrpg.com/Rayoci%27Ailr_Subsector
+https://wiki.travellerrpg.com/Yugoslav_(world)
+
+H Tolanada
+https://wiki.travellerrpg.com/Tolanada_Subsector
+??
+
+I Aklan
+https://wiki.travellerrpg.com/Aklan_Subsector
+https://wiki.travellerrpg.com/Ychea_(world)
+
+J Void (De J)	
+https://wiki.travellerrpg.com/Void_(De_J)_Subsector
+https://wiki.travellerrpg.com/Konat-kale_(world)
+
+K Anaxias
+https://wiki.travellerrpg.com/Anaxias_Subsector
+https://wiki.travellerrpg.com/Anaxias_(world)
+
+L Eduum
+https://wiki.travellerrpg.com/Eduum_Subsector
+Various
+
+M Eta-Gu	
+https://wiki.travellerrpg.com/Eta-Gu_Subsector
+https://wiki.travellerrpg.com/Korbak_(world)
+
+N Riramla
+https://wiki.travellerrpg.com/Riramla_Subsector
+https://wiki.travellerrpg.com/Belthan_(world)
+
+O Zuma
+https://wiki.travellerrpg.com/Zuma_Subsector
+https://wiki.travellerrpg.com/Todd_(world)
+
+P Breda
+https://wiki.travellerrpg.com/Breda_Subsector
+https://wiki.travellerrpg.com/Breda_(world)
+
+//=============================================================================
+
+
+	DENEB
+	https://wiki.travellerrpg.com/Deneb_Sector
+
+A Pretoria
+https://wiki.travellerrpg.com/Pretoria_Subsector
+https://wiki.travellerrpg.com/Pretoria_(world)
+
+B Lamas
+https://wiki.travellerrpg.com/Lamas_Subsector
+https://wiki.travellerrpg.com/Lamas_(world)
+
+C Antra
+https://wiki.travellerrpg.com/Antra_Subsector
+https://wiki.travellerrpg.com/Antra_(world)
+
+D Million
+https://wiki.travellerrpg.com/Million_Subsector
+https://wiki.travellerrpg.com/Arleshanu_(world)
+
+E Sabine
+https://wiki.travellerrpg.com/Sabine_Subsector
+https://wiki.travellerrpg.com/Magash_(world)
+
+F Inar
+https://wiki.travellerrpg.com/Inar_Subsector
+https://wiki.travellerrpg.com/Inar_(world)
+
+G Dunmag
+https://wiki.travellerrpg.com/Dunmag_Subsector
+
+H Atsah
+https://wiki.travellerrpg.com/Atsah_Subsector
+https://wiki.travellerrpg.com/Atsah_(world)
+
+I Star Lane
+https://wiki.travellerrpg.com/Star_Lane_Subsector
+https://wiki.travellerrpg.com/Imone_(world)
+
+J Vincennes
+https://wiki.travellerrpg.com/Vincennes_Subsector
+https://wiki.travellerrpg.com/Vincennes_(De_1122)_(world)
+
+K Usani
+https://wiki.travellerrpg.com/Usani_Subsector
+None
+
+L Geniishir
+https://wiki.travellerrpg.com/Geniishir_Subsector
+None
+
+M Gulf
+https://wiki.travellerrpg.com/Gulf_(De_M)_Subsector
+None
+
+N Zeng
+https://wiki.travellerrpg.com/Zeng_Subsector
+https://wiki.travellerrpg.com/Zeng_(De_1339)_(world)
+
+O Kamlar
+https://wiki.travellerrpg.com/Kamlar_Subsector
+None
+
+P Vast Heavens
+https://wiki.travellerrpg.com/Vast_Heavens_Subsector
+None
+
+//=============================================================================
+
+
+	DIASPORA
+	https://wiki.travellerrpg.com/Diaspora_Sector
+
+A Narquel
+https://wiki.travellerrpg.com/Narquel_Subsector
+https://wiki.travellerrpg.com/Narquel_(world)
+
+B Libert
+https://wiki.travellerrpg.com/Libert_Subsector
+https://wiki.travellerrpg.com/Libert_(world)
+
+C Sufren
+https://wiki.travellerrpg.com/Sufren_Subsector
+https://wiki.travellerrpg.com/Sufren_(world)
+
+D Khavle
+https://wiki.travellerrpg.com/Khavle_Subsector
+https://wiki.travellerrpg.com/Khavle_(world)
+
+E Shadigi
+https://wiki.travellerrpg.com/Shadigi_Subsector
+https://wiki.travellerrpg.com/Ferry_(world)
+
+F Kushga
+https://wiki.travellerrpg.com/Kushga_Subsector
+https://wiki.travellerrpg.com/Messier_(world)
+
+G Alurza
+https://wiki.travellerrpg.com/Alurza_Subsector
+https://wiki.travellerrpg.com/Kandom_(world)
+
+H Pasdaruu
+https://wiki.travellerrpg.com/Pasdaruu_Subsector
+https://wiki.travellerrpg.com/Aarishuu_(world)
+
+I Ebasha
+https://wiki.travellerrpg.com/Ebasha_Subsector
+https://wiki.travellerrpg.com/Ebasha_(world)
+
+J Iusea
+https://wiki.travellerrpg.com/Iusea_Subsector
+https://wiki.travellerrpg.com/Iusea_(world)
+
+K The Blight
+https://wiki.travellerrpg.com/The_Blight_Subsector
+https://wiki.travellerrpg.com/Tarsale_(world)
+
+L Promise
+https://wiki.travellerrpg.com/Promise_Subsector
+https://wiki.travellerrpg.com/Promise_(world)
+
+M Hijiri
+https://wiki.travellerrpg.com/Hijiri_Subsector
+https://wiki.travellerrpg.com/Cumber_(world)
+
+N Shumisdi
+https://wiki.travellerrpg.com/Shumisdi_Subsector
+https://wiki.travellerrpg.com/Frey_(Di_1133)_(world)
+
+O Madoc
+https://wiki.travellerrpg.com/Madoc_Subsector
+https://wiki.travellerrpg.com/Kelvin_(world)
+
+P Khulam
+https://wiki.travellerrpg.com/Khulam_Subsector
+https://wiki.travellerrpg.com/Gresham_(world)
+
+//=============================================================================
+
+
+	EMPTY QUARTER
+	https://wiki.travellerrpg.com/Empty_Quarter_Sector
+
+A Tsahrroek
+https://wiki.travellerrpg.com/Tsahrroek_Subsector
+https://wiki.travellerrpg.com/Tsahrroek_(world)
+
+B Kourae
+https://wiki.travellerrpg.com/Kourae_Subsector
+TBD
+
+C Flange
+https://wiki.travellerrpg.com/Flange_Subsector
+https://wiki.travellerrpg.com/Flange_(world)
+
+D Tsosoe
+https://wiki.travellerrpg.com/Tsosoe_Subsector
+https://wiki.travellerrpg.com/Zuethun_(world)
+
+E Kakhasaek
+https://wiki.travellerrpg.com/Kakhasaek_Subsector
+TBD
+
+F Tokitre
+https://wiki.travellerrpg.com/Tokitre_Subsector
+https://wiki.travellerrpg.com/Tokitre_(world)
+
+G Cotan
+https://wiki.travellerrpg.com/Cotan_Subsector
+TBD
+
+H Nisaga
+https://wiki.travellerrpg.com/Nisaga_Subsector
+https://wiki.travellerrpg.com/Nisaga_(world)
+
+I Lentuli
+https://wiki.travellerrpg.com/Lentuli_Subsector
+https://wiki.travellerrpg.com/Marhaban_(EQ_0426)_(world)
+
+J Yogesh
+https://wiki.travellerrpg.com/Yogesh_Subsector
+https://wiki.travellerrpg.com/Ka-aswa_(world)
+
+K Hebrin
+https://wiki.travellerrpg.com/Hebrin_Subsector
+https://wiki.travellerrpg.com/Cooke_(EQ_2030)_(world)
+
+L Turley
+https://wiki.travellerrpg.com/Turley_Subsector
+TBD
+
+M Nulinad
+https://wiki.travellerrpg.com/Nulinad_Subsector
+https://wiki.travellerrpg.com/Nulinad_(world)
+
+N Gimushi
+https://wiki.travellerrpg.com/Gimushi_Subsector
+https://wiki.travellerrpg.com/Fathwaas_(world)
+
+O Udusis
+https://wiki.travellerrpg.com/Udusis_Subsector
+https://wiki.travellerrpg.com/Irash_(world)
+
+P Yashodhan
+https://wiki.travellerrpg.com/Yashodhan_Subsector
+TBD
+
+//=============================================================================
+
+
+	FORNAST
+	https://wiki.travellerrpg.com/Fornast_Sector
+
+A Cirqa
+https://wiki.travellerrpg.com/Cirqa_Subsector
+https://wiki.travellerrpg.com/Pedrishda_(world)
+
+B Spas
+https://wiki.travellerrpg.com/Spas_Subsector
+TBD
+
+C Madu
+https://wiki.travellerrpg.com/Madu_Subsector
+https://wiki.travellerrpg.com/Hattie_(world)
+
+D Toza
+https://wiki.travellerrpg.com/Toza_Subsector
+https://wiki.travellerrpg.com/Watanabe_(world)
+
+E AArna
+https://wiki.travellerrpg.com/AArna_Subsector
+https://wiki.travellerrpg.com/Prestuyf_(world)
+
+F Akashganar
+https://wiki.travellerrpg.com/Akashganar_Subsector
+https://wiki.travellerrpg.com/Farn_(world)
+
+G Derri
+https://wiki.travellerrpg.com/Derri_Subsector
+https://wiki.travellerrpg.com/Medraut_(world)
+
+H Sanny
+https://wiki.travellerrpg.com/Sanny_Subsector
+https://wiki.travellerrpg.com/Jonwyff_(world)
+
+I Imaka
+https://wiki.travellerrpg.com/Imaka_Subsector
+https://wiki.travellerrpg.com/Brangwen_(world)
+
+J Irinkuka
+https://wiki.travellerrpg.com/Irinkuka_Subsector
+https://wiki.travellerrpg.com/Sampson_(world)
+
+K Dikhari
+https://wiki.travellerrpg.com/Dikhari_Subsector
+https://wiki.travellerrpg.com/Kardar_(world)
+
+L Nareshakir
+https://wiki.travellerrpg.com/Nareshakir_Subsector
+https://wiki.travellerrpg.com/Ziamud_(world)
+
+M Setten
+https://wiki.travellerrpg.com/Setten_Subsector
+https://wiki.travellerrpg.com/Khalu_(Fo_0537)_(world)
+
+N Tharrynra
+https://wiki.travellerrpg.com/Tharrynra_Subsector
+https://wiki.travellerrpg.com/Gemam_(world)
+
+O Shumduur
+https://wiki.travellerrpg.com/Shumduur_Subsector
+https://wiki.travellerrpg.com/Shumduur_(world)
+
+P Zukhin
+https://wiki.travellerrpg.com/Zukhin_Subsector
+https://wiki.travellerrpg.com/Zukhin_(world)
+
+//=============================================================================
+
+
+	GLIMMERDRIFT REACHES
+	https://wiki.travellerrpg.com/Glimmerdrift_Reaches_Sector
+
+A Darkling
+https://wiki.travellerrpg.com/Darkling_Subsector
+https://wiki.travellerrpg.com/Aluudi_(world)
+
+B Thorstone
+https://wiki.travellerrpg.com/Thorstone_Subsector
+https://wiki.travellerrpg.com/Mariposa_(world)
+
+C Tri-Empire
+https://wiki.travellerrpg.com/Tri-Empire_Subsector
+https://wiki.travellerrpg.com/Ardi_(world)
+
+D Marla
+https://wiki.travellerrpg.com/Marla_Subsector
+https://wiki.travellerrpg.com/Reliance_(world)
+
+E Glowing
+https://wiki.travellerrpg.com/Glowing_Subsector
+TBD
+
+F Kraxin
+https://wiki.travellerrpg.com/Kraxin_Subsector
+https://wiki.travellerrpg.com/Stoner_(world)
+
+G Williamsburg
+https://wiki.travellerrpg.com/Williamsburg_Subsector
+https://wiki.travellerrpg.com/Miracle_(GR_2418)_(world)
+
+H Tasman
+https://wiki.travellerrpg.com/Tasman_Subsector
+https://wiki.travellerrpg.com/Kinake_(world)
+
+I Even (GR I)
+https://wiki.travellerrpg.com/Even_(GR_I)_Subsector
+https://wiki.travellerrpg.com/Sheridan_(GR_0324)_(world)
+
+J Poonch
+https://wiki.travellerrpg.com/Poonch_Subsector
+https://wiki.travellerrpg.com/Maskaan_(world)
+
+K Sosie
+https://wiki.travellerrpg.com/Sosie_Subsector
+https://wiki.travellerrpg.com/Slate_(world)
+
+L Ryazan
+https://wiki.travellerrpg.com/Ryazan_Subsector
+https://wiki.travellerrpg.com/Luni_(world)
+
+M Verge
+https://wiki.travellerrpg.com/Verge_Subsector
+https://wiki.travellerrpg.com/Paradise_(GR_0131)_(world)
+
+N Zairae
+https://wiki.travellerrpg.com/Zairae_Subsector
+https://wiki.travellerrpg.com/Breakdown_(world)
+
+O Sepik
+https://wiki.travellerrpg.com/Sepik_Subsector
+https://wiki.travellerrpg.com/Ourland_(world)
+
+P Daro
+https://wiki.travellerrpg.com/Daro_Subsector
+https://wiki.travellerrpg.com/Kishar_(world)
+
+//=============================================================================
+
+
+	GUSHEMEGE
+	https://wiki.travellerrpg.com/Gushemege_Sector
+
+A Riften
+https://wiki.travellerrpg.com/Riften_Subsector
+TBD
+
+B Khiira
+https://wiki.travellerrpg.com/Khiira_Subsector
+TBD
+
+C Taapvaia
+https://wiki.travellerrpg.com/Taapvaia_Subsector
+https://wiki.travellerrpg.com/Sharenga_(world)
+
+D Tansa
+https://wiki.travellerrpg.com/Tansa_Subsector
+https://wiki.travellerrpg.com/Kukhun_(world)
+
+E Gandonen
+https://wiki.travellerrpg.com/Gandonen_Subsector
+https://wiki.travellerrpg.com/Pannolk_(world)
+
+F Rure
+https://wiki.travellerrpg.com/Rure_Subsector
+https://wiki.travellerrpg.com/Usdiki_(world)
+
+G Ankhsusgar
+https://wiki.travellerrpg.com/Ankhsusgar_Subsector
+https://wiki.travellerrpg.com/Lumuiimshi_(world)
+
+H Isi Ahto
+https://wiki.travellerrpg.com/Isi_Ahto_Subsector
+https://wiki.travellerrpg.com/Shakhamash_(world)
+
+I Balech
+https://wiki.travellerrpg.com/Balech_Subsector
+https://wiki.travellerrpg.com/Estos_(world)
+
+J Sallounn
+https://wiki.travellerrpg.com/Sallounn_Subsector
+https://wiki.travellerrpg.com/Vesuata_(world)
+
+K Dashinshaii
+https://wiki.travellerrpg.com/Dashinshaii_Subsector
+https://wiki.travellerrpg.com/Kamurinmur_(world)
+
+L Shire
+https://wiki.travellerrpg.com/Shire_Subsector
+https://wiki.travellerrpg.com/Moytra_(world)
+
+M Vipach
+https://wiki.travellerrpg.com/Vipach_Subsector
+https://wiki.travellerrpg.com/Dikaash_(world)
+
+N Laeth
+https://wiki.travellerrpg.com/Laeth_Subsector
+https://wiki.travellerrpg.com/Sidur_Ishki_(world)
+
+O Truax
+https://wiki.travellerrpg.com/Truax_Subsector
+https://wiki.travellerrpg.com/Oaxaca_(world)
+
+P Lagan
+https://wiki.travellerrpg.com/Lagan_Subsector
+https://wiki.travellerrpg.com/Kadar_(world)
+
+//=============================================================================
+
+
+	GVURRDON
+	https://wiki.travellerrpg.com/Gvurrdon_Sector
+
+A Ongvos
+https://wiki.travellerrpg.com/Ongvos_Subsector
+Various
+
+B Zoghz
+https://wiki.travellerrpg.com/Zoghz_Subsector
+Various
+
+C Adhsakh
+https://wiki.travellerrpg.com/Adhsakh_Subsector
+Various
+
+D Fanganger
+https://wiki.travellerrpg.com/Fanganger_Subsector
+https://wiki.travellerrpg.com/Kaekfesa_(world)
+
+E Uerra Rueshken
+https://wiki.travellerrpg.com/Uerra_Rueshken_Subsector
+https://wiki.travellerrpg.com/Uthgvoe_(world)
+
+F Dzen
+https://wiki.travellerrpg.com/Dzen_Subsector
+https://wiki.travellerrpg.com/Aegadh_(world)
+
+G Lla Iz Therrg
+https://wiki.travellerrpg.com/Lla_Iz_Therrg_Subsector
+Various
+
+H Thoengling
+https://wiki.travellerrpg.com/Thoengling_Subsector
+https://wiki.travellerrpg.com/Thoengling_(world)
+
+I Kfan Uzangou
+https://wiki.travellerrpg.com/Kfan_Uzangou_Subsector
+Various
+
+J Ruhk Odzuetarug
+https://wiki.travellerrpg.com/Ruhk_Odzuetarug_Subsector
+https://wiki.travellerrpg.com/Orra_(world)
+
+K Ksits Usathu Odzuetarug
+https://wiki.travellerrpg.com/Ksits_Usathu_Odzuetarug_Subsector
+Various
+
+L Aelluekh
+https://wiki.travellerrpg.com/Aelluekh_Subsector
+https://wiki.travellerrpg.com/index.php?title=Ghaertu_(world)&action=edit&redlink=1
+
+M Lianic
+https://wiki.travellerrpg.com/Lianic_Subsector
+Various
+
+N Spurl
+https://wiki.travellerrpg.com/Spurl_Subsector
+https://wiki.travellerrpg.com/Okfozarrga_(world)
+
+O Uthe
+https://wiki.travellerrpg.com/Uthe_Subsector
+https://wiki.travellerrpg.com/Uthith_(world)
+
+P Firgr
+https://wiki.travellerrpg.com/Firgr_Subsector
+https://wiki.travellerrpg.com/Ughz_(world)
+
+//=============================================================================
+
+
+	HINTERWORLDS
+	https://wiki.travellerrpg.com/Hinterworlds_Sector
+
+A Adar
+https://wiki.travellerrpg.com/Adar_Subsector
+Various
+
+B Tlianke
+https://wiki.travellerrpg.com/Tlianke_Subsector
+Various
+
+C Anubis
+https://wiki.travellerrpg.com/Anubis_Subsector
+https://wiki.travellerrpg.com/Anubis_(world)
+
+D Pendiash Ginsh
+https://wiki.travellerrpg.com/Pendiash_Ginsh_Subsector
+Various
+
+E Cimeon
+https://wiki.travellerrpg.com/Cimeon_Subsector
+Various
+
+F Darvis
+https://wiki.travellerrpg.com/Darvis_Subsector
+Various
+
+G Cromar
+https://wiki.travellerrpg.com/Cromar_Subsector
+Various
+
+H Menere's Reach
+https://wiki.travellerrpg.com/Menere%27s_Reach_Subsector
+Various
+
+I Nullia
+https://wiki.travellerrpg.com/Nullia_Subsector
+Various
+
+J Bruia
+https://wiki.travellerrpg.com/Bruia_Subsector
+Various
+
+K Silver Laurel
+https://wiki.travellerrpg.com/Silver_Laurel_Subsector
+Pulfenex Hinterworlds 2029
+
+L Sontra
+https://wiki.travellerrpg.com/Sontra_Subsector
+Various
+
+M Hashi
+https://wiki.travellerrpg.com/Hashi_Subsector
+Various
+
+N Kandra
+https://wiki.travellerrpg.com/Kandra_Subsector
+Various
+
+O Tempri
+https://wiki.travellerrpg.com/Tempri_Subsector
+Various
+
+P Aquila
+https://wiki.travellerrpg.com/Aquila_Subsector
+Various
+
+//=============================================================================
+
+
+	ILELISH
+	https://wiki.travellerrpg.com/Ilelish_Sector
+
+A Arlumer
+https://wiki.travellerrpg.com/Arlumer_Subsector
+https://wiki.travellerrpg.com/Arlumer_(world)
+
+B Bakkula
+https://wiki.travellerrpg.com/Bakkula_Subsector
+https://wiki.travellerrpg.com/Upsin_(world)
+
+C Miitan
+https://wiki.travellerrpg.com/Miitan_Subsector
+https://wiki.travellerrpg.com/Shume_(world)
+
+D Ilelish
+https://wiki.travellerrpg.com/Ilelish_Subsector
+https://wiki.travellerrpg.com/Shudiikii_(world)
+
+E Steppe
+https://wiki.travellerrpg.com/Steppe_Subsector
+https://wiki.travellerrpg.com/Rughl_(world)
+
+F Shillish
+https://wiki.travellerrpg.com/Shillish_Subsector
+https://wiki.travellerrpg.com/Water_(Il_1020)_(world)
+
+G Akkula Worlds
+https://wiki.travellerrpg.com/Akkula_Worlds_Subsector
+https://wiki.travellerrpg.com/Tellus_Nova_(world)
+
+H Shudash
+https://wiki.travellerrpg.com/Shudash_Subsector
+https://wiki.travellerrpg.com/Shudash_(world)
+
+I Verran
+https://wiki.travellerrpg.com/Verran_Subsector
+https://wiki.travellerrpg.com/Istvan_(world)
+
+J Dlan
+https://wiki.travellerrpg.com/Dlan_Subsector
+https://wiki.travellerrpg.com/Dlan_(world)
+
+K Desta
+https://wiki.travellerrpg.com/Desta_Subsector
+https://wiki.travellerrpg.com/Canoga_(world)
+
+L Gadirur
+https://wiki.travellerrpg.com/Gadirur_Subsector
+https://wiki.travellerrpg.com/Gadirur_(world)
+
+M Edge (Il M)
+https://wiki.travellerrpg.com/Edge_(Il_M)_Subsector
+None
+
+N Lyystra
+https://wiki.travellerrpg.com/Lyystra_Subsector
+None
+
+O Zagrab
+https://wiki.travellerrpg.com/Zagrab_Subsector
+None
+
+P Empty (Il P)
+https://wiki.travellerrpg.com/Empty_(Il_P)_Subsector
+None
+
+//=============================================================================
+
+
+	LEY SECTOR
+	https://wiki.travellerrpg.com/Ley_Sector
+	
+A Ikhnaton
+https://wiki.travellerrpg.com/Ikhnaton_Subsector
+https://wiki.travellerrpg.com/Agalamgur_(world)
+
+B Nightmare
+https://wiki.travellerrpg.com/Nightmare_Subsector
+https://wiki.travellerrpg.com/Dukh_(world)
+
+C Noir Deep
+https://wiki.travellerrpg.com/Noir_Deep_Subsector
+https://wiki.travellerrpg.com/Noir_Deep_Subsector
+
+D Zagrathian
+https://wiki.travellerrpg.com/Zagrathian_Subsector
+https://wiki.travellerrpg.com/Impress_(world)
+
+E Spearhead
+https://wiki.travellerrpg.com/Spearhead_Subsector
+https://wiki.travellerrpg.com/Daramm_(world)
+
+F Guadix Drift
+https://wiki.travellerrpg.com/Guadix_Drift_Subsector
+https://wiki.travellerrpg.com/Sarun_(world)
+
+G Titanstorm
+https://wiki.travellerrpg.com/Titanstorm_Subsector
+https://wiki.travellerrpg.com/Khimudire_(world)
+
+H Osiris Deep
+https://wiki.travellerrpg.com/Osiris_Deep_Subsector
+https://wiki.travellerrpg.com/Ssissth_(world)
+
+I Highlord
+https://wiki.travellerrpg.com/Highlord_Subsector
+https://wiki.travellerrpg.com/El_Jerarqu%C3%ADa_(world)
+
+J Matarishan
+https://wiki.travellerrpg.com/Matarishan_Subsector
+https://wiki.travellerrpg.com/Nundishaag_(world)
+
+K Frontier Worlds
+https://wiki.travellerrpg.com/Frontier_Worlds_Subsector
+https://wiki.travellerrpg.com/Saramid_(world)
+
+L Sydymic
+https://wiki.travellerrpg.com/Sydymic_Subsector
+https://wiki.travellerrpg.com/Aankemishas_(world)
+
+M Satyressia
+https://wiki.travellerrpg.com/Satyressia_Subsector
+https://wiki.travellerrpg.com/L%27orient_(world)
+
+N Outreaumer
+https://wiki.travellerrpg.com/Outreaumer_Subsector
+https://wiki.travellerrpg.com/Ohasset_(world)
+
+O Diamond-Prince
+https://wiki.travellerrpg.com/Diamond-Prince_Subsector
+https://wiki.travellerrpg.com/Dadegadi_(world)
+
+P Outworld
+https://wiki.travellerrpg.com/Outworld_Subsector
+Various
+
+//=============================================================================
+
+
+	LISHUN
+	https://wiki.travellerrpg.com/Lishun_Sector
+
+A Vakkuun
+https://wiki.travellerrpg.com/Vakkuun_Subsector
+https://wiki.travellerrpg.com/Vakkuum_(world)
+
+B Adawi
+https://wiki.travellerrpg.com/Adawi_Subsector
+https://wiki.travellerrpg.com/Adawi_(world)
+
+C Sotri
+https://wiki.travellerrpg.com/Sotri_Subsector
+https://wiki.travellerrpg.com/Fokulgvu_(world)
+
+D Criideu
+https://wiki.travellerrpg.com/Criideu_Subsector
+https://wiki.travellerrpg.com/Iisgamdi_(world)
+
+E Pryden
+https://wiki.travellerrpg.com/Pryden_Subsector
+https://wiki.travellerrpg.com/Pryden_(world)
+
+F Masionia
+https://wiki.travellerrpg.com/Masionia_Subsector
+https://wiki.travellerrpg.com/Masionia_(world)
+
+G Gama
+https://wiki.travellerrpg.com/Gama_Subsector
+https://wiki.travellerrpg.com/Anossed_(world)
+
+H Tephany
+https://wiki.travellerrpg.com/Tephany_Subsector
+https://wiki.travellerrpg.com/Tephany_(world)
+
+I Shuna
+https://wiki.travellerrpg.com/Shuna_Subsector
+https://wiki.travellerrpg.com/Shuna_(world)
+
+J Taccis
+https://wiki.travellerrpg.com/Taccis_Subsector
+https://wiki.travellerrpg.com/Taccis_(world)
+
+K Simen
+https://wiki.travellerrpg.com/Simen_Subsector
+https://wiki.travellerrpg.com/Lam_(world)
+
+L Ot Zell
+https://wiki.travellerrpg.com/Ot_Zell_Subsector
+https://wiki.travellerrpg.com/Karsaama_(world)
+
+M Shuun
+https://wiki.travellerrpg.com/Shuun_Subsector
+https://wiki.travellerrpg.com/Shuun_(world)
+
+N Welling
+https://wiki.travellerrpg.com/Welling_Subsector
+https://wiki.travellerrpg.com/Paran_(world)
+
+O Strashna
+https://wiki.travellerrpg.com/Strashna_Subsector
+https://wiki.travellerrpg.com/Strashna_(world)
+
+P Mirmida
+https://wiki.travellerrpg.com/Mirmida_Subsector
+https://wiki.travellerrpg.com/Garmagan_(world)
+
+//=============================================================================
+
+
+	MAGYAR
+	https://wiki.travellerrpg.com/Magyar_Sector
+
+A Clan
+https://wiki.travellerrpg.com/Clan_Subsector
+https://wiki.travellerrpg.com/Wu_(world)
+
+B Eery
+https://wiki.travellerrpg.com/Eery_Subsector
+https://wiki.travellerrpg.com/Chorus_(world)
+
+C Clown
+https://wiki.travellerrpg.com/Clown_Subsector
+https://wiki.travellerrpg.com/Kemper_(world)
+
+D Anise
+https://wiki.travellerrpg.com/Anise_Subsector
+https://wiki.travellerrpg.com/Anise_(Ma_2904)_(world)
+
+E Nemo
+https://wiki.travellerrpg.com/Nemo_Subsector
+https://wiki.travellerrpg.com/Pryon_(world)
+
+F New Town
+https://wiki.travellerrpg.com/New_Town_Subsector
+https://wiki.travellerrpg.com/Minsk_(world)
+
+G Voyager
+https://wiki.travellerrpg.com/Voyager_Subsector
+https://wiki.travellerrpg.com/Alto_(world)
+
+H Kline
+https://wiki.travellerrpg.com/Kline_Subsector
+https://wiki.travellerrpg.com/Kline_(world)
+
+I Iouo
+https://wiki.travellerrpg.com/Iouo_Subsector
+https://wiki.travellerrpg.com/Gobi_(Ma_0528)_(world)
+
+J Valhalla
+https://wiki.travellerrpg.com/Valhalla_Subsector
+https://wiki.travellerrpg.com/Uebelhor_(world)
+
+K Swan
+https://wiki.travellerrpg.com/Swan_Subsector
+https://wiki.travellerrpg.com/Annu-u_(world)
+
+L New Mars
+https://wiki.travellerrpg.com/New_Mars_Subsector
+https://wiki.travellerrpg.com/Asorret_(world)
+
+M Last Chance
+https://wiki.travellerrpg.com/Last_Chance_Subsector
+https://wiki.travellerrpg.com/Zandervort_(world)
+
+N Black Jack
+https://wiki.travellerrpg.com/Black_Jack_Subsector
+https://wiki.travellerrpg.com/Lazlo%27s_World_(world)
+
+O Olympus
+https://wiki.travellerrpg.com/Olympus_Subsector
+https://wiki.travellerrpg.com/Viallalta_(world)
+
+P Cluster
+https://wiki.travellerrpg.com/Cluster_Subsector
+https://wiki.travellerrpg.com/Pacific_(world)
+
+//=============================================================================
+
+
+	MASSILIA
+	https://wiki.travellerrpg.com/Massilia_Sector
+
+A Kerr
+https://wiki.travellerrpg.com/Kerr_Subsector
+https://wiki.travellerrpg.com/Kaggushus_(world)
+
+B Arar
+https://wiki.travellerrpg.com/Arar_Subsector
+https://wiki.travellerrpg.com/Arar_(world)
+
+C Khisham
+https://wiki.travellerrpg.com/Khisham_Subsector
+https://wiki.travellerrpg.com/Khisham_(world)
+
+D Zalucha
+https://wiki.travellerrpg.com/Zalucha_Subsector
+https://wiki.travellerrpg.com/Zalucha_(world)
+
+E Keum
+https://wiki.travellerrpg.com/Keum_Subsector
+https://wiki.travellerrpg.com/Keum_(world)
+
+F Vaait
+https://wiki.travellerrpg.com/Vaait_Subsector
+https://wiki.travellerrpg.com/Dubleen_(world)
+
+G Forquee
+https://wiki.travellerrpg.com/Forquee_Subsector
+https://wiki.travellerrpg.com/Forquee_(world)
+
+H Palasha
+https://wiki.travellerrpg.com/Palasha_Subsector
+https://wiki.travellerrpg.com/Palasha_(world)
+
+I Ten Suns
+https://wiki.travellerrpg.com/Ten_Suns_Subsector
+https://wiki.travellerrpg.com/K%27zass_(world)
+
+J Shiwonee
+https://wiki.travellerrpg.com/Shiwonee_Subsector
+https://wiki.travellerrpg.com/Shiwonee_(world)
+
+K Nes'Vra
+https://wiki.travellerrpg.com/Nes%27Vra_Subsector
+https://wiki.travellerrpg.com/Ugdukida_(world)
+
+L Tooka
+https://wiki.travellerrpg.com/Tooka_Subsector
+https://wiki.travellerrpg.com/Tooka_(world)
+
+M Annari
+https://wiki.travellerrpg.com/Annari_Subsector
+https://wiki.travellerrpg.com/Annari_(world)
+
+N Shokee
+https://wiki.travellerrpg.com/Shokee_Subsector
+https://wiki.travellerrpg.com/Nagiida_(world)
+
+O Shimmer
+https://wiki.travellerrpg.com/Shimmer_Subsector
+https://wiki.travellerrpg.com/Luri_(world)
+
+P Oreo
+https://wiki.travellerrpg.com/Oreo_Subsector
+https://wiki.travellerrpg.com/Oreo_(world)
+
+//=============================================================================
+
+
+	OLD EXPANSES
+	https://wiki.travellerrpg.com/Old_Expanses_Sector
+
+A Dethenes
+https://wiki.travellerrpg.com/Dethenes_Subsector
+https://wiki.travellerrpg.com/Dethenes_(world)
+
+B Quinoid
+https://wiki.travellerrpg.com/Quinoid_Subsector
+https://wiki.travellerrpg.com/Vaward_(world)
+
+C Ahrhi
+https://wiki.travellerrpg.com/Ahrhi_Subsector
+https://wiki.travellerrpg.com/Lhmoore_(world)
+
+D Rusco
+https://wiki.travellerrpg.com/Rusco_Subsector
+https://wiki.travellerrpg.com/Loydecal_(world)
+
+E Srys
+https://wiki.travellerrpg.com/Srys_Subsector
+https://wiki.travellerrpg.com/Srys_(world)
+
+F Jayna
+https://wiki.travellerrpg.com/Jayna_Subsector
+https://wiki.travellerrpg.com/Rebields_(world)
+
+G Twenty-One Worlds
+https://wiki.travellerrpg.com/Twenty-One_Worlds_Subsector
+https://wiki.travellerrpg.com/Atil_(world)
+
+H Ile
+https://wiki.travellerrpg.com/Ile_Subsector
+https://wiki.travellerrpg.com/Yesta_(world)
+
+I Thoezennt
+https://wiki.travellerrpg.com/Thoezennt_Subsector
+https://wiki.travellerrpg.com/Sh%27_Lur_(world)
+
+J Shenk
+https://wiki.travellerrpg.com/Shenk_Subsector
+https://wiki.travellerrpg.com/Shenk_(world)
+
+K Karse
+https://wiki.travellerrpg.com/Karse_Subsector
+https://wiki.travellerrpg.com/Villan_(world)
+
+L Vendtup
+https://wiki.travellerrpg.com/Vendtup_Subsector
+https://wiki.travellerrpg.com/Usinea_(world)
+
+M Nicosia
+https://wiki.travellerrpg.com/Nicosia_Subsector
+https://wiki.travellerrpg.com/Buhle_(world)
+
+N Sarid
+https://wiki.travellerrpg.com/Sarid_Subsector
+https://wiki.travellerrpg.com/L%27steich_(world)
+
+O So Skire
+https://wiki.travellerrpg.com/So_Skire_Subsector
+https://wiki.travellerrpg.com/Peart_(world)
+
+P Bascoj
+https://wiki.travellerrpg.com/Bascoj_Subsector
+https://wiki.travellerrpg.com/Syrim_(world)
+
+//=============================================================================
+
+
+	REAVER'S DEEP
+	https://wiki.travellerrpg.com/Reaver%27s_Deep_Sector
+
+A Farift
+https://wiki.travellerrpg.com/Farift_Subsector
+None
+
+B Riftdeep
+https://wiki.travellerrpg.com/Riftdeep_Subsector
+Various
+
+C Riftrim
+https://wiki.travellerrpg.com/Riftrim_Subsector
+Various
+
+D Gulf (RD D)
+https://wiki.travellerrpg.com/Gulf_(RD_D)_Subsector
+Various
+
+E Hryaroaa
+https://wiki.travellerrpg.com/Hryaroaa_Subsector
+None
+
+F Scotian Deep
+https://wiki.travellerrpg.com/Scotian_Deep_Subsector
+https://wiki.travellerrpg.com/Douglass_(world)
+
+G Caledon
+https://wiki.travellerrpg.com/Caledon_Subsector
+https://wiki.travellerrpg.com/Caledon_(world)
+
+H Nightrim
+https://wiki.travellerrpg.com/Nightrim_Subsector
+https://wiki.travellerrpg.com/St._George_(RD_2616)_(world)
+
+I Keiar
+https://wiki.travellerrpg.com/Keiar_Subsector
+Various
+
+J Ea
+https://wiki.travellerrpg.com/Ea_Subsector
+Various
+
+K Drexilthar
+https://wiki.travellerrpg.com/Drexilthar_Subsector
+https://wiki.travellerrpg.com/Carrill_(world)
+
+L Urlaqqash
+https://wiki.travellerrpg.com/Urlaqqash_Subsector
+https://wiki.travellerrpg.com/Urlaqqash_(world)
+
+M Uhtaa
+https://wiki.travellerrpg.com/Uhtaa_Subsector
+https://wiki.travellerrpg.com/Gustave_(world)
+
+N Eakoi
+https://wiki.travellerrpg.com/Eakoi_Subsector
+Various
+
+O Drinsaar
+https://wiki.travellerrpg.com/Drinsaar_Subsector
+Various
+
+P Fahlnar
+https://wiki.travellerrpg.com/Fahlnar_Subsector
+Various
+
+//=============================================================================
+
+
+	REFT SECTOR
+	https://wiki.travellerrpg.com/Reft_Sector
+
+A Vestus
+https://wiki.travellerrpg.com/Vestus_Subsector
+https://wiki.travellerrpg.com/Lintl_(world)
+
+B Macon
+https://wiki.travellerrpg.com/Macon_Subsector
+
+C Two Little
+https://wiki.travellerrpg.com/Two_Little_Subsector
+
+D Barker
+https://wiki.travellerrpg.com/Barker_Subsector
+
+E Usher
+https://wiki.travellerrpg.com/Usher_Subsector
+
+F Sagittarian
+https://wiki.travellerrpg.com/Sagittarian_Subsector
+
+G Lost Way
+https://wiki.travellerrpg.com/Lost_Way_Subsector
+
+H 
+https://wiki.travellerrpg.com/Gome_Subsector
+
+I 
+https://wiki.travellerrpg.com/Void_8_Subsector
+
+J New Islands
+https://wiki.travellerrpg.com/New_Islands_Subsector
+
+K Old Islands
+https://wiki.travellerrpg.com/Old_Islands_Subsector
+
+L Limon
+https://wiki.travellerrpg.com/Limon_Subsector
+
+M Alone
+https://wiki.travellerrpg.com/Alone_Subsector
+
+N 
+https://wiki.travellerrpg.com/Evestin_Subsector
+
+O Arcrant
+https://wiki.travellerrpg.com/Arcrant_Subsector
+
+P Moibin
+https://wiki.travellerrpg.com/Moibin_Subsector
+https://wiki.travellerrpg.com/Cyril_(world)
+
+//=============================================================================
+
+
+	RIFTSPAN REACHES
+	https://wiki.travellerrpg.com/Riftspan_Reaches_Sector
+
+A Aulryakh
+https://wiki.travellerrpg.com/Aulryakh_Subsector
+https://wiki.travellerrpg.com/Aulryakh_(world)
+
+B Hwiwuiyo
+https://wiki.travellerrpg.com/Hwiwuiyo_Subsector
+n/a
+
+C Tyehlai
+https://wiki.travellerrpg.com/Tyehlai_Subsector
+n/a
+
+D Ewasya'
+https://wiki.travellerrpg.com/Ewasya%27_Subsector
+None
+
+E Trawo
+https://wiki.travellerrpg.com/Trawo_Subsector
+n/a
+
+F Aokiylair
+https://wiki.travellerrpg.com/Aokiylair_Subsector
+n/a
+
+G Ryuhleiea
+https://wiki.travellerrpg.com/Ryuhleiea_Subsector
+n/a
+
+H Iyhaseakh
+https://wiki.travellerrpg.com/Iyhaseakh_Subsector
+n/a
+
+I Yuhiyah
+https://wiki.travellerrpg.com/Yuhiyah_Subsector
+None
+
+J Jikhyrleirla
+https://wiki.travellerrpg.com/Jikhyrleirla_Subsector
+n/a
+
+K Hryehkhtyel
+https://wiki.travellerrpg.com/Hryehkhtyel_Subsector
+n/a
+
+L Aohelroiao
+https://wiki.travellerrpg.com/Aohelroiao_Subsector
+n/a
+
+M Ftyoauial
+https://wiki.travellerrpg.com/Ftyoauial_Subsector
+n/a
+
+N Ioihlehwa
+https://wiki.travellerrpg.com/Ioihlehwa_Subsector
+n/a
+
+O Tuistao
+https://wiki.travellerrpg.com/Tuistao_Subsector
+n/a
+
+P Wahtoikoeakh
+https://wiki.travellerrpg.com/Wahtoikoeakh_Subsector
+n/a
+
+//=============================================================================
+
+
+	SOLOMANI RIM
+	https://wiki.travellerrpg.com/Solomani_Rim_Sector
+
+A Ultima
+https://wiki.travellerrpg.com/Ultima_Subsector
+https://wiki.travellerrpg.com/Thamber_(world)
+
+B Suleiman
+https://wiki.travellerrpg.com/Suleiman_Subsector
+https://wiki.travellerrpg.com/Suleiman_(world)
+
+C Concord
+https://wiki.travellerrpg.com/Concord_Subsector
+https://wiki.travellerrpg.com/Eleusis_(world)
+
+D Harlequin
+https://wiki.travellerrpg.com/Harlequin_Subsector
+https://wiki.travellerrpg.com/Arkiirkii_(world)
+
+E Alderamin
+https://wiki.travellerrpg.com/Alderamin_Subsector
+https://wiki.travellerrpg.com/Shululsish_(world)
+
+F Esperance
+https://wiki.travellerrpg.com/Esperance_Subsector
+https://wiki.travellerrpg.com/Muan_Gwi_(world)
+
+G Vega
+https://wiki.travellerrpg.com/Vega_Subsector
+https://wiki.travellerrpg.com/Muan_Gwi_(world)
+
+H Banasdan
+https://wiki.travellerrpg.com/Banasdan_Subsector
+https://wiki.travellerrpg.com/Banasdan_(world)
+
+I Albadawi
+https://wiki.travellerrpg.com/Albadawi_Subsector
+https://wiki.travellerrpg.com/Gaea_(world)
+
+J Dingir
+https://wiki.travellerrpg.com/Dingir_Subsector
+https://wiki.travellerrpg.com/Dingir_(world)
+
+K Sol
+https://wiki.travellerrpg.com/Sol_Subsector
+https://wiki.travellerrpg.com/Lagash_(world)
+
+L Arcturus
+https://wiki.travellerrpg.com/Arcturus_Subsector
+https://wiki.travellerrpg.com/Jael_(world)
+
+M Jardin
+https://wiki.travellerrpg.com/Jardin_Subsector
+https://wiki.travellerrpg.com/Jardin_(world)
+
+N Capella
+https://wiki.travellerrpg.com/Capella_Subsector
+https://wiki.travellerrpg.com/Twylo_(world)
+
+O Gemini
+https://wiki.travellerrpg.com/Gemini_Subsector
+https://wiki.travellerrpg.com/Hamilcar_(world)
+
+P Kukulkan
+https://wiki.travellerrpg.com/Kukulkan_Subsector
+https://wiki.travellerrpg.com/Laputa_(world)
+
+//=============================================================================
+
+
+	SPINWARD MARCHES
+	https://wiki.travellerrpg.com/Spinward_Marches_Sector
+
+A Chronor
+https://wiki.travellerrpg.com/Chronor_Subsector
+https://wiki.travellerrpg.com/Chronor_(world)
+
+B Jewell
+https://wiki.travellerrpg.com/Jewell_Subsector
+https://wiki.travellerrpg.com/Jewell_(SM_1106)_(world)
+
+C Regina
+https://wiki.travellerrpg.com/Regina_Subsector
+https://wiki.travellerrpg.com/Regina_(world)
+
+D Aramis
+https://wiki.travellerrpg.com/Aramis_Subsector
+https://wiki.travellerrpg.com/Aramis_(SM_3110)_(world)
+
+E Querion
+https://wiki.travellerrpg.com/Querion_Subsector
+https://wiki.travellerrpg.com/Querion_(world)
+
+F Vilis
+https://wiki.travellerrpg.com/Vilis_Subsector
+https://wiki.travellerrpg.com/Frenzie_(world)
+
+G Lanth
+https://wiki.travellerrpg.com/Lanth_Subsector
+https://wiki.travellerrpg.com/Lanth_(world)
+
+H Rhylanor
+https://wiki.travellerrpg.com/Rhylanor_Subsector
+https://wiki.travellerrpg.com/Rhylanor_(world)
+
+I Darrian
+https://wiki.travellerrpg.com/Darrian_Subsector
+https://wiki.travellerrpg.com/Mire_(SM_0527)_(world)
+
+J Sword Worlds
+https://wiki.travellerrpg.com/Sword_Worlds_Subsector
+https://wiki.travellerrpg.com/Gram_(world)
+
+K Lunion
+https://wiki.travellerrpg.com/Lunion_Subsector
+https://wiki.travellerrpg.com/Lunion_(world)
+
+L Mora
+https://wiki.travellerrpg.com/Mora_Subsector
+https://wiki.travellerrpg.com/Mora_(world)
+
+M Five Sisters
+https://wiki.travellerrpg.com/Five_Sisters_Subsector
+https://wiki.travellerrpg.com/Iderati_(world)
+
+N District 268
+https://wiki.travellerrpg.com/District_268_Subsector
+https://wiki.travellerrpg.com/Mertactor_(world)
+
+O Glisten
+https://wiki.travellerrpg.com/Glisten_Subsector
+https://wiki.travellerrpg.com/Glisten_(world)
+
+P Trin`s Veil
+https://wiki.travellerrpg.com/Trin's_Veil_Subsector
+https://wiki.travellerrpg.com/Trin_(world)
+
+//=============================================================================
+
+
+	TROJAN REACH
+	https://wiki.travellerrpg.com/Trojan_Reach_Sector
+
+A Menorial
+https://wiki.travellerrpg.com/Menorial_Subsector
+
+B Egryn
+https://wiki.travellerrpg.com/Egyrn_Subsector
+
+C Pax Rulin
+https://wiki.travellerrpg.com/Pax_Rulin_Subsector
+https://wiki.travellerrpg.com/Pax_Rulin_(world)
+
+D Gazulin
+https://wiki.travellerrpg.com/Gazulin_Subsector
+https://wiki.travellerrpg.com/Gazulin_(world)
+
+E Yggdrasil
+https://wiki.travellerrpg.com/Yggdrasil_Subsector
+https://wiki.travellerrpg.com/Floria_(world)
+
+F Dpres
+https://wiki.travellerrpg.com/Dpres_Subsector
+
+G Sindal
+https://wiki.travellerrpg.com/Sindal_Subsector
+
+H Tobia
+https://wiki.travellerrpg.com/Tobia_Subsector
+https://wiki.travellerrpg.com/Tobia_(world)
+
+I No`ra'a
+https://wiki.travellerrpg.com/Nora%27a_Subsector
+
+J Goertel
+https://wiki.travellerrpg.com/Goertel_Subsector
+
+K Tlaiowaha
+https://wiki.travellerrpg.com/Tlaiowaha_Subsector
+
+L The Borderland
+https://wiki.travellerrpg.com/The_Borderland_Subsector
+
+M Ranib
+https://wiki.travellerrpg.com/Ranib_Subsector
+
+N Silraaihe
+https://wiki.travellerrpg.com/Silraaihe_Subsector
+
+O Hkea'as
+https://wiki.travellerrpg.com/Hkea%27as_Subsector
+
+P Binary
+https://wiki.travellerrpg.com/Binary_Subsector
+
+//=============================================================================
+
+
+	TUGLIKKI
+	https://wiki.travellerrpg.com/Tuglikki_Sector
+
+A Dokh Lloung
+https://wiki.travellerrpg.com/Dokh_Subsector
+
+B Saerrgh
+https://wiki.travellerrpg.com/Saerrgh_Subsector
+
+C Orrgueg
+https://wiki.travellerrpg.com/Orrgueg_Subsector
+
+D Knoukhs
+https://wiki.travellerrpg.com/Knoukhs_Subsector
+
+E Darrgouts
+https://wiki.travellerrpg.com/Darrgouts_Subsector
+
+F Uerrul
+https://wiki.travellerrpg.com/Uerrul_Subsector
+
+G Tsaerlon
+https://wiki.travellerrpg.com/Tsaerlon_Subsector
+
+H Gaerith
+https://wiki.travellerrpg.com/Gaerith_Subsector
+
+I Kaeng
+https://wiki.travellerrpg.com/Kaeng_Subsector
+
+J Ludzghaeth
+https://wiki.travellerrpg.com/Ludzghaeth_Subsector
+
+K Aenkazarr
+https://wiki.travellerrpg.com/Aenkazarr_Subsector
+
+L Onrakae
+https://wiki.travellerrpg.com/Onrakae_Subsector
+
+M Anfharsgzo
+https://wiki.travellerrpg.com/Anfharsgzo_Subsector
+
+N Ogaeka
+https://wiki.travellerrpg.com/Ogaeka_Subsector
+
+O Ourrvikh
+https://wiki.travellerrpg.com/Ourrvikh_Subsector
+
+P Aegaek
+https://wiki.travellerrpg.com/Aegaek_Subsector
+
+//=============================================================================
+
+
+	VERGE
+	https://wiki.travellerrpg.com/Verge_Sector
+
+A Piimigeka
+https://wiki.travellerrpg.com/Piimigeka_Subsector
+None
+
+B Draco Abyss
+https://wiki.travellerrpg.com/Draco_Abyss_Subsector
+
+
+C Mimiuudlika
+https://wiki.travellerrpg.com/Mimiuudlika_Subsector
+https://wiki.travellerrpg.com/Serai_(world)
+
+D Nuzuu
+https://wiki.travellerrpg.com/Nuzuu_Subsector
+https://wiki.travellerrpg.com/Khiniel_(world)
+
+E Shukhuarmiushruu
+https://wiki.travellerrpg.com/Shukhuarmiushruu_Subsector
+
+
+F Dark Chasm
+https://wiki.travellerrpg.com/Dark_Chasm_Subsector
+None
+
+G Biika
+https://wiki.travellerrpg.com/Biika_Subsector
+https://wiki.travellerrpg.com/Inan_(world)
+
+H Miruu
+https://wiki.travellerrpg.com/Miruu_Subsector
+https://wiki.travellerrpg.com/Tripolis_(world)
+
+I Arkhukamier
+https://wiki.travellerrpg.com/Arkhukamier_Subsector
+None
+
+J Khukaruu
+https://wiki.travellerrpg.com/Khukaruu_Subsector
+None
+
+K Likagemika
+https://wiki.travellerrpg.com/Likagemika_Subsector
+https://wiki.travellerrpg.com/Turin_(Ve_2023)_(world)
+
+L Khulikhu
+https://wiki.travellerrpg.com/Khulikhu_Subsector
+https://wiki.travellerrpg.com/Suuthon_(world)
+
+M Khuug
+https://wiki.travellerrpg.com/Khuug_Subsector
+None
+
+N Inugzuu
+https://wiki.travellerrpg.com/Inugzuu_Subsector
+None
+
+O Imkhuruuka
+https://wiki.travellerrpg.com/Imkhuruuka_Subsector
+None
+
+P Naakhulige
+https://wiki.travellerrpg.com/Naakhulige_Subsector
+None
+
+//=============================================================================
+
+
+	VLAND
+	https://wiki.travellerrpg.com/Vland_Sector
+
+A Voskhod
+https://wiki.travellerrpg.com/Voskhod_Subsector
+https://wiki.travellerrpg.com/Voskhod_(world)
+
+B Vhodan
+https://wiki.travellerrpg.com/Vhodan_Subsector
+https://wiki.travellerrpg.com/Vhodan_(world)
+
+C Anarsi
+https://wiki.travellerrpg.com/Anarsi_Subsector
+https://wiki.travellerrpg.com/Anarsi_(world)
+
+D Theton
+https://wiki.travellerrpg.com/Theton_Subsector
+https://wiki.travellerrpg.com/Theton_(world)
+
+E Lalaki Kharir
+https://wiki.travellerrpg.com/Lalaki_Kharir_Subsector
+None
+
+F Kagamira
+https://wiki.travellerrpg.com/Kagamira_Subsector
+https://wiki.travellerrpg.com/Kagamira_(world)
+
+G Vland
+https://wiki.travellerrpg.com/Vland_Subsector
+https://wiki.travellerrpg.com/Vland_(world)
+
+H Shiigus
+https://wiki.travellerrpg.com/Shiigus_Subsector
+https://wiki.travellerrpg.com/Shiigus_(world)
+
+I Dusa
+https://wiki.travellerrpg.com/Dusa_Subsector
+None
+
+J Akumid
+https://wiki.travellerrpg.com/Akumid_Subsector
+https://wiki.travellerrpg.com/Akumid_(world)
+
+K Kasear
+https://wiki.travellerrpg.com/Kasear_Subsector
+https://wiki.travellerrpg.com/Kasear_(world)
+
+L Anakod
+https://wiki.travellerrpg.com/Anakod_Subsector
+https://wiki.travellerrpg.com/Anakod_(world)
+
+M Parsi
+https://wiki.travellerrpg.com/Parsi_Subsector
+https://wiki.travellerrpg.com/Parsi_(world)
+
+N Daangiilu
+https://wiki.travellerrpg.com/Daangiilu_Subsector
+https://wiki.travellerrpg.com/Daangiilu_(world)
+
+O Nulisud
+https://wiki.travellerrpg.com/Nulisud_Subsector
+https://wiki.travellerrpg.com/Nulisud_(world)
+
+P Kakadan
+https://wiki.travellerrpg.com/Kakadan_Subsector
+https://wiki.travellerrpg.com/Kakadan_(world)
+
+//=============================================================================
+
+
+	ZARUSHAGAR
+	https://wiki.travellerrpg.com/Zarushagar_Sector
+
+A Ibaru
+https://wiki.travellerrpg.com/Ibaru_Subsector
+https://wiki.travellerrpg.com/Strela_(world)
+
+B Triton
+https://wiki.travellerrpg.com/Triton_Subsector
+https://wiki.travellerrpg.com/Sternbach_(world)
+
+C Lagaar
+https://wiki.travellerrpg.com/Lagaar_Subsector
+https://wiki.travellerrpg.com/Libuka_(world)
+
+D Lode
+https://wiki.travellerrpg.com/Lode_Subsector
+https://wiki.travellerrpg.com/Lode_(world)
+
+E Iimii
+https://wiki.travellerrpg.com/Iimii_Subsector
+https://wiki.travellerrpg.com/Iimii_(world)
+
+F Khipge
+https://wiki.travellerrpg.com/Khipge_Subsector
+https://wiki.travellerrpg.com/Kawa-kwi_(world)
+
+G Epshu
+https://wiki.travellerrpg.com/Epshu_Subsector
+https://wiki.travellerrpg.com/Epshu_(world)
+
+H Gaussi
+https://wiki.travellerrpg.com/Gaussi_Subsector
+https://wiki.travellerrpg.com/Ad_Dobere_(world)
+
+I Mizar
+https://wiki.travellerrpg.com/Mizar_Subsector
+https://wiki.travellerrpg.com/Kaas_(world)
+
+J Liasdi
+https://wiki.travellerrpg.com/Liasdi_Subsector
+https://wiki.travellerrpg.com/Liasdi_(world)
+
+K Wolf
+https://wiki.travellerrpg.com/Wolf_Subsector
+https://wiki.travellerrpg.com/Lianma_(world)
+
+L Oasis
+https://wiki.travellerrpg.com/Oasis_Subsector
+https://wiki.travellerrpg.com/Shytek-oberon_(world)
+
+M Void (Za M)
+https://wiki.travellerrpg.com/Void_(Za_M)_Subsector
+https://wiki.travellerrpg.com/Colony_Four_(world)
+
+N Allegro
+https://wiki.travellerrpg.com/Allegro_Subsector
+https://wiki.travellerrpg.com/Allegro_(world)
+
+O Rhamsteppe
+https://wiki.travellerrpg.com/Rhamsteppe_Subsector
+https://wiki.travellerrpg.com/Udiid_(world)
+
+P Mongrabi
+https://wiki.travellerrpg.com/Mongrabi_Subsector
+https://wiki.travellerrpg.com/Kees_(world)
+
+//=============================================================================
+
+
+	ZIAFRPLIANS
+	https://wiki.travellerrpg.com/Ziafrplians_Sector
+
+A Diazhiensh
+https://wiki.travellerrpg.com/Diazhiensh_Subsector
+https://wiki.travellerrpg.com/Ifsenja_Siakr_(world)
+
+B Abishiaz
+https://wiki.travellerrpg.com/Abishiaz_Subsector
+https://wiki.travellerrpg.com/Shtia%27ial_(world)
+
+C Alta
+https://wiki.travellerrpg.com/Alta_Subsector
+https://wiki.travellerrpg.com/Plenchzdiepr_(world)
+
+D Asepvedl
+https://wiki.travellerrpg.com/Asepvedl_Subsector
+https://wiki.travellerrpg.com/Kfathaell_(world)
+
+E Zhdensh
+https://wiki.travellerrpg.com/Zhdensh_Subsector
+https://wiki.travellerrpg.com/Anchiefl_(world)
+
+F Keditlye
+https://wiki.travellerrpg.com/Keditlye_Subsector
+https://wiki.travellerrpg.com/Zhoiansdrant_(world)
+
+G Etszdili
+https://wiki.travellerrpg.com/Etszdili_Subsector
+https://wiki.travellerrpg.com/Khekhgzakgvog_(world)
+
+H Tekli
+https://wiki.travellerrpg.com/Tekli_Subsector
+https://wiki.travellerrpg.com/Koghagtog_(world)
+
+I Anshniepr Lenzh
+https://wiki.travellerrpg.com/Anshniepr_Lenzh_Subsector
+https://wiki.travellerrpg.com/O%27staz_(world)
+
+J Dlazdiaz Shtiaklbo
+https://wiki.travellerrpg.com/Dlazdiaz_Shtiaklbo_Subsector
+https://wiki.travellerrpg.com/Bemnamezh_(world)
+
+K Tliaqlvie
+https://wiki.travellerrpg.com/Tliaqlvie_Subsector
+https://wiki.travellerrpg.com/Thueaeth_(world)
+
+L Ianshepl
+https://wiki.travellerrpg.com/Ianshepl_Subsector
+https://wiki.travellerrpg.com/Agvalae_(world)
+
+M Ashemiepr Lenzh
+https://wiki.travellerrpg.com/Ashemiepr_Lenzh_Subsector
+https://wiki.travellerrpg.com/Diliefidr_(world)
+
+N Dintzhdevr
+https://wiki.travellerrpg.com/Dintzhdevr_Subsector
+https://wiki.travellerrpg.com/Irapratl_(world)
+
+O Iavdeiev
+https://wiki.travellerrpg.com/Iavdeiev_Subsector
+https://wiki.travellerrpg.com/Ier_Lal_(world)
+
+P Zdiadlevepra
+https://wiki.travellerrpg.com/Zdiadlevepra_Subsector
+https://wiki.travellerrpg.com/Zhdoiesh_(world)

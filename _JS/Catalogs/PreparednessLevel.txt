@@ -1,0 +1,7 @@
+"1D","PL"
+"1","0-Total Demobilisation"
+"2","1-Partial Demobilisation"
+"3","2-Limited Mobilisation"
+"4","3-Moderate Mobilisation"
+"5","4-High Mobilisation"
+"6","5-Full Mobilisation"

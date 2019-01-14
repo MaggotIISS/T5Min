@@ -1,0 +1,5 @@
+//	AE7-0.txt
+lines.gif
+box.gif c c FFFFFF
+AE7.gif c c 000000
+AE7-0.gif

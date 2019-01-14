@@ -1,0 +1,6 @@
+//	Army-0.txt
+#ARMY  00 00 FF
+lines.gif
+box.gif c c 0000FF
+ARMY 1 1 35 H 000000
+Army-0.gif

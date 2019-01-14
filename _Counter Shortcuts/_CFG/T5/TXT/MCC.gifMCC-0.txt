@@ -1,0 +1,10 @@
+//	MCC.gifMCC-0.txt
+# MarineCC.cfg  236
+#  CPS 8
+#  MC1 57
+#  MC2 57
+#  MC3 57
+#  MC4 57
+armim.gif
+lines.gif c c 000000
+MCC.gifMCC-0.gif

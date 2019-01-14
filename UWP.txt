@@ -1,0 +1,8 @@
+Starport
+Size
+Atmosphere
+Hydrosphere
+Population
+Govenment
+Law Level
+Tech Level

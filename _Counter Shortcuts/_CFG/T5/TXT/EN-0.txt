@@ -1,0 +1,5 @@
+//	EN-0.txt
+lines.gif
+Box.gif c c 3030FF
+Eng.gif c c 000000
+EN-0.gif

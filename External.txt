@@ -1,0 +1,45 @@
+//comment lines
+//Filetype,Description,Program,Folder (lines split into 4 variables by comma = open directory chooser to start
+//Program (other lines containing .exe = start program
+//Else sets current directory for JFileChooser and opens
+//Click or Double-Click to start (depending on amount of variables on line)
+//
+html,Web,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\T5\Spinward Marches\C Regina\1705 Efate\
+html,Web,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\T5\Spinward Marches\C Regina\1910 Regina\
+*,Web,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\Users\maggot\Downloads\WebPages
+htm,Web,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\Users\maggot\Downloads\WebPages
+gif,Pic,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,D:\Cyberboard\BMP\
+bmp,Pic,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,D:\Cyberboard\BMP\
+png,Pic,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\Users\maggot\Downloads\Pics\
+jpg,Pic,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\Users\maggot\Downloads\Pics\
+pdf,PDFs,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,D:\Cyberboard\SkyRig\
+*,Any,C:\Program Files (x86)\Mozilla Firefox\firefox.exe,C:\T5\Spinward Marches\A Cronor\0101 Zeycude\
+//
+*,Text,"C:\Program Files (x86)\Notepad++\notepad++.exe",C:\T5\_CFG\T5\T5C\Vehicle
+*,Text,"C:\Program Files (x86)\Notepad++\notepad++.exe",C:\T5\_CFG\T5\T5C\Ship
+//
+*,Text,C:\Windows\notepad.exe,C:\T5\Spinward Marches\A Cronor\0101 Zeycude\
+*,Text,C:\Windows\notepad.exe,C:\T5\_JS\
+sec,Text,C:\Windows\notepad.exe,C:\T5\_SEC\
+txt,Text,C:\Windows\notepad.exe,D:\Cyberboard\
+bat,Text,C:\Windows\notepad.exe,D:\Cyberboard\BAT\
+//
+pdf,Acrobat,C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AcroRd32.exe,D:\Cyberboard\SkyRig\
+//
+gbx,Game Box,D:\Cyberboard\CBDesign.exe, D:\Cyberboard
+gsn,Game Box Scenario,D:\Cyberboard\CBPlay.exe, D:\Cyberboard
+//
+odg,Drawing,C:\Program Files (x86)\OpenOffice 4\program\sdraw.exe,D:\Cyberboard\OOO\
+odt,Text Doc,C:\Program Files (x86)\OpenOffice 4\program\swriter.exe,D:\Cyberboard\OOO\
+html,Web Page,C:\Program Files (x86)\OpenOffice 4\program\sweb.exe,D:\Cyberboard\OOO\
+ods,Spreadsheet,C:\Program Files (x86)\OpenOffice 4\program\scalc.exe,D:\Cyberboard\OOO\
+odb,DataBase,C:\Program Files (x86)\OpenOffice 4\program\sbase.exe,D:\Cyberboard\OOO\
+odp,Presentation,C:\Program Files (x86)\OpenOffice 4\program\simpress.exe,D:\Cyberboard\OOO\
+odf,Formulae,C:\Program Files (x86)\OpenOffice 4\program\smath.exe,D:\Cyberboard\OOO\
+//
+mp3,MP3 Music,C:\Program Files (x86)\VideoLAN\VLC\vlc.exe,C:\MarksMusic\
+mp4,MP4 Video,C:\Program Files (x86)\VideoLAN\VLC\vlc.exe,C:\Users\maggot\Downloads\Ant Videos
+*,Video,C:\Program Files (x86)\VideoLAN\VLC\vlc.exe,C:\Users\maggot\Downloads\Ant Videos
+mp4,TravellerVids,C:\Program Files (x86)\VideoLAN\VLC\vlc.exe,C:\T5\
+//
+*,Text,"C:\Program Files (x86)\Notepad++\notepad++.exe",C:\T5\_JS\

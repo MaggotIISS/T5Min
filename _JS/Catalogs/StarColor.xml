@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="StarColor.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Code","Description","Temperature (K)"
+"O","Blue",">33,000"
+  <Catalog>
+    <col0>O</col0>
+    <col1>Blue</col1>
+    <col2>>33,000</col2>
+  </Catalog>
+ 
+"B","Blue-White","10,000-33,000"
+  <Catalog>
+    <col0>B</col0>
+    <col1>Blue-White</col1>
+    <col2>10,000-33,000</col2>
+  </Catalog>
+ 
+"A","Blue-White","7,500-10,000"
+  <Catalog>
+    <col0>A</col0>
+    <col1>Blue-White</col1>
+    <col2>7,500-10,000</col2>
+  </Catalog>
+ 
+"F","Yellow-White","6,000-7,500"
+  <Catalog>
+    <col0>F</col0>
+    <col1>Yellow-White</col1>
+    <col2>6,000-7,500</col2>
+  </Catalog>
+ 
+"G","Yellow","5,200-6,000"
+  <Catalog>
+    <col0>G</col0>
+    <col1>Yellow</col1>
+    <col2>5,200-6,000</col2>
+  </Catalog>
+ 
+"K","Orange","3,700-5,200"
+  <Catalog>
+    <col0>K</col0>
+    <col1>Orange</col1>
+    <col2>3,700-5,200</col2>
+  </Catalog>
+ 
+"M","Red","2,000-3,700"
+  <Catalog>
+    <col0>M</col0>
+    <col1>Red</col1>
+    <col2>2,000-3,700</col2>
+  </Catalog>
+ 
+</Catalogs>

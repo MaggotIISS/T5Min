@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Systems.xsl"?>
+<!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+0
+0101 Zeycude              C430698-9 De Na Ni Po                              { -1 } (C53-1) [6559] -     -  - 613 8  ZhCo K9 V          
+  <System>
+    <hex>0101</hex>
+    <sname>Zeycude</sname>
+    <UWP>C430698-9</UWP>
+    <st>C</st>
+    <si>4</si>
+    <at>3</at>
+    <hy>0</hy>
+    <po>6</po>
+    <go>9</go>
+    <ll>8</ll>
+    <tl>9</tl>
+    <remarks>De Na Ni Po</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(C53-1)</ex>
+    <cx>[6559]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>613</pbg>
+    <w>8</w>
+    <a>ZhCo</a>
+    <stellar>K9 V</stellar>
+  </System>
+
+</Systems>

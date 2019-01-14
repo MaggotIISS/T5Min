@@ -1,0 +1,51 @@
+//	Pinnace-10-0.txt
+// lines.gif
+// Box.gif 1 1 FFFFFF
+// Box.gif c 1 FFFFFF
+// Box.gif 43 1 FFFFFF
+// Box.gif 1 c FFFFFF
+// Box.gif c c FFFFFF
+// Box.gif 43 c FFFFFF
+// Box.gif 1 37 FFFFFF
+// Box.gif c 37 FFFFFF
+// Box.gif 43 37 FFFFFF
+// PINNACE00.gif C C D0D0D0
+// Pinnace.gif c c 000000
+// PINNACE C 1 35 H 000000
+// 40DT=+ 2 19 35 H 000000
+// DR100 2 25 35 H 000000
+// HP7500 2 31 35 H 000000
+// P 2 37 35 H 000000
+// A 2 43 35 H 000000
+// C0 2 49 35 H 000000
+// TL10 23 37 35 H 000000
+// 3098 23 43 35 H 000000
+// 4.9G 23 49 35 H 000000
+// C4 45 19 35 H 000000
+// P96 45 25 35 H 000000
+// C3.5 45 31 35 H 000000
+// Pinnace-10-0.gif
+////////////////////////////////////////////////////////////////////////////////
+// Pinnace-10
+FC
+0 = 
+1 = 
+2 = 
+3 = 
+4 = 
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+BC
+0 = Pinnace-10
+1 = 
+2 = 
+3 = V 
+4 = M 
+5 = C 
+6 = TL 
+7 = J 
+8 = G 
+9 =  

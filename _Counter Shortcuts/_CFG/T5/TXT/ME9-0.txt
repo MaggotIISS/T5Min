@@ -1,0 +1,5 @@
+//	ME9-0.txt
+lines.gif
+box.gif c c FFFFFF
+ME9.gif c c 000000
+ME9-0.gif

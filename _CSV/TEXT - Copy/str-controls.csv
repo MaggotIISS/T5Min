@@ -1,0 +1,6 @@
+"TL","Type","AirFrame","MP","Mass","Cr"
+"5","Simple","Fast subsonic","0","0.05","20000"
+"6","Boosted","Transonic","1","0.1","50000"
+"6","Powered","Hypersonic","2","0.15","100000"
+"7","Enhanced","Hypersonic","4","0.2","200000"
+"8","Computer Enhanced","Hypersonic","6","0.15","1000000"

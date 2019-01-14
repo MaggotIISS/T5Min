@@ -1,0 +1,4 @@
+//	Truth-0.txt
+lines.gif
+tru.gif c c replace
+Truth-0.gif

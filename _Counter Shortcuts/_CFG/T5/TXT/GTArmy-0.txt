@@ -1,0 +1,6 @@
+//	GTArmy-0.txt
+lines.gif
+O10 46 7 35 H 000000
+box.gif c c 0000FF
+star.gif c c 000000
+GTArmy-0.gif

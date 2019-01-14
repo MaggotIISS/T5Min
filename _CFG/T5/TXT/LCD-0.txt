@@ -1,0 +1,15 @@
+//	LCD-0.txt
+#    LiftCavalryDivision
+lines.gif
+box.gif c 1 C0D0C0
+O8 48 6 35 H 000000
+box.gif 1 c 00FFFF
+box.gif 40 c 00FFFF
+box.gif c c 00FFFF
+270 c 5 35 H 000000
+2888 3 c 35 H 000000
+2888 c c 35 H 000000
+2888 47 c 35 H 000000
+cavalry.gif 4 5 000000
+lines.gif c c 000000
+LCD-0.gif

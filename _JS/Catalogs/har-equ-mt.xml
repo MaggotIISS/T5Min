@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-equ-mt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""EQUIP","TTL","VOL","MASS","COST","NOTE""
+""EQUIPMENT","TTL","V","M","CR","""
+  <Catalog>
+    <col0>EQUIPMENT</col0>
+    <col1>TTL</col1>
+    <col2>V</col2>
+    <col3>M</col3>
+    <col4>CR</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""AIRLOCK,PORTABLE","9","2KL","6KG","1000","""
+  <Catalog>
+    <col0>AIRLOCK,PORTABLE</col0>
+    <col1>9</col1>
+    <col2>2KL</col2>
+    <col3>6KG</col3>
+    <col4>1000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""AIR_TANKS","5","5L","2.5KG","500","2HRS""
+  <Catalog>
+    <col0>AIR_TANKS</col0>
+    <col1>5</col1>
+    <col2>5L</col2>
+    <col3>2.5KG</col3>
+    <col4>500</col4>
+    <col5>2HRS</col5>
+  </Catalog>
+ 
+""","12","4L","2KG","400","4HRS""
+  <Catalog>
+    <col0></col0>
+    <col1>12</col1>
+    <col2>4L</col2>
+    <col3>2KG</col3>
+    <col4>400</col4>
+    <col5>4HRS</col5>
+  </Catalog>
+ 
+""","14","1L","0.5KG","200","12HRS""
+  <Catalog>
+    <col0></col0>
+    <col1>14</col1>
+    <col2>1L</col2>
+    <col3>0.5KG</col3>
+    <col4>200</col4>
+    <col5>12HRS</col5>
+  </Catalog>
+ 
+""AIR_TANKS,U/W","5","5L","2.5KG","800","2HRS""
+  <Catalog>
+    <col0>AIR_TANKS,U/W</col0>
+    <col1>5</col1>
+    <col2>5L</col2>
+    <col3>2.5KG</col3>
+    <col4>800</col4>
+    <col5>2HRS</col5>
+  </Catalog>
+ 
+""ATMOSPHERE TESTER","7","2L","1KG","150","""
+  <Catalog>
+    <col0>ATMOSPHERE TESTER</col0>
+    <col1>7</col1>
+    <col2>2L</col2>
+    <col3>1KG</col3>
+    <col4>150</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""ATTACHE_CASE","7","2L","1KG","75","""
+  <Catalog>
+    <col0>ATTACHE_CASE</col0>
+    <col1>7</col1>
+    <col2>2L</col2>
+    <col3>1KG</col3>
+    <col4>75</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""AXE,ICE","3","3L","1.5KG","25","SW/IM""
+  <Catalog>
+    <col0>AXE,ICE</col0>
+    <col1>3</col1>
+    <col2>3L</col2>
+    <col3>1.5KG</col3>
+    <col4>25</col4>
+    <col5>SW/IM</col5>
+  </Catalog>
+ 
+""BACKPACK","3","40L","3KG","45","""
+  <Catalog>
+    <col0>BACKPACK</col0>
+    <col1>3</col1>
+    <col2>40L</col2>
+    <col3>3KG</col3>
+    <col4>45</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BALL,RESCUE","7","1L","5KG","150","""
+  <Catalog>
+    <col0>BALL,RESCUE</col0>
+    <col1>7</col1>
+    <col2>1L</col2>
+    <col3>5KG</col3>
+    <col4>150</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BASE,ADVANCED","8","72KL","6000KG","50000","""
+  <Catalog>
+    <col0>BASE,ADVANCED</col0>
+    <col1>8</col1>
+    <col2>72KL</col2>
+    <col3>6000KG</col3>
+    <col4>50000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BATTLE_COMPUTER","9","28L","15KG","10000","""
+  <Catalog>
+    <col0>BATTLE_COMPUTER</col0>
+    <col1>9</col1>
+    <col2>28L</col2>
+    <col3>15KG</col3>
+    <col4>10000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BEACON,EMERGENCY","9","2L","1KG","750","""
+  <Catalog>
+    <col0>BEACON,EMERGENCY</col0>
+    <col1>9</col1>
+    <col2>2L</col2>
+    <col3>1KG</col3>
+    <col4>750</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BINOCULARS","3","2L","1KG","75","""
+  <Catalog>
+    <col0>BINOCULARS</col0>
+    <col1>3</col1>
+    <col2>2L</col2>
+    <col3>1KG</col3>
+    <col4>75</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BINOCULARS,ELEC","8","2L","2KG","750","""
+  <Catalog>
+    <col0>BINOCULARS,ELEC</col0>
+    <col1>8</col1>
+    <col2>2L</col2>
+    <col3>2KG</col3>
+    <col4>750</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BINOC.,IMAG_CONV","10","1L","1.25KG","12000","""
+  <Catalog>
+    <col0>BINOC.,IMAG_CONV</col0>
+    <col1>10</col1>
+    <col2>1L</col2>
+    <col3>1.25KG</col3>
+    <col4>12000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BINOC.,PRIS","12","3l","2KG","3500","""
+  <Catalog>
+    <col0>BINOC.,PRIS</col0>
+    <col1>12</col1>
+    <col2>3l</col2>
+    <col3>2KG</col3>
+    <col4>3500</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BOOTS,CLIMBING","3","3l","1KG","1000","""
+  <Catalog>
+    <col0>BOOTS,CLIMBING</col0>
+    <col1>3</col1>
+    <col2>3l</col2>
+    <col3>1KG</col3>
+    <col4>1000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BUGS/DETECTORS","15","1l","1KG","1000","""
+  <Catalog>
+    <col0>BUGS/DETECTORS</col0>
+    <col1>15</col1>
+    <col2>1l</col2>
+    <col3>1KG</col3>
+    <col4>1000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""BULLHORN","5","3L","0.5KG","120","""
+  <Catalog>
+    <col0>BULLHORN</col0>
+    <col1>5</col1>
+    <col2>3L</col2>
+    <col3>0.5KG</col3>
+    <col4>120</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CABIN,PREFAB.","6","72KL","4000KG","10000","""
+  <Catalog>
+    <col0>CABIN,PREFAB.</col0>
+    <col1>6</col1>
+    <col2>72KL</col2>
+    <col3>4000KG</col3>
+    <col4>10000</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CABLE","9","1L","3KG","100","""
+  <Catalog>
+    <col0>CABLE</col0>
+    <col1>9</col1>
+    <col2>1L</col2>
+    <col3>3KG</col3>
+    <col4>100</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CALCULATOR","7","0.25L","0.1KG","10","""
+  <Catalog>
+    <col0>CALCULATOR</col0>
+    <col1>7</col1>
+    <col2>0.25L</col2>
+    <col3>0.1KG</col3>
+    <col4>10</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CARP._TOOL_SET","2","30L","25KG","300","""
+  <Catalog>
+    <col0>CARP._TOOL_SET</col0>
+    <col1>2</col1>
+    <col2>30L</col2>
+    <col3>25KG</col3>
+    <col4>300</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CHARGE,BREACH","8","2L","2KG","100","""
+  <Catalog>
+    <col0>CHARGE,BREACH</col0>
+    <col1>8</col1>
+    <col2>2L</col2>
+    <col3>2KG</col3>
+    <col4>100</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CLOTHING,COLD","1","16L","4KG","200","""
+  <Catalog>
+    <col0>CLOTHING,COLD</col0>
+    <col1>1</col1>
+    <col2>16L</col2>
+    <col3>4KG</col3>
+    <col4>200</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""","6","12L","3KG","200","""
+  <Catalog>
+    <col0></col0>
+    <col1>6</col1>
+    <col2>12L</col2>
+    <col3>3KG</col3>
+    <col4>200</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""","10","8L","2KG","800","""
+  <Catalog>
+    <col0></col0>
+    <col1>10</col1>
+    <col2>8L</col2>
+    <col3>2KG</col3>
+    <col4>800</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CLOTHING,DESERT","3","-","-","-","""
+  <Catalog>
+    <col0>CLOTHING,DESERT</col0>
+    <col1>3</col1>
+    <col2>-</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""COMMDOTS","10","-","-","-","""
+  <Catalog>
+    <col0>COMMDOTS</col0>
+    <col1>10</col1>
+    <col2>-</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5></col5>
+  </Catalog>
+ 
+""COMM./RECORDER","11","0.1L","0.1KG","400","50KM""
+  <Catalog>
+    <col0>COMM./RECORDER</col0>
+    <col1>11</col1>
+    <col2>0.1L</col2>
+    <col3>0.1KG</col3>
+    <col4>400</col4>
+    <col5>50KM</col5>
+  </Catalog>
+ 
+""COMMUNICATOR","","","","","""
+  <Catalog>
+    <col0>COMMUNICATOR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""COMM.,LASER","10","5","1.5KG","2500","500KM""
+  <Catalog>
+    <col0>COMM.,LASER</col0>
+    <col1>10</col1>
+    <col2>5</col2>
+    <col3>1.5KG</col3>
+    <col4>2500</col4>
+    <col5>500KM</col5>
+  </Catalog>
+ 
+""COMM.,VIDEO","","","","","""
+  <Catalog>
+    <col0>COMM.,VIDEO</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""COMPASS,MAGNETIC","","","","","""
+  <Catalog>
+    <col0>COMPASS,MAGNETIC</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""COMPUTER,HAND","","","","","""
+  <Catalog>
+    <col0>COMPUTER,HAND</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""COUNTER,RAD","","","","","""
+  <Catalog>
+    <col0>COUNTER,RAD</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""CRAMPONS","","","","","""
+  <Catalog>
+    <col0>CRAMPONS</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DATA_HEADSET","","","","","""
+  <Catalog>
+    <col0>DATA_HEADSET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DENSITOMETER,HAND","","","","","""
+  <Catalog>
+    <col0>DENSITOMETER,HAND</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DESERT_SURVIVAL_KIT","","","","","""
+  <Catalog>
+    <col0>DESERT_SURVIVAL_KIT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DETECTOR,METAL","","","","","""
+  <Catalog>
+    <col0>DETECTOR,METAL</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DETECTOR,STRESS","","","","","""
+  <Catalog>
+    <col0>DETECTOR,STRESS</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DISGUISE_KIT","","","","","""
+  <Catalog>
+    <col0>DISGUISE_KIT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""DYE,WATER","","","","","""
+  <Catalog>
+    <col0>DYE,WATER</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""ECHO_SOUNDER","","","","","""
+  <Catalog>
+    <col0>ECHO_SOUNDER</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""ELEC._TOOL_SET","","","","","""
+  <Catalog>
+    <col0>ELEC._TOOL_SET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""FILTER/RESPIRATOR","","","","","""
+  <Catalog>
+    <col0>FILTER/RESPIRATOR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""FLARE,SMOKE","","","","","""
+  <Catalog>
+    <col0>FLARE,SMOKE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""FLARE_GUN","","","","","""
+  <Catalog>
+    <col0>FLARE_GUN</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GAUGE,DEPTH","","","","","""
+  <Catalog>
+    <col0>GAUGE,DEPTH</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GILL,ARTIFICIAL","","","","","""
+  <Catalog>
+    <col0>GILL,ARTIFICIAL</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GILL,BIONIC","","","","","""
+  <Catalog>
+    <col0>GILL,BIONIC</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GILL,POWERED","","","","","""
+  <Catalog>
+    <col0>GILL,POWERED</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GOGGLES","","","","","""
+  <Catalog>
+    <col0>GOGGLES</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GOGGLES,IR","","","","","""
+  <Catalog>
+    <col0>GOGGLES,IR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GOGGLES,LLTV","","","","","""
+  <Catalog>
+    <col0>GOGGLES,LLTV</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GRAPNEL_GUN","","","","","""
+  <Catalog>
+    <col0>GRAPNEL_GUN</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""GRAV_BELT","","","","","""
+  <Catalog>
+    <col0>GRAV_BELT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""HAMMER,ROCK","","","","","""
+  <Catalog>
+    <col0>HAMMER,ROCK</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""HEATSUIT","","","","","""
+  <Catalog>
+    <col0>HEATSUIT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""HELMET,TRANS.","","","","","""
+  <Catalog>
+    <col0>HELMET,TRANS.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""HOIST,CLIMB.","","","","","""
+  <Catalog>
+    <col0>HOIST,CLIMB.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""HOIST,JUMAR","","","","","""
+  <Catalog>
+    <col0>HOIST,JUMAR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LAMP_GAS/OIL","","","","","""
+  <Catalog>
+    <col0>LAMP_GAS/OIL</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LANTERN,COLD","","","","","""
+  <Catalog>
+    <col0>LANTERN,COLD</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LOCATOR,INERTIAL","","","","","""
+  <Catalog>
+    <col0>LOCATOR,INERTIAL</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LOCKPICK_SET","","","","","""
+  <Catalog>
+    <col0>LOCKPICK_SET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LOCKS,COMBI.","","","","","""
+  <Catalog>
+    <col0>LOCKS,COMBI.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LOCKS,ELEC.","","","","","""
+  <Catalog>
+    <col0>LOCKS,ELEC.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""LOCKS,TUMB","","","","","""
+  <Catalog>
+    <col0>LOCKS,TUMB</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MACHETE","","","","","""
+  <Catalog>
+    <col0>MACHETE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MAP,ELEC.","","","","","""
+  <Catalog>
+    <col0>MAP,ELEC.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MASK,FACE","","","","","""
+  <Catalog>
+    <col0>MASK,FACE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MASK,FILTER","","","","","""
+  <Catalog>
+    <col0>MASK,FILTER</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MASK,PROTECT.","","","","","""
+  <Catalog>
+    <col0>MASK,PROTECT.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MECH._TOOL_SET","","","","","""
+  <Catalog>
+    <col0>MECH._TOOL_SET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MEDICAL_KIT","","","","","""
+  <Catalog>
+    <col0>MEDICAL_KIT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MED._SCANNER","","","","","""
+  <Catalog>
+    <col0>MED._SCANNER</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MED_SCANNER,PKT.","","","","","""
+  <Catalog>
+    <col0>MED_SCANNER,PKT.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""METAL_TOOL_SET","","","","","""
+  <Catalog>
+    <col0>METAL_TOOL_SET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MIRROR,RETURN","","","","","""
+  <Catalog>
+    <col0>MIRROR,RETURN</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""MOUNTAINEERS_KIT","","","","","""
+  <Catalog>
+    <col0>MOUNTAINEERS_KIT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""NAVIGATOR,INERTIAL","","","","","""
+  <Catalog>
+    <col0>NAVIGATOR,INERTIAL</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""OXYGEN_REBREATHER","","","","","""
+  <Catalog>
+    <col0>OXYGEN_REBREATHER</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""PARACHUTE","","","","","""
+  <Catalog>
+    <col0>PARACHUTE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""PARACHUTE,GRAV","","","","","""
+  <Catalog>
+    <col0>PARACHUTE,GRAV</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""PARAWING","","","","","""
+  <Catalog>
+    <col0>PARAWING</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""PITONS","","","","","""
+  <Catalog>
+    <col0>PITONS</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""PSIONIC_SHIELD_HELMET","","","","","""
+  <Catalog>
+    <col0>PSIONIC_SHIELD_HELMET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RESPIRATOR","","","","","""
+  <Catalog>
+    <col0>RESPIRATOR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""ROPE","","","","","""
+  <Catalog>
+    <col0>ROPE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SATELLITE,NAVIG.","","","","","""
+  <Catalog>
+    <col0>SATELLITE,NAVIG.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SENSOR,NAS","","","","","""
+  <Catalog>
+    <col0>SENSOR,NAS</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SOLAR_VAPORATOR","","","","","""
+  <Catalog>
+    <col0>SOLAR_VAPORATOR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""STILL,FUSION","","","","","""
+  <Catalog>
+    <col0>STILL,FUSION</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SUIT_AIR_CONDIT.","","","","","""
+  <Catalog>
+    <col0>SUIT_AIR_CONDIT.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SUIT,DESERT","","","","","""
+  <Catalog>
+    <col0>SUIT,DESERT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SUIT,DRY","","","","","""
+  <Catalog>
+    <col0>SUIT,DRY</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SUIT,WET","","","","","""
+  <Catalog>
+    <col0>SUIT,WET</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SUIT,HEATED","","","","","""
+  <Catalog>
+    <col0>SUIT,HEATED</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SUIT,PROTEC.","","","","","""
+  <Catalog>
+    <col0>SUIT,PROTEC.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""SURVIVAL_BUBBLE","","","","","""
+  <Catalog>
+    <col0>SURVIVAL_BUBBLE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""TARPAULIN","","","","","""
+  <Catalog>
+    <col0>TARPAULIN</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""TENT","","","","","""
+  <Catalog>
+    <col0>TENT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""TENT,PRESSUIR.","","","","","""
+  <Catalog>
+    <col0>TENT,PRESSUIR.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""TORCHES","","","","","""
+  <Catalog>
+    <col0>TORCHES</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""TORCHES,ELEC.","","","","","""
+  <Catalog>
+    <col0>TORCHES,ELEC.</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""TRANSLATOR","","","","","""
+  <Catalog>
+    <col0>TRANSLATOR</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""WALL_PATCH","","","","","""
+  <Catalog>
+    <col0>WALL_PATCH</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""WATER_FILTER","","","","","""
+  <Catalog>
+    <col0>WATER_FILTER</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""WATER_KIT","","","","","""
+  <Catalog>
+    <col0>WATER_KIT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""WATER_TABLETS","","","","","""
+  <Catalog>
+    <col0>WATER_TABLETS</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+</Catalogs>

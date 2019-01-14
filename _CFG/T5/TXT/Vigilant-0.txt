@@ -1,0 +1,5 @@
+//	Vigilant-0.txt
+lines.gif
+vigilant.gif c c replace
+lines.gif c c 000000
+Vigilant-0.gif

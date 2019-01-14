@@ -1,0 +1,7047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="nav-budget.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Mainworld","HEX","TLM","PRH","UWTN","PM","PM","GBM","NBM","","GCr","""
+""Zeycude","101","1","","4","0","6","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Zeycude</col0>
+    <col1>101</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Reno","102","0.5","","4","0","6","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Reno</col0>
+    <col1>102</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Errere","103","1","","4","0","9","parent","1","","","""
+  <Catalog>
+    <col0>Errere</col0>
+    <col1>103</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Cantrel","104","1","","2","0.5","5","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Cantrel</col0>
+    <col1>104</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gyomar","108","0.5","","4","-0.5","8","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Gyomar</col0>
+    <col1>108</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Thengo","202","0.5","","3","0","8","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Thengo</col0>
+    <col1>202</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rio","301","0.5","","3.5","0","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Rio</col0>
+    <col1>301</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gesentown","303","1","","4","0","8","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Gesentown</col0>
+    <col1>303</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Chronor","304","1","","5.5","0","3","1.2/1.5","1.2","y","","y""
+  <Catalog>
+    <col0>Chronor</col0>
+    <col1>304</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Atsa","307","1","","4.5","0","8","1.2/1.5","1.1","y","","""
+  <Catalog>
+    <col0>Atsa</col0>
+    <col1>307</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Whenge","503","0.5","","3","0","6","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Whenge</col0>
+    <col1>503</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Enlas-du","601","0.5","","4","-1","3","varies","1","","","""
+  <Catalog>
+    <col0>Enlas-du</col0>
+    <col1>601</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>3</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Algebaster","605","1","","4","0","4","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Algebaster</col0>
+    <col1>605</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rasatt","607","0.5","","2.5","0","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Rasatt</col0>
+    <col1>607</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ninjar","608","1","","4","0.5","4","parent","1","y","","""
+  <Catalog>
+    <col0>Ninjar</col0>
+    <col1>608</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sheyou","610","1","","4.5","0","1","varies","1","y","","""
+  <Catalog>
+    <col0>Sheyou</col0>
+    <col1>610</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Indo","703","0.5","","3.5","-0.5","3","parent","1","","","""
+  <Catalog>
+    <col0>Indo</col0>
+    <col1>703</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nerewhon","704","0.5","","2.5","0","8","varies","1","","","""
+  <Catalog>
+    <col0>Nerewhon</col0>
+    <col1>704</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Cipango","705","1","","5","0","1","parent","1","y","","""
+  <Catalog>
+    <col0>Cipango</col0>
+    <col1>705</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Stave","710","0","","3.5","-0.5","8","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Stave</col0>
+    <col1>710</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Narval","805","0.5","","3.5","0","6","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Narval</col0>
+    <col1>805</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Plaven","807","0","","1.5","0","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Plaven</col0>
+    <col1>807</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Quar","808","1","","4.5","0","4","1/1.5","1","","","""
+  <Catalog>
+    <col0>Quar</col0>
+    <col1>808</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Frond","810","1","","2","0","1","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Frond</col0>
+    <col1>810</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Condyole","901","0.5","","3","-0.5","9","1/1.5","1","","","""
+  <Catalog>
+    <col0>Condyole</col0>
+    <col1>901</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Puparkin","902","1","","2.5","0.5","5","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Puparkin</col0>
+    <col1>902</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Chwistyoch","904","1","","4.5","0","4","parent","1","y","","""
+  <Catalog>
+    <col0>Chwistyoch</col0>
+    <col1>904</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gougeste","909","1","","3.5","0","4","0.8/1.4","0.8","y","","""
+  <Catalog>
+    <col0>Gougeste</col0>
+    <col1>909</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Esalin","1004","0.5","","3.5","0","2","varies","1","","","""
+  <Catalog>
+    <col0>Esalin</col0>
+    <col1>1004</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ruby","1005","1","","3","0.5","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Ruby</col0>
+    <col1>1005</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Emerald","1006","1","","3.5","0.5","5","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Emerald</col0>
+    <col1>1006</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zenopit","1010","0.5","","3","0","6","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Zenopit</col0>
+    <col1>1010</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Riverland","1102","1","","1","0.5","2","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Riverland</col0>
+    <col1>1102</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Clan","1103","1","","5","0","9","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Clan</col0>
+    <col1>1103</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jewell","1106","1","","5.5","0","6","1.15/1.2","1.15","y","","y""
+  <Catalog>
+    <col0>Jewell</col0>
+    <col1>1106</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Zircon","1110","0.5","","3.5","0","6","parent","1","","","""
+  <Catalog>
+    <col0>Zircon</col0>
+    <col1>1110</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ao-dai","1201","0.5","","3.5","-0.5","3","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Ao-dai</col0>
+    <col1>1201</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mongo","1204","1","","4","0.5","6","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Mongo</col0>
+    <col1>1204</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Utoland","1209","0.5","","2.5","0.5","4","parent","1","","","""
+  <Catalog>
+    <col0>Utoland</col0>
+    <col1>1209</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pequan","1210","0","","3","-0.5","7","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Pequan</col0>
+    <col1>1210</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>7</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nakege","1305","0","","1.5","0.5","5","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Nakege</col0>
+    <col1>1305</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lysen","1307","1","","4","0","6","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Lysen</col0>
+    <col1>1307</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Foelen","1401","0.5","","3.5","0.5","9","parent","1","","","""
+  <Catalog>
+    <col0>Foelen</col0>
+    <col1>1401</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Farreach","1402","1","","3","0.5","4","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Farreach</col0>
+    <col1>1402</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""871-438","1510","0.5","","0.5","0.5","8","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>871-438</col0>
+    <col1>1510</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Louzy","1604","0.5","","0.5","0.5","1","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Louzy</col0>
+    <col1>1604</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Grant","1607","-0.5","","0","0","2","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Grant</col0>
+    <col1>1607</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>0</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Efate","1705","1","","5.5","0","8","0.9/1.2","0.9","y","","y""
+  <Catalog>
+    <col0>Efate</col0>
+    <col1>1705</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Alell","1706","1","","5","0","4","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Alell</col0>
+    <col1>1706</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Yres","1802","0.5","","4","0","3","varies","1","","","""
+  <Catalog>
+    <col0>Yres</col0>
+    <col1>1802</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Menorb","1803","0.5","","5","-0.5","3","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Menorb</col0>
+    <col1>1803</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Uakye","1805","1","","3.5","0.5","3","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Uakye</col0>
+    <col1>1805</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Whanga","1806","0.5","","1","0","2","1/1.5","1","","","""
+  <Catalog>
+    <col0>Whanga</col0>
+    <col1>1806</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Knorbes","1807","0","","3.5","-0.5","8","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Knorbes</col0>
+    <col1>1807</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Forboldn","1808","0","","3","-0.5","3","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Forboldn</col0>
+    <col1>1808</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ruie","1809","0.5","","5","-0.5","7","varies","1","","","""
+  <Catalog>
+    <col0>Ruie</col0>
+    <col1>1809</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>7</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jenghe","1810","1","","4","0","3","parent","1","y","","""
+  <Catalog>
+    <col0>Jenghe</col0>
+    <col1>1810</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pixie","1903","1","","1.5","1","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Pixie</col0>
+    <col1>1903</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Boughene","1904","1","","3.5","0.5","6","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Boughene</col0>
+    <col1>1904</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Hefry","1909","0.5","","2.5","0.5","3","1/1.5","1","","","""
+  <Catalog>
+    <col0>Hefry</col0>
+    <col1>1909</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Regina","1910","1","","5","0","7","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Regina</col0>
+    <col1>1910</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Feri","2005","1","","5","0","6","varies","1","","","""
+  <Catalog>
+    <col0>Feri</col0>
+    <col1>2005</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Roup","2007","0.5","","5","-0.5","3","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Roup</col0>
+    <col1>2007</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pscias","2106","0","","2","-2.5","5","1/1.5","1","","","""
+  <Catalog>
+    <col0>Pscias</col0>
+    <col1>2106</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>-2.5</col5>
+    <col6>5</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Yori","2110","1","","4.5","0","7","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Yori</col0>
+    <col1>2110</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tentus","2201","1","","3.5","0","9","0.5/1.5","0.5","y","","""
+  <Catalog>
+    <col0>Tentus</col0>
+    <col1>2201</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kinorb","2202","0.5","","3.5","0.5","6","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Kinorb</col0>
+    <col1>2202</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Beck's World","2204","0","","2","0","7","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Beck's World</col0>
+    <col1>2204</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Enope","2205","0.5","","5","-0.5","6","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Enope</col0>
+    <col1>2205</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Wochiers","2207","1","","5","-1.5","7","1.2/1.5","1.1","y","","""
+  <Catalog>
+    <col0>Wochiers</col0>
+    <col1>2207</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-1.5</col5>
+    <col6>7</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Yorbund","2303","0.5","","3","0","2","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Yorbund</col0>
+    <col1>2303</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Shionthy","2306","0.5","","4","-3.5","7","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Shionthy</col0>
+    <col1>2306</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-3.5</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Algine","2308","0","","4.5","-3.5","7","varies","1","","","""
+  <Catalog>
+    <col0>Algine</col0>
+    <col1>2308</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>-3.5</col5>
+    <col6>7</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Yurst","2309","0.5","","3.5","-0.5","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Yurst</col0>
+    <col1>2309</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Heya","2402","0.5","","4","0","7","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Heya</col0>
+    <col1>2402</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Keng","2405","0","","4","-1","8","1.2/1.5","1.1","","","""
+  <Catalog>
+    <col0>Keng</col0>
+    <col1>2405</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>8</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Moughas","2406","1","","2.5","0.5","8","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Moughas</col0>
+    <col1>2406</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rethe","2408","0.5","","0.5","0.5","3","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Rethe</col0>
+    <col1>2408</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Inthe","2410","1","","4.5","0","4","varies","1","y","","""
+  <Catalog>
+    <col0>Inthe</col0>
+    <col1>2410</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Paya","2509","1","","2","1","6","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Paya</col0>
+    <col1>2509</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>1</col5>
+    <col6>6</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dhian","2510","0","","3","0","2","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Dhian</col0>
+    <col1>2510</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Corfu","2602","0.5","","3.5","-3","2","varies","1","","","""
+  <Catalog>
+    <col0>Corfu</col0>
+    <col1>2602</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-3</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Focaline","2607","1","","3.5","-0.5","7","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Focaline</col0>
+    <col1>2607</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lablon","2701","1","","3.5","0.5","5","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Lablon</col0>
+    <col1>2701</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Heguz","2706","1","","2","0","5","1/1.5","1","","","""
+  <Catalog>
+    <col0>Heguz</col0>
+    <col1>2706</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Violante","2708","1","","3","0","4","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Violante</col0>
+    <col1>2708</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pavanne","2905","1","","3","0","4","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Pavanne</col0>
+    <col1>2905</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Carsten","2906","1","","3","0","8","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Carsten</col0>
+    <col1>2906</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zila","2908","0.5","","4","-1","7","1/1.5","1","","","""
+  <Catalog>
+    <col0>Zila</col0>
+    <col1>2908</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>7</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jesedipere","3001","0.5","","2","0.5","4","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Jesedipere</col0>
+    <col1>3001</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Yebab","3002","0.5","","4.5","0","7","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Yebab</col0>
+    <col1>3002</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nasemin","3003","1","","3","0.5","6","1/1.5","1","","","""
+  <Catalog>
+    <col0>Nasemin</col0>
+    <col1>3003</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zykoca","3004","0.5","","3","-3","3","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Zykoca</col0>
+    <col1>3004</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-3</col5>
+    <col6>3</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Aramanx","3005","0.5","","5","0","2","varies","1","","","""
+  <Catalog>
+    <col0>Aramanx</col0>
+    <col1>3005</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pysadi","3008","0","","3","0","2","0.75/1.5","0.75","","","""
+  <Catalog>
+    <col0>Pysadi</col0>
+    <col1>3008</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.75/1.5</col7>
+    <col8>0.75</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""L'oeul d'Dieu","3010","1","","3.5","0.5","5","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>L'oeul d'Dieu</col0>
+    <col1>3010</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rugbird","3102","1","","4","0","8","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Rugbird</col0>
+    <col1>3102</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Towers","3103","1","","3","0.5","7","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Towers</col0>
+    <col1>3103</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Feneteman","3104","1","","2","0.5","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Feneteman</col0>
+    <col1>3104</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lewis","3107","1","","3","-3","7","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Lewis</col0>
+    <col1>3107</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-3</col5>
+    <col6>7</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Aramis","3110","1","","3.5","0.5","7","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Aramis</col0>
+    <col1>3110</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Junidy","3202","1","","1","1","3","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Junidy</col0>
+    <col1>3202</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>1</col5>
+    <col6>3</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Patinir","3207","1","","4","0","2","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Patinir</col0>
+    <col1>3207</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Natoko","3209","0.5","","1.5","1","8","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Natoko</col0>
+    <col1>3209</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>8</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Reacher","3210","0.5","","3","0","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Reacher</col0>
+    <col1>3210</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Atson","111","0.5","","3","0.5","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Atson</col0>
+    <col1>111</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Yiktor","114","1","","3","0","1","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Yiktor</col0>
+    <col1>114</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Xhosa","115","0","","0.5","0.5","9","1/1.5","1","","","""
+  <Catalog>
+    <col0>Xhosa</col0>
+    <col1>115</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Prinx","212","0.5","","3.5","0","7","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Prinx</col0>
+    <col1>212</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rushu","215","0","","3","-0.5","9","parent","1","","","""
+  <Catalog>
+    <col0>Rushu</col0>
+    <col1>215</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bael","218","0.5","","1","0","8","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Bael</col0>
+    <col1>218</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mizan-fel","311","0.5","","3","0.5","3","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Mizan-fel</col0>
+    <col1>311</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sansibar","412","1","","2.5","0.5","7","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Sansibar</col0>
+    <col1>412</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Attica","414","0.5","","3","0","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Attica</col0>
+    <col1>414</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Retinae","416","0.5","","5","-1.5","9","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Retinae</col0>
+    <col1>416</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-1.5</col5>
+    <col6>9</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Terra Nova","511","1","","2.5","0.5","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Terra Nova</col0>
+    <col1>511</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Asmodeus","512","0","","2","0","2","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Asmodeus</col0>
+    <col1>512</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Faisal","518","0","","2","0","8","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Faisal</col0>
+    <col1>518</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lebeau","613","1","","3.5","0.5","9","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Lebeau</col0>
+    <col1>613</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Querion","614","1","","4.5","0","8","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Querion</col0>
+    <col1>614</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dekalb","618","0.5","","4","-1","3","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Dekalb</col0>
+    <col1>618</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>3</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Winston","620","0.5","","3","-0.5","5","varies","1","","","""
+  <Catalog>
+    <col0>Winston</col0>
+    <col1>620</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>5</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rapp's World","712","0.5","","2","0.5","4","1/1.5","1","","","""
+  <Catalog>
+    <col0>Rapp's World</col0>
+    <col1>712</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Thanber","717","1","","4","0","2","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Thanber</col0>
+    <col1>717</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Entrope","720","1","","1","0","7","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Entrope</col0>
+    <col1>720</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Anselhome","820","0.5","","3","0","6","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Anselhome</col0>
+    <col1>820</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Caloran","911","0.5","","4","0","5","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Caloran</col0>
+    <col1>911</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""899-076","912","0.5","","2","0","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>899-076</col0>
+    <col1>912</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Quare","915","1","","3.5","0.5","2","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Quare</col0>
+    <col1>915</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zeta 2","919","-0.5","","-0.5","0","0","0.5/1.5","0.5","","0","""
+  <Catalog>
+    <col0>Zeta 2</col0>
+    <col1>919</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>-0.5</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10>0</col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Arden","1011","0.5","","5","-0.5","8","1.2/1.5","1.1","","","""
+  <Catalog>
+    <col0>Arden</col0>
+    <col1>1011</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Choleosti","1018","1","","1.5","0.5","1","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Choleosti</col0>
+    <col1>1018</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Margesi","1020","0.5","","3.5","0","9","varies","1","","","""
+  <Catalog>
+    <col0>Margesi</col0>
+    <col1>1020</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Frenzie","1116","1","","3","0.5","1","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Frenzie</col0>
+    <col1>1116</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Garda-Vilis","1118","1","","5","0","9","parent","1","y","","""
+  <Catalog>
+    <col0>Garda-Vilis</col0>
+    <col1>1118</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Vilis","1119","1","","5.5","0","8","0.85/1.45","0.85","y","","y""
+  <Catalog>
+    <col0>Vilis</col0>
+    <col1>1119</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Digitis","1212","0.5","","3.5","-0.5","9","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Digitis</col0>
+    <col1>1212</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Edinina","1213","0.5","","1.5","0","4","1/1.5","1","","","""
+  <Catalog>
+    <col0>Edinina</col0>
+    <col1>1213</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""728-907","1214","0","","0","0.5","6","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>728-907</col0>
+    <col1>1214</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>0</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Stellatio","1216","0","","2","0","2","1/1.5","1","","","""
+  <Catalog>
+    <col0>Stellatio</col0>
+    <col1>1216</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Arkadia","1217","0.5","","4.5","-1","4","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Arkadia</col0>
+    <col1>1217</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>-1</col5>
+    <col6>4</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tremous Dex","1311","1","","3","0.5","2","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Tremous Dex</col0>
+    <col1>1311</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mirriam","1315","0.5","","2","0","1","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Mirriam</col0>
+    <col1>1315</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Saurus","1320","0.5","","3","0","8","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Saurus</col0>
+    <col1>1320</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rangent","1411","0.5","","3.5","-0.5","5","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Rangent</col0>
+    <col1>1411</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>5</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Denotam","1413","1","","3.5","0.5","3","varies","1","y","","""
+  <Catalog>
+    <col0>Denotam</col0>
+    <col1>1413</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ficant","1417","0.5","","2","0","9","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Ficant</col0>
+    <col1>1417</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tionale","1511","0.5","","2","0.5","2","1/1.5","1","","","""
+  <Catalog>
+    <col0>Tionale</col0>
+    <col1>1511</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Calit","1515","0.5","","4.5","0","5","parent","1","","","""
+  <Catalog>
+    <col0>Calit</col0>
+    <col1>1515</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Asgard","1519","0","","3.5","-3","5","1.2/1.5","1.1","","","""
+  <Catalog>
+    <col0>Asgard</col0>
+    <col1>1519</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-3</col5>
+    <col6>5</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tavonni","1520","0.5","","0.5","-0.5","4","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Tavonni</col0>
+    <col1>1520</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>-0.5</col5>
+    <col6>4</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Phlume","1611","0.5","","3.5","0","7","1/1.5","1","","","""
+  <Catalog>
+    <col0>Phlume</col0>
+    <col1>1611</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Extolay","1711","1","","5","0","1","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Extolay</col0>
+    <col1>1711</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lanth","1719","1","","3.5","0.5","7","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Lanth</col0>
+    <col1>1719</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dinom","1811","1","","3.5","0","2","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Dinom</col0>
+    <col1>1811</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ghandi","1815","1","","3","0.5","3","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Ghandi</col0>
+    <col1>1815</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Victoria","1817","0","","3.5","-3","1","varies","1","","","""
+  <Catalog>
+    <col0>Victoria</col0>
+    <col1>1817</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-3</col5>
+    <col6>1</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dinomn","1912","1","","4","0","2","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Dinomn</col0>
+    <col1>1912</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ylaven","1916","0","","2.5","-2.5","9","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Ylaven</col0>
+    <col1>1916</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>-2.5</col5>
+    <col6>9</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sonthert","1918","0","","3","-3","3","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Sonthert</col0>
+    <col1>1918</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-3</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""D'Ganzio","1920","1","","3","0.5","3","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>D'Ganzio</col0>
+    <col1>1920</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Wypoc","2011","0.5","","3","-0.5","9","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Wypoc</col0>
+    <col1>2011</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Djinni","2111","1","","1","0","8","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Djinni</col0>
+    <col1>2111</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rech","2112","0.5","","4","-0.5","5","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Rech</col0>
+    <col1>2112</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-0.5</col5>
+    <col6>5</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kkirka","2212","0.5","","2","0.5","1","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Kkirka</col0>
+    <col1>2212</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Quopist","2215","1","","4","0","7","varies","1","y","","""
+  <Catalog>
+    <col0>Quopist</col0>
+    <col1>2215</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Treece","2311","0.5","","4.5","-0.5","6","parent","1","","","""
+  <Catalog>
+    <col0>Treece</col0>
+    <col1>2311</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>-0.5</col5>
+    <col6>6</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Echiste","2313","1","","2","0.5","7","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Echiste</col0>
+    <col1>2313</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pirema","2314","0.5","","1","0.5","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Pirema</col0>
+    <col1>2314</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rhise","2317","1","","3.5","0","7","varies","1","y","","""
+  <Catalog>
+    <col0>Rhise</col0>
+    <col1>2317</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ivendo","2319","1","","4","0","1","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Ivendo</col0>
+    <col1>2319</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Keanou","2411","0.5","","2","0.5","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Keanou</col0>
+    <col1>2411</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tureded","2414","1","","3.5","0","6","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Tureded</col0>
+    <col1>2414</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Vreibefger","2415","0","","2.5","0","9","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Vreibefger</col0>
+    <col1>2415</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""La'Belle","2416","0","","0.5","1","7","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>La'Belle</col0>
+    <col1>2416</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>1</col5>
+    <col6>7</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Equus","2417","1","","5","0","2","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Equus</col0>
+    <col1>2417</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Icetina","2418","0.5","","3","0.5","3","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Icetina</col0>
+    <col1>2418</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Cogri","2419","1","","3.5","0","4","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Cogri</col0>
+    <col1>2419</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Skull","2420","1","","4.5","0","6","1.2/1.5","1.1","y","","""
+  <Catalog>
+    <col0>Skull</col0>
+    <col1>2420</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kinorb","2512","1","","3","0","5","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Kinorb</col0>
+    <col1>2512</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gileden","2514","0.5","","1","0.5","2","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Gileden</col0>
+    <col1>2514</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Plannet","2519","0.5","","3.5","-0.5","2","varies","1","","","""
+  <Catalog>
+    <col0>Plannet</col0>
+    <col1>2519</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Garrincski","2520","0.5","","3","0.5","4","1/1.5","1","","","""
+  <Catalog>
+    <col0>Garrincski</col0>
+    <col1>2520</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Macene","2612","1","","3","0.5","9","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Macene</col0>
+    <col1>2612</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Fulacin","2613","1","","2","1","8","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Fulacin</col0>
+    <col1>2613</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>1</col5>
+    <col6>8</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Natoko","2620","1","","5.5","-0.5","2","1.2/1.5","1.2","y","","y""
+  <Catalog>
+    <col0>Natoko</col0>
+    <col1>2620</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>-0.5</col5>
+    <col6>2</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Risek","2712","1","","3.5","0.5","4","varies","1","y","","""
+  <Catalog>
+    <col0>Risek</col0>
+    <col1>2712</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Porozlo","2715","1","5","6","0","2","varies","1","","","""
+  <Catalog>
+    <col0>Porozlo</col0>
+    <col1>2715</col1>
+    <col2>1</col2>
+    <col3>5</col3>
+    <col4>6</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rhylanor","2716","1.5","","6","0","8","0.9/1.2","0.9","y","","y""
+  <Catalog>
+    <col0>Rhylanor</col0>
+    <col1>2716</col1>
+    <col2>1.5</col2>
+    <col3></col3>
+    <col4>6</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Loneseda","2720","0.5","","1.5","0.5","7","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Loneseda</col0>
+    <col1>2720</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Valhalla","2811","0.5","","2.5","0","6","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Valhalla</col0>
+    <col1>2811</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zivije","2812","1","","5.5","-0.5","4","1.15/1.2","1.15","","","y""
+  <Catalog>
+    <col0>Zivije</col0>
+    <col1>2812</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>-0.5</col5>
+    <col6>4</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Jae Tellona","2814","0.5","","3","0.5","9","parent","1","","","""
+  <Catalog>
+    <col0>Jae Tellona</col0>
+    <col1>2814</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gerome","2818","-0.5","","-0.5","0","7","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Gerome</col0>
+    <col1>2818</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>-0.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Henoz","2912","1","","3.5","0.5","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Henoz</col0>
+    <col1>2912</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Celepina","2913","1","","3","0.5","2","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Celepina</col0>
+    <col1>2913</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gitosy","2918","1","","4","0","6","varies","1","y","","""
+  <Catalog>
+    <col0>Gitosy</col0>
+    <col1>2918</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Belizo","3015","0.5","","3.5","0.5","9","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Belizo</col0>
+    <col1>3015</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kegena","3016","0","","2.5","0","2","parent","1","","","""
+  <Catalog>
+    <col0>Kegena</col0>
+    <col1>3016</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Heroni","3017","0","","3","-0.5","8","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Heroni</col0>
+    <col1>3017</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""457-973","3019","0","","1","0","5","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>457-973</col0>
+    <col1>3019</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Somem","3020","1","","2.5","0.5","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Somem</col0>
+    <col1>3020</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Vinorian","3111","1","","4","0","6","0.8/1.4","0.8","y","","""
+  <Catalog>
+    <col0>Vinorian</col0>
+    <col1>3111</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nutema","3112","0.5","","2","0.5","8","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Nutema</col0>
+    <col1>3112</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Huderu","3114","-0.5","","-0.5","0","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Huderu</col0>
+    <col1>3114</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>-0.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Cipatwe","3118","0.5","","4","0","6","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Cipatwe</col0>
+    <col1>3118</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Vanejen","3119","0.5","","4.5","0","5","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Vanejen</col0>
+    <col1>3119</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Margesi","3212","1","","2","1","9","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Margesi</col0>
+    <col1>3212</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>1</col5>
+    <col6>9</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bevy","3216","1","","5.5","-1","2","1.2/1.5","1.1","y","","y""
+  <Catalog>
+    <col0>Bevy</col0>
+    <col1>3216</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>-1</col5>
+    <col6>2</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Tacaxeb","3218","1","","3","0","8","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Tacaxeb</col0>
+    <col1>3218</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Powaza","3220","0.5","","3","0","3","parent","1","","","""
+  <Catalog>
+    <col0>Powaza</col0>
+    <col1>3220</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Junction","122","0","","2","0","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Junction</col0>
+    <col1>122</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Uniqua","129","0","","2.5","0","2","parent","1","","","""
+  <Catalog>
+    <col0>Uniqua</col0>
+    <col1>129</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Garoo","130","1","","5","0","2","1.2/1.5","1.1","y","","""
+  <Catalog>
+    <col0>Garoo</col0>
+    <col1>130</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Stern-Stern","223","1","","3.5","0.5","7","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Stern-Stern</col0>
+    <col1>223</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""886-945","230","0","","0","0.5","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>886-945</col0>
+    <col1>230</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>0</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nomym","321","1","","5","-0.5","6","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Nomym</col0>
+    <col1>321</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>6</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Laberv","325","0.5","","2.5","0.5","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Laberv</col0>
+    <col1>325</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ektron","326","1","","4","0","4","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Ektron</col0>
+    <col1>326</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zamine","421","1","","5.5","-1.5","2","varies","1","y","","y""
+  <Catalog>
+    <col0>Zamine</col0>
+    <col1>421</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>-1.5</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Engrange","425","0.5","","4","0","7","parent","1","","","""
+  <Catalog>
+    <col0>Engrange</col0>
+    <col1>425</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ilium","426","1","","5","0","4","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Ilium</col0>
+    <col1>426</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Roget","427","1","","4.5","0","4","varies","1","y","","""
+  <Catalog>
+    <col0>Roget</col0>
+    <col1>427</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kardin","429","0.5","","1","0","4","1/1.5","1","","","""
+  <Catalog>
+    <col0>Kardin</col0>
+    <col1>429</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bularia","430","0.5","","3.5","0","3","1/1.5","1","","","""
+  <Catalog>
+    <col0>Bularia</col0>
+    <col1>430</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rorre","526","0","","3","0","1","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Rorre</col0>
+    <col1>526</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mire","527","1","","1","1","1","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Mire</col0>
+    <col1>527</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>1</col5>
+    <col6>1</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Condaria","528","0.5","","4","-1","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Condaria</col0>
+    <col1>528</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dorannia","530","0.5","","3","-0.5","5","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Dorannia</col0>
+    <col1>530</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>5</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Terant 340","622","1","","3.5","0","5","1.2/1.5","1.2","y","","""
+  <Catalog>
+    <col0>Terant 340</col0>
+    <col1>622</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jacent","624","1","","4","0.5","7","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Jacent</col0>
+    <col1>624</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""494-908","625","-0.5","","-0.5","0","7","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>494-908</col0>
+    <col1>625</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>-0.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Darrian","627","1.5","","6","0","2","0.95/1.4","0.95","","","y""
+  <Catalog>
+    <col0>Darrian</col0>
+    <col1>627</col1>
+    <col2>1.5</col2>
+    <col3></col3>
+    <col4>6</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Torment","721","0","","1","0","8","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Torment</col0>
+    <col1>721</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Trifuge","723","1","","3.5","0","2","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Trifuge</col0>
+    <col1>723</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nosea","724","1","","4","0","6","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Nosea</col0>
+    <col1>724</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Spume","727","1","","2","0.5","4","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Spume</col0>
+    <col1>727</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ator","729","0.5","","1.5","0.5","8","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Ator</col0>
+    <col1>729</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Cunnonic","822","0","","3","-0.5","5","varies","1","","","""
+  <Catalog>
+    <col0>Cunnonic</col0>
+    <col1>822</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>5</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Debarre","830","1","","1.5","1","8","1/1.5","1","","","""
+  <Catalog>
+    <col0>Debarre</col0>
+    <col1>830</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>8</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Hrunting","921","1","","4.5","0","3","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Hrunting</col0>
+    <col1>921</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tizon","922","1","","5","0","3","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Tizon</col0>
+    <col1>922</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Narsil","927","1","","1","1","2","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Narsil</col0>
+    <col1>927</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Flammarion","930","1","","3.5","0.5","7","0.8/1.4","0.8","y","","""
+  <Catalog>
+    <col0>Flammarion</col0>
+    <col1>930</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Colada","1022","1","","4","0","2","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Colada</col0>
+    <col1>1022</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Anduril","1026","1","","5","0","2","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Anduril</col0>
+    <col1>1026</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mjolnir","1121","1","","3.5","0.5","5","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Mjolnir</col0>
+    <col1>1121</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Joyeuse","1123","1","","4.5","0","2","varies","1","y","","""
+  <Catalog>
+    <col0>Joyeuse</col0>
+    <col1>1123</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Orcrist","1126","1","","4.5","0","4","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Orcrist</col0>
+    <col1>1126</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Enos","1130","0","","2.5","0","7","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Enos</col0>
+    <col1>1130</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gungnir","1221","0.5","","4","0","4","varies","1","","","""
+  <Catalog>
+    <col0>Gungnir</col0>
+    <col1>1221</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gram","1223","1","","5.5","0","6","0.95/1.4","0.95","","","y""
+  <Catalog>
+    <col0>Gram</col0>
+    <col1>1223</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Excalibur","1225","1","","4.5","0","4","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Excalibur</col0>
+    <col1>1225</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tyrfing","1324","1","","4.5","0","7","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Tyrfing</col0>
+    <col1>1324</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sacnoth","1325","1","","5.5","0","8","0.95/1.4","0.95","y","","y""
+  <Catalog>
+    <col0>Sacnoth</col0>
+    <col1>1325</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Caladbolg","1329","1","","4.5","0","7","varies","1","y","","""
+  <Catalog>
+    <col0>Caladbolg</col0>
+    <col1>1329</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Beater","1424","1","","4","0","6","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Beater</col0>
+    <col1>1424</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gunn","1429","0.5","","1","0","6","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Gunn</col0>
+    <col1>1429</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Caliburn","1430","1","","3.5","-0.5","9","0.8/1.4","0.8","y","","""
+  <Catalog>
+    <col0>Caliburn</col0>
+    <col1>1430</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dyrnwyn","1522","1","","3","0.5","2","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Dyrnwyn</col0>
+    <col1>1522</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Durendal","1523","1","","2.5","0.5","7","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Durendal</col0>
+    <col1>1523</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Hofud","1524","1","","3.5","0.5","5","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Hofud</col0>
+    <col1>1524</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sting","1525","1","","5","0","3","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Sting</col0>
+    <col1>1525</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Biter","1526","1","","4","0","3","1/1.5","1","y","","""
+  <Catalog>
+    <col0>Biter</col0>
+    <col1>1526</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Steel","1529","0.5","","0.5","0.5","3","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Steel</col0>
+    <col1>1529</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Iron","1626","1","","1","0","7","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Iron</col0>
+    <col1>1626</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bronze","1627","1","","1","0","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Bronze</col0>
+    <col1>1627</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mithril","1628","0.5","","0.5","0.5","3","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Mithril</col0>
+    <col1>1628</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Arba","1721","1","","2","0.5","6","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Arba</col0>
+    <col1>1721</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Wardn","1727","1","","3","0.5","5","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Wardn</col0>
+    <col1>1727</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Olympia","1728","0.5","","2","0.5","1","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Olympia</col0>
+    <col1>1728</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Smoug","1729","1","","4.5","0","9","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Smoug</col0>
+    <col1>1729</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rabwhar","1822","0.5","","4.5","-0.5","3","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Rabwhar</col0>
+    <col1>1822</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Adabicci","1824","1","","5","0","8","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Adabicci</col0>
+    <col1>1824</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zaibon","1825","1","","3.5","0.5","5","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Zaibon</col0>
+    <col1>1825</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tenalphi","1826","1","","1.5","1","6","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Tenalphi</col0>
+    <col1>1826</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>6</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ianic","1924","0.5","","3.5","-0.5","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Ianic</col0>
+    <col1>1924</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Spirelle","1927","0.5","","4.5","0","7","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Spirelle</col0>
+    <col1>1927</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Derchon","2024","0.5","","4","0","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Derchon</col0>
+    <col1>2024</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lunion","2124","1","","5.5","0","8","1.1/1.2","1.1","y","","y""
+  <Catalog>
+    <col0>Lunion</col0>
+    <col1>2124</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Shirene","2125","1","","3.5","0.5","9","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Shirene</col0>
+    <col1>2125</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Penkwar","2128","0","","1.5","0","3","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Penkwar</col0>
+    <col1>2128</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Harvosette","2129","1","","4.5","0","9","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Harvosette</col0>
+    <col1>2129</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Carse","2224","1","","2.5","0.5","6","1/1.5","1","","","""
+  <Catalog>
+    <col0>Carse</col0>
+    <col1>2224</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Persephone","2228","1","","5","0","9","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Persephone</col0>
+    <col1>2228</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Quiru","2321","0.5","","2","0.5","3","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Quiru</col0>
+    <col1>2321</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gorram","2322","-0.5","","0.5","0","8","1/1.5","1","","","""
+  <Catalog>
+    <col0>Gorram</col0>
+    <col1>2322</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Resten","2323","1","","1.5","1","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Resten</col0>
+    <col1>2323</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Capon","2324","1","","4.5","0","6","0.85/1.45","0.85","y","","""
+  <Catalog>
+    <col0>Capon</col0>
+    <col1>2324</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sharrip","2325","1","","1.5","0.5","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Sharrip</col0>
+    <col1>2325</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Strouden","2327","1","","5.5","0","9","1.1/1.2","1.1","y","","y""
+  <Catalog>
+    <col0>Strouden</col0>
+    <col1>2327</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Gandr","2425","0.5","","2","0","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Gandr</col0>
+    <col1>2425</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Drolraw","2426","0.5","","2","0","9","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Drolraw</col0>
+    <col1>2426</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Heroni","2521","0.5","","5","0","7","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Heroni</col0>
+    <col1>2521</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Byret","2523","0.5","","3.5","0.5","8","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Byret</col0>
+    <col1>2523</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pimane","2527","0","","1.5","0","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Pimane</col0>
+    <col1>2527</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Fosey","2621","1","","4","0.5","6","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Fosey</col0>
+    <col1>2621</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mercury","2624","0.5","","3.5","0.5","3","parent","1","","","""
+  <Catalog>
+    <col0>Mercury</col0>
+    <col1>2624</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tivid","2627","0.5","","2.5","0.5","4","varies","1","","","""
+  <Catalog>
+    <col0>Tivid</col0>
+    <col1>2627</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Carey","2726","1","","2","0.5","9","1/1.5","1","","","""
+  <Catalog>
+    <col0>Carey</col0>
+    <col1>2726</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Duale","2728","1","","4.5","0.5","4","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Duale</col0>
+    <col1>2728</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Catuz","2824","1","","3","0","5","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Catuz</col0>
+    <col1>2824</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Meleto","2827","0.5","","1","0.5","7","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Meleto</col0>
+    <col1>2827</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Hexos","2828","0.5","","2.5","0.5","1","1/1.5","1","","","""
+  <Catalog>
+    <col0>Hexos</col0>
+    <col1>2828</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pedase","2830","0.5","","2","0.5","1","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Pedase</col0>
+    <col1>2830</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Moran","2924","0.5","","2","0.5","2","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Moran</col0>
+    <col1>2924</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Maitz","2927","1","","3.5","0.5","1","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Maitz</col0>
+    <col1>2927</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mainz","2930","1","","2.5","0.5","8","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Mainz</col0>
+    <col1>2930</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Brodie","3021","0.5","","2.5","0.5","1","parent","1","","","""
+  <Catalog>
+    <col0>Brodie</col0>
+    <col1>3021</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Rorise","3022","1","","1.5","0.5","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Rorise</col0>
+    <col1>3022</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jokotre","3024","0.5","","4.5","0","8","0.75/1.5","0.75","","","""
+  <Catalog>
+    <col0>Jokotre</col0>
+    <col1>3024</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.75/1.5</col7>
+    <col8>0.75</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Fornice","3025","1","5","6","0","2","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Fornice</col0>
+    <col1>3025</col1>
+    <col2>1</col2>
+    <col3>5</col3>
+    <col4>6</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Grille","3026","0.5","","2","0","7","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Grille</col0>
+    <col1>3026</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pallique","3029","1","","5.5","0","3","parent","1","y","","y""
+  <Catalog>
+    <col0>Pallique</col0>
+    <col1>3029</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Nexine","3030","0.5","","2.5","0.5","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Nexine</col0>
+    <col1>3030</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nadrin","3123","0.5","","1.5","0.5","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Nadrin</col0>
+    <col1>3123</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mora","3124","1.5","","1.5","1","1","1.2/1.5","1.1","","","""
+  <Catalog>
+    <col0>Mora</col0>
+    <col1>3124</col1>
+    <col2>1.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>1</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Fenl's Gren","3228","1","","2.5","0.5","4","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Fenl's Gren</col0>
+    <col1>3228</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Emape","133","1","","3.5","0.5","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Emape</col0>
+    <col1>133</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Raweh","139","1","","2.5","0.5","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Raweh</col0>
+    <col1>139</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""876-574","140","-0.5","","0.5","0.5","7","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>876-574</col0>
+    <col1>140</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Saxe","231","0.5","","3","-0.5","9","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Saxe</col0>
+    <col1>231</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Andor","236","1","","4.5","0","6","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Andor</col0>
+    <col1>236</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""769-422","240","0.5","","2.5","0","9","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>769-422</col0>
+    <col1>240</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gothe","332","0.5","","3","-0.5","3","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Gothe</col0>
+    <col1>332</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mirriam","333","1","","5","0","5","1.2/1.5","1.2","y","","""
+  <Catalog>
+    <col0>Mirriam</col0>
+    <col1>333</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Candory","336","0.5","","3.5","0","9","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Candory</col0>
+    <col1>336</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Wonderay","340","0","","2","0","2","parent","1","","","""
+  <Catalog>
+    <col0>Wonderay</col0>
+    <col1>340</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jone","433","1","","4.5","0","8","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Jone</col0>
+    <col1>433</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Jinx","440","0.5","","1","0.5","2","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Jinx</col0>
+    <col1>440</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ucella","532","0.5","","3","0","4","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Ucella</col0>
+    <col1>532</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Penelope","533","0","","3","0","3","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Penelope</col0>
+    <col1>533</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Karin","534","1","","4.5","0.5","4","parent","1","y","","""
+  <Catalog>
+    <col0>Karin</col0>
+    <col1>534</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Wonstar","538","0.5","","4","0","9","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Wonstar</col0>
+    <col1>538</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Froin","539","1","","2","0.5","6","1/1.5","1","","","""
+  <Catalog>
+    <col0>Froin</col0>
+    <col1>539</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Gohature","632","0.5","","4","0","5","parent","1","","","""
+  <Catalog>
+    <col0>Gohature</col0>
+    <col1>632</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Quhaiathat","637","1","","4.5","0","2","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Quhaiathat</col0>
+    <col1>637</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lakou","638","0.5","","2.5","0","6","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Lakou</col0>
+    <col1>638</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ralhe","731","0.5","","3","-0.5","8","parent","1","","","""
+  <Catalog>
+    <col0>Ralhe</col0>
+    <col1>731</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Iderati","732","1","","4.5","0.5","2","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Iderati</col0>
+    <col1>732</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tondoul","739","0","","3","-0.5","7","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Tondoul</col0>
+    <col1>739</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>7</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""875-496","834","0.5","","2.5","0","5","1/1.5","1","","","""
+  <Catalog>
+    <col0>875-496</col0>
+    <col1>834</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ochecate","837","0.5","","3","-0.5","2","parent","1","","","""
+  <Catalog>
+    <col0>Ochecate</col0>
+    <col1>837</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mewey","838","0.5","","4","-0.5","7","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Mewey</col0>
+    <col1>838</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-0.5</col5>
+    <col6>7</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""975-452","840","1","","2.5","0","8","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>975-452</col0>
+    <col1>840</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Asteltine","931","1","","3","0.5","2","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Asteltine</col0>
+    <col1>931</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Inchin","938","1","","2","0","8","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Inchin</col0>
+    <col1>938</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Singer","940","0.5","","4","-0.5","9","varies","1","","","""
+  <Catalog>
+    <col0>Singer</col0>
+    <col1>940</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""567-908","1031","0.5","","0.5","0.5","3","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>567-908</col0>
+    <col1>1031</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Avastan","1037","1","","3.5","0","7","1/1.5","1","y","","""
+  <Catalog>
+    <col0>Avastan</col0>
+    <col1>1037</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kwai Ching","1040","1","","4.5","0","3","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Kwai Ching</col0>
+    <col1>1040</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Faldor","1131","0","","3","-0.5","5","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Faldor</col0>
+    <col1>1131</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>5</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bowman","1132","1","","2.5","0","8","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Bowman</col0>
+    <col1>1132</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Squallia","1133","1","","4","0","3","varies","1","y","","""
+  <Catalog>
+    <col0>Squallia</col0>
+    <col1>1133</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tarsus","1138","1","","4","0","2","1/1.5","1","y","","""
+  <Catalog>
+    <col0>Tarsus</col0>
+    <col1>1138</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Walston","1232","0.5","","2","0.5","3","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Walston</col0>
+    <col1>1232</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Flexos","1233","0.5","","2.5","0","6","1/1.5","1","","","""
+  <Catalog>
+    <col0>Flexos</col0>
+    <col1>1233</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Collace","1237","1","","5.5","0","1","0.85/1.45","0.85","y","","y""
+  <Catalog>
+    <col0>Collace</col0>
+    <col1>1237</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Pavabid","1238","0.5","","4.5","0","7","0.75/1.5","0.75","","","""
+  <Catalog>
+    <col0>Pavabid</col0>
+    <col1>1238</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>0.75/1.5</col7>
+    <col8>0.75</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Datrillian","1331","0.5","","3.5","-0.5","8","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Datrillian</col0>
+    <col1>1331</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Nirton","1332","-0.5","","-0.5","0","0","0.5/1.5","0.5","","0","""
+  <Catalog>
+    <col0>Nirton</col0>
+    <col1>1332</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>-0.5</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10>0</col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Judice","1337","0.5","","0.5","-0.5","3","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Judice</col0>
+    <col1>1337</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>0.5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Trexalon","1339","1","","5","0","9","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Trexalon</col0>
+    <col1>1339</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Motmos","1340","0.5","","3.5","0.5","7","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Motmos</col0>
+    <col1>1340</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Noctocol","1433","0.5","","4","-1","6","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Noctocol</col0>
+    <col1>1433</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>6</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tarkine","1434","0.5","","3.5","0","3","parent","1","","","""
+  <Catalog>
+    <col0>Tarkine</col0>
+    <col1>1434</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dallia","1435","1","","5","0","6","1.1/1.2","1.1","y","","""
+  <Catalog>
+    <col0>Dallia</col0>
+    <col1>1435</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Talos","1436","1","","3.5","-0.5","8","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Talos</col0>
+    <col1>1436</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>8</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dawnworld","1531","-0.5","","-0.5","-0.5","0","0.5/1.5","0.5","","0","""
+  <Catalog>
+    <col0>Dawnworld</col0>
+    <col1>1531</col1>
+    <col2>-0.5</col2>
+    <col3></col3>
+    <col4>-0.5</col4>
+    <col5>-0.5</col5>
+    <col6>0</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10>0</col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Elixabeth","1532","0.5","","2.5","0.5","2","parent","1","","","""
+  <Catalog>
+    <col0>Elixabeth</col0>
+    <col1>1532</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Forine","1533","1","","5.5","-1","6","1.1/1.2","1.1","y","","y""
+  <Catalog>
+    <col0>Forine</col0>
+    <col1>1533</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>-1</col5>
+    <col6>6</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Mertactor","1537","1","","4.5","0","6","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Mertactor</col0>
+    <col1>1537</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Talchek","1631","0.5","","2.5","0.5","6","parent","1","","","""
+  <Catalog>
+    <col0>Talchek</col0>
+    <col1>1631</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>6</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Milagro","1632","0.5","","4","-1","9","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Milagro</col0>
+    <col1>1632</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>9</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pegaton","1634","0","","4","0","9","varies","1","","","""
+  <Catalog>
+    <col0>Pegaton</col0>
+    <col1>1634</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Binges","1635","1","","2","1","7","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Binges</col0>
+    <col1>1635</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>1</col5>
+    <col6>7</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mille Falcs","1637","1","","3","0.5","3","parent","1","","","""
+  <Catalog>
+    <col0>Mille Falcs</col0>
+    <col1>1637</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Grote","1731","1","","3","0.5","1","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Grote</col0>
+    <col1>1731</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Lydia","1733","0.5","","2.5","0","9","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Lydia</col0>
+    <col1>1733</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Melior","1736","0.5","","2.5","0","7","parent","1","","","""
+  <Catalog>
+    <col0>Melior</col0>
+    <col1>1736</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Egypt","1737","0.5","","3","0.5","5","parent","1","","","""
+  <Catalog>
+    <col0>Egypt</col0>
+    <col1>1737</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Aster","1739","1","","3","0","4","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Aster</col0>
+    <col1>1739</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Callia","1836","0.5","","4.5","-1","8","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Callia</col0>
+    <col1>1836</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4.5</col4>
+    <col5>-1</col5>
+    <col6>8</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mithras","1932","0.5","","3","0","3","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Mithras</col0>
+    <col1>1932</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Weiss","1934","1","","3","0.5","7","parent","1","","","""
+  <Catalog>
+    <col0>Weiss</col0>
+    <col1>1934</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Windsor","1935","1","","3.5","0","2","0.8/1.4","0.8","y","","""
+  <Catalog>
+    <col0>Windsor</col0>
+    <col1>1935</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Overnale","1937","1","","4","0","4","varies","1","y","","""
+  <Catalog>
+    <col0>Overnale</col0>
+    <col1>1937</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""New Rome","1938","1","","5","0","7","parent","1","","","""
+  <Catalog>
+    <col0>New Rome</col0>
+    <col1>1938</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Craw","1939","0","","3","0","9","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Craw</col0>
+    <col1>1939</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Aki","2035","1","","5.5","0","2","1.1/1.2","1.1","y","","y""
+  <Catalog>
+    <col0>Aki</col0>
+    <col1>2035</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Glisten","2036","1.5","","6","0","8","1.1/1.2","1.1","y","","y""
+  <Catalog>
+    <col0>Glisten</col0>
+    <col1>2036</col1>
+    <col2>1.5</col2>
+    <col3></col3>
+    <col4>6</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Trane","2038","1","","3","0","7","1/1.5","1","","","""
+  <Catalog>
+    <col0>Trane</col0>
+    <col1>2038</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>7</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Centry","2132","0.5","","2.5","0","2","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Centry</col0>
+    <col1>2132</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Caledonia","2134","0.5","","3.5","0","9","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Caledonia</col0>
+    <col1>2134</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Sorel","2137","0","","3","-0.5","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Sorel</col0>
+    <col1>2137</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Horosho","2138","1","","5","-0.5","9","1.2/1.5","1.2","y","","""
+  <Catalog>
+    <col0>Horosho</col0>
+    <col1>2138</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Romor","2140","1","","3","0.5","1","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Romor</col0>
+    <col1>2140</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>1</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Marastan","2231","0.5","","4","-0.5","9","varies","1","","","""
+  <Catalog>
+    <col0>Marastan</col0>
+    <col1>2231</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-0.5</col5>
+    <col6>9</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Crout","2232","0.5","","5","-1.5","3","1.2/1.5","1.1","","","""
+  <Catalog>
+    <col0>Crout</col0>
+    <col1>2232</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-1.5</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tirem","2233","1","","5.5","-0.5","6","varies","1","","","y""
+  <Catalog>
+    <col0>Tirem</col0>
+    <col1>2233</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5.5</col4>
+    <col5>-0.5</col5>
+    <col6>6</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11>y</col11>
+  </Catalog>
+ 
+""Inthe","2234","1","","3.5","0","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Inthe</col0>
+    <col1>2234</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tsarina","2236","0.5","","3.5","0","3","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Tsarina</col0>
+    <col1>2236</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Wurzburg","2237","1","","2.5","0.5","5","0.5/1.5","0.5","","","""
+  <Catalog>
+    <col0>Wurzburg</col0>
+    <col1>2237</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.5/1.5</col7>
+    <col8>0.5</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bicornn","2331","0","","2.5","0","2","varies","1","","","""
+  <Catalog>
+    <col0>Bicornn</col0>
+    <col1>2331</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ffudn","2334","1","","5","0","9","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Ffudn</col0>
+    <col1>2334</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Bendor","2336","1","","4","0.5","8","0.95/1.4","0.95","y","","""
+  <Catalog>
+    <col0>Bendor</col0>
+    <col1>2336</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0.5</col5>
+    <col6>8</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Burston","2534","0.5","","3.5","0","4","parent","1","","","""
+  <Catalog>
+    <col0>Burston</col0>
+    <col1>2534</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>4</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Squanine","2536","1","","3.5","0.5","3","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Squanine</col0>
+    <col1>2536</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dobham","2537","1","","3","0.5","5","0.95/1.4","0.95","","","""
+  <Catalog>
+    <col0>Dobham</col0>
+    <col1>2537</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>0.95/1.4</col7>
+    <col8>0.95</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pyramus","2538","0","","1.5","0","2","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Pyramus</col0>
+    <col1>2538</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Thisbe","2539","0.5","","3","-0.5","3","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Thisbe</col0>
+    <col1>2539</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Aramis","2540","0.5","","4","0","9","varies","1","","","""
+  <Catalog>
+    <col0>Aramis</col0>
+    <col1>2540</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Robin","2637","1","","3.5","0","2","1.15/1.2","1.15","y","","""
+  <Catalog>
+    <col0>Robin</col0>
+    <col1>2637</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""D'Mara","2638","0.5","","4","-1","9","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>D'Mara</col0>
+    <col1>2638</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>-1</col5>
+    <col6>9</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Kelcher","2639","1","","3.5","0","6","parent","1","y","","""
+  <Catalog>
+    <col0>Kelcher</col0>
+    <col1>2639</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>6</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tussinian","2731","0.5","","2","0.5","5","1/1.5","1","","","""
+  <Catalog>
+    <col0>Tussinian</col0>
+    <col1>2731</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>1/1.5</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Edenelt","2733","1","","5","0","9","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Edenelt</col0>
+    <col1>2733</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Conway","2735","0.5","","3","0","3","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Conway</col0>
+    <col1>2735</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>3</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Doods","2739","0.5","","5","-0.5","4","0.75/1.5","0.75","","","""
+  <Catalog>
+    <col0>Doods</col0>
+    <col1>2739</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>5</col4>
+    <col5>-0.5</col5>
+    <col6>4</col6>
+    <col7>0.75/1.5</col7>
+    <col8>0.75</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Leander","2832","0.5","","1.5","0","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Leander</col0>
+    <col1>2832</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Pepernium","2833","0","","2.5","0","5","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Pepernium</col0>
+    <col1>2833</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>5</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Traltha","2834","0.5","","3.5","0.5","4","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Traltha</col0>
+    <col1>2834</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>4</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Farquahar","2839","0.5","","3","0","2","parent","1","","","""
+  <Catalog>
+    <col0>Farquahar</col0>
+    <col1>2839</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Raydrad","2933","0.5","","3.5","-0.5","3","varies","1","","","""
+  <Catalog>
+    <col0>Raydrad</col0>
+    <col1>2933</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>-0.5</col5>
+    <col6>3</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zyra","2934","0.5","","2.5","0.5","3","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Zyra</col0>
+    <col1>2934</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Murchison","2935","0.5","","2.5","0.5","3","0.9/1.2","0.9","","","""
+  <Catalog>
+    <col0>Murchison</col0>
+    <col1>2935</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0.5</col5>
+    <col6>3</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Hammermium","2936","1","","3.5","0.5","5","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Hammermium</col0>
+    <col1>2936</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Thornnastor","2940","0.5","","2.5","0","8","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Thornnastor</col0>
+    <col1>2940</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>0</col5>
+    <col6>8</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Katarulu","3032","1","","4","0","2","parent","1","y","","""
+  <Catalog>
+    <col0>Katarulu</col0>
+    <col1>3032</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Prilissa","3035","0.5","","3","0.5","5","1.1/1.2","1.1","","","""
+  <Catalog>
+    <col0>Prilissa</col0>
+    <col1>3035</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3</col4>
+    <col5>0.5</col5>
+    <col6>5</col6>
+    <col7>1.1/1.2</col7>
+    <col8>1.1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tee-Tee-Tee","3038","1","","3.5","0","9","0.9/1.2","0.9","y","","""
+  <Catalog>
+    <col0>Tee-Tee-Tee</col0>
+    <col1>3038</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>0.9/1.2</col7>
+    <col8>0.9</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Youghal","3039","1","","2.5","1","2","parent","1","","","""
+  <Catalog>
+    <col0>Youghal</col0>
+    <col1>3039</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Tenelphi","3040","1","","3.5","0","9","varies","1","y","","""
+  <Catalog>
+    <col0>Tenelphi</col0>
+    <col1>3040</col1>
+    <col2>1</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>varies</col7>
+    <col8>1</col8>
+    <col9>y</col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Zephyr","3138","0","","2.5","-2.5","4","parent","1","","","""
+  <Catalog>
+    <col0>Zephyr</col0>
+    <col1>3138</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4>2.5</col4>
+    <col5>-2.5</col5>
+    <col6>4</col6>
+    <col7>parent</col7>
+    <col8>1</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Chamois","3139","0.5","","3.5","0.5","7","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Chamois</col0>
+    <col1>3139</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>3.5</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Dojodo","3223","0.5","","2","0.5","7","0.8/1.4","0.8","","","""
+  <Catalog>
+    <col0>Dojodo</col0>
+    <col1>3223</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>2</col4>
+    <col5>0.5</col5>
+    <col6>7</col6>
+    <col7>0.8/1.4</col7>
+    <col8>0.8</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Ramiva","3233","0.5","","4","0","9","1.2/1.5","1.2","","","""
+  <Catalog>
+    <col0>Ramiva</col0>
+    <col1>3233</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>9</col6>
+    <col7>1.2/1.5</col7>
+    <col8>1.2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Trin","3235","1.5","","1.5","1","1","1.15/1.2","1.15","","","""
+  <Catalog>
+    <col0>Trin</col0>
+    <col1>3235</col1>
+    <col2>1.5</col2>
+    <col3></col3>
+    <col4>1.5</col4>
+    <col5>1</col5>
+    <col6>1</col6>
+    <col7>1.15/1.2</col7>
+    <col8>1.15</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Hazel","3236","0.5","","4","0","1","0.85/1.45","0.85","","","""
+  <Catalog>
+    <col0>Hazel</col0>
+    <col1>3236</col1>
+    <col2>0.5</col2>
+    <col3></col3>
+    <col4>4</col4>
+    <col5>0</col5>
+    <col6>1</col6>
+    <col7>0.85/1.45</col7>
+    <col8>0.85</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+  </Catalog>
+ 
+""Mainworld","H","TLM","PRH","UWTN","PM","PM","GBM","NBM","","GCr","""
+  <Catalog>
+    <col0>Mainworld</col0>
+    <col1>H</col1>
+    <col2>TLM</col2>
+    <col3>PRH</col3>
+    <col4>UWTN</col4>
+    <col5>PM</col5>
+    <col6>PM</col6>
+    <col7>GBM</col7>
+    <col8>NBM</col8>
+    <col9></col9>
+    <col10>GCr</col10>
+    <col11></col11>
+  </Catalog>
+ 
+</Catalogs>

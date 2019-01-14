@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Crews.xsl"?> --><!DOCTYPE Crews SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Crews.xsl -->
+<Crews xmlns:Crews="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"ID","Name","UPP","AI","Ship","Vehicle"
+"Captain","Carl Anderson","AAAAAA","Omega","Base","Med"
+  <Crew>
+    <col0>Captain</col0>
+    <col1>Carl Anderson</col1>
+    <col2>AAAAAA</col2>
+    <col3>Omega</col3>
+    <col4>Base</col4>
+    <col5>Med</col5>
+  </Crew>
+ 
+"BioBot-15","Diana","8C8C8R","Omega","Base","Med"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Diana</col1>
+    <col2>8C8C8R</col2>
+    <col3>Omega</col3>
+    <col4>Base</col4>
+    <col5>Med</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Deadlock","C8C88R","Omega","Base","Med"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Deadlock</col1>
+    <col2>C8C88R</col2>
+    <col3>Omega</col3>
+    <col4>Base</col4>
+    <col5>Med</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Omega","Base","Med"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Omega</col3>
+    <col4>Base</col4>
+    <col5>Med</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Navigator","Terry Keen","AAAAAA","Amy","Alpha","Aye"
+  <Crew>
+    <col0>Navigator</col0>
+    <col1>Terry Keen</col1>
+    <col2>AAAAAA</col2>
+    <col3>Amy</col3>
+    <col4>Alpha</col4>
+    <col5>Aye</col5>
+  </Crew>
+ 
+"BioBot-15","Wilma","8C8C8R","Amy","Alpha","Aye"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Wilma</col1>
+    <col2>8C8C8R</col2>
+    <col3>Amy</col3>
+    <col4>Alpha</col4>
+    <col5>Aye</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Ro-Jaws","88888R","Amy","Alpha","Aye"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Ro-Jaws</col1>
+    <col2>88888R</col2>
+    <col3>Amy</col3>
+    <col4>Alpha</col4>
+    <col5>Aye</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Amy","Alpha","Aye"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Amy</col3>
+    <col4>Alpha</col4>
+    <col5>Aye</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Doctor","Anna Finshalli","AAAAAA","Barb","Beta","Bee"
+  <Crew>
+    <col0>Doctor</col0>
+    <col1>Anna Finshalli</col1>
+    <col2>AAAAAA</col2>
+    <col3>Barb</col3>
+    <col4>Beta</col4>
+    <col5>Bee</col5>
+  </Crew>
+ 
+"BioBot-15","Ardala","8C8C8R","Barb","Beta","Bee"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Ardala</col1>
+    <col2>8C8C8R</col2>
+    <col3>Barb</col3>
+    <col4>Beta</col4>
+    <col5>Bee</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Joe","8CC88R","Barb","Beta","Bee"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Joe</col1>
+    <col2>8CC88R</col2>
+    <col3>Barb</col3>
+    <col4>Beta</col4>
+    <col5>Bee</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Barb","Beta","Bee"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Barb</col3>
+    <col4>Beta</col4>
+    <col5>Bee</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Trader","Nool","AAAAAA","Cali","Gamma","Cee"
+  <Crew>
+    <col0>Trader</col0>
+    <col1>Nool</col1>
+    <col2>AAAAAA</col2>
+    <col3>Cali</col3>
+    <col4>Gamma</col4>
+    <col5>Cee</col5>
+  </Crew>
+ 
+"BioBot-15","Susan","8C8C8R","Cali","Gamma","Cee"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Susan</col1>
+    <col2>8C8C8R</col2>
+    <col3>Cali</col3>
+    <col4>Gamma</col4>
+    <col5>Cee</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Hammerstein","C8C88R","Cali","Gamma","Cee"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Hammerstein</col1>
+    <col2>C8C88R</col2>
+    <col3>Cali</col3>
+    <col4>Gamma</col4>
+    <col5>Cee</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Cali","Gamma","Cee"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Cali</col3>
+    <col4>Gamma</col4>
+    <col5>Cee</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Gunner","Max Overdrive","AAAAAA","Donna","Delta","Dee"
+  <Crew>
+    <col0>Gunner</col0>
+    <col1>Max Overdrive</col1>
+    <col2>AAAAAA</col2>
+    <col3>Donna</col3>
+    <col4>Delta</col4>
+    <col5>Dee</col5>
+  </Crew>
+ 
+"BioBot-15","Six","8C8C8R","Donna","Delta","Dee"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Six</col1>
+    <col2>8C8C8R</col2>
+    <col3>Donna</col3>
+    <col4>Delta</col4>
+    <col5>Dee</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Morrigun","8CC88R","Donna","Delta","Dee"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Morrigun</col1>
+    <col2>8CC88R</col2>
+    <col3>Donna</col3>
+    <col4>Delta</col4>
+    <col5>Dee</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Donna","Delta","Dee"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Donna</col3>
+    <col4>Delta</col4>
+    <col5>Dee</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Engineer","Kean Hawkes `Grinder`","AAAAAA","Emy","Epsilon","Eee"
+  <Crew>
+    <col0>Engineer</col0>
+    <col1>Kean Hawkes `Grinder`</col1>
+    <col2>AAAAAA</col2>
+    <col3>Emy</col3>
+    <col4>Epsilon</col4>
+    <col5>Eee</col5>
+  </Crew>
+ 
+"BioBot-15","Sonja","8C8C8R","Emy","Epsilon","Eee"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Sonja</col1>
+    <col2>8C8C8R</col2>
+    <col3>Emy</col3>
+    <col4>Epsilon</col4>
+    <col5>Eee</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Happy Shrapnel","C8C88R","Emy","Epsilon","Eee"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Happy Shrapnel</col1>
+    <col2>C8C88R</col2>
+    <col3>Emy</col3>
+    <col4>Epsilon</col4>
+    <col5>Eee</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Emy","Epsilon","Eee"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Emy</col3>
+    <col4>Epsilon</col4>
+    <col5>Eee</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Engineer","Teelan `Maverick`","AAAAAA","Fran","Zeta","Eff"
+  <Crew>
+    <col0>Engineer</col0>
+    <col1>Teelan `Maverick`</col1>
+    <col2>AAAAAA</col2>
+    <col3>Fran</col3>
+    <col4>Zeta</col4>
+    <col5>Eff</col5>
+  </Crew>
+ 
+"BioBot-15","Leia","8C8C8R","Fran","Zeta","Eff"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Leia</col1>
+    <col2>8C8C8R</col2>
+    <col3>Fran</col3>
+    <col4>Zeta</col4>
+    <col5>Eff</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Mek-Quake","C8C88R","Fran","Zeta","Eff"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Mek-Quake</col1>
+    <col2>C8C88R</col2>
+    <col3>Fran</col3>
+    <col4>Zeta</col4>
+    <col5>Eff</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Fran","Zeta","Eff"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Fran</col3>
+    <col4>Zeta</col4>
+    <col5>Eff</col5>
+  </Crew>
+ 
+"","","","","",""
+  <Crew>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Crew>
+ 
+"Chief","Raoul","AAAAAA","Jenni","Eta","Gee"
+  <Crew>
+    <col0>Chief</col0>
+    <col1>Raoul</col1>
+    <col2>AAAAAA</col2>
+    <col3>Jenni</col3>
+    <col4>Eta</col4>
+    <col5>Gee</col5>
+  </Crew>
+ 
+"BioBot-15","Elizabeth","8C8C8R","Jenni","Eta","Gee"
+  <Crew>
+    <col0>BioBot-15</col0>
+    <col1>Elizabeth</col1>
+    <col2>8C8C8R</col2>
+    <col3>Jenni</col3>
+    <col4>Eta</col4>
+    <col5>Gee</col5>
+  </Crew>
+ 
+"ABC Warrior-12","Blackblood","8CC88R","Jenni","Eta","Gee"
+  <Crew>
+    <col0>ABC Warrior-12</col0>
+    <col1>Blackblood</col1>
+    <col2>8CC88R</col2>
+    <col3>Jenni</col3>
+    <col4>Eta</col4>
+    <col5>Gee</col5>
+  </Crew>
+ 
+" 10 x Fembot-10","","88888R","Jenni","Eta","Gee"
+  <Crew>
+    <col0> 10 x Fembot-10</col0>
+    <col1></col1>
+    <col2>88888R</col2>
+    <col3>Jenni</col3>
+    <col4>Eta</col4>
+    <col5>Gee</col5>
+  </Crew>
+ 
+</Crews>

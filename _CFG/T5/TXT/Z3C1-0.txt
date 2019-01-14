@@ -1,0 +1,7 @@
+//	Z3C1-0.txt
+blank.gif
+im.gif c c replace
+harvehterr.gif c c 000000
+Z3C1 c 7 35 H 000000
+4 2 7 35 H 000000
+Z3C1-0.gif

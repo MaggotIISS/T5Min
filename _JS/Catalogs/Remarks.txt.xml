@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Remarks.txt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Code","Siz","Atm","Hyd","Pop","Govt","Law","Definition","Formula"
+"As","0","0","0","","","","Asteroid"
+  <Catalog>
+    <col0>As</col0>
+    <col1>0</col1>
+    <col2>0</col2>
+    <col3>0</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Asteroid</col7>
+  </Catalog>
+ 
+"De","23456789","0","","","","","Desert"
+  <Catalog>
+    <col0>De</col0>
+    <col1>23456789</col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Desert</col7>
+  </Catalog>
+ 
+"Fl","","ABC","123456789A","","","","Fluid"
+  <Catalog>
+    <col0>Fl</col0>
+    <col1></col1>
+    <col2>ABC</col2>
+    <col3>123456789A</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Fluid</col7>
+  </Catalog>
+ 
+"Ga","678","568","567","","","","Garden World"
+  <Catalog>
+    <col0>Ga</col0>
+    <col1>678</col1>
+    <col2>568</col2>
+    <col3>567</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Garden World</col7>
+  </Catalog>
+ 
+"He","3459ABC","2479ABC","012","","","","Hell World"
+  <Catalog>
+    <col0>He</col0>
+    <col1>3459ABC</col1>
+    <col2>2479ABC</col2>
+    <col3>012</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Hell World</col7>
+  </Catalog>
+ 
+"Ic","","01","123456789A","","","","Ice Capped"
+  <Catalog>
+    <col0>Ic</col0>
+    <col1></col1>
+    <col2>01</col2>
+    <col3>123456789A</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Ice Capped</col7>
+  </Catalog>
+ 
+"Oc","ABC","","A","","","","Ocean World"
+  <Catalog>
+    <col0>Oc</col0>
+    <col1>ABC</col1>
+    <col2></col2>
+    <col3>A</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Ocean World</col7>
+  </Catalog>
+ 
+"Va","","0","","","","","Vacuum"
+  <Catalog>
+    <col0>Va</col0>
+    <col1></col1>
+    <col2>0</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Vacuum</col7>
+  </Catalog>
+ 
+"Wa","56789","","A","","","","Water World"
+  <Catalog>
+    <col0>Wa</col0>
+    <col1>56789</col1>
+    <col2></col2>
+    <col3>A</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Water World</col7>
+  </Catalog>
+ 
+"Di","","","","0","0","0","Dieback (000-T)"
+  <Catalog>
+    <col0>Di</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>0</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>Dieback (000-T)</col7>
+  </Catalog>
+ 
+"Ba","","","","0","0","0","Barren"
+  <Catalog>
+    <col0>Ba</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>0</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>Barren</col7>
+  </Catalog>
+ 
+"Lo","","","","123","","","Low Population"
+  <Catalog>
+    <col0>Lo</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>123</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Low Population</col7>
+  </Catalog>
+ 
+"Ni","","","","456","","","Non Industrial"
+  <Catalog>
+    <col0>Ni</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>456</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Non Industrial</col7>
+  </Catalog>
+ 
+"Ph","","","","8","","","Pre High"
+  <Catalog>
+    <col0>Ph</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>8</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Pre High</col7>
+  </Catalog>
+ 
+"Hi","","","","9ABC","","","High Population"
+  <Catalog>
+    <col0>Hi</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>9ABC</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>High Population</col7>
+  </Catalog>
+ 
+"Pa","","456789","45678","48","","","Pre Agricultural"
+  <Catalog>
+    <col0>Pa</col0>
+    <col1></col1>
+    <col2>456789</col2>
+    <col3>45678</col3>
+    <col4>48</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Pre Agricultural</col7>
+  </Catalog>
+ 
+"Ag","","456789","45678","567","","","Agricultural"
+  <Catalog>
+    <col0>Ag</col0>
+    <col1></col1>
+    <col2>456789</col2>
+    <col3>45678</col3>
+    <col4>567</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Agricultural</col7>
+  </Catalog>
+ 
+"Na","","0123","0123","6789ABC","","","Non Agricultural"
+  <Catalog>
+    <col0>Na</col0>
+    <col1></col1>
+    <col2>0123</col2>
+    <col3>0123</col3>
+    <col4>6789ABC</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Non Agricultural</col7>
+  </Catalog>
+ 
+"Pi","","012479","","78","","","Pre Industrial"
+  <Catalog>
+    <col0>Pi</col0>
+    <col1></col1>
+    <col2>012479</col2>
+    <col3></col3>
+    <col4>78</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Pre Industrial</col7>
+  </Catalog>
+ 
+"In","","012479","","9ABC","","","industrial"
+  <Catalog>
+    <col0>In</col0>
+    <col1></col1>
+    <col2>012479</col2>
+    <col3></col3>
+    <col4>9ABC</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>industrial</col7>
+  </Catalog>
+ 
+"Po","","2345","0123","","","","Poor"
+  <Catalog>
+    <col0>Po</col0>
+    <col1></col1>
+    <col2>2345</col2>
+    <col3>0123</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Poor</col7>
+  </Catalog>
+ 
+"Pr","","68","","59","","","Pre Rich"
+  <Catalog>
+    <col0>Pr</col0>
+    <col1></col1>
+    <col2>68</col2>
+    <col3></col3>
+    <col4>59</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Pre Rich</col7>
+  </Catalog>
+ 
+"Ri","","68","","678","","","Rich"
+  <Catalog>
+    <col0>Ri</col0>
+    <col1></col1>
+    <col2>68</col2>
+    <col3></col3>
+    <col4>678</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Rich</col7>
+  </Catalog>
+ 
+"Fr","23456789","","123456789A","","","","Frozen","HZ +2 or outer"
+  <Catalog>
+    <col0>Fr</col0>
+    <col1>23456789</col1>
+    <col2></col2>
+    <col3>123456789A</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Frozen</col7>
+    <col8>HZ 2 or outer</col8>
+  </Catalog>
+ 
+"Ho","","","","","","","Hot","HZ -1"
+  <Catalog>
+    <col0>Ho</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Hot</col7>
+    <col8>HZ -1</col8>
+  </Catalog>
+ 
+"Co","","","","","","","Cold","HZ +1"
+  <Catalog>
+    <col0>Co</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Cold</col7>
+    <col8>HZ 1</col8>
+  </Catalog>
+ 
+"Lk","","","","","","","Locked","Close Satellite"
+  <Catalog>
+    <col0>Lk</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Locked</col7>
+    <col8>Close Satellite</col8>
+  </Catalog>
+ 
+"Tr","6789","456789","34567","","","","Tropic","HZ -1"
+  <Catalog>
+    <col0>Tr</col0>
+    <col1>6789</col1>
+    <col2>456789</col2>
+    <col3>34567</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Tropic</col7>
+    <col8>HZ -1</col8>
+  </Catalog>
+ 
+"Tu","6789","456789","34567","","","","Tundra","HZ +1"
+  <Catalog>
+    <col0>Tu</col0>
+    <col1>6789</col1>
+    <col2>456789</col2>
+    <col3>34567</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Tundra</col7>
+    <col8>HZ 1</col8>
+  </Catalog>
+ 
+"Tz","","","","","","","Twilight Zone","Orbit 0-1"
+  <Catalog>
+    <col0>Tz</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Twilight Zone</col7>
+    <col8>Orbit 0-1</col8>
+  </Catalog>
+ 
+"Fa","","456789","45678","23456","","","Farming","Not MainWorld.  HZ"
+  <Catalog>
+    <col0>Fa</col0>
+    <col1></col1>
+    <col2>456789</col2>
+    <col3>45678</col3>
+    <col4>23456</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Farming</col7>
+    <col8>Not MainWorld.  HZ</col8>
+  </Catalog>
+ 
+"Mi","","","","23456","","","Mining","Not MainWorld.  MainWorld=In"
+  <Catalog>
+    <col0>Mi</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>23456</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Mining</col7>
+    <col8>Not MainWorld.  MainWorld=In</col8>
+  </Catalog>
+ 
+"Mr","","","","","","","Military Rule by Regional Power"
+  <Catalog>
+    <col0>Mr</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Military Rule by Regional Power</col7>
+  </Catalog>
+ 
+"Px","","23AB","12345","3456","","6789","Prison.  Exile Camp"
+  <Catalog>
+    <col0>Px</col0>
+    <col1></col1>
+    <col2>23AB</col2>
+    <col3>12345</col3>
+    <col4>3456</col4>
+    <col5></col5>
+    <col6>6789</col6>
+    <col7>Prison.  Exile Camp</col7>
+  </Catalog>
+ 
+"Pe","","23AB","12345","3456","6","6789","Penal Colony"
+  <Catalog>
+    <col0>Pe</col0>
+    <col1></col1>
+    <col2>23AB</col2>
+    <col3>12345</col3>
+    <col4>3456</col4>
+    <col5>6</col5>
+    <col6>6789</col6>
+    <col7>Penal Colony</col7>
+  </Catalog>
+ 
+"Re","","","","1234","6","45","Reserve"
+  <Catalog>
+    <col0>Re</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>1234</col4>
+    <col5>6</col5>
+    <col6>45</col6>
+    <col7>Reserve</col7>
+  </Catalog>
+ 
+"Cp","","","","","","","Subsector Capital","Imperial"
+  <Catalog>
+    <col0>Cp</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Subsector Capital</col7>
+    <col8>Imperial</col8>
+  </Catalog>
+ 
+"Cs","","","","","","","Client State","Imperial"
+  <Catalog>
+    <col0>Cs</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Client State</col7>
+    <col8>Imperial</col8>
+  </Catalog>
+ 
+"Cx","","","","","","","Sector Capital","Imperial"
+  <Catalog>
+    <col0>Cx</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Sector Capital</col7>
+    <col8>Imperial</col8>
+  </Catalog>
+ 
+"Cy","","","","","","","Colony","O:xxyy (p434)"
+  <Catalog>
+    <col0>Cy</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Colony</col7>
+    <col8>O:xxyy (p434)</col8>
+  </Catalog>
+ 
+"Sa","","","","","","","Satellite"
+  <Catalog>
+    <col0>Sa</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Satellite</col7>
+  </Catalog>
+ 
+"Fo","","","","","","","Forbidden","Red Zone"
+  <Catalog>
+    <col0>Fo</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Forbidden</col7>
+    <col8>Red Zone</col8>
+  </Catalog>
+ 
+"Pz","","","","789ABC","","","Puzzle","Amber Zone"
+  <Catalog>
+    <col0>Pz</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>789ABC</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Puzzle</col7>
+    <col8>Amber Zone</col8>
+  </Catalog>
+ 
+"Da","","","","0123456","","","Dangerous","Amber Zone"
+  <Catalog>
+    <col0>Da</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>0123456</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Dangerous</col7>
+    <col8>Amber Zone</col8>
+  </Catalog>
+ 
+"Ab","","","","","","","Data Repository"
+  <Catalog>
+    <col0>Ab</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Data Repository</col7>
+  </Catalog>
+ 
+"An","","","","","","","Ancient Site"
+  <Catalog>
+    <col0>An</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Ancient Site</col7>
+  </Catalog>
+ 
+"Rs","","","","","","","Research Station"
+  <Catalog>
+    <col0>Rs</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Research Station</col7>
+  </Catalog>
+ 
+"RsA","","","","","","","Research Station Alpha"
+  <Catalog>
+    <col0>RsA</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Research Station Alpha</col7>
+  </Catalog>
+ 
+"RsB","","","","","","","Research Station Beta"
+  <Catalog>
+    <col0>RsB</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Research Station Beta</col7>
+  </Catalog>
+ 
+"RsD","","","","","","","Research Station Delta"
+  <Catalog>
+    <col0>RsD</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Research Station Delta</col7>
+  </Catalog>
+ 
+</Catalogs>

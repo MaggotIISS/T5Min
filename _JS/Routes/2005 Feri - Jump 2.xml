@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+World 1
+"2204"
+  <System>
+    <hex>2204</hex>
+    <sname>Beck's World</sname>
+    <UWP>D88349D-4</UWP>
+    <st>D</st>
+    <si>8</si>
+    <at>8</at>
+    <hy>3</hy>
+    <po>4</po>
+    <go>9</go>
+    <ll>D</ll>
+    <tl>4</tl>
+    <remarks>Ni An</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(631+1)</ex>
+    <cx>[8198]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>701</pbg>
+    <w>10</w>
+    <a>ImDd</a>
+    <stellar>K0 V M2 V</stellar>
+  </System>
+
+World 2
+"2205"
+  <System>
+    <hex>2205</hex>
+    <sname>Enope</sname>
+    <UWP>C411988-7</UWP>
+    <st>C</st>
+    <si>4</si>
+    <at>1</at>
+    <hy>1</hy>
+    <po>9</po>
+    <go>8</go>
+    <ll>8</ll>
+    <tl>7</tl>
+    <remarks>Hi Ic In Na</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+1)</ex>
+    <cx>[9A57]</cx>
+    <n>BE</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>600</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K6 V M5 V</stellar>
+  </System>
+
+World 3
+"2007"
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+World 4
+"1806"
+  <System>
+    <hex>1806</hex>
+    <sname>Whanga</sname>
+    <UWP>E676126-7</UWP>
+    <st>E</st>
+    <si>6</si>
+    <at>7</at>
+    <hy>6</hy>
+    <po>1</po>
+    <go>2</go>
+    <ll>6</ll>
+    <tl>7</tl>
+    <remarks>Lo</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(311-4)</ex>
+    <cx>[1146]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>224</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G1 V M1 V</stellar>
+  </System>
+
+World 5
+"1805"
+  <System>
+    <hex>1805</hex>
+    <sname>Uakye</sname>
+    <UWP>B439598-D</UWP>
+    <st>B</st>
+    <si>4</si>
+    <at>3</at>
+    <hy>9</hy>
+    <po>5</po>
+    <go>9</go>
+    <ll>8</ll>
+    <tl>D</tl>
+    <remarks>Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(945+1)</ex>
+    <cx>[565D]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>320</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 6
+"1904"
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+</Systems>

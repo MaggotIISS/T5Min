@@ -1,0 +1,79 @@
+"Carl Anderson","his","A00helm","Solomani","Conscious"
+11
+"","Identification",0
+16
+"Age",0,"","",0,"",0,""
+"Residence",0,"","",0,"",0,""
+"Birthdate",0,"","",0,"",0,""
+"Birth Planet",0,"","",0,"",0,""
+"Birth Subsector",0,"","",0,"",0,""
+"Race",0,"","",0,"",0,""
+"Height",0,"","",0,"",0,""
+"Weight",0,"","",0,"",0,""
+"Hair Color",0,"","",0,"",0,""
+"Eye Color",0,"","",0,"",0,""
+"Complexion",0,"","",0,"",0,""
+"Marital Status",0,"","",0,"",0,""
+"Spouse's Name",0,"","",0,"",0,""
+"Dependents",0,"","",0,"",0,""
+"Citizenship",0,"","",0,"",0,""
+"Religion",0,"","",0,"",0,""
+"","UPP",0
+6
+"Dex",1,"","",1,"<!CHARNAME!> attempts to apply <!GENDER!> <!NAME!> attribute towards the task at hand, rolling <!XDICE 2d6!> against a score of <!BASE!>",0,""
+"Str",1,"","",1,"<!CHARNAME!> attempts to apply <!GENDER!> <!NAME!> attribute towards the task at hand, rolling <!XDICE 2d6!> against a score of <!BASE!>",0,""
+"End",1,"","",1,"<!CHARNAME!> attempts to apply <!GENDER!> <!NAME!> attribute towards the task at hand, rolling <!XDICE 2d6!> against a score of <!BASE!>",0,""
+"Int",0,"","",1,"<!CHARNAME!> attempts to apply <!GENDER!> <!NAME!> attribute towards the task at hand, rolling <!XDICE 2d6!> against a score of <!BASE!>",0,""
+"Edu",0,"","",1,"<!CHARNAME!> attempts to apply <!GENDER!> <!NAME!> attribute towards the task at hand, rolling <!XDICE 2d6!> against a score of <!BASE!>",0,""
+"Soc",0,"","",1,"<!CHARNAME!> attempts to apply <!GENDER!> <!NAME!> attribute towards the task at hand, rolling <!XDICE 2d6!> against a score of <!BASE!>",0,""
+"","College Record",0
+7
+"College1",0,"","",0,"",0,""
+"College2",0,"","",0,"",0,""
+"Degree1",0,"","",0,"",0,""
+"Degree2",0,"","",0,"",0,""
+"Honors1",0,"","",0,"",0,""
+"Honors2",0,"","",0,"",0,""
+"OtherEducation",0,"","",0,"",0,""
+"","Service Record",0
+12
+"Service",0,"","",0,"",0,""
+"Branch",0,"","",0,"",0,""
+"Terms",0,"","",0,"",0,""
+"Rank",0,"","",0,"",0,""
+"Retired1",0,"","",0,"",0,""
+"Retired2",0,"","",0,"",0,""
+"RetirePay",0,"","",0,"",0,""
+"Discharge",0,"","",0,"",0,""
+"DischargeDate",0,"","",0,"",0,""
+"DischargeWorld",0,"","",0,"",0,""
+"SpecialAssignments",0,"","",0,"",0,""
+"Decorations",0,"","",0,"",0,""
+"","MOS",0
+2
+"PrimarySkill",0,"","",1,"<!CHARNAME!> attempts to use <!GENDER!> <!CALL <!BASE!>.Name!> skill, rolling <!XDICE 2d6!> + <!CALL <!BASE!>.BaseValue!> for a total roll of <!CALC <!LDRT!>+<!CALL <!BASE!>.BaseValue!>!>",0,""
+"SecondarySkill",0,"","",1,"<!CHARNAME!> attempts to use <!GENDER!> <!CALL <!BASE!>.Name!> skill, rolling <!XDICE 2d6!> + <!CALL <!BASE!>.BaseValue!> for a total roll of <!CALC <!LDRT!>+<!CALL <!BASE!>.BaseValue!>!>",0,""
+"","Miscellaneous",0
+8
+"Credits",0,"","",0,"",0,""
+"TAS1",0,"","",0,"",0,""
+"TAS2",0,"","",0,"",0,""
+"PsiTested2",0,"","",0,"",0,""
+"PsiTested1",0,"","",0,"",0,""
+"Test Date",0,"","",0,"",0,""
+"Psionic Strength",0,"","",0,"",0,""
+"Abilities and Levels",0,"","",0,"",0,""
+"2d6","Skills",2
+0
+"","Equipment",0
+0
+"","Combat",0
+3
+"Melee",0,"","",0,"",0,""
+"Ranged",0,"","",0,"",0,""
+"Armour",0,"","",0,"",0,""
+"","Worn",0
+0
+"","Carried",0
+0
+""

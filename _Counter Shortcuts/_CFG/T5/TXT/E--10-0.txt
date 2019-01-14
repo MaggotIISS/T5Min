@@ -1,0 +1,41 @@
+//	E--10-0.txt
+#Fighting Ships  of the Shattered Imperium
+#    SIZE J   G  GTL
+#There are 2 fleet types (except for Depot fleets, see below).
+# Numbered
+# Reserve
+#Numbered fleets are numbered 1-999 (approximately 320 Numbered fleets).
+#Reserve fleets are numbered 1001-1999.
+#Depots have 3 fleet types to account for protection & convenience value
+# Training
+# Mothball
+# Security
+#Named fleets are made up of Numbered fleets
+########################################################################
+lines.gif
+Box.gif 1 1 FFFFFF
+Box.gif c 1 FFFFFF
+Box.gif 43 1 FFFFFF
+Box.gif 1 c FFFFFF
+Box.gif c c FFFFFF
+Box.gif 43 c FFFFFF
+Box.gif 1 37 FFFFFF
+Box.gif c 37 FFFFFF
+Box.gif 43 37 FFFFFF
+BATTLESHIP.gif c c D0D0D0
+- 2 1 35 H 000000
+# 2 7 35 H 000000
+#213 2 13 35 H 000000
+DT=+ 2 19 35 H 000000
+DR 2 25 35 H 000000
+HP 2 31 35 H 000000
+P 2 37 35 H 000000
+A 2 43 35 H 000000
+C 2 49 35 H 000000
+TL 23 37 35 H 000000
+J 23 43 35 H 000000
+G 23 49 35 H 000000
+C 45 19 35 H 000000
+P0 45 25 35 H 000000
+C0 45 31 35 H 000000
+E--10-0.gif

@@ -1,0 +1,3 @@
+//	ScoutBase4-0.txt
+lines.gif
+ScoutBase4-0.gif

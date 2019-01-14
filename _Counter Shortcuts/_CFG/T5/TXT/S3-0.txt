@@ -1,0 +1,6 @@
+//	S3-0.txt
+#S3   
+lines.gif
+box.gif c c B0FFBF
+S3 1 1 35 H 000000
+S3-0.gif

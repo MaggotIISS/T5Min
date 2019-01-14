@@ -1,0 +1,10 @@
+//	ASW9-APS-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+squadsupport.gif c c 000000
+ASW 2 1 35 H 000000
+TL8 50 1 35 H 000000
+VAR.20.-1 2 7 35 H 000000
+10D.2 2 13 35 H 000000
+ASW9-APS-1.gif

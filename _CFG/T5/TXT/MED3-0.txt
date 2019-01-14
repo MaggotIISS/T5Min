@@ -1,0 +1,7 @@
+//	MED3-0.txt
+blank.gif
+im.gif c c replace
+harvehastm.gif c c 000000
+MED3 c 7 35 H 000000
+7 2 7 35 H 000000
+MED3-0.gif

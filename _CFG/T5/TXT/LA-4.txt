@@ -1,0 +1,6 @@
+//	LA-4.txt
+#LA  FF 00 00
+lines.gif
+box.gif c c FF0000
+LA 1 1 35 H 000000
+LA-4.gif

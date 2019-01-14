@@ -1,0 +1,14 @@
+N
+--------------------
+Code	Rank	TC	
+A	Gentleman	Peer	
+B	Knight	any	
+c	Baronet	Pa Pr	
+C	Baron	Ag Ri	
+D	Marquis	Pi	
+e	Viscount	Ph	
+E	Count	Hi	
+f	Duke	In	
+F	Duke	In	
+G	Archduke		
+H	Emperor		

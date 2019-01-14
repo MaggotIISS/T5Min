@@ -1,0 +1,3 @@
+//	ScoutBase2-0.txt
+lines.gif
+ScoutBase2-0.gif

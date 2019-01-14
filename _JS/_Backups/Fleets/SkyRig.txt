@@ -1,0 +1,2 @@
+ "ID","Admiral","Hex","Precedence","Planning","Tactical","Max Rons"
+"01","Ashludda","1307","2","7","7","4"

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+World 1
+"2106"
+  <System>
+    <hex>2106</hex>
+    <sname>Pscias</sname>
+    <UWP>X555423-2</UWP>
+    <st>X</st>
+    <si>5</si>
+    <at>5</at>
+    <hy>5</hy>
+    <po>4</po>
+    <go>2</go>
+    <ll>3</ll>
+    <tl>2</tl>
+    <remarks>Ni Pa Fo</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(631-5)</ex>
+    <cx>[1121]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>R</z>
+    <pbg>501</pbg>
+    <w>15</w>
+    <a>ImDd</a>
+    <stellar>K5 V</stellar>
+  </System>
+
+World 2
+"2007"
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+World 3
+"1808"
+  <System>
+    <hex>1808</hex>
+    <sname>Forboldn</sname>
+    <UWP>D893614-5</UWP>
+    <st>D</st>
+    <si>8</si>
+    <at>9</at>
+    <hy>3</hy>
+    <po>6</po>
+    <go>1</go>
+    <ll>4</ll>
+    <tl>5</tl>
+    <remarks>Ni</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(851-5)</ex>
+    <cx>[4333]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>312</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G0 V</stellar>
+  </System>
+
+World 4
+"1307"
+  <System>
+    <hex>1307</hex>
+    <sname>Lysen</sname>
+    <UWP>B592655-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>2</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>5</ll>
+    <tl>A</tl>
+    <remarks>He Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(D55-1)</ex>
+    <cx>[4738]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 5
+"1305"
+  <System>
+    <hex>1305</hex>
+    <sname>Nakege</sname>
+    <UWP>D591314-5</UWP>
+    <st>D</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>1</hy>
+    <po>3</po>
+    <go>1</go>
+    <ll>4</ll>
+    <tl>5</tl>
+    <remarks>He Lo Da (minor)</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(521-5)</ex>
+    <cx>[1133]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>A</z>
+    <pbg>501</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>K2 V M0 V</stellar>
+  </System>
+
+World 6
+"1402"
+  <System>
+    <hex>1402</hex>
+    <sname>Farreach</sname>
+    <UWP>A200400-B</UWP>
+    <st>A</st>
+    <si>2</si>
+    <at>0</at>
+    <hy>0</hy>
+    <po>4</po>
+    <go>0</go>
+    <ll>0</ll>
+    <tl>B</tl>
+    <remarks>Ni Va Da</remarks>
+    <ix>{ 2 }</ix>
+    <ex>(C35-2)</ex>
+    <cx>[1616]</cx>
+    <n>-</n>
+    <b>KM</b>
+    <z>A</z>
+    <pbg>415</pbg>
+    <w>10</w>
+    <a>ZhIN</a>
+    <stellar>M3 III M0 V</stellar>
+  </System>
+
+</Systems>

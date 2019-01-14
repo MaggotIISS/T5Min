@@ -1,0 +1,4 @@
+//	Vassalry-0.txt
+lines.gif
+vassalry.gif c c replace
+Vassalry-0.gif

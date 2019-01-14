@@ -1,0 +1,10 @@
+NIL
+--------------------
+Pop	Atm	TL	Comment	Note	
+7+	2-9	1+	Intelligent life evolved on this world	Natives	
+7+	A+	1+	Local intelligent life incompatible with human enviroments	Exotics	
+7+	0-1	1+	Sophonts evolved elsewhere and settled here years ago	Transplants	
+0	2+	1+	Intelligent life evolved on this world, but is now extinct	Extinct	
+0	0-1	1+	Evidence of Transplants, but are no longer present	Vanished	
+1-3			Non permanent commercial or scientific activity	Transients	
+4-6			The initial steps of creating a colony	Settlers	

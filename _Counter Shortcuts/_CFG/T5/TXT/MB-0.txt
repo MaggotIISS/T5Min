@@ -1,0 +1,7 @@
+//	MB-0.txt
+   
+#MB   
+lines.gif
+box.gif c c FF303F
+MB 1 1 35 H 000000
+MB-0.gif

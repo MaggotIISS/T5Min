@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Pop.txt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Digit","Description","Value"
+"0","Unpopulated"
+  <Catalog>
+    <col0>0</col0>
+    <col1>Unpopulated</col1>
+  </Catalog>
+ 
+"1","Tens","0"
+  <Catalog>
+    <col0>1</col0>
+    <col1>Tens</col1>
+    <col2>0</col2>
+  </Catalog>
+ 
+"2","Hundred","00"
+  <Catalog>
+    <col0>2</col0>
+    <col1>Hundred</col1>
+    <col2>00</col2>
+  </Catalog>
+ 
+"3","Thousand",",000"
+  <Catalog>
+    <col0>3</col0>
+    <col1>Thousand</col1>
+    <col2>,000</col2>
+  </Catalog>
+ 
+"4","Ten thousand","0,000"
+  <Catalog>
+    <col0>4</col0>
+    <col1>Ten thousand</col1>
+    <col2>0,000</col2>
+  </Catalog>
+ 
+"5","Hundred thousand","00,000"
+  <Catalog>
+    <col0>5</col0>
+    <col1>Hundred thousand</col1>
+    <col2>00,000</col2>
+  </Catalog>
+ 
+"6","Million",",000,000"
+  <Catalog>
+    <col0>6</col0>
+    <col1>Million</col1>
+    <col2>,000,000</col2>
+  </Catalog>
+ 
+"7","Ten million","0,000,000"
+  <Catalog>
+    <col0>7</col0>
+    <col1>Ten million</col1>
+    <col2>0,000,000</col2>
+  </Catalog>
+ 
+"8","Hundred million","00,000,000"
+  <Catalog>
+    <col0>8</col0>
+    <col1>Hundred million</col1>
+    <col2>00,000,000</col2>
+  </Catalog>
+ 
+"9","Billion",",000,000,000"
+  <Catalog>
+    <col0>9</col0>
+    <col1>Billion</col1>
+    <col2>,000,000,000</col2>
+  </Catalog>
+ 
+"A","Ten billion","0,000,000,000"
+  <Catalog>
+    <col0>A</col0>
+    <col1>Ten billion</col1>
+    <col2>0,000,000,000</col2>
+  </Catalog>
+ 
+"B","Hundred billion","00,000,000,000"
+  <Catalog>
+    <col0>B</col0>
+    <col1>Hundred billion</col1>
+    <col2>00,000,000,000</col2>
+  </Catalog>
+ 
+"C","Trillion",",000,000,000,000"
+  <Catalog>
+    <col0>C</col0>
+    <col1>Trillion</col1>
+    <col2>,000,000,000,000</col2>
+  </Catalog>
+ 
+"D","Ten trillion","0,000,000,000,000"
+  <Catalog>
+    <col0>D</col0>
+    <col1>Ten trillion</col1>
+    <col2>0,000,000,000,000</col2>
+  </Catalog>
+ 
+"E","Hundred trillion","00,000,000,000,0000"
+  <Catalog>
+    <col0>E</col0>
+    <col1>Hundred trillion</col1>
+    <col2>00,000,000,000,0000</col2>
+  </Catalog>
+ 
+"F","Quadrillion",",000,000,000,000,000"
+  <Catalog>
+    <col0>F</col0>
+    <col1>Quadrillion</col1>
+    <col2>,000,000,000,000,000</col2>
+  </Catalog>
+ 
+</Catalogs>

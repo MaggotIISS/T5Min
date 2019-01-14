@@ -1,0 +1,8 @@
+UPP
+    Strength
+    Dexterity
+    Endurance
+    Intelligence
+    Education
+    Social
+  

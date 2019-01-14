@@ -1,0 +1,6 @@
+//	As-0.txt
+#AS  8F 8F 00
+lines.gif
+box.gif c c 8F8F00
+AS 1 1 35 H 000000
+As-0.gif

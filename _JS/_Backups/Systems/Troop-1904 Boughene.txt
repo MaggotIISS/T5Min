@@ -1,0 +1,2 @@
+"WORLD","","SYSTEM","","","","","","","","","","","","","SYSTEM","UWP","SDBS","RONS","DEF CF","TROOPS","POPULATION","BELTS","GGS","WORLDS"
+"World","","1904 Boughene","Troop-1904 Boughene","","","","","","","","","","","","1904 Boughene","A8B3531-D","SDBs X","Rons X","Def CF X","Troops X","Pop &lt; 600 K","Belts 0","GGs 1","Worlds 13 G"

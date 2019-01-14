@@ -1,0 +1,6 @@
+//	Scout-0.txt
+#SCOUT  00 FF 00
+lines.gif
+box.gif c c 00FF00
+SCOUT 1 1 35 H 000000
+Scout-0.gif

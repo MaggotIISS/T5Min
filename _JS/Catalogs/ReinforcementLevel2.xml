@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="ReinforcementLevel2.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"ML","1","11","21","31","41","51"
+"0","0","20","20","20","20","20"
+  <Catalog>
+    <col0>0</col0>
+    <col1>0</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>20</col4>
+    <col5>20</col5>
+    <col6>20</col6>
+  </Catalog>
+ 
+"1","10","20","20","20","20","10"
+  <Catalog>
+    <col0>1</col0>
+    <col1>10</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>20</col4>
+    <col5>20</col5>
+    <col6>10</col6>
+  </Catalog>
+ 
+"2","20","20","20","20","20"
+  <Catalog>
+    <col0>2</col0>
+    <col1>20</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>20</col4>
+    <col5>20</col5>
+  </Catalog>
+ 
+"3","30","20","20","20","10"
+  <Catalog>
+    <col0>3</col0>
+    <col1>30</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>20</col4>
+    <col5>10</col5>
+  </Catalog>
+ 
+"4","40","20","20","20"
+  <Catalog>
+    <col0>4</col0>
+    <col1>40</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>20</col4>
+  </Catalog>
+ 
+"5","50","20","20","10"
+  <Catalog>
+    <col0>5</col0>
+    <col1>50</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>10</col4>
+  </Catalog>
+ 
+"6","60","20","20"
+  <Catalog>
+    <col0>6</col0>
+    <col1>60</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+  </Catalog>
+ 
+"7","70","20","10"
+  <Catalog>
+    <col0>7</col0>
+    <col1>70</col1>
+    <col2>20</col2>
+    <col3>10</col3>
+  </Catalog>
+ 
+"8","80","20"
+  <Catalog>
+    <col0>8</col0>
+    <col1>80</col1>
+    <col2>20</col2>
+  </Catalog>
+ 
+"9","90","10"
+  <Catalog>
+    <col0>9</col0>
+    <col1>90</col1>
+    <col2>10</col2>
+  </Catalog>
+ 
+"A","100"
+  <Catalog>
+    <col0>A</col0>
+    <col1>100</col1>
+  </Catalog>
+ 
+</Catalogs>

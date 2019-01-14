@@ -1,0 +1,6 @@
+//	MG-0.txt
+#MG   
+lines.gif
+box.gif c c FFF0FF
+MG 1 1 35 H 000000
+MG-0.gif

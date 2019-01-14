@@ -1,0 +1,10 @@
+//	AssRifle5-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+rifle.gif c c 000000
+AssRifle5.5 2 1 35 H 000000
+TL7 50 1 35 H 000000
+30.12.-1 2 7 35 H 000000
+5D.1 2 13 35 H 000000
+AssRifle5-0.gif

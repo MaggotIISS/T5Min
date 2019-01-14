@@ -1,0 +1,5 @@
+//	CA-1.txt
+lines.gif
+box.gif c c 00FFFF
+star.gif c c 000000
+CA-1.gif

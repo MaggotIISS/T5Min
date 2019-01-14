@@ -1,0 +1,4 @@
+//	BlackSunBrotherhood-0.txt
+lines.gif
+star.gif c c 000000
+BlackSunBrotherhood-0.gif

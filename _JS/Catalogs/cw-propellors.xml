@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="cw-propellors.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""ID","Propellors","Cost","Weight","Spaces","DP""
+""1","MicroPlane","250","200","1","4""
+  <Catalog>
+    <col0>1</col0>
+    <col1>MicroPlane</col1>
+    <col2>250</col2>
+    <col3>200</col3>
+    <col4>1</col4>
+    <col5>4</col5>
+  </Catalog>
+ 
+""2","AirPlane","600","250","2","10""
+  <Catalog>
+    <col0>2</col0>
+    <col1>AirPlane</col1>
+    <col2>600</col2>
+    <col3>250</col3>
+    <col4>2</col4>
+    <col5>10</col5>
+  </Catalog>
+ 
+""3","Ducted Cowlings","250","20","0","2""
+  <Catalog>
+    <col0>3</col0>
+    <col1>Ducted Cowlings</col1>
+    <col2>250</col2>
+    <col3>20</col3>
+    <col4>0</col4>
+    <col5>2</col5>
+  </Catalog>
+ 
+""4","Tilt-Rotor","100","75","1","""
+  <Catalog>
+    <col0>4</col0>
+    <col1>Tilt-Rotor</col1>
+    <col2>100</col2>
+    <col3>75</col3>
+    <col4>1</col4>
+    <col5></col5>
+  </Catalog>
+ 
+</Catalogs>

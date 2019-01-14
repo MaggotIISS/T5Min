@@ -1,0 +1,18 @@
+//	AID-0.txt
+#    ArmouredInfantryDivision
+lines.gif
+armor.gif 4 5 000000
+infantry.gif 4 5 000000
+box.gif c 1 C0D0C0
+270 C 5 35 H 000000
+O8 48 6 35 H 000000
+box.gif 1 c 2F6F2F
+2888 3 c 35 H 000000
+box.gif c c 2F6F2F
+2888 c c 35 H 000000
+box.gif 1 37 0000FF
+3534 3 40 35 H 000000
+box.gif c 37 0000FF
+3534 c 40 35 H 000000
+lines.gif c c 000000
+AID-0.gif

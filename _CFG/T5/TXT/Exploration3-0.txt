@@ -1,0 +1,5 @@
+//	Exploration3-0.txt
+lines.gif
+exploration.gif c c replace
+lines.gif c c 000000
+Exploration3-0.gif

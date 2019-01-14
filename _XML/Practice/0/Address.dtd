@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/Address.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE address SYSTEM "Address.dtd">
+
+    <address>
+    ...
+    </address>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT address (name|street|town|region|postcode|country)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT street (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT town (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT region (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT postcode (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT country (#PCDATA)>

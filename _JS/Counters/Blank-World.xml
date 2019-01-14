@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Counters.xsl"?> --><!DOCTYPE Counters SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Counters.xsl -->
+<Counters xmlns:Counters="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"WORLD","","SYSTEM","","","","","","","","","","","","","SYSTEM","UWP","SDBS","RONS","DEF CF","TROOPS","POPULATION","BELTS","GGS","WORLDS"
+"World","","1705 Efate","","","","","","","","","","","","","1705 Efate","A646930-D","SDBs 150","Rons 3","Def CF 1500","Troops 100","Pop &lt; 8 B","Belts 0","GGs 0","Worlds 8 G"
+  <Counter>
+    <col0>World</col0>
+    <col1></col1>
+    <col2>1705 Efate</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15>1705 Efate</col15>
+    <col16>A646930-D</col16>
+    <col17>SDBs 150</col17>
+    <col18>Rons 3</col18>
+    <col19>Def CF 1500</col19>
+    <col20>Troops 100</col20>
+    <col21>Pop &lt; 8 B</col21>
+    <col22>Belts 0</col22>
+    <col23>GGs 0</col23>
+    <col24>Worlds 8 G</col24>
+  </Counter>
+ 
+</Counters>

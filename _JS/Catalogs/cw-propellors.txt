@@ -1,0 +1,5 @@
+""ID","Propellors","Cost","Weight","Spaces","DP""
+""1","MicroPlane","250","200","1","4""
+""2","AirPlane","600","250","2","10""
+""3","Ducted Cowlings","250","20","0","2""
+""4","Tilt-Rotor","100","75","1","""

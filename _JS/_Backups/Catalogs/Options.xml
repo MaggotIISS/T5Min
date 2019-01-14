@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Options.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"CODE","OPTION","EFFECT","QREBS"
+"a","Low Signature Visual Camouflaged","Mod -2 for visual detection","-1S"
+  <Catalog>
+    <col0>a</col0>
+    <col1>Low Signature Visual Camouflaged</col1>
+    <col2>Mod -2 for visual detection</col2>
+    <col3>-1S</col3>
+  </Catalog>
+ 
+"b","Low Signature Metal, Plastic Construction","Mod -4 for metal detection","-1S"
+  <Catalog>
+    <col0>b</col0>
+    <col1>Low Signature Metal, Plastic Construction</col1>
+    <col2>Mod -4 for metal detection</col2>
+    <col3>-1S</col3>
+  </Catalog>
+ 
+"c","Quiet, Silenced","Converts Loud to Quiet","-1E"
+  <Catalog>
+    <col0>c</col0>
+    <col1>Quiet, Silenced</col1>
+    <col2>Converts Loud to Quiet</col2>
+    <col3>-1E</col3>
+  </Catalog>
+ 
+"d","Folding Stock. Collapsing Stock. Close Quarters","Mod +2 for EOU in close quarters","-2R"
+  <Catalog>
+    <col0>d</col0>
+    <col1>Folding Stock. Collapsing Stock. Close Quarters</col1>
+    <col2>Mod 2 for EOU in close quarters</col2>
+    <col3>-2R</col3>
+  </Catalog>
+ 
+"e","Stable Platform. Gyroscopic. Shoulder Stock For Pistols","Reduces Difficulty 1D","-1E"
+  <Catalog>
+    <col0>e</col0>
+    <col1>Stable Platform. Gyroscopic. Shoulder Stock For Pistols</col1>
+    <col2>Reduces Difficulty 1D</col2>
+    <col3>-1E</col3>
+  </Catalog>
+ 
+"f","Flash Suppressor Visual","Mod -4 visual detection in darkness","-1B"
+  <Catalog>
+    <col0>f</col0>
+    <col1>Flash Suppressor Visual</col1>
+    <col2>Mod -4 visual detection in darkness</col2>
+    <col3>-1B</col3>
+  </Catalog>
+ 
+"g","Hot Enviroment Adapted.  Insulated","Mod +3 Reliability in hot environment","-3E"
+  <Catalog>
+    <col0>g</col0>
+    <col1>Hot Enviroment Adapted.  Insulated</col1>
+    <col2>Mod 3 Reliability in hot environment</col2>
+    <col3>-3E</col3>
+  </Catalog>
+ 
+"h","Corrosive Environment Adapted. Anti Corrosion Coating","Mod +3 Reliability in Corrosive environment","-3E"
+  <Catalog>
+    <col0>h</col0>
+    <col1>Corrosive Environment Adapted. Anti Corrosion Coating</col1>
+    <col2>Mod 3 Reliability in Corrosive environment</col2>
+    <col3>-3E</col3>
+  </Catalog>
+ 
+"i","Cold Enviroment Adapted.  Insulated","Mod +3 Reliability in Cold environment","-3E"
+  <Catalog>
+    <col0>i</col0>
+    <col1>Cold Enviroment Adapted.  Insulated</col1>
+    <col2>Mod 3 Reliability in Cold environment</col2>
+    <col3>-3E</col3>
+  </Catalog>
+ 
+"j","Amplificaton or Magnification Sights","Increase max Range +1*","-2E"
+  <Catalog>
+    <col0>j</col0>
+    <col1>Amplificaton or Magnification Sights</col1>
+    <col2>Increase max Range 1*</col2>
+    <col3>-2E</col3>
+  </Catalog>
+ 
+"k"
+  <Catalog>
+    <col0>k</col0>
+  </Catalog>
+ 
+"l"
+  <Catalog>
+    <col0>l</col0>
+  </Catalog>
+ 
+"m"
+  <Catalog>
+    <col0>m</col0>
+  </Catalog>
+ 
+"n"
+  <Catalog>
+    <col0>n</col0>
+  </Catalog>
+ 
+"o","Locked To Key","Only useable with Key"
+  <Catalog>
+    <col0>o</col0>
+    <col1>Locked To Key</col1>
+    <col2>Only useable with Key</col2>
+  </Catalog>
+ 
+"p","Locked To User","Only useable by Current ID`d Owner"
+  <Catalog>
+    <col0>p</col0>
+    <col1>Locked To User</col1>
+    <col2>Only useable by Current ID`d Owner</col2>
+  </Catalog>
+ 
+"q"
+  <Catalog>
+    <col0>q</col0>
+  </Catalog>
+ 
+"r[]","Sight Input Is [VHSTAP]"
+  <Catalog>
+    <col0>r[]</col0>
+    <col1>Sight Input Is [VHSTAP]</col1>
+  </Catalog>
+ 
+"s[]","Sight Display Output Is [VHSTAP]"
+  <Catalog>
+    <col0>s[]</col0>
+    <col1>Sight Display Output Is [VHSTAP]</col1>
+  </Catalog>
+ 
+"t"
+  <Catalog>
+    <col0>t</col0>
+  </Catalog>
+ 
+"u"
+  <Catalog>
+    <col0>u</col0>
+  </Catalog>
+ 
+"v"
+  <Catalog>
+    <col0>v</col0>
+  </Catalog>
+ 
+"w"
+  <Catalog>
+    <col0>w</col0>
+  </Catalog>
+ 
+"x","Sensor Acquisition and Tracking Of Target","Specify Sensor. Guns only"
+  <Catalog>
+    <col0>x</col0>
+    <col1>Sensor Acquisition and Tracking Of Target</col1>
+    <col2>Specify Sensor. Guns only</col2>
+  </Catalog>
+ 
+"y"
+  <Catalog>
+    <col0>y</col0>
+  </Catalog>
+ 
+"z"
+  <Catalog>
+    <col0>z</col0>
+  </Catalog>
+ 
+</Catalogs>

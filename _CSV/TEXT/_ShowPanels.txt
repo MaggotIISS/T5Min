@@ -1,0 +1,2 @@
+_ShowPanels.dirs
+_ShowPanels.names

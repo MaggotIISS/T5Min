@@ -1,0 +1,7 @@
+"1D","Result"
+"1","Battlefield promotion"
+"2","Critical battle"
+"3","No effect"
+"4","No effect"
+"5","Wounded"
+"6","KIA"

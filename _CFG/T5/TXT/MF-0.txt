@@ -1,0 +1,6 @@
+//	MF-0.txt
+#MF   
+lines.gif
+box.gif c c FFD0DF
+MF 1 1 35 H 000000
+MF-0.gif

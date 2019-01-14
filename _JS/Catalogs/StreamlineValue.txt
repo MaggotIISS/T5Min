@@ -1,0 +1,4 @@
+"Type","Value"
+"Unstreamlined","0"
+"Partially streamlined","-1"
+"Streamlined","-2"

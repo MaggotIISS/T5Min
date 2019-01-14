@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+World 1
+"1803"
+  <System>
+    <hex>1803</hex>
+    <sname>Menorb</sname>
+    <UWP>C652998-7</UWP>
+    <st>C</st>
+    <si>6</si>
+    <at>5</at>
+    <hy>2</hy>
+    <po>9</po>
+    <go>9</go>
+    <ll>8</ll>
+    <tl>7</tl>
+    <remarks>Hi Po</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(B89+1)</ex>
+    <cx>[9957]</cx>
+    <n>BE</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>310</pbg>
+    <w>7</w>
+    <a>ImDd</a>
+    <stellar>K2 V</stellar>
+  </System>
+
+World 2
+"1904"
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+World 3
+"1806"
+  <System>
+    <hex>1806</hex>
+    <sname>Whanga</sname>
+    <UWP>E676126-7</UWP>
+    <st>E</st>
+    <si>6</si>
+    <at>7</at>
+    <hy>6</hy>
+    <po>1</po>
+    <go>2</go>
+    <ll>6</ll>
+    <tl>7</tl>
+    <remarks>Lo</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(311-4)</ex>
+    <cx>[1146]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>224</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G1 V M1 V</stellar>
+  </System>
+
+</Systems>

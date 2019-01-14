@@ -1,0 +1,19 @@
+Atmo
+--------------------
+Digit	Description	Effects	
+0	Vacuum	S3	
+1	Trace	S3	
+2	VThin, Tainted	P1, S2	
+3	VThin	S2	
+4	Thin, Tainted	P1, S1	
+5	This	S1	
+6	Standard		
+7	Standard, Tainted	P1	
+8	Dense		
+9	Dense, Tainted	P1	
+A	Exotic	P1	
+B	Corrosive	C1 P1	
+C	Insidious	C2 P1	
+D	Dense, High	varies	
+E	Ellipsoid	varies	
+F	Thin, Low	varies	

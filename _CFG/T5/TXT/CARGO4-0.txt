@@ -1,0 +1,4 @@
+//	CARGO4-0.txt
+MERCONT4C.gif
+RORO C C 35 H FFFFFF
+CARGO4-0.gif

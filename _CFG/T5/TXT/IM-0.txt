@@ -1,0 +1,5 @@
+//	IM-0.txt
+lines.gif
+IM.gif c c replace
+lines.gif c c 000000
+IM-0.gif

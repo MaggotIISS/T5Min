@@ -1,0 +1,7 @@
+//	XT3B-0.txt
+blank.gif
+im.gif c c replace
+harvehintr.gif c c 000000
+XT3B c 7 35 H 000000
+4 2 7 35 H 000000
+XT3B-0.gif

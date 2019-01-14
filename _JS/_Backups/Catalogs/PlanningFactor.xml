@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="PlanningFactor.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"2D","PF"
+"2","0"
+  <Catalog>
+    <col0>2</col0>
+    <col1>0</col1>
+  </Catalog>
+ 
+"3","2"
+  <Catalog>
+    <col0>3</col0>
+    <col1>2</col1>
+  </Catalog>
+ 
+"4","3"
+  <Catalog>
+    <col0>4</col0>
+    <col1>3</col1>
+  </Catalog>
+ 
+"5","4"
+  <Catalog>
+    <col0>5</col0>
+    <col1>4</col1>
+  </Catalog>
+ 
+"6","5"
+  <Catalog>
+    <col0>6</col0>
+    <col1>5</col1>
+  </Catalog>
+ 
+"7","5"
+  <Catalog>
+    <col0>7</col0>
+    <col1>5</col1>
+  </Catalog>
+ 
+"8","5"
+  <Catalog>
+    <col0>8</col0>
+    <col1>5</col1>
+  </Catalog>
+ 
+"9","4"
+  <Catalog>
+    <col0>9</col0>
+    <col1>4</col1>
+  </Catalog>
+ 
+"10","3"
+  <Catalog>
+    <col0>10</col0>
+    <col1>3</col1>
+  </Catalog>
+ 
+"11","2"
+  <Catalog>
+    <col0>11</col0>
+    <col1>2</col1>
+  </Catalog>
+ 
+"12","1"
+  <Catalog>
+    <col0>12</col0>
+    <col1>1</col1>
+  </Catalog>
+ 
+</Catalogs>

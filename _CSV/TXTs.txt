@@ -1,0 +1,1220 @@
+////////////////////////////////////////////////////////////////////////////////
+
+1	
+2	
+3	
+4	
+5	
+6	
+
+////////////////////////////////////////////////////////////////////////////////
+
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+
+////////////////////////////////////////////////////////////////////////////////
+
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+
+////////////////////////////////////////////////////////////////////////////////
+
+NAME
+STREET
+TOWN
+POSTCODE
+COUNTY
+COUNTRY
+PLANET
+SYSTEM
+POLITY
+SUBSECTOR
+SECTOR
+????
+
+////////////////////////////////////////////////////////////////////////////////
+
+YN
+TL
+
+////////////////////////////////////////////////////////////////////////////////
+
+Alleg
+--------------------
+Code	Description	
+AnTC	Anubian Trade Coalition	
+AsIf	Iyeaao'fte (Tlaukhu client state)	
+AsMw	Aslan Hierate, single multiple-world clan dominates	
+AsOf	Oleaiy'fte (Tlaukhu client state)	
+AsSc	Aslan Hierate, multiple clans split control	
+AsSF	Aslan Hierate, small facility (temporary)	
+AsT0	Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)	
+AsT1	Aslan Hierate, Tlaukhu control, Khauleairl (2), Estoieie' (16), Toaseilwi (22)	
+AsT2	Aslan Hierate, Tlaukhu control, Syoisuis (3)	
+AsT3	Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)	
+AsT4	Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)	
+AsT5	Aslan Hierate, Tlaukhu control, Hlyueawi (6), Isoitiyro (15)	
+AsT6	Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)	
+AsT7	Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerfearlyo (20), Yehtahikh (24)	
+AsT8	Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okunir (29)	
+AsT9	Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)	
+AsTv	Aslan Hierate, Tlaukhu vassal clan dominates	
+AsTz	Aslan Hierate, Zodia clan (Tralyeaeawi vassal)	
+AsVc	Aslan Hierate, vassal clan dominates	
+AsWc	Aslan Hierate, single one-world clan dominates	
+AsXX	Aslan Hierate, unknown	
+BlSo	Belgardian Sojurnate	
+CaAs	Carrillian Assembly	
+CaPr	Principality of Caledon	
+CaTe	Carter Technocracy	
+CoLp	Council of Leh Perash	
+CsCa	Client State, Principality of Caledon	
+CsIm	Client State, Third Imperium	
+CsZh	Client State, Zhodani Consulate	
+CyUn	Cytralin Unity	
+DaCf	Darrian Confederation	
+DuCf	Confederation of Duncinae	
+FeHe	Federation of Heron	
+FlLe	Florian League	
+GaRp	Gamma Republic	
+GdMh	Grand Duchy of Marlheim	
+GdSt	Grand Duchy of Stoner	
+GeOr	Gerontocracy of Ormine	
+GlEm	Glorious Empire (Aslan independent clan, outcast)	
+GlFe	Glimmerdrift Federation	
+GnCl	Gniivi Collective	
+ImAp	Third Imperium, Amec Protectorate (Dagu)	
+ImDa	Third Imperium, Domain of Antares (Anta/Empt/Lish)	
+ImDc	Third Imperium, Domain of Sylea (Core/Delp/Forn/Mass)	
+ImDd	Third Imperium, Domain of Deneb (Dene/Reft/Spin/Troj)	
+ImDg	Third Imperium, Domain of Gateway (Glim/Hint/Ley)	
+ImDi	Third Imperium, Domain of Ilelish (Daib/Ilel/Reav/Verg/Zaru)	
+ImDs	Third Imperium, Domain of Sol (Alph/Dias/Magy/Olde/Solo)	
+ImDv	Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)	
+ImLa	Third Imperium, League of Antares (Anta)	
+ImLu	Third Imperium, Luriani Cultural Association (Ley/Forn)	
+ImSy	Third Imperium, Sylean Worlds (Core)	
+ImVd	Third Imperium, Vegan Autonomous District (Solo)	
+IsDo	Islaiat Dominate	
+JuHl	Julian Protectorate, Hegemony of Lorean	
+JuPr	Julian Protectorate, independent	
+JuRu	Julian Protectorate, Rukadukaz Republic	
+KhLe	Khuur League	
+LnRp	Loyal Nineworlds Republic	
+LyCo	Lanyard Colonies	
+MaEm	Maskai Empire	
+NaAs	Non-Aligned, Aslan-dominated (outside Hierate)	
+NaHu	Non-Aligned, Human-dominated	
+NaVa	Non-Aligned, Vargr-dominated	
+NaXX	Unclaimed	
+OcWs	Outcasts of the Whispering Sky	
+RaRa	Ral Ranta	
+SeFo	Senlis Foederate	
+SlLg	Shukikikar League	
+SoCf	Solomani Confederation	
+StCl	Strend Cluster	
+SwCf	Sword Worlds Confederation	
+TeAr	Tealou Arlaoh (Aslan independent clan, non-outcast)	
+UhHa	Union of Harmony	
+V40S	40th Squadron	
+VARC	Anti-Rukh Coalition	
+VAug	United Followers of Augurgh	
+VCKd	Commonality of Kedzudh	
+VDzF	Dzarrgh Federate	
+VPGa	Pact of Gaerr	
+VRuk	Worlds of Leader Rukh	
+VSDp	Seaknouth Dependency	
+VSEq	Society of Equals	
+VThE	Thoengling Empire	
+VTzE	Thirz Empire	
+VUru	Nation of Urukhu	
+XXXX	Unknown	
+ZhCo	Zhodani Consulate	
+
+////////////////////////////////////////////////////////////////////////////////
+
+RIDER
+TEAMSTER
+TRAINER
+
+////////////////////////////////////////////////////////////////////////////////
+
+HEIGHT
+WEIGHT
+HAIR
+EYES
+DETAILS
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+Atmo
+--------------------
+Digit	Description	Effects	
+0	Vacuum	S3	
+1	Trace	S3	
+2	VThin, Tainted	P1, S2	
+3	VThin	S2	
+4	Thin, Tainted	P1, S1	
+5	This	S1	
+6	Standard		
+7	Standard, Tainted	P1	
+8	Dense		
+9	Dense, Tainted	P1	
+A	Exotic	P1	
+B	Corrosive	C1 P1	
+C	Insidious	C2 P1	
+D	Dense, High	varies	
+E	Ellipsoid	varies	
+F	Thin, Low	varies	
+
+////////////////////////////////////////////////////////////////////////////////
+
+B
+--------------------
+Digit	Description	Alleg	
+C	Corsair Base	Vargr	
+D	Naval Depot	Any	
+K	Naval Base	Any	
+M	Military Base	Any	
+N	Naval Base	Imperial	
+R	Clan Base	Aslan	
+S	Scout Base	Imperial	
+T	Tlaukhu Base	Aslan	
+V	Exploration Base	Any	
+W	Scout Way Station	Imperial	
+X	Relay Station	Zhodani	
+
+////////////////////////////////////////////////////////////////////////////////
+
+MegaCorps
+Corportaion
+Syndication
+System Line
+
+////////////////////////////////////////////////////////////////////////////////
+
+WHO
+WHAT
+WHY
+WHERE
+WHEN
+WITH
+COUNTER
+COMBOMAPS
+
+////////////////////////////////////////////////////////////////////////////////
+
+NAME
+ID
+PHONE
+EMAIL
+
+////////////////////////////////////////////////////////////////////////////////
+
+CR
+CKMGT
+
+////////////////////////////////////////////////////////////////////////////////
+
+TITLE
+T1
+T2
+T3
+T4
+T5
+T6
+T7
+T8
+T9
+T10
+T11
+T12
+T13
+T14
+T15
+T16
+T17
+T18
+T19
+T20
+PIC1
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+Men Rank
+1/3 1-3 
+1/2 4
+1/2 5
+1/? 6
+
+////////////////////////////////////////////////////////////////////////////////
+
+D1000Limit
+--------------------
+TD	Ia	Ib	II	III	IV	V	VI	D	
+A0	13	12	11	9	9	8	-2	-1	
+A5	14	12	10	9	8	7	-2	-1	
+F0	14	12	10	9	8	7	-2	-1	
+F5	14	12	11	9	8	7	7	-1	
+G0	15	13	11	9	8	6	6	-1	
+G5	15	14	12	10	8	6	5	-1	
+K0	16	14	12	10	8	6	5	-1	
+K5	16	15	13	12	-2	6	5	-1	
+M0	17	16	14	12	-2	5	4	-1	
+M5	18	17	16	14	-2	5	2	-1	
+M9	18	18	16	15	-2	4	1	-1	
+
+////////////////////////////////////////////////////////////////////////////////
+
+D100Limit
+--------------------
+TD	Ia	Ib	II	III	IV	V	VI	D	
+A0	10	9	7	6	5	5	-2	-1	
+A5	10	9	7	5	4	4	-2	-1	
+F0	11	9	7	5	4	3	-2	-1	
+F5	11	9	7	5	4	3	3	-1	
+G0	11	10	8	6	4	2	2	-1	
+G5	12	10	8	7	4	2	1	-1	
+K0	12	11	9	7	5	2	0	-1	
+K5	13	12	10	9	-2	1	0	-1	
+M0	14	13	11	9	-2	1	0	-1	
+M5	15	14	13	11	-2	0	-1	-1	
+M9	15	15	13	12	-2	-1	-1	-1	
+
+////////////////////////////////////////////////////////////////////////////////
+
+D10Limit
+--------------------
+TD	Ia	Ib	II	III	IV	V	VI	D	
+A0	7	5	4	1	1	0	-1	-1	
+A5	7	5	3	1	0	-1	-1	-1	
+F0	7	6	3	1	0	-1	-1	-1	
+F5	7	6	4	1	0	-1	-1	-1	
+G0	8	6	4	1	0	-1	-1	-1	
+G5	9	7	5	3	0	-1	-1	-1	
+K0	10	7	6	3	0	-1	-1	-1	
+K5	10	8	7	5	-2	-1	-1	-1	
+M0	11	10	8	6	-2	-1	-1	-1	
+M5	11	11	9	8	-2	-1	-1	-1	
+M9	12	11	10	8	-2	-1	-1	-1	
+
+////////////////////////////////////////////////////////////////////////////////
+
+ACTOR
+ARTIST
+ATHLETE
+AUTHOR
+COMMS
+COMPUTER
+DRIVER
+FIGHTER
+TURRETS
+MECHANIC
+STEWARD
+VACC SUIT
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+1D6
+2D6
+3D6
+FLUX
+FLUX-
+FLUX+
+
+////////////////////////////////////////////////////////////////////////////////
+
+ACV
+AUTOMOTIVE
+GRAV
+LEGGED
+MOLE
+TRACKED
+WHEELED
+
+////////////////////////////////////////////////////////////////////////////////
+
+JUMP DRIVES
+LIFE SUPPORT
+MANEUVER DRIVES
+POWER PLANTS
+
+////////////////////////////////////////////////////////////////////////////////
+
+BREATHES
+CLOSED
+
+////////////////////////////////////////////////////////////////////////////////
+
+BATTLE DRESS
+BEAMS
+BLADES
+EXOTICS
+SLUG THROWERS
+SPRAYS
+UNARMED
+
+////////////////////////////////////////////////////////////////////////////////
+
+AERONAUTICS
+FLAPPER
+GRAV
+LTA
+ROTOR
+WING
+
+////////////////////////////////////////////////////////////////////////////////
+
+COMMON
+UNCOMMON
+RARE
+
+////////////////////////////////////////////////////////////////////////////////
+
+GGs
+--------------------
+2D	Size	WSize	Dia	Type	
+1	L	20	20,000		
+2	M	21	30,000	Neptune	
+3	N	22	40,000		
+4	P	23	50,000		
+5	Q	24	60,000		
+6	R	25	70,000	Saturn	
+7	S	26	80,000		
+8	T	27	90,000	Jupiter	
+9	U	28	125,000	2Mj	
+10	V	29	180,000	4Mj	
+11	W	30	220,000	6Mj	
+12	X	31	250,000	8Mj	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Govt
+--------------------
+Digit	Description	Note	
+0	No Government Structure	Family bonds predominate	
+1	Company/Corporation	Rule by a managerial elite	
+2	Participating Democracy	Rule by popular vote	
+3	Self-Perpetuating Oligarchy	Rule by a restricted minority with little or no input from the masses	
+4	Representative Democracy	Government by proxy	
+5	Feudal Technocracy	Governmental relationships based on mutually beneficial technical activities	
+6	Captive Government/Colony	Rule by a leadership answerable to an outside group	
+7	Balkanization	Rival governments continually compete for control of the world	
+8	Civil Service Bureaucracy	Rule by agencies employing individuals selected by merit	
+9	Impersonal Bureaucracy	Impersonal agencies rule	
+A	Charismatic Dictatorship	Government by a single leader enjoying the confidence of the citizens	
+B	Non-Charismatic Dictatorship	Government by the successor to a charismatic dictator	
+C	Charismatic Oligarchy	Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry	
+D	Religious Dictatorship	With little or no regard for the needs of the citizenry	
+E	Religious Autocracy	Government by a single religious, mystic, or psionic leader weilding absolute power	
+F	Totalitarian Oligarchy	Government by an all powerfule minority which maintains absolute control through widespread coercion and oppression	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Team
+Crew
+Section
+Department
+Unit
+Division
+Brigade
+Battalion
+Company
+
+////////////////////////////////////////////////////////////////////////////////
+
+BAY WEAPONS
+ORTILLERY
+SCREENS
+SPINES
+TURRETS
+HEAVY WEAPONS
+ARTILLERY
+LAUNCHER
+ORDNANCE
+WMD
+PILOT
+SMALL CRAFT
+SPACECRAFT ACS
+SPACECRAFT BCS
+SEAFARER
+AQUANAUTICS
+GRAV
+BOAT
+SHIP
+SUB
+
+////////////////////////////////////////////////////////////////////////////////
+
+Hab
+--------------------
+Sp/Si	A0-A3	A4-A8	A9-F1	F2-F6	F7-G1	G2-G8	G9-K3	K4-K8	K9-M3	M4-M8	M9	
+Ia	12	12	12	12	11	12	12	12	12	12	12	
+Ib	11	11	10	10	10	10	10	10	10	11	11	
+II	9	9	8	8	8	8	8	9	9	10	11	
+III	8	8	7	6	6	6	7	7	8	8	9	
+IV	7	7	6	6	5	5	5	-1	-1	-1	-1	
+V	7	7	6	5	4	3	2	2	0	0	0	
+VI	-1	-1	-1	3	3	2	1	0	0	0	0	
+VII	0	0	0	0	0	0	0	0	0	0	0	
+D	0	0	0	0	0	0	0	0	0	0	0	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Hydro
+--------------------
+Digit	Description	
+0	Desert World	
+1	10%	
+2	20%	
+3	30%	
+4	40%	
+5	50%	
+6	60%	
+7	70%	
+8	80%	
+9	90%	
+A	Water World	
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+Law
+--------------------
+Digit	Description	Note	
+0	No Law	No prohibitions	
+1	Low Law	Prohibition of WMD, Psi weapons	
+2	Low Law	Prohibition of 'portable' weapons	
+3	Low Law	Prohibition of Acid, Fire, Gas weapons	
+4	Moderate Law	Laser, Beam weapons prohibited	
+5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited	
+6	Moderate Law	Pohibition of Machineguns	
+7	Moderate Law	Prohibition of Pistols	
+8	High Law	Open display of weapons prohibited	
+9	High Law	Weapons outside the home prohibited	
+A	Extreme Law	Weapon possession prohibited	
+B	Extreme Law	Continental passports required	
+C	Extreme Law	Unrestricted invasion of privacy	
+D	Extreme Law	Paramilitary law enforcement	
+E	Extreme Law	Full-fledged police state	
+F	Extreme Law	Daily life rigidly controlled	
+G	Extreme Law	Disproportionate punishments	
+H	Extreme Law	Legalized oppressive practices	
+J	Extreme Law	Routinely oppressive and restrictive	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Structure
+X
+Y
+Z
+Sealed
+Exits
+
+////////////////////////////////////////////////////////////////////////////////
+
+Starport
+Startown
+Station
+Section
+Career
+Terms
+UPP
+Notes
+
+////////////////////////////////////////////////////////////////////////////////
+
+MainworldType
+--------------------
+Flux	World	HZ Var	Close	Far	
+-6	Close Satellite	-2	A	N	
+-5	Far Satellite	-1	B	O	
+-4	Far Satellite	-1	C	P	
+-3	Close Satellite	-1	D	Q	
+-2	World	0	E	R	
+-1	World	0	F	S	
+0	World	0	G	T	
+1	World	0	H	U	
+2	World	0	I	V	
+3	World	1	J	W	
+4	World	1	K	X	
+5	World	1	L	Y	
+6	World	2	M	Z	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Unit
+Num
+Race
+
+////////////////////////////////////////////////////////////////////////////////
+
+CORPORTAION
+SYNDICATION
+SYSTEM LINE
+
+////////////////////////////////////////////////////////////////////////////////
+
+N
+--------------------
+Code	Rank	TC	
+A	Gentleman	Peer	
+B	Knight	any	
+c	Baronet	Pa Pr	
+C	Baron	Ag Ri	
+D	Marquis	Pi	
+e	Viscount	Ph	
+E	Count	Hi	
+f	Duke	In	
+F	Duke	In	
+G	Archduke		
+H	Emperor		
+
+////////////////////////////////////////////////////////////////////////////////
+
+NIL
+--------------------
+Pop	Atm	TL	Comment	Note	
+7+	2-9	1+	Intelligent life evolved on this world	Natives	
+7+	A+	1+	Local intelligent life incompatible with human enviroments	Exotics	
+7+	0-1	1+	Sophonts evolved elsewhere and settled here years ago	Transplants	
+0	2+	1+	Intelligent life evolved on this world, but is now extinct	Extinct	
+0	0-1	1+	Evidence of Transplants, but are no longer present	Vanished	
+1-3			Non permanent commercial or scientific activity	Transients	
+4-6			The initial steps of creating a colony	Settlers	
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+
+////////////////////////////////////////////////////////////////////////////////
+
+CAROUSE
+QUERY
+PERSUADE
+COMMAND
+CURIOSITY
+INSIGHT
+LUCK
+
+////////////////////////////////////////////////////////////////////////////////
+
+Placement
+--------------------
+2D	LGG	SGG	IG	Belt	World1	World2	
+2	-3	-2	+1	-1	10	17	
+3	-2	-1	+2	0	8	16	
+4	-1	0	+3	+1	6	15	
+5	+0	+1	+4	+2	4	14	
+6	+1	+2	+5	+3	2	13	
+7	+2	+3	+6	+4	0	12	
+8	+3	+4	+7	+5	1	11	
+9	+4	+5	+8	+6	3	10	
+10	+5	+6	+9	+7	5	9	
+11	+6	+7	+10	+8	7	8	
+12	+7	+8	+11	+9	10	7	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Pop
+--------------------
+Digit	Description	Value	
+0	Unpopulated		
+1	Tens	0	
+2	Hundred	00	
+3	Thousand	,000	
+4	Ten thousand	0,000	
+5	Hundred thousand	00,000	
+6	Million	,000,000	
+7	Ten million	0,000,000	
+8	Hundred million	00,000,000	
+9	Billion	,000,000,000	
+A	Ten billion	0,000,000,000	
+B	Hundred billion	00,000,000,000	
+C	Trillion	,000,000,000,000	
+D	Ten trillion	0,000,000,000,000	
+E	Hundred trillion	00,000,000,000,0000	
+F	Quadrillion	,000,000,000,000,000	
+
+////////////////////////////////////////////////////////////////////////////////
+
+Vilani
+Solomani
+Darrian
+Droyne
+Hiver
+K`Kree
+Vargr
+Zhodani
+Major
+Minor
+
+////////////////////////////////////////////////////////////////////////////////
+
+Remarks
+--------------------
+Code	Siz	Atm	Hyd	Pop	Govt	Law	Definition	Formula	
+As	0	0	0				Asteroid		
+De	23456789	0					Desert		
+Fl		ABC	123456789A				Fluid		
+Ga	678	568	567				Garden World		
+He	3459ABC	2479ABC	012				Hell World		
+Ic		01	123456789A				Ice Capped		
+Oc	ABC		A				Ocean World		
+Va		0					Vacuum		
+Wa	56789		A				Water World		
+Di				0	0	0	Dieback (000-T)		
+Ba				0	0	0	Barren		
+Lo				123			Low Population		
+Ni				456			Non Industrial		
+Ph				8			Pre High		
+Hi				9ABC			High Population		
+Pa		456789	45678	48			Pre Agricultural		
+Ag		456789	45678	567			Agricultural		
+Na		0123	0123	6789ABC			Non Agricultural		
+Pi		012479		78			Pre Industrial		
+In		012479		9ABC			industrial		
+Po		2345	0123				Poor		
+Pr		68		59			Pre Rich		
+Ri		68		678			Rich		
+Fr	23456789		123456789A				Frozen	HZ +2 or outer	
+Ho							Hot	HZ -1	
+Co							Cold	HZ +1	
+Lk							Locked	Close Satellite	
+Tr	6789	456789	34567				Tropic	HZ -1	
+Tu	6789	456789	34567				Tundra	HZ +1	
+Tz							Twilight Zone	Orbit 0-1	
+Fa		456789	45678	23456			Farming	Not MainWorld.  HZ	
+Mi				23456			Mining	Not MainWorld.  MainWorld=In	
+Mr							Military Rule by Regional Power		
+Px		23AB	12345	3456		6789	Prison.  Exile Camp		
+Pe		23AB	12345	3456	6	6789	Penal Colony		
+Re				1234	6	45	Reserve		
+Cp							Subsector Capital	Imperial	
+Cs							Client State	Imperial	
+Cx							Sector Capital	Imperial	
+Cy							Colony	O:xxyy (p434)	
+Sa							Satellite		
+Fo							Forbidden	Red Zone	
+Pz				789ABC			Puzzle	Amber Zone	
+Da				0123456			Dangerous	Amber Zone	
+Ab							Data Repository		
+An							Ancient Site		
+Rs							Research Station		
+RsA							Research Station Alpha		
+RsB							Research Station Beta		
+RsD							Research Station Delta		
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+SECTOR
+SUBSECTOR
+SYSTEM
+STAR
+SATELLITE
+SUBSAT
+STATION
+SHIP
+STRUCTURE
+SUIT
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+Size
+--------------------
+Digit	Dia(mi)	Dia(km)	
+0	Asteroid Belt	varies	
+1	1,000	1,600	
+2	2,000	3,200	
+3	3,000	4,800	
+4	4,000	6,400	
+5	5,000	8,000	
+6	6,000	9,600	
+7	7,000	12,200	
+8	8,000	13,800	
+9	9,000	14,400	
+A	10,000	16,000	
+B	11,000	17,600	
+C	12,000	19,200	
+D	13,000	20,800	
+E	14,000	22,400	
+F	15,000	24,000	
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+FIGHTER
+FORWARD OBS
+HEAVY WPNS
+NAVIGATOR
+RECON
+SAPPER
+
+////////////////////////////////////////////////////////////////////////////////
+
+MCR
+MASS
+MEN
+SPEED
+RANGE
+
+////////////////////////////////////////////////////////////////////////////////
+
+StarColor
+--------------------
+Code	Description	Temperature (K)	
+O	Blue	>33,000	
+B	Blue-White	10,000-33,000	
+A	Blue-White	7,500-10,000	
+F	Yellow-White	6,000-7,500	
+G	Yellow	5,200-6,000	
+K	Orange	3,700-5,200	
+M	Red	2,000-3,700	
+
+////////////////////////////////////////////////////////////////////////////////
+
+ASTROGATOR
+ENGINEER
+GUNNER
+MEDIC
+PILOT
+SENSORS
+STEWARD
+
+////////////////////////////////////////////////////////////////////////////////
+
+MCR
+MASS
+MEN
+SPEED
+RANGE
+
+////////////////////////////////////////////////////////////////////////////////
+
+StarSize
+--------------------
+Code	Description	Diameter (Sol = 1)	
+Ia	Bright Supergiant	52 - 3500	
+Ib	Weak Supergiant	30 - 3000	
+II	Bright Giant	14 - 1000	
+III	Normal Giant	4.6 - 360	
+IV	Subgiant	3.3 - 13	
+V	Main Sequence Star	0.2 - 10	
+VI	Subdwarf	0.1 - 1.2	
+VII	White Dwarf	0.006 - 0.018	
+D	White Dwarf	0.006 - 0.018	
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+COMPUTE
+EMPATH
+HIBERNATE
+HYPNO
+INTUITION
+MATH
+MEMAWARE
+MEMORIZE
+MEMPERCEP
+MEMSCENT
+MEMSIGHT
+MEMSOUND
+MORPH
+RAGE
+SOUNDMIMIC
+
+////////////////////////////////////////////////////////////////////////////////
+
+Tech
+--------------------
+Digit			
+0			
+1			
+2			
+3			
+4			
+5			
+6			
+7			
+8			
+9			
+A			
+B			
+C			
+D			
+E			
+F			
+
+////////////////////////////////////////////////////////////////////////////////
+
+Clear
+Marsh
+Rough
+Woods
+Swamp
+Rough Wood
+Mountain
+Desert
+Chasm
+Cropland
+Rural
+Ruins
+Ocean
+Islands
+Shore
+River
+Lake
+Ice cap
+Baked Lands
+Twilight
+Frozen Lands
+Ice Field
+Precipice
+Exotic
+City
+Dome
+Arcology
+Suburbs
+Town
+Starport
+Highway
+Road
+Trail
+Air Corridor
+Grid
+High Speed
+Ocean Depth
+Abyss
+Caverns
+Crater
+Wasteland
+Penal
+Volcano
+Estate
+Reserve
+Mine
+Resource
+Oil
+Airpad
+Vlite Airstrip
+Lite Airstrip
+Airport
+Heavy Airport
+Vheavy Airport
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+"Batt","Section","ID","Field3","Officers","Men","Astrins","Bergstroms","MRLs","RDMs","SHIPS","FIGHTERS"
+"","","","","","","","","","","",""
+"4518thLIR","","SEB4","","","","","","","","",""
+"","HQS","","","","","","","","","",""
+"","LAC","","","","","","","","","",""
+"","FLC","","","","","","","","","",""
+"","MES","","","","","","","","","",""
+"","4518thLIReg.","","","OFFS","MEN","ASTRIN","BERGS.","MRLs","RDMs","SHIPS","FIGHTERS"
+"","RegHQ","","","7","23","3","0","0","0","0","1"
+"","ArtilleryBattery","","","4","50","1","0","4","4","0","0"
+"","MedicalSection","","","3","20","4","0","0","0","0","0"
+"","FighterWingHQ","","","2","4","0","0","0","0","0","2"
+"","FighterSquadron","","","11","10","0","0","0","0","0","10"
+"","TransportSquadron","","","1","21","0","0","0","0","0","0"
+"","OrtillerySquadron","","","9","21","0","0","0","0","0","0"
+"LIBHQ","","","","3","10","4","0","0","0","3","0"
+"","1LIHQ","","","3","10","1","0","0","0","0","0"
+"","2LIHQ","","","3","10","1","0","0","0","0","0"
+"","3LIHQ","","","3","10","1","0","0","0","0","0"
+"","1LIP","","","1","39","4","0","0","0","0","0"
+"","2LIP","","","1","39","4","0","0","0","0","0"
+"","3LIP","","","1","39","4","0","0","0","0","0"
+"","4LIP","","","1","39","4","0","0","0","0","0"
+"","5LIP","","","1","39","4","0","0","0","0","0"
+"","6LIP","","","1","39","4","0","0","0","0","0"
+"","7LIP","","","1","39","4","0","0","0","0","0"
+"","8LIP","","","1","39","4","0","0","0","0","0"
+"","9LIP","","","1","39","4","0","0","0","0","0."
+"","1GTHQ","","","2","5","0","1","0","0","0","0"
+"","1GTP","","","1","18","0","4","0","0","0","0"
+"","2GTP","","","1","18","0","4","0","0","0","0"
+"","3GTP","","","1","18","0","4","0","0","0","0"
+"","1LAHQ","","","2","6","0","0","0","0","0","0"
+"","1MRL","","","1","22","0","0","4","0","0","0"
+"","1RDM","","","1","22","0","0","0","4","0","0"
+"LCSHQ","","","","4","10","3","0","0","0","0","0"
+"","1LCHQ","","","2","4","0","1","0","0","0","0"
+"","2LCHQ","","","2","4","0","1","0","0","0","0"
+"","3LCHQ","","","2","4","0","1","0","0","0","0"
+"","1LCP","","","1","24","2","2","0","0","0","0"
+"","2LCP","","","1","24","2","2","0","0","0","0"
+"","3LCP","","","1","24","2","2","0","0","0","0"
+"","4LCP","","","1","24","2","2","0","0","0","0"
+"","5LCP","","","1","24","2","2","0","0","0","0"
+"","6LCP","","","1","24","2","2","0","0","0","0"
+"","7LCP","","","1","24","2","2","0","0","0","0"
+"","8LCP","","","1","24","2","2","0","0","0","0"
+"","9LCP","","","1","24","2","2","0","0","0","0"
+"JTBHQ","","","","4","10","3","0","0","0","0","0"
+"","1JTCHQ","","","2","5","1","0","0","0","0","0"
+"","2JTCHQ","","","2","5","1","0","0","0","0","0"
+"","3JTCHQ","","","2","5","1","0","0","0","0","0"
+"","1JTP","","","1","33","0","0","0","0","0","0"
+"","2JTP","","","1","33","0","0","0","0","0","0"
+"","3JTP","","","1","33","0","0","0","0","0","0"
+"","4JTP","","","1","33","0","0","0","0","0","0"
+"","5JTP","","","1","33","0","0","0","0","0","0"
+"","6JTP","","","1","33","0","0","0","0","0","0"
+"","7JTP","","","1","33","0","0","0","0","0","0"
+"","8JTP","","","1","33","0","0","0","0","0","0"
+"","9JTP","","","1","33","0","0","0","0","0","0"
+"","1JTTHQ","","","2","5","0","1","0","0","0","0"
+"","1JTGT","","","1","18","0","4","0","0","0","0"
+"","2JTGT","","","1","18","0","4","0","0","0","0"
+"","3JTGT","","","1","18","0","4","0","0","0","0"
+"","1JTA","","","2","22","1","0","0","0","0","0"
+"","1JTS","","","1","20","3","0","0","0","0","0"
+
+////////////////////////////////////////////////////////////////////////////////
+
+ACTOR
+ARTIST
+AUTHOR
+CHEF
+DANCER
+MUSICIAN
+
+////////////////////////////////////////////////////////////////////////////////
+
+ARCHEOLOGY
+BIOLOGY
+CHEMISTRY
+HISTORY
+LINGUISTICS
+PHILOSOPHY
+PHYSICS
+PLANETOLOGY
+PSIONICOLOGY
+PSYCHOHISTORY
+PSYCHOLOGY
+ROBOTICS
+SOPHONTOLOGY
+SPECIALIZED
+CAREER: ACADEMIA
+CAREER: ARMY
+CAREER: NAVY
+CAREER: <NAME>
+WORLD: CAPITAL
+WORLD: REGINA
+WORLD: <NAME>
+
+////////////////////////////////////////////////////////////////////////////////
+
+BIOLOGICS
+CRAFTSMAN
+ELECTRONICS
+FLUIDICS
+GRAVITICS
+MAGNETICS
+MECHANIC
+PHOTONICS
+POLYMERS
+PROGRAMMER
+
+////////////////////////////////////////////////////////////////////////////////
+
+STRENGTH
+DEXTERITY
+ENDURANCE
+INTELLIGENCE
+EDUCATION
+SOCIAL
+
+////////////////////////////////////////////////////////////////////////////////
+
+STARPORT
+SIZE
+ATMOSPHERE
+HYDROSPHERE
+GOVERNMENT
+LAW LEVEL
+TECH LEVEL
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+Volume
+Mass
+AI
+Cost
+Environ
+
+////////////////////////////////////////////////////////////////////////////////
+
+LEN
+WID
+HGT
+%
+
+////////////////////////////////////////////////////////////////////////////////
+
+NAME
+TYPE
+SKILL
+ROUNDS
+RANGE
+
+////////////////////////////////////////////////////////////////////////////////
+
+Item
+Armour
+Weapon
+Structure
+Vehicle
+Craft
+Ship
+Station
+
+////////////////////////////////////////////////////////////////////////////////
+
+Year
+Week
+Day
+Hour
+Minute
+Second
+Duration
+
+////////////////////////////////////////////////////////////////////////////////
+
+Sector
+Subsector
+System
+Star
+Satellite
+Moon
+Orbit
+Hex
+Name
+UWP
+SDBs
+Rons
+CF
+Troops
+Pop
+Belts
+GGs
+Worlds
+SecFile
+SubFile
+SysFile
+LineFile
+DestFile
+RingFile
+OrbitFile
+DestsFile
+StrengthsFile
+UWPFile
+BasesFile
+NavyFile
+TroopFile
+
+////////////////////////////////////////////////////////////////////////////////
+
+Location 
+ID
+Name
+Race
+Sex
+Age()
+Hex
+System
+UPP
+Career
+Terms
+Rank
+DOB
+POB
+
+////////////////////////////////////////////////////////////////////////////////
+
+Orders
+Fight
+Shoot
+Drive
+Fly
+Travel
+
+////////////////////////////////////////////////////////////////////////////////
+
+People
+Places
+Items
+Duration
+Risk
+Note
+Time
+Location
+

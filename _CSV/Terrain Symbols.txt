@@ -1,0 +1,54 @@
+Clear
+Marsh
+Rough
+Woods
+Swamp
+Rough Wood
+Mountain
+Desert
+Chasm
+Cropland
+Rural
+Ruins
+Ocean
+Islands
+Shore
+River
+Lake
+Ice cap
+Baked Lands
+Twilight
+Frozen Lands
+Ice Field
+Precipice
+Exotic
+City
+Dome
+Arcology
+Suburbs
+Town
+Starport
+Highway
+Road
+Trail
+Air Corridor
+Grid
+High Speed
+Ocean Depth
+Abyss
+Caverns
+Crater
+Wasteland
+Penal
+Volcano
+Estate
+Reserve
+Mine
+Resource
+Oil
+Airpad
+Vlite Airstrip
+Lite Airstrip
+Airport
+Heavy Airport
+Vheavy Airport

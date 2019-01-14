@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>A demonstration of how to access an IFRAME element</h3>
+
+<iframe id="myFrame" onclick="myFunction()" src="http://www.travellermap.com/?x=-97&y=73
+&scale=100&options=58367&style=candy&dimunofficial=1" width="1200" height="800">
+
+</iframe>
+
+<p>Click the button to get the URL of the iframe.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myFrame").src;
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>

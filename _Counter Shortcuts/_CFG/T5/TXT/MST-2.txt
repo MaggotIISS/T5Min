@@ -1,0 +1,6 @@
+//	MST-2.txt
+#MST   
+lines.gif
+box.gif c c FFBFFF
+MST 1 1 35 H 000000
+MST-2.gif

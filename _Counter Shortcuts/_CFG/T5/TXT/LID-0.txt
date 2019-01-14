@@ -1,0 +1,18 @@
+//	LID-0.txt
+# ArmyDivisions.cfg
+#  Annotate -f ArmyBrigades.cfg -op giftravellerArmyDivisions
+#  DIVISION Counters show Battalions within
+#    LiftInfantryDivision
+lines.gif
+box.gif c 1 C0D0C0
+270 c 6 35 H 000000
+O8 48 6 35 H 000000
+box.gif 0 c 2F6F2F
+3534 3 c 35 H 000000
+box.gif c c 2F6F2F
+3534 c c 35 H 000000
+box.gif 43 c 2F6F2F
+3534 47 c 35 H 000000
+infantry.gif 4 5 000000
+lines.gif c c 000000
+LID-0.gif

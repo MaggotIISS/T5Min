@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="CombatFactorCapacity.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"Squadron","CF Capacity"
+"AR","600"
+  <Catalog>
+    <col0>AR</col0>
+    <col1>600</col1>
+  </Catalog>
+ 
+"CR","20"
+  <Catalog>
+    <col0>CR</col0>
+    <col1>20</col1>
+  </Catalog>
+ 
+"CR","DF of Squadron"
+  <Catalog>
+    <col0>CR</col0>
+    <col1>DF of Squadron</col1>
+  </Catalog>
+ 
+"SR","0"
+  <Catalog>
+    <col0>SR</col0>
+    <col1>0</col1>
+  </Catalog>
+ 
+"TR","0"
+  <Catalog>
+    <col0>TR</col0>
+    <col1>0</col1>
+  </Catalog>
+ 
+</Catalogs>

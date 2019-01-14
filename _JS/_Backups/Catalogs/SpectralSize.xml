@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="SpectralSize.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Flux","Sp","O","B","A","F","G","K","M"
+"-5","OB","Ia","Ia","Ia","II","II","II","II"
+  <Catalog>
+    <col0>-5</col0>
+    <col1>OB</col1>
+    <col2>Ia</col2>
+    <col3>Ia</col3>
+    <col4>Ia</col4>
+    <col5>II</col5>
+    <col6>II</col6>
+    <col7>II</col7>
+    <col8>II</col8>
+  </Catalog>
+ 
+"-4","A","Ib","Ib","Ib","III","III","III","II"
+  <Catalog>
+    <col0>-4</col0>
+    <col1>A</col1>
+    <col2>Ib</col2>
+    <col3>Ib</col3>
+    <col4>Ib</col4>
+    <col5>III</col5>
+    <col6>III</col6>
+    <col7>III</col7>
+    <col8>II</col8>
+  </Catalog>
+ 
+"-3","A","II","II","II","IV","IV","IV","II"
+  <Catalog>
+    <col0>-3</col0>
+    <col1>A</col1>
+    <col2>II</col2>
+    <col3>II</col3>
+    <col4>II</col4>
+    <col5>IV</col5>
+    <col6>IV</col6>
+    <col7>IV</col7>
+    <col8>II</col8>
+  </Catalog>
+ 
+"-2","F","III","III","III","V","V","V","III"
+  <Catalog>
+    <col0>-2</col0>
+    <col1>F</col1>
+    <col2>III</col2>
+    <col3>III</col3>
+    <col4>III</col4>
+    <col5>V</col5>
+    <col6>V</col6>
+    <col7>V</col7>
+    <col8>III</col8>
+  </Catalog>
+ 
+"-1","F","III","III","IV","V","V","V","V"
+  <Catalog>
+    <col0>-1</col0>
+    <col1>F</col1>
+    <col2>III</col2>
+    <col3>III</col3>
+    <col4>IV</col4>
+    <col5>V</col5>
+    <col6>V</col6>
+    <col7>V</col7>
+    <col8>V</col8>
+  </Catalog>
+ 
+"0","G","III","III","V","V","V","V","V"
+  <Catalog>
+    <col0>0</col0>
+    <col1>G</col1>
+    <col2>III</col2>
+    <col3>III</col3>
+    <col4>V</col4>
+    <col5>V</col5>
+    <col6>V</col6>
+    <col7>V</col7>
+    <col8>V</col8>
+  </Catalog>
+ 
+"1","K","V","III","V","V","V","V","V"
+  <Catalog>
+    <col0>1</col0>
+    <col1>K</col1>
+    <col2>V</col2>
+    <col3>III</col3>
+    <col4>V</col4>
+    <col5>V</col5>
+    <col6>V</col6>
+    <col7>V</col7>
+    <col8>V</col8>
+  </Catalog>
+ 
+"2","K","V","V","V","V","V","V","V"
+  <Catalog>
+    <col0>2</col0>
+    <col1>K</col1>
+    <col2>V</col2>
+    <col3>V</col3>
+    <col4>V</col4>
+    <col5>V</col5>
+    <col6>V</col6>
+    <col7>V</col7>
+    <col8>V</col8>
+  </Catalog>
+ 
+"3","M","V","V","V","V","V","V","V"
+  <Catalog>
+    <col0>3</col0>
+    <col1>M</col1>
+    <col2>V</col2>
+    <col3>V</col3>
+    <col4>V</col4>
+    <col5>V</col5>
+    <col6>V</col6>
+    <col7>V</col7>
+    <col8>V</col8>
+  </Catalog>
+ 
+"4","M","IV","IV","V","IV","IV","IV","IV"
+  <Catalog>
+    <col0>4</col0>
+    <col1>M</col1>
+    <col2>IV</col2>
+    <col3>IV</col3>
+    <col4>V</col4>
+    <col5>IV</col5>
+    <col6>IV</col6>
+    <col7>IV</col7>
+    <col8>IV</col8>
+  </Catalog>
+ 
+"5","M","D","D","D","D","D","D","D"
+  <Catalog>
+    <col0>5</col0>
+    <col1>M</col1>
+    <col2>D</col2>
+    <col3>D</col3>
+    <col4>D</col4>
+    <col5>D</col5>
+    <col6>D</col6>
+    <col7>D</col7>
+    <col8>D</col8>
+  </Catalog>
+ 
+"6","BD","D","D","D","D","D","D","D"
+  <Catalog>
+    <col0>6</col0>
+    <col1>BD</col1>
+    <col2>D</col2>
+    <col3>D</col3>
+    <col4>D</col4>
+    <col5>D</col5>
+    <col6>D</col6>
+    <col7>D</col7>
+    <col8>D</col8>
+  </Catalog>
+ 
+</Catalogs>

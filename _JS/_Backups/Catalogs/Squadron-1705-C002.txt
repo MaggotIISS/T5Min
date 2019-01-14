@@ -1,0 +1,2 @@
+"SQUADRON","","SYSTEM","","","","","","","","","","","","","SYSTEM","","TYPE","JUMP","REFUEL","DEFENCE","ATTACK","BOMBARD","TRANSPORT","TL"
+"Squadron","","1705 Efate","Squadron-1705-C002","","","","","","","","","","","","1705 Efate","","Type","Jump","Refuel","Defence","Attack","Bombard","Troops","TL"

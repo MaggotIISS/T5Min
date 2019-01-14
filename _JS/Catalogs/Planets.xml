@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Planets.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"ORBIT","ORBIT MKM","ORBIT AU"
+"0","29.9","0.2"
+  <Catalog>
+    <col0>0</col0>
+    <col1>29.9</col1>
+    <col2>0.2</col2>
+  </Catalog>
+ 
+"1","59.8","0.4"
+  <Catalog>
+    <col0>1</col0>
+    <col1>59.8</col1>
+    <col2>0.4</col2>
+  </Catalog>
+ 
+"2","104.7","0.7"
+  <Catalog>
+    <col0>2</col0>
+    <col1>104.7</col1>
+    <col2>0.7</col2>
+  </Catalog>
+ 
+"3","149.6","1.0"
+  <Catalog>
+    <col0>3</col0>
+    <col1>149.6</col1>
+    <col2>1.0</col2>
+  </Catalog>
+ 
+"4","339.3","1.6"
+  <Catalog>
+    <col0>4</col0>
+    <col1>339.3</col1>
+    <col2>1.6</col2>
+  </Catalog>
+ 
+"5","418.9","2.8"
+  <Catalog>
+    <col0>5</col0>
+    <col1>418.9</col1>
+    <col2>2.8</col2>
+  </Catalog>
+ 
+"6","777.9","5.2"
+  <Catalog>
+    <col0>6</col0>
+    <col1>777.9</col1>
+    <col2>5.2</col2>
+  </Catalog>
+ 
+"7","1495.9","10.0"
+  <Catalog>
+    <col0>7</col0>
+    <col1>1495.9</col1>
+    <col2>10.0</col2>
+  </Catalog>
+ 
+"8","2932","19.6"
+  <Catalog>
+    <col0>8</col0>
+    <col1>2932</col1>
+    <col2>19.6</col2>
+  </Catalog>
+ 
+"9","5804","38.8"
+  <Catalog>
+    <col0>9</col0>
+    <col1>5804</col1>
+    <col2>38.8</col2>
+  </Catalog>
+ 
+"10","11548","77.2"
+  <Catalog>
+    <col0>10</col0>
+    <col1>11548</col1>
+    <col2>77.2</col2>
+  </Catalog>
+ 
+"11","23038","154.0"
+  <Catalog>
+    <col0>11</col0>
+    <col1>23038</col1>
+    <col2>154.0</col2>
+  </Catalog>
+ 
+"12","46016","307.4"
+  <Catalog>
+    <col0>12</col0>
+    <col1>46016</col1>
+    <col2>307.4</col2>
+  </Catalog>
+ 
+"13","91972","614.8"
+  <Catalog>
+    <col0>13</col0>
+    <col1>91972</col1>
+    <col2>614.8</col2>
+  </Catalog>
+ 
+"14","183885","1229.2"
+  <Catalog>
+    <col0>14</col0>
+    <col1>183885</col1>
+    <col2>1229.2</col2>
+  </Catalog>
+ 
+"15","367711","2458.0"
+  <Catalog>
+    <col0>15</col0>
+    <col1>367711</col1>
+    <col2>2458.0</col2>
+  </Catalog>
+ 
+</Catalogs>

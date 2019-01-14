@@ -1,0 +1,5 @@
+//	GT-1.txt
+lines.gif
+box.gif c c 2222FF
+star.gif c c 000000
+GT-1.gif

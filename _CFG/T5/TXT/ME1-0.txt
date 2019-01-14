@@ -1,0 +1,6 @@
+//	ME1-0.txt
+# Ranks.cfg
+lines.gif
+box.gif c c FFFFFF
+ME1.gif c c 000000
+ME1-0.gif

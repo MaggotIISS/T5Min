@@ -1,0 +1,4 @@
+//	Star5-2.txt
+lines.gif
+star5.gif c c replace
+Star5-2.gif

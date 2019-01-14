@@ -1,0 +1,14 @@
+Log 1 = Kesali to Fraynj
+----
+Log 2 = Fraynj to Cyclone
+----
+Log 3 = Cyclone to Cerebin
+----
+Log 4 = Cerebin to Mora
+----
+Log 5 = Mora to Rhylanor
+----
+Log 6 = Rhylanor to Regina
+----
+Log 7 = Regina to Jewell & return
+----

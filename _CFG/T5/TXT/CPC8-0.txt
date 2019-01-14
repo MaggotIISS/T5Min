@@ -1,0 +1,7 @@
+//	CPC8-0.txt
+blank.gif
+im.gif c c replace
+harvehastr.gif c c 000000
+CPC8 C 7 35 H 000000
+5 2 7 35 H 000000
+CPC8-0.gif

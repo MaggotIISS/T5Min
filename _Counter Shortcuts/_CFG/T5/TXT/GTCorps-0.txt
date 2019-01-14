@@ -1,0 +1,6 @@
+//	GTCorps-0.txt
+lines.gif
+box.gif c c 0000FF
+armor.gif c c 000000
+O9 46 7 35 H 000000
+GTCorps-0.gif

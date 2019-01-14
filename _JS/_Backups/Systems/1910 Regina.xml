@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Systems.xsl"?>
+<!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+56
+1810 Jenghe               C799663-9 Ni O:1910                                { -1 } (D53-4) [3526] B     S  - 323 11 ImDd M0 V          
+  <System>
+    <hex>1810</hex>
+    <sname>Jenghe</sname>
+    <UWP>C799663-9</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>9</at>
+    <hy>9</hy>
+    <po>6</po>
+    <go>6</go>
+    <ll>3</ll>
+    <tl>9</tl>
+    <remarks>Ni O:1910</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(D53-4)</ex>
+    <cx>[3526]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>323</pbg>
+    <w>11</w>
+    <a>ImDd</a>
+    <stellar>M0 V</stellar>
+  </System>
+
+60
+1910 Regina               A788899-C Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa { 4 }  (D7E+5) [9C6D] BcCeF NS - 703 8  ImDd F7 V BD M3 V  
+  <System>
+    <hex>1910</hex>
+    <sname>Regina</sname>
+    <UWP>A788899-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>8</at>
+    <hy>8</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa</remarks>
+    <ix>{ 4 }</ix>
+    <ex>(D7E+5)</ex>
+    <cx>[9C6D]</cx>
+    <n>BcCeF</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>703</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>F7 V BD M3 V</stellar>
+  </System>
+
+</Systems>

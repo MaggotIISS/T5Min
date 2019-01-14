@@ -1,0 +1,7 @@
+//	CPCA-0.txt
+blank.gif
+im.gif c c replace
+harvehastr.gif c c 000000
+CPCA C 7 35 H 000000
+5 2 7 35 H 000000
+CPCA-0.gif

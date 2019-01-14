@@ -1,0 +1,4 @@
+//	Survey-0.txt
+lines.gif
+survey.gif c c replace
+Survey-0.gif

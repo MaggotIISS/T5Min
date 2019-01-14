@@ -1,0 +1,5 @@
+//	CA-0.txt
+lines.gif
+Box.gif c c 00FFFF
+cavalry.gif c c 000000
+CA-0.gif

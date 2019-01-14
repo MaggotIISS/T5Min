@@ -1,0 +1,7 @@
+//	NB-0.txt
+#   
+#NB  FF3038  
+lines.gif
+box.gif c c FF3038
+NB 1 1 35 H 000000
+NB-0.gif

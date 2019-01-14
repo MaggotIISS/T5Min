@@ -1,0 +1,7 @@
+//	1C25-0.txt
+blank.gif
+im.gif c c replace
+harvehastr.gif c c 000000
+1C25 c 7 35 H 000000
+13 2 7 35 H 000000
+1C25-0.gif

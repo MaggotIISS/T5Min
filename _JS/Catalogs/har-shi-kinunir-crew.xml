@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-shi-kinunir-crew.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""ID1","ID","Rank","Job","Age","Terms","Skills","Duty","Quarters","Battle""
+""1","1","Captain","C.O.","34","4","10","B1","B16","B1""
+  <Catalog>
+    <col0>1</col0>
+    <col1>1</col1>
+    <col2>Captain</col2>
+    <col3>C.O.</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>10</col6>
+    <col7>B1</col7>
+    <col8>B16</col8>
+    <col9>B1</col9>
+  </Catalog>
+ 
+""2","2","Commander","X.O.","38","5","10","B4","23","B4""
+  <Catalog>
+    <col0>2</col0>
+    <col1>2</col1>
+    <col2>Commander</col2>
+    <col3>X.O.</col3>
+    <col4>38</col4>
+    <col5>5</col5>
+    <col6>10</col6>
+    <col7>B4</col7>
+    <col8>23</col8>
+    <col9>B4</col9>
+  </Catalog>
+ 
+""3","3","Commander","Ops Officer","46","7","12","B4","B10","B4""
+  <Catalog>
+    <col0>3</col0>
+    <col1>3</col1>
+    <col2>Commander</col2>
+    <col3>Ops Officer</col3>
+    <col4>46</col4>
+    <col5>7</col5>
+    <col6>12</col6>
+    <col7>B4</col7>
+    <col8>B10</col8>
+    <col9>B4</col9>
+  </Catalog>
+ 
+""4","4","Lt Commander","Chief Engineer","30","3","7","C23","B17","C23""
+  <Catalog>
+    <col0>4</col0>
+    <col1>4</col1>
+    <col2>Lt Commander</col2>
+    <col3>Chief Engineer</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>7</col6>
+    <col7>C23</col7>
+    <col8>B17</col8>
+    <col9>C23</col9>
+  </Catalog>
+ 
+""5","5","Lieutenant","2nd Engineer","34","4","7","C26","B20","C26""
+  <Catalog>
+    <col0>5</col0>
+    <col1>5</col1>
+    <col2>Lieutenant</col2>
+    <col3>2nd Engineer</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>7</col6>
+    <col7>C26</col7>
+    <col8>B20</col8>
+    <col9>C26</col9>
+  </Catalog>
+ 
+""6","6","Lieutenant","Flight Officer","30","3","6","C24","B15","C27""
+  <Catalog>
+    <col0>6</col0>
+    <col1>6</col1>
+    <col2>Lieutenant</col2>
+    <col3>Flight Officer</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>6</col6>
+    <col7>C24</col7>
+    <col8>B15</col8>
+    <col9>C27</col9>
+  </Catalog>
+ 
+""7","7","Lieutenant","Gunnery Officer","30","3","6","B1","B21","B1""
+  <Catalog>
+    <col0>7</col0>
+    <col1>7</col1>
+    <col2>Lieutenant</col2>
+    <col3>Gunnery Officer</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>6</col6>
+    <col7>B1</col7>
+    <col8>B21</col8>
+    <col9>B1</col9>
+  </Catalog>
+ 
+""8","8","Ensign","Comms. Officer","26","2","4","B1","B12","B1""
+  <Catalog>
+    <col0>8</col0>
+    <col1>8</col1>
+    <col2>Ensign</col2>
+    <col3>Comms. Officer</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>4</col6>
+    <col7>B1</col7>
+    <col8>B12</col8>
+    <col9>B1</col9>
+  </Catalog>
+ 
+""9","9","Ensign","Computer Officer","22","1","3","B3","B22","B3""
+  <Catalog>
+    <col0>9</col0>
+    <col1>9</col1>
+    <col2>Ensign</col2>
+    <col3>Computer Officer</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>3</col6>
+    <col7>B3</col7>
+    <col8>B22</col8>
+    <col9>B3</col9>
+  </Catalog>
+ 
+""10","10","Lt Commander","Surgeon","42","6","10","C10","B11","C10""
+  <Catalog>
+    <col0>10</col0>
+    <col1>10</col1>
+    <col2>Lt Commander</col2>
+    <col3>Surgeon</col3>
+    <col4>42</col4>
+    <col5>6</col5>
+    <col6>10</col6>
+    <col7>C10</col7>
+    <col8>B11</col8>
+    <col9>C10</col9>
+  </Catalog>
+ 
+""11","11","Lieutenant","Shore Liaison","26","2","5","D8","D18","-""
+  <Catalog>
+    <col0>11</col0>
+    <col1>11</col1>
+    <col2>Lieutenant</col2>
+    <col3>Shore Liaison</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>5</col6>
+    <col7>D8</col7>
+    <col8>D18</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""12","","","","","","","","","""
+  <Catalog>
+    <col0>12</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""13","12","CPO","Operations","46","7","8","B4","D15","C23""
+  <Catalog>
+    <col0>13</col0>
+    <col1>12</col1>
+    <col2>CPO</col2>
+    <col3>Operations</col3>
+    <col4>46</col4>
+    <col5>7</col5>
+    <col6>8</col6>
+    <col7>B4</col7>
+    <col8>D15</col8>
+    <col9>C23</col9>
+  </Catalog>
+ 
+""14","13","CPO","Engineer","50","8","9","C23","D23","C26""
+  <Catalog>
+    <col0>14</col0>
+    <col1>13</col1>
+    <col2>CPO</col2>
+    <col3>Engineer</col3>
+    <col4>50</col4>
+    <col5>8</col5>
+    <col6>9</col6>
+    <col7>C23</col7>
+    <col8>D23</col8>
+    <col9>C26</col9>
+  </Catalog>
+ 
+""15","14","PO","Engineer","34","4","5","C26","D23","C26""
+  <Catalog>
+    <col0>15</col0>
+    <col1>14</col1>
+    <col2>PO</col2>
+    <col3>Engineer</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>5</col6>
+    <col7>C26</col7>
+    <col8>D23</col8>
+    <col9>C26</col9>
+  </Catalog>
+ 
+""16","15","PO","Nurse","38","5","6","C10","D25","C10""
+  <Catalog>
+    <col0>16</col0>
+    <col1>15</col1>
+    <col2>PO</col2>
+    <col3>Nurse</col3>
+    <col4>38</col4>
+    <col5>5</col5>
+    <col6>6</col6>
+    <col7>C10</col7>
+    <col8>D25</col8>
+    <col9>C10</col9>
+  </Catalog>
+ 
+""17","16","PO","Screens","42","6","7","C23","D28","C23""
+  <Catalog>
+    <col0>17</col0>
+    <col1>16</col1>
+    <col2>PO</col2>
+    <col3>Screens</col3>
+    <col4>42</col4>
+    <col5>6</col5>
+    <col6>7</col6>
+    <col7>C23</col7>
+    <col8>D28</col8>
+    <col9>C23</col9>
+  </Catalog>
+ 
+""18","17","PO","Beams","30","3","4","B1","D24","B1""
+  <Catalog>
+    <col0>18</col0>
+    <col1>17</col1>
+    <col2>PO</col2>
+    <col3>Beams</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>4</col6>
+    <col7>B1</col7>
+    <col8>D24</col8>
+    <col9>B1</col9>
+  </Catalog>
+ 
+""19","18","PO","Laser Battery","42","6","7","C14","D24","C14""
+  <Catalog>
+    <col0>19</col0>
+    <col1>18</col1>
+    <col2>PO</col2>
+    <col3>Laser Battery</col3>
+    <col4>42</col4>
+    <col5>6</col5>
+    <col6>7</col6>
+    <col7>C14</col7>
+    <col8>D24</col8>
+    <col9>C14</col9>
+  </Catalog>
+ 
+""20","19","PO","Missile","46","7","8","D4","D31","D4""
+  <Catalog>
+    <col0>20</col0>
+    <col1>19</col1>
+    <col2>PO</col2>
+    <col3>Missile</col3>
+    <col4>46</col4>
+    <col5>7</col5>
+    <col6>8</col6>
+    <col7>D4</col7>
+    <col8>D31</col8>
+    <col9>D4</col9>
+  </Catalog>
+ 
+""21","20","PO","Cook","46","6","7","B9","D25","B6""
+  <Catalog>
+    <col0>21</col0>
+    <col1>20</col1>
+    <col2>PO</col2>
+    <col3>Cook</col3>
+    <col4>46</col4>
+    <col5>6</col5>
+    <col6>7</col6>
+    <col7>B9</col7>
+    <col8>D25</col8>
+    <col9>B6</col9>
+  </Catalog>
+ 
+""22","21","PO","Boat Deck","38","5","6","C24","D18","C24""
+  <Catalog>
+    <col0>22</col0>
+    <col1>21</col1>
+    <col2>PO</col2>
+    <col3>Boat Deck</col3>
+    <col4>38</col4>
+    <col5>5</col5>
+    <col6>6</col6>
+    <col7>C24</col7>
+    <col8>D18</col8>
+    <col9>C24</col9>
+  </Catalog>
+ 
+""23","22","PO","Computer","34","4","5","C11","D16","C11""
+  <Catalog>
+    <col0>23</col0>
+    <col1>22</col1>
+    <col2>PO</col2>
+    <col3>Computer</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>5</col6>
+    <col7>C11</col7>
+    <col8>D16</col8>
+    <col9>C11</col9>
+  </Catalog>
+ 
+""24","23","PO","Helmsman","38","5","6","B1","D19","B1""
+  <Catalog>
+    <col0>24</col0>
+    <col1>23</col1>
+    <col2>PO</col2>
+    <col3>Helmsman</col3>
+    <col4>38</col4>
+    <col5>5</col5>
+    <col6>6</col6>
+    <col7>B1</col7>
+    <col8>D19</col8>
+    <col9>B1</col9>
+  </Catalog>
+ 
+""25","24","PO","Magazine","34","4","5","E1","D17","E1""
+  <Catalog>
+    <col0>25</col0>
+    <col1>24</col1>
+    <col2>PO</col2>
+    <col3>Magazine</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>5</col6>
+    <col7>E1</col7>
+    <col8>D17</col8>
+    <col9>E1</col9>
+  </Catalog>
+ 
+""26","25","PO","Machine Shop","30","3","4","C25","D20","C25""
+  <Catalog>
+    <col0>26</col0>
+    <col1>25</col1>
+    <col2>PO</col2>
+    <col3>Machine Shop</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>4</col6>
+    <col7>C25</col7>
+    <col8>D20</col8>
+    <col9>C25</col9>
+  </Catalog>
+ 
+""27","26","Starman","Medic","26","2","3","C10","D17","C10""
+  <Catalog>
+    <col0>27</col0>
+    <col1>26</col1>
+    <col2>Starman</col2>
+    <col3>Medic</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>C10</col7>
+    <col8>D17</col8>
+    <col9>C10</col9>
+  </Catalog>
+ 
+""28","27","Starman","MissileGunner","26","2","3","D1","D21","D1""
+  <Catalog>
+    <col0>28</col0>
+    <col1>27</col1>
+    <col2>Starman</col2>
+    <col3>MissileGunner</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>D1</col7>
+    <col8>D21</col8>
+    <col9>D1</col9>
+  </Catalog>
+ 
+""29","28","Starman","MissileGunner","22","1","2","D2","C32","D2""
+  <Catalog>
+    <col0>29</col0>
+    <col1>28</col1>
+    <col2>Starman</col2>
+    <col3>MissileGunner</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>D2</col7>
+    <col8>C32</col8>
+    <col9>D2</col9>
+  </Catalog>
+ 
+""30","29","Starman","Laser Gunner","50","8","9","C13","D19","C13""
+  <Catalog>
+    <col0>30</col0>
+    <col1>29</col1>
+    <col2>Starman</col2>
+    <col3>Laser Gunner</col3>
+    <col4>50</col4>
+    <col5>8</col5>
+    <col6>9</col6>
+    <col7>C13</col7>
+    <col8>D19</col8>
+    <col9>C13</col9>
+  </Catalog>
+ 
+""31","30","Starman","Laser Gunner","30","3","4","C13","D31","C13""
+  <Catalog>
+    <col0>31</col0>
+    <col1>30</col1>
+    <col2>Starman</col2>
+    <col3>Laser Gunner</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>4</col6>
+    <col7>C13</col7>
+    <col8>D31</col8>
+    <col9>C13</col9>
+  </Catalog>
+ 
+""32","31","Starman","Beam Gunner","26","2","3","D8","C21","C29""
+  <Catalog>
+    <col0>32</col0>
+    <col1>31</col1>
+    <col2>Starman</col2>
+    <col3>Beam Gunner</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>D8</col7>
+    <col8>C21</col8>
+    <col9>C29</col9>
+  </Catalog>
+ 
+""33","32","Starman","Beam Gunner","34","6","7","D8","D16","C30""
+  <Catalog>
+    <col0>33</col0>
+    <col1>32</col1>
+    <col2>Starman</col2>
+    <col3>Beam Gunner</col3>
+    <col4>34</col4>
+    <col5>6</col5>
+    <col6>7</col6>
+    <col7>D8</col7>
+    <col8>D16</col8>
+    <col9>C30</col9>
+  </Catalog>
+ 
+""34","33","Starman","Engineer","34","4","5","C23","C29","C23""
+  <Catalog>
+    <col0>34</col0>
+    <col1>33</col1>
+    <col2>Starman</col2>
+    <col3>Engineer</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>5</col6>
+    <col7>C23</col7>
+    <col8>C29</col8>
+    <col9>C23</col9>
+  </Catalog>
+ 
+""35","34","Starman","Engineer","22","1","2","C23","D29","C23""
+  <Catalog>
+    <col0>35</col0>
+    <col1>34</col1>
+    <col2>Starman</col2>
+    <col3>Engineer</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>C23</col7>
+    <col8>D29</col8>
+    <col9>C23</col9>
+  </Catalog>
+ 
+""36","35","Starman","Engineer","34","4","5","C26","D27","C26""
+  <Catalog>
+    <col0>36</col0>
+    <col1>35</col1>
+    <col2>Starman</col2>
+    <col3>Engineer</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>5</col6>
+    <col7>C26</col7>
+    <col8>D27</col8>
+    <col9>C26</col9>
+  </Catalog>
+ 
+""37","36","Starman","Engineer","50","8","9","C26","D20","C26""
+  <Catalog>
+    <col0>37</col0>
+    <col1>36</col1>
+    <col2>Starman</col2>
+    <col3>Engineer</col3>
+    <col4>50</col4>
+    <col5>8</col5>
+    <col6>9</col6>
+    <col7>C26</col7>
+    <col8>D20</col8>
+    <col9>C26</col9>
+  </Catalog>
+ 
+""38","37","Starman","Vehicle Deck","26","2","3","A10","D27","A10""
+  <Catalog>
+    <col0>38</col0>
+    <col1>37</col1>
+    <col2>Starman</col2>
+    <col3>Vehicle Deck</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>A10</col7>
+    <col8>D27</col8>
+    <col9>A10</col9>
+  </Catalog>
+ 
+""39","38","Starman","Magazine","30","3","4","E1","D26","E1""
+  <Catalog>
+    <col0>39</col0>
+    <col1>38</col1>
+    <col2>Starman</col2>
+    <col3>Magazine</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>4</col6>
+    <col7>E1</col7>
+    <col8>D26</col8>
+    <col9>E1</col9>
+  </Catalog>
+ 
+""40","39","Starman","Electronic Shop","22","1","2","E9","D26","E9""
+  <Catalog>
+    <col0>40</col0>
+    <col1>39</col1>
+    <col2>Starman</col2>
+    <col3>Electronic Shop</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>E9</col7>
+    <col8>D26</col8>
+    <col9>E9</col9>
+  </Catalog>
+ 
+""41","40","Starman","Machine Shop","26","2","3","C26","D22","C26""
+  <Catalog>
+    <col0>41</col0>
+    <col1>40</col1>
+    <col2>Starman</col2>
+    <col3>Machine Shop</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>C26</col7>
+    <col8>D22</col8>
+    <col9>C26</col9>
+  </Catalog>
+ 
+""42","41","Starman","Administration","30","3","4","B4","D30","B12""
+  <Catalog>
+    <col0>42</col0>
+    <col1>41</col1>
+    <col2>Starman</col2>
+    <col3>Administration</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>4</col6>
+    <col7>B4</col7>
+    <col8>D30</col8>
+    <col9>B12</col9>
+  </Catalog>
+ 
+""43","42","Starman","Bodyguard/Valet","26","2","3","B2","B14","B2""
+  <Catalog>
+    <col0>43</col0>
+    <col1>42</col1>
+    <col2>Starman</col2>
+    <col3>Bodyguard/Valet</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>B2</col7>
+    <col8>B14</col8>
+    <col9>B2</col9>
+  </Catalog>
+ 
+""44","43","Starman","Flight","22","1","2","C24","D18","C27""
+  <Catalog>
+    <col0>44</col0>
+    <col1>43</col1>
+    <col2>Starman</col2>
+    <col3>Flight</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>C24</col7>
+    <col8>D18</col8>
+    <col9>C27</col9>
+  </Catalog>
+ 
+""45","44","Starman","Administration","26","2","3","D6","C30","B12""
+  <Catalog>
+    <col0>45</col0>
+    <col1>44</col1>
+    <col2>Starman</col2>
+    <col3>Administration</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>D6</col7>
+    <col8>C30</col8>
+    <col9>B12</col9>
+  </Catalog>
+ 
+""46","45","Starman","Cargo Clerk","22","1","2","E6","D15","B12""
+  <Catalog>
+    <col0>46</col0>
+    <col1>45</col1>
+    <col2>Starman</col2>
+    <col3>Cargo Clerk</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>2</col6>
+    <col7>E6</col7>
+    <col8>D15</col8>
+    <col9>B12</col9>
+  </Catalog>
+ 
+""47","46","Starman","Runner","26","2","3","B4","D28","-""
+  <Catalog>
+    <col0>47</col0>
+    <col1>46</col1>
+    <col2>Starman</col2>
+    <col3>Runner</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>3</col6>
+    <col7>B4</col7>
+    <col8>D28</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""48","","","","","","","","","""
+  <Catalog>
+    <col0>48</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""49","47","Captain","Force Commander","54","9","18","B2","C8","-""
+  <Catalog>
+    <col0>49</col0>
+    <col1>47</col1>
+    <col2>Captain</col2>
+    <col3>Force Commander</col3>
+    <col4>54</col4>
+    <col5>9</col5>
+    <col6>18</col6>
+    <col7>B2</col7>
+    <col8>C8</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""50","48","1st Sergeant","Force Senior NCO","34","4","10","B15","C7","-""
+  <Catalog>
+    <col0>50</col0>
+    <col1>48</col1>
+    <col2>1st Sergeant</col2>
+    <col3>Force Senior NCO</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>10</col6>
+    <col7>B15</col7>
+    <col8>C7</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""51","49","Corporal","Force Runner","26","2","7","B15","C7","-""
+  <Catalog>
+    <col0>51</col0>
+    <col1>49</col1>
+    <col2>Corporal</col2>
+    <col3>Force Runner</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>7</col6>
+    <col7>B15</col7>
+    <col8>C7</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""52","50","Private","Force Driver","22","1","9","A10","C7","-""
+  <Catalog>
+    <col0>52</col0>
+    <col1>50</col1>
+    <col2>Private</col2>
+    <col3>Force Driver</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>9</col6>
+    <col7>A10</col7>
+    <col8>C7</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""53","","","","","","","","","""
+  <Catalog>
+    <col0>53</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""54","51","1st Lieutenant","Boarding Leader","30","3","10","-","C1","-""
+  <Catalog>
+    <col0>54</col0>
+    <col1>51</col1>
+    <col2>1st Lieutenant</col2>
+    <col3>Boarding Leader</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>10</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""55","52","Leading Sergeant","Squad Senior NCO","34","4","11","-","C1","-""
+  <Catalog>
+    <col0>55</col0>
+    <col1>52</col1>
+    <col2>Leading Sergeant</col2>
+    <col3>Squad Senior NCO</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>11</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""56","53","Lance Corporal","1stTeamMember","26","2","7","-","C1","-""
+  <Catalog>
+    <col0>56</col0>
+    <col1>53</col1>
+    <col2>Lance Corporal</col2>
+    <col3>1stTeamMember</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>7</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""57","54","Private","1stTeamMember","22","1","6","-","C1","-""
+  <Catalog>
+    <col0>57</col0>
+    <col1>54</col1>
+    <col2>Private</col2>
+    <col3>1stTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>6</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""58","55","Gunnery Sergeant","2ndTeamLeader","30","3","6","-","C1","-""
+  <Catalog>
+    <col0>58</col0>
+    <col1>55</col1>
+    <col2>Gunnery Sergeant</col2>
+    <col3>2ndTeamLeader</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>6</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""59","56","Private","2ndTeamMember","26","2","4","-","C1","-""
+  <Catalog>
+    <col0>59</col0>
+    <col1>56</col1>
+    <col2>Private</col2>
+    <col3>2ndTeamMember</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>4</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""60","57","Private","2ndTeamMember","22","1","8","-","C1","-""
+  <Catalog>
+    <col0>60</col0>
+    <col1>57</col1>
+    <col2>Private</col2>
+    <col3>2ndTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""61","58","Sergeant","3rdTeamLeader","26","2","8","-","C1","-""
+  <Catalog>
+    <col0>61</col0>
+    <col1>58</col1>
+    <col2>Sergeant</col2>
+    <col3>3rdTeamLeader</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""62","59","Lance Corporal","3rdTeamMember","26","2","8","-","C1","-""
+  <Catalog>
+    <col0>62</col0>
+    <col1>59</col1>
+    <col2>Lance Corporal</col2>
+    <col3>3rdTeamMember</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""63","60","Private","3rdTeamMember","22","1","8","-","C1","-""
+  <Catalog>
+    <col0>63</col0>
+    <col1>60</col1>
+    <col2>Private</col2>
+    <col3>3rdTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C1</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""64","","","","","","","","","""
+  <Catalog>
+    <col0>64</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""65","61","1st Lieutenant","Jump Leader","26","2","9","-","C2","-""
+  <Catalog>
+    <col0>65</col0>
+    <col1>61</col1>
+    <col2>1st Lieutenant</col2>
+    <col3>Jump Leader</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>9</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""66","62","Gunnery Sergeant","Squad Senior NCO","34","4","9","-","C2","-""
+  <Catalog>
+    <col0>66</col0>
+    <col1>62</col1>
+    <col2>Gunnery Sergeant</col2>
+    <col3>Squad Senior NCO</col3>
+    <col4>34</col4>
+    <col5>4</col5>
+    <col6>9</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""67","63","Corporal","1stTeamMember","30","3","8","-","C2","-""
+  <Catalog>
+    <col0>67</col0>
+    <col1>63</col1>
+    <col2>Corporal</col2>
+    <col3>1stTeamMember</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""68","64","Private","1stTeamMember","22","1","6","-","C2","-""
+  <Catalog>
+    <col0>68</col0>
+    <col1>64</col1>
+    <col2>Private</col2>
+    <col3>1stTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>6</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""69","65","Gunnery Sergeant","2ndTeamLeader","34","3","6","-","C2","-""
+  <Catalog>
+    <col0>69</col0>
+    <col1>65</col1>
+    <col2>Gunnery Sergeant</col2>
+    <col3>2ndTeamLeader</col3>
+    <col4>34</col4>
+    <col5>3</col5>
+    <col6>6</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""70","66","Lance Corporal","2ndTeamMember","26","2","4","-","C2","-""
+  <Catalog>
+    <col0>70</col0>
+    <col1>66</col1>
+    <col2>Lance Corporal</col2>
+    <col3>2ndTeamMember</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>4</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""71","67","Private","2ndTeamMember","22","1","6","-","C2","-""
+  <Catalog>
+    <col0>71</col0>
+    <col1>67</col1>
+    <col2>Private</col2>
+    <col3>2ndTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>6</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""72","68","Gunnery Sergeant","3rdTeamLeader","30","3","7","-","C2","-""
+  <Catalog>
+    <col0>72</col0>
+    <col1>68</col1>
+    <col2>Gunnery Sergeant</col2>
+    <col3>3rdTeamLeader</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>7</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""73","69","Private","3rdTeamMember","22","1","5","-","C2","-""
+  <Catalog>
+    <col0>73</col0>
+    <col1>69</col1>
+    <col2>Private</col2>
+    <col3>3rdTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>5</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""74","70","Private","3rdTeamMember","22","1","5","-","C2","-""
+  <Catalog>
+    <col0>74</col0>
+    <col1>70</col1>
+    <col2>Private</col2>
+    <col3>3rdTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>5</col6>
+    <col7>-</col7>
+    <col8>C2</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""75","","","","","","","","","""
+  <Catalog>
+    <col0>75</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""76","71","1st Lieutenant","Infantry Leader","30","4","8","-","C3","-""
+  <Catalog>
+    <col0>76</col0>
+    <col1>71</col1>
+    <col2>1st Lieutenant</col2>
+    <col3>Infantry Leader</col3>
+    <col4>30</col4>
+    <col5>4</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""77","72","Leading Sergeant","Squad Senior NCO","42","6","9","-","C3","-""
+  <Catalog>
+    <col0>77</col0>
+    <col1>72</col1>
+    <col2>Leading Sergeant</col2>
+    <col3>Squad Senior NCO</col3>
+    <col4>42</col4>
+    <col5>6</col5>
+    <col6>9</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""78","73","Corporal","1stTeamMember","26","2","7","-","C3","-""
+  <Catalog>
+    <col0>78</col0>
+    <col1>73</col1>
+    <col2>Corporal</col2>
+    <col3>1stTeamMember</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>7</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""79","74","Private","1stTeamMember","22","1","4","-","C3","-""
+  <Catalog>
+    <col0>79</col0>
+    <col1>74</col1>
+    <col2>Private</col2>
+    <col3>1stTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>4</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""80","75","Gunnery Sergeant","2ndTeamLeader","30","3","8","-","C3","-""
+  <Catalog>
+    <col0>80</col0>
+    <col1>75</col1>
+    <col2>Gunnery Sergeant</col2>
+    <col3>2ndTeamLeader</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""81","76","Private","2ndTeamMember","30","3","9","-","C3","-""
+  <Catalog>
+    <col0>81</col0>
+    <col1>76</col1>
+    <col2>Private</col2>
+    <col3>2ndTeamMember</col3>
+    <col4>30</col4>
+    <col5>3</col5>
+    <col6>9</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""82","77","Private","2ndTeamMember","22","1","5","-","C3","-""
+  <Catalog>
+    <col0>82</col0>
+    <col1>77</col1>
+    <col2>Private</col2>
+    <col3>2ndTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>5</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""83","78","Sergeant","3rdTeamLeader","26","2","6","-","C3","-""
+  <Catalog>
+    <col0>83</col0>
+    <col1>78</col1>
+    <col2>Sergeant</col2>
+    <col3>3rdTeamLeader</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>6</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""84","79","Lance Corporal","3rdTeamMember","26","2","8","-","C3","-""
+  <Catalog>
+    <col0>84</col0>
+    <col1>79</col1>
+    <col2>Lance Corporal</col2>
+    <col3>3rdTeamMember</col3>
+    <col4>26</col4>
+    <col5>2</col5>
+    <col6>8</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+""85","80","Private","3rdTeamMember","22","1","7","-","C3","-""
+  <Catalog>
+    <col0>85</col0>
+    <col1>80</col1>
+    <col2>Private</col2>
+    <col3>3rdTeamMember</col3>
+    <col4>22</col4>
+    <col5>1</col5>
+    <col6>7</col6>
+    <col7>-</col7>
+    <col8>C3</col8>
+    <col9>-</col9>
+  </Catalog>
+ 
+</Catalogs>

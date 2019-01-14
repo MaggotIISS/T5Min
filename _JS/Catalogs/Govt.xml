@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Govt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Digit","Description","Note"
+"0","No Government Structure","Family bonds predominate"
+  <Catalog>
+    <col0>0</col0>
+    <col1>No Government Structure</col1>
+    <col2>Family bonds predominate</col2>
+  </Catalog>
+ 
+"1","Company/Corporation","Rule by a managerial elite"
+  <Catalog>
+    <col0>1</col0>
+    <col1>Company/Corporation</col1>
+    <col2>Rule by a managerial elite</col2>
+  </Catalog>
+ 
+"2","Participating Democracy","Rule by popular vote"
+  <Catalog>
+    <col0>2</col0>
+    <col1>Participating Democracy</col1>
+    <col2>Rule by popular vote</col2>
+  </Catalog>
+ 
+"3","Self-Perpetuating Oligarchy","Rule by a restricted minority with little or no input from the masses"
+  <Catalog>
+    <col0>3</col0>
+    <col1>Self-Perpetuating Oligarchy</col1>
+    <col2>Rule by a restricted minority with little or no input from the masses</col2>
+  </Catalog>
+ 
+"4","Representative Democracy","Government by proxy"
+  <Catalog>
+    <col0>4</col0>
+    <col1>Representative Democracy</col1>
+    <col2>Government by proxy</col2>
+  </Catalog>
+ 
+"5","Feudal Technocracy","Governmental relationships based on mutually beneficial technical activities"
+  <Catalog>
+    <col0>5</col0>
+    <col1>Feudal Technocracy</col1>
+    <col2>Governmental relationships based on mutually beneficial technical activities</col2>
+  </Catalog>
+ 
+"6","Captive Government/Colony","Rule by a leadership answerable to an outside group"
+  <Catalog>
+    <col0>6</col0>
+    <col1>Captive Government/Colony</col1>
+    <col2>Rule by a leadership answerable to an outside group</col2>
+  </Catalog>
+ 
+"7","Balkanization","Rival governments continually compete for control of the world"
+  <Catalog>
+    <col0>7</col0>
+    <col1>Balkanization</col1>
+    <col2>Rival governments continually compete for control of the world</col2>
+  </Catalog>
+ 
+"8","Civil Service Bureaucracy","Rule by agencies employing individuals selected by merit"
+  <Catalog>
+    <col0>8</col0>
+    <col1>Civil Service Bureaucracy</col1>
+    <col2>Rule by agencies employing individuals selected by merit</col2>
+  </Catalog>
+ 
+"9","Impersonal Bureaucracy","Impersonal agencies rule"
+  <Catalog>
+    <col0>9</col0>
+    <col1>Impersonal Bureaucracy</col1>
+    <col2>Impersonal agencies rule</col2>
+  </Catalog>
+ 
+"A","Charismatic Dictatorship","Government by a single leader enjoying the confidence of the citizens"
+  <Catalog>
+    <col0>A</col0>
+    <col1>Charismatic Dictatorship</col1>
+    <col2>Government by a single leader enjoying the confidence of the citizens</col2>
+  </Catalog>
+ 
+"B","Non-Charismatic Dictatorship","Government by the successor to a charismatic dictator"
+  <Catalog>
+    <col0>B</col0>
+    <col1>Non-Charismatic Dictatorship</col1>
+    <col2>Government by the successor to a charismatic dictator</col2>
+  </Catalog>
+ 
+"C","Charismatic Oligarchy","Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry"
+  <Catalog>
+    <col0>C</col0>
+    <col1>Charismatic Oligarchy</col1>
+    <col2>Government by a select religious, mystic, or psionic group, organization, or class enjoying the overwhelming confidence of the citizenry</col2>
+  </Catalog>
+ 
+"D","Religious Dictatorship","With little or no regard for the needs of the citizenry"
+  <Catalog>
+    <col0>D</col0>
+    <col1>Religious Dictatorship</col1>
+    <col2>With little or no regard for the needs of the citizenry</col2>
+  </Catalog>
+ 
+"E","Religious Autocracy","Government by a single religious, mystic, or psionic leader weilding absolute power"
+  <Catalog>
+    <col0>E</col0>
+    <col1>Religious Autocracy</col1>
+    <col2>Government by a single religious, mystic, or psionic leader weilding absolute power</col2>
+  </Catalog>
+ 
+"F","Totalitarian Oligarchy","Government by an all powerfule minority which maintains absolute control through widespread coercion and oppression"
+  <Catalog>
+    <col0>F</col0>
+    <col1>Totalitarian Oligarchy</col1>
+    <col2>Government by an all powerfule minority which maintains absolute control through widespread coercion and oppression</col2>
+  </Catalog>
+ 
+</Catalogs>

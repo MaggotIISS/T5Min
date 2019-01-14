@@ -1,0 +1,7 @@
+//	2BL1-0.txt
+blank.gif
+im.gif c c replace
+harvehastc.gif c c 000000
+2BL1 c 7 35 H 000000
+8 2 7 35 H 000000
+2BL1-0.gif

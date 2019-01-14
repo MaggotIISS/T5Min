@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<?xsl-stylesheet type="text/xsl" href="Contact.xsl"?>-->
+<!--
+Ways to contact
+-->
+<Contact>
+  <!--
+  </!-->
+  <mobile id="mobile">n/a</mobile>
+  <landline id="landline">01493 858196</landline>
+  <fax id="fax">n/a</fax>
+  <email id="email">maggot.iiss@sky.com</email>
+  <com id="com" primary="primary">ComDot</com>
+</Contact>

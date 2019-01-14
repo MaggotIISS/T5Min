@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="SpecialEffects.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"LINE","VALUE","RECOIL","LOUD","FLASH","HEAT","VACC","UW","CQ"
+"Burden","Recoilless","No","-","-","-","-","-","No"
+  <Catalog>
+    <col0>Burden</col0>
+    <col1>Recoilless</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Burden","Snub","Yes","-","-","-","-","R=1","Yes"
+  <Catalog>
+    <col0>Burden</col0>
+    <col1>Snub</col1>
+    <col2>Yes</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=1</col7>
+    <col8>Yes</col8>
+  </Catalog>
+ 
+"Burden","VHeavy","Hi","-","-","-","-","-","-"
+  <Catalog>
+    <col0>Burden</col0>
+    <col1>VHeavy</col1>
+    <col2>Hi</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Burden","VRF","Hi","-","-","-","-","No","No"
+  <Catalog>
+    <col0>Burden</col0>
+    <col1>VRF</col1>
+    <col2>Hi</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Descriptor","Accelerator","No","-","-","-","-","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Accelerator</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Acid","No","-","-","-","-","R=0","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Acid</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=0</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","AF Missile","No","Loud","Bright","Hot","-","No","No"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>AF Missile</col1>
+    <col2>No</col2>
+    <col3>Loud</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Descriptor","AT Missile","No","Loud","Bright","Hot","-","No","No"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>AT Missile</col1>
+    <col2>No</col2>
+    <col3>Loud</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Descriptor","AT Rocket","No","Loud","Bright","Hot","-","No","No"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>AT Rocket</col1>
+    <col2>No</col2>
+    <col3>Loud</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Descriptor","Dart","No","-","-","-","-","R=1","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Dart</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=1</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","EMP","No","-","-","-","-","-","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>EMP</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Fire","No","-","Bright","Hot","-","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Fire</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Flash","No","-","Bright","-","-","R=3","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Flash</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=3</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Freeze","No","-","-","-","-","R=0","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Freeze</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=0</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Fusion","Hi","-","Bright","Hot","-","R=2","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Fusion</col1>
+    <col2>Hi</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>R=2</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Gas","No","-","-","-","No","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Gas</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>No</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Gauss","Yes","-","Mag","-","-","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Gauss</col1>
+    <col2>Yes</col2>
+    <col3>-</col3>
+    <col4>Mag</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Grav","No","-","-","-","-","-","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Grav</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Grenade","Yes","-","-","-","-","R=1","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Grenade</col1>
+    <col2>Yes</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=1</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Laser","No","-","Bright","-","-","R=2","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Laser</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=2</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Mag","No","-","Mag","-","-","-","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Mag</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Mag</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Missile","No","-","Bright","Hot","-","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Missile</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Plasma","Hi","-","Bright","Hot","-","R=2","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Plasma</col1>
+    <col2>Hi</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>R=2</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Poison Dart","No","-","-","-","-","R=1","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Poison Dart</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=1</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Poison Gas","No","-","-","-","No","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Poison Gas</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>No</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Psi Amp","No","-","-","-","-","-","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Psi Amp</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Rad","No","-","-","-","-","R=1","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Rad</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>R=1</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","RAM","No","Loud","Bright","Hot","-","R=1","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>RAM</col1>
+    <col2>No</col2>
+    <col3>Loud</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>R=1</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Rocket","No","-","Bright","Hot","-","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Rocket</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Shock","No","-","Bright","Hot","-","R=0","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Shock</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>Bright</col4>
+    <col5>Hot</col5>
+    <col6>-</col6>
+    <col7>R=0</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Sonic","No","Loud","-","-","No","R=1","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Sonic</col1>
+    <col2>No</col2>
+    <col3>Loud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>No</col6>
+    <col7>R=1</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Splat","Yes","-","-","-","-","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Splat</col1>
+    <col2>Yes</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Spray/Stench","No","-","-","-","No","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Spray/Stench</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>No</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Descriptor","Tranq","No","-","-","-","No","No","-"
+  <Catalog>
+    <col0>Descriptor</col0>
+    <col1>Tranq</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>No</col6>
+    <col7>No</col7>
+    <col8>-</col8>
+  </Catalog>
+ 
+"Type","AutoCannon","Hi","VLoud","-","-","-","No","No"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>AutoCannon</col1>
+    <col2>Hi</col2>
+    <col3>VLoud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Type","Cannon","Hi","VLoud","-","-","-","No","No"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Cannon</col1>
+    <col2>Hi</col2>
+    <col3>VLoud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Type","Carbine","Yes","Loud*","-","-","-","No","-1"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Carbine</col1>
+    <col2>Yes</col2>
+    <col3>Loud*</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-1</col8>
+  </Catalog>
+ 
+"Type","Designator","Yes","-","-","-","-","-","-3"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Designator</col1>
+    <col2>Yes</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-3</col8>
+  </Catalog>
+ 
+"Type","Gatling","Hi","VLoud","-","-","-","No","No"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Gatling</col1>
+    <col2>Hi</col2>
+    <col3>VLoud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>No</col8>
+  </Catalog>
+ 
+"Type","Gun","Hi","VLoud","-","-","-","No","-3"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Gun</col1>
+    <col2>Hi</col2>
+    <col3>VLoud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-3</col8>
+  </Catalog>
+ 
+"Type","Launcher","No","-","-","-","-","-","-3"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Launcher</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-3</col8>
+  </Catalog>
+ 
+"Type","Machinegun","Yes","Loud","-","-","-","No","-3"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Machinegun</col1>
+    <col2>Yes</col2>
+    <col3>Loud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-3</col8>
+  </Catalog>
+ 
+"Type","Multi-Launch","No","-","-","-","-","No","-3"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Multi-Launch</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-3</col8>
+  </Catalog>
+ 
+"Type","Pistol","Yes","Loud*","-","-","-","No","2"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Pistol</col1>
+    <col2>Yes</col2>
+    <col3>Loud*</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>2</col8>
+  </Catalog>
+ 
+"Type","Projector","No","-","-","-","-","-","0"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Projector</col1>
+    <col2>No</col2>
+    <col3>-</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>0</col8>
+  </Catalog>
+ 
+"Type","Revolver","Yes","Loud*","-","-","-","No","2"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Revolver</col1>
+    <col2>Yes</col2>
+    <col3>Loud*</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>2</col8>
+  </Catalog>
+ 
+"Type","Rifle","Yes","Loud*","-","-","-","No","-5"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Rifle</col1>
+    <col2>Yes</col2>
+    <col3>Loud*</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>No</col7>
+    <col8>-5</col8>
+  </Catalog>
+ 
+"Type","Shotgun","Yes","Loud","-","-","-","-","-3"
+  <Catalog>
+    <col0>Type</col0>
+    <col1>Shotgun</col1>
+    <col2>Yes</col2>
+    <col3>Loud</col3>
+    <col4>-</col4>
+    <col5>-</col5>
+    <col6>-</col6>
+    <col7>-</col7>
+    <col8>-3</col8>
+  </Catalog>
+ 
+</Catalogs>

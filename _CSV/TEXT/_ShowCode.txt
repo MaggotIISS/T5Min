@@ -1,0 +1,3 @@
+_ShowCode.dir
+_ShowCode.files
+_ShowCode.strings

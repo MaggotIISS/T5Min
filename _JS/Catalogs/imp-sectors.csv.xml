@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="imp-sectors.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Y","-8","-7","-6","-5","-4","-3","-2","-1","1","2","Field13","0""
+""","-8","-7","-6","-5","-4","-3","-2","-1","1","2","","0""
+  <Catalog>
+    <col0></col0>
+    <col1>-8</col1>
+    <col2>-7</col2>
+    <col3>-6</col3>
+    <col4>-5</col4>
+    <col5>-4</col5>
+    <col6>-3</col6>
+    <col7>-2</col7>
+    <col8>-1</col8>
+    <col9>1</col9>
+    <col10>2</col10>
+    <col11></col11>
+    <col12>0</col12>
+  </Catalog>
+ 
+""2","","","","","Gvurrdon","Tuglikki","Provence","Windhorn","Mendan","Amdukan","2","Meshan""
+  <Catalog>
+    <col0>2</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>Gvurrdon</col5>
+    <col6>Tuglikki</col6>
+    <col7>Provence</col7>
+    <col8>Windhorn</col8>
+    <col9>Mendan</col9>
+    <col10>Amdukan</col10>
+    <col11>2</col11>
+    <col12>Meshan</col12>
+  </Catalog>
+ 
+""1","","","","","SpinwardMarches","Deneb","Corridor","Vland","Antares","TheEmptyQuarter","1","Lishun""
+  <Catalog>
+    <col0>1</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>SpinwardMarches</col5>
+    <col6>Deneb</col6>
+    <col7>Corridor</col7>
+    <col8>Vland</col8>
+    <col9>Antares</col9>
+    <col10>TheEmptyQuarter</col10>
+    <col11>1</col11>
+    <col12>Lishun</col12>
+  </Catalog>
+ 
+""0","(Astron)","(Futani)","Vanguard reaches","The beyond","TrojanReach","Reft","Gushmege","Dagudashaag","Fornast","Ley","0","Core""
+  <Catalog>
+    <col0>0</col0>
+    <col1>(Astron)</col1>
+    <col2>(Futani)</col2>
+    <col3>Vanguard reaches</col3>
+    <col4>The beyond</col4>
+    <col5>TrojanReach</col5>
+    <col6>Reft</col6>
+    <col7>Gushmege</col7>
+    <col8>Dagudashaag</col8>
+    <col9>Fornast</col9>
+    <col10>Ley</col10>
+    <col11>0</col11>
+    <col12>Core</col12>
+  </Catalog>
+ 
+""-1","(Theta Borealis)","Theron","Kyatulyare`","Weasuirlaoa","RiftspanReaches","Verge","Ilelish","Zarushagar","Delphi","GlimmerdriftReaches","-1","Massila""
+  <Catalog>
+    <col0>-1</col0>
+    <col1>(Theta Borealis)</col1>
+    <col2>Theron</col2>
+    <col3>Kyatulyare`</col3>
+    <col4>Weasuirlaoa</col4>
+    <col5>RiftspanReaches</col5>
+    <col6>Verge</col6>
+    <col7>Ilelish</col7>
+    <col8>Zarushagar</col8>
+    <col9>Delphi</col9>
+    <col10>GlimmerdriftReaches</col10>
+    <col11>-1</col11>
+    <col12>Massila</col12>
+  </Catalog>
+ 
+""-2","Khaeaw","Faoheirooi`iyhao","Ftaoiyekyu","Alawahiaa","Hlakhoi","Ealiyasiyw","ReaversDeep","Daibei","OldExpanses","HinterWorlds","-2","Diaspora""
+  <Catalog>
+    <col0>-2</col0>
+    <col1>Khaeaw</col1>
+    <col2>Faoheirooi`iyhao</col2>
+    <col3>Ftaoiyekyu</col3>
+    <col4>Alawahiaa</col4>
+    <col5>Hlakhoi</col5>
+    <col6>Ealiyasiyw</col6>
+    <col7>ReaversDeep</col7>
+    <col8>Daibei</col8>
+    <col9>OldExpanses</col9>
+    <col10>HinterWorlds</col10>
+    <col11>-2</col11>
+    <col12>Diaspora</col12>
+  </Catalog>
+ 
+""-3","Hkakhaeaw","Easai`yo","Waroatahe","Karieaya","Staihaia`yo","Iwahfuah","DarkNebula","Magyar","AlphaCrucis","Spica","-3","SolomaniRim""
+  <Catalog>
+    <col0>-3</col0>
+    <col1>Hkakhaeaw</col1>
+    <col2>Easai`yo</col2>
+    <col3>Waroatahe</col3>
+    <col4>Karieaya</col4>
+    <col5>Staihaia`yo</col5>
+    <col6>Iwahfuah</col6>
+    <col7>DarkNebula</col7>
+    <col8>Magyar</col8>
+    <col9>AlphaCrucis</col9>
+    <col10>Spica</col10>
+    <col11>-3</col11>
+    <col12>SolomaniRim</col12>
+  </Catalog>
+ 
+""-4","Yahehwe","Kefiykhta","Heakhafaw","Etakhasoa","Aktifao","Uistilao","UstralQuadrant","Canopus","Neworld","Langere","-4","Aldebaran""
+  <Catalog>
+    <col0>-4</col0>
+    <col1>Yahehwe</col1>
+    <col2>Kefiykhta</col2>
+    <col3>Heakhafaw</col3>
+    <col4>Etakhasoa</col4>
+    <col5>Aktifao</col5>
+    <col6>Uistilao</col6>
+    <col7>UstralQuadrant</col7>
+    <col8>Canopus</col8>
+    <col9>Neworld</col9>
+    <col10>Langere</col10>
+    <col11>-4</col11>
+    <col12>Aldebaran</col12>
+  </Catalog>
+ 
+""-5","Ohieraoi","Fahreahluis","Hfiywitir","Irlaftaiea","Teahloarifu","Ahkiweahi","Banners","Hanstone","Hadji","Storr","-5","Malorn""
+  <Catalog>
+    <col0>-5</col0>
+    <col1>Ohieraoi</col1>
+    <col2>Fahreahluis</col2>
+    <col3>Hfiywitir</col3>
+    <col4>Irlaftaiea</col4>
+    <col5>Teahloarifu</col5>
+    <col6>Ahkiweahi</col6>
+    <col7>Banners</col7>
+    <col8>Hanstone</col8>
+    <col9>Hadji</col9>
+    <col10>Storr</col10>
+    <col11>-5</col11>
+    <col12>Malorn</col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","SECTOR","CAPITAL","ARCHDUKE","SECTOR","CAPITAL","ARCHDUKE","SECTOR","CAPITAL","","","","ARCHDUKE""
+  <Catalog>
+    <col0></col0>
+    <col1>SECTOR</col1>
+    <col2>CAPITAL</col2>
+    <col3>ARCHDUKE</col3>
+    <col4>SECTOR</col4>
+    <col5>CAPITAL</col5>
+    <col6>ARCHDUKE</col6>
+    <col7>SECTOR</col7>
+    <col8>CAPITAL</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>ARCHDUKE</col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Gvurrdon","","","SpinwardMarches","Mora","","TrojanReach","Tobia","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Gvurrdon</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>SpinwardMarches</col4>
+    <col5>Mora</col5>
+    <col6></col6>
+    <col7>TrojanReach</col7>
+    <col8>Tobia</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Tuglikki","","","Deneb","Deneb","","Reft","Cyril","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Tuglikki</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>Deneb</col4>
+    <col5>Deneb</col5>
+    <col6></col6>
+    <col7>Reft</col7>
+    <col8>Cyril</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Provence","","","Corridor","Depot","","Gusmege","Usdiki","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Provence</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>Corridor</col4>
+    <col5>Depot</col5>
+    <col6></col6>
+    <col7>Gusmege</col7>
+    <col8>Usdiki</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Windhorn","","","Vland","Vland","","Dagudashaag","Medurma","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Windhorn</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>Vland</col4>
+    <col5>Vland</col5>
+    <col6></col6>
+    <col7>Dagudashaag</col7>
+    <col8>Medurma</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Meshan","","","Lishun","Tephany","","Core","Capital","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Meshan</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>Lishun</col4>
+    <col5>Tephany</col5>
+    <col6></col6>
+    <col7>Core</col7>
+    <col8>Capital</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Mendan","","","Antares","Antares","","Fornast","Shumduur","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Mendan</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>Antares</col4>
+    <col5>Antares</col5>
+    <col6></col6>
+    <col7>Fornast</col7>
+    <col8>Shumduur</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Amdukan","","","TheEmptyQuarter","Nulinad","","Ley","Dukh","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Amdukan</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>TheEmptyQuarter</col4>
+    <col5>Nulinad</col5>
+    <col6></col6>
+    <col7>Ley</col7>
+    <col8>Dukh</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","RiftspanReaches","","","Hlakhoi","","","Staihaia`yo","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>RiftspanReaches</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>Hlakhoi</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Staihaia`yo</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Verge","Tripolis","","Ealiyasiyw","","","Iwahfuah","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Verge</col1>
+    <col2>Tripolis</col2>
+    <col3></col3>
+    <col4>Ealiyasiyw</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Iwahfuah</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Ilelish","Dlan","","ReaversDeep","Marlhelm","","DarkNebula","Kusyu","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Ilelish</col1>
+    <col2>Dlan</col2>
+    <col3></col3>
+    <col4>ReaversDeep</col4>
+    <col5>Marlhelm</col5>
+    <col6></col6>
+    <col7>DarkNebula</col7>
+    <col8>Kusyu</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Zarushagar","Liasdi","","Daibei","Warinir","","Magyar","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Zarushagar</col1>
+    <col2>Liasdi</col2>
+    <col3></col3>
+    <col4>Daibei</col4>
+    <col5>Warinir</col5>
+    <col6></col6>
+    <col7>Magyar</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Massila","Kaggushus","","Diaspora","Libert","","SolomaniRim","Dingir","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Massila</col1>
+    <col2>Kaggushus</col2>
+    <col3></col3>
+    <col4>Diaspora</col4>
+    <col5>Libert</col5>
+    <col6></col6>
+    <col7>SolomaniRim</col7>
+    <col8>Dingir</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Delphi","Anaxias","","OldExpanses","Vaward","","AlphaCrucis","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Delphi</col1>
+    <col2>Anaxias</col2>
+    <col3></col3>
+    <col4>OldExpanses</col4>
+    <col5>Vaward</col5>
+    <col6></col6>
+    <col7>AlphaCrucis</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","GlimmerdriftReaches","","","HinterWorlds","","","Spica","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>GlimmerdriftReaches</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>HinterWorlds</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>Spica</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Aktifao","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Aktifao</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Uistilao","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Uistilao</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","UstralQuadrant","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>UstralQuadrant</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Canopus","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Canopus</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Aldebaran","Home","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Aldebaran</col1>
+    <col2>Home</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Neworld","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Neworld</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","Langere","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>Langere</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+</Catalogs>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+World 1
+"1805"
+  <System>
+    <hex>1805</hex>
+    <sname>Uakye</sname>
+    <UWP>B439598-D</UWP>
+    <st>B</st>
+    <si>4</si>
+    <at>3</at>
+    <hy>9</hy>
+    <po>5</po>
+    <go>9</go>
+    <ll>8</ll>
+    <tl>D</tl>
+    <remarks>Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(945+1)</ex>
+    <cx>[565D]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>320</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 2
+"1706"
+  <System>
+    <hex>1706</hex>
+    <sname>Alell</sname>
+    <UWP>B56789C-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>6</at>
+    <hy>7</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>C</ll>
+    <tl>A</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(B7C+5)</ex>
+    <cx>[BB8D]</cx>
+    <n>BcCe</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>210</pbg>
+    <w>6</w>
+    <a>ImDd</a>
+    <stellar>M1 V M7 V</stellar>
+  </System>
+
+World 3
+"1604"
+  <System>
+    <hex>1604</hex>
+    <sname>Louzy</sname>
+    <UWP>D422A88-8</UWP>
+    <st>D</st>
+    <si>4</si>
+    <at>2</at>
+    <hy>2</hy>
+    <po>A</po>
+    <go>8</go>
+    <ll>8</ll>
+    <tl>8</tl>
+    <remarks>He Hi In Na Po</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(D99+1)</ex>
+    <cx>[AA58]</cx>
+    <n>BE</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>110</pbg>
+    <w>7</w>
+    <a>ImDd</a>
+    <stellar>M2 V</stellar>
+  </System>
+
+</Systems>

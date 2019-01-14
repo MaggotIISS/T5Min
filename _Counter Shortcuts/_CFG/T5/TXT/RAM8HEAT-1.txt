@@ -1,0 +1,12 @@
+//	RAM8HEAT-1.txt
+#####################
+# RAMGrenades use GunsTL (RAMGrenade)
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+ramgrenade.gif c c 000000
+RAM8HEAT 2 1 35 H 000000
+TL8 50 1 35 H 000000
+SHT.ROF.RCL 2 7 35 H 000000
+8D.10 2 13 35 H 000000
+RAM8HEAT-1.gif

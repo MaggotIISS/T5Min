@@ -1,0 +1,4 @@
+//	ArmyBase-0.txt
+# Bases.cfg
+lines.gif
+ArmyBase-0.gif

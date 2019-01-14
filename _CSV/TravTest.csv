@@ -1,0 +1,4177 @@
+DROP TABLE 5FW-AtmMod;
+CREATE TABLE 5FW-AtmMod
+ (
+	Atmos			Text (50), 
+	Modifier			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-PercentageLossTable;
+CREATE TABLE 5FW-PercentageLossTable
+ (
+	Full Factor			Long Integer (4), 
+	90%			Long Integer (4), 
+	80%			Long Integer (4), 
+	70%			Long Integer (4), 
+	60%			Long Integer (4), 
+	50%			Long Integer (4), 
+	40%			Long Integer (4), 
+	30%			Long Integer (4), 
+	20%			Long Integer (4), 
+	10%			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-SDBvSQUADRON;
+CREATE TABLE 5FW-SDBvSQUADRON
+ (
+	1D6			Long Integer (4), 
+	10DBS			Text (50), 
+	30DBS			Text (50), 
+	60DBS			Text (50), 
+	120DBS			Text (50), 
+	180DBS			Text (50), 
+	240DBS			Text (50), 
+	300DBS			Long Integer (4), 
+	360DBS			Long Integer (4), 
+	420DBS			Long Integer (4), 
+	480DBS			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-SpaceCombatResults;
+CREATE TABLE 5FW-SpaceCombatResults
+ (
+	1d6			Long Integer (4), 
+	AF1			Long Integer (4), 
+	AF3			Long Integer (4), 
+	AF6			Long Integer (4), 
+	AF12			Long Integer (4), 
+	AF18			Long Integer (4), 
+	AF24			Long Integer (4), 
+	AF30			Long Integer (4), 
+	AF36			Long Integer (4), 
+	AF42			Long Integer (4), 
+	AF48			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-SQUADRONvSDB;
+CREATE TABLE 5FW-SQUADRONvSDB
+ (
+	SDBs			Long Integer (4), 
+	CF1			Text (50), 
+	CF3			Text (50), 
+	CF6			Text (50), 
+	CF12			Text (50), 
+	CF18			Text (50), 
+	CF24			Text (50), 
+	CF30			Text (50), 
+	CF36			Text (50), 
+	CF48			Text (50), 
+	CF42			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-SurfaceBombing;
+CREATE TABLE 5FW-SurfaceBombing
+ (
+	1d6			Long Integer (4), 
+	1BF			Text (50), 
+	3BF			Long Integer (4), 
+	6BF			Long Integer (4), 
+	12BF			Long Integer (4), 
+	18BF			Long Integer (4), 
+	24BF			Long Integer (4), 
+	30BF			Long Integer (4), 
+	36BF			Long Integer (4), 
+	42BF			Long Integer (4), 
+	48BF			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-TLMod;
+CREATE TABLE 5FW-TLMod
+ (
+	TTL			Text (50), 
+	Modifier			Long Integer (4), 
+	F			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE 5FW-TroopCombatResults;
+CREATE TABLE 5FW-TroopCombatResults
+ (
+	2D6			Long Integer (4), 
+	1:100			Text (50), 
+	1:10			Text (50), 
+	1:5			Long Integer (4), 
+	1:3			Long Integer (4), 
+	1:2			Long Integer (4), 
+	1:11/2			Long Integer (4), 
+	1:1			Long Integer (4), 
+	11/2:1			Long Integer (4), 
+	2:1			Long Integer (4), 
+	3:1			Long Integer (4), 
+	5:1			Text (50), 
+	10:1			Text (50), 
+	100:1			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-ASB;
+CREATE TABLE Arm-ASB
+ (
+	Battalion			Text (50), 
+	Bat-Men			Long Integer (4), 
+	Bat-Veh			Long Integer (4), 
+	Section			Text (50), 
+	Sec-Men			Long Integer (4), 
+	Sec-Veh			Long Integer (4), 
+	Squad			Text (50), 
+	Sqd-Men			Long Integer (4), 
+	Sqd-Veh			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-ASSquads;
+CREATE TABLE Arm-ASSquads
+ (
+	Batt			Text (5), 
+	Section			Text (5), 
+	Sec-Men			Long Integer (4), 
+	Platoon			Text (5), 
+	Pla-Men			Long Integer (4), 
+	Sqd-Men			Long Integer (4), 
+	ID			Text (5), 
+	Vehicle			Text (10)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-BCD;
+CREATE TABLE Arm-BCD
+ (
+	Bat			Text (50), 
+	Colour			Text (50), 
+	Company			Text (50), 
+	Com-Men			Text (50), 
+	Com-Veh			Text (50), 
+	Section			Text (50), 
+	Sec-Men			Text (50), 
+	Sec-Veh			Text (50), 
+	Squad			Text (50), 
+	Sqd-Men			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-BCSquads;
+CREATE TABLE Arm-BCSquads
+ (
+	Battalion			Text (50), 
+	Bat-Men			Long Integer (4), 
+	Section			Text (50), 
+	Sec-Men			Long Integer (4), 
+	Sqd-Vehicle			Text (50), 
+	Squad			Text (50), 
+	CO			Text (50), 
+	Sqd-Men			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-BEs;
+CREATE TABLE Arm-BEs
+ (
+	TL			Text (50), 
+	PR3			Long Integer (4), 
+	PR4			Long Integer (4), 
+	PR5			Long Integer (4), 
+	PR6			Long Integer (4), 
+	PR7			Long Integer (4), 
+	PR8			Long Integer (4), 
+	PR9			Long Integer (4), 
+	PR10			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-GTS;
+CREATE TABLE Arm-GTS
+ (
+	Battalion			Text (50), 
+	Bat-Men			Long Integer (4), 
+	Bat-Veh			Long Integer (4), 
+	Company			Text (50), 
+	Com-Men			Long Integer (4), 
+	Com-Veh			Long Integer (4), 
+	Section			Text (50), 
+	Sec-Men			Text (50), 
+	Sec-Veh			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-GTSquads;
+CREATE TABLE Arm-GTSquads
+ (
+	Vehicle			Text (50), 
+	ID			Text (50), 
+	CO			Text (50), 
+	Men			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-LAB;
+CREATE TABLE Arm-LAB
+ (
+	Battalion			Text (50), 
+	Bat-Men			Long Integer (4), 
+	Bat-Veh			Long Integer (4), 
+	Company			Text (50), 
+	Com-Men			Long Integer (4), 
+	Com-Veh			Long Integer (4), 
+	Section			Text (50), 
+	Sec-Men			Long Integer (4), 
+	Sec-Veh			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-LASquads;
+CREATE TABLE Arm-LASquads
+ (
+	Men			Long Integer (4), 
+	ID			Text (50), 
+	Vehicle			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-LIB;
+CREATE TABLE Arm-LIB
+ (
+	Battalion			Text (50), 
+	Bat-Men			Long Integer (4), 
+	Bat-Veh			Long Integer (4), 
+	Company			Text (50), 
+	Com-Men			Long Integer (4), 
+	Com-Veh			Long Integer (4), 
+	Section			Text (50), 
+	Sec-Men			Long Integer (4), 
+	Sec-Veh			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-LIR-4518th-Regina;
+CREATE TABLE Arm-LIR-4518th-Regina
+ (
+	Batt			Text (50), 
+	Section			Text (50), 
+	ID			Text (255), 
+	Field3			Text (50), 
+	Officers			Text (50), 
+	Men			Text (50), 
+	Astrins			Text (50), 
+	Bergstromms			Text (50), 
+	MRLs			Text (50), 
+	RDMs			Text (50), 
+	SHIPS			Text (50), 
+	FIGHTERS			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-LISquads;
+CREATE TABLE Arm-LISquads
+ (
+	Sqd-Veh			Text (50), 
+	Sqd-Men			Long Integer (4), 
+	Sqd-ID			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-Makeup;
+CREATE TABLE Arm-Makeup
+ (
+	BRI			Text (50), 
+	REG			Text (50), 
+	BATT			Text (50), 
+	SEC			Text (50), 
+	SQU			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-Mer;
+CREATE TABLE Arm-Mer
+ (
+	Mainworld			Text (50), 
+	Hex			Text (50), 
+	WTN			Text (50), 
+	RawBEs			Text (50), 
+	BAD?			Text (50), 
+	GBM			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-MerAir;
+CREATE TABLE Arm-MerAir
+ (
+	Title			Text (50), 
+	Rank			Text (50), 
+	Cr/Mnth			Text (50), 
+	Shares			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-MerGro;
+CREATE TABLE Arm-MerGro
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-MerScale;
+CREATE TABLE Arm-MerScale
+ (
+	SIZE			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-MerSpa;
+CREATE TABLE Arm-MerSpa
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-RIB;
+CREATE TABLE Arm-RIB
+ (
+	Battalion			Text (50), 
+	Batt-Men			Text (50), 
+	Company			Text (50), 
+	Com-Men			Text (50), 
+	Section			Text (50), 
+	Sec-Men			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-RISquads;
+CREATE TABLE Arm-RISquads
+ (
+	Man			Long Integer (4), 
+	Armour			Text (50), 
+	ID			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-SpiBEs;
+CREATE TABLE Arm-SpiBEs
+ (
+	Mainworld			Text (50), 
+	TLM			Text (50), 
+	PRH			Text (50), 
+	UWTN			Text (50), 
+	PortMod			Text (50), 
+	PopMod			Text (50), 
+	B			Text (50), 
+	WTN			Text (50), 
+	BEs			Text (50), 
+	BEMs			Text (50), 
+	GBM			Text (50), 
+	NBM			Text (50), 
+	Imp			Text (50), 
+	Local			Text (50), 
+	GCr			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-SpiCount;
+CREATE TABLE Arm-SpiCount
+ (
+	Hex			Text (50), 
+	Sub			Text (50), 
+	Mainworld			Text (50), 
+	Allegiance			Text (50), 
+	TAS			Text (50), 
+	StarPort			Text (50), 
+	Dia			Text (50), 
+	Gravity			Text (50), 
+	Atmos			Text (50), 
+	H%			Text (50), 
+	Climate			Text (50), 
+	Pop			Text (50), 
+	Gov			Text (50), 
+	CR			Text (50), 
+	TL			Text (50), 
+	WTN			Text (50), 
+	Trade			Text (50), 
+	Primary			Text (50), 
+	Secondary			Text (50), 
+	Tertuary			Text (50), 
+	GGs			Text (50), 
+	PBs			Text (50), 
+	Orbit			Text (50), 
+	Moons			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-SpiMerc;
+CREATE TABLE Arm-SpiMerc
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field14			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Arm-TS;
+CREATE TABLE Arm-TS
+ (
+	Type			Text (50), 
+	TS			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CB-ColCount;
+CREATE TABLE CB-ColCount
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CB-Colours;
+CREATE TABLE CB-Colours
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CB-Maps;
+CREATE TABLE CB-Maps
+ (
+	ARMY			Text (50), 
+	HARDWARE			Text (50), 
+	IMPERIUM			Text (50), 
+	MARINE			Text (50), 
+	MERCHANT			Text (50), 
+	NAVY			Text (50), 
+	OTHER			Text (50), 
+	SCOUT			Text (50), 
+	SKY-RIG			Text (50), 
+	SPINWARD			Text (50), 
+	SOLOMANI			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CrewAccomodation;
+CREATE TABLE CrewAccomodation
+ (
+	TL			Long Integer (4), 
+	Type			Text (50), 
+	Capacity			Long Integer (4), 
+	Mass			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CrewSpace;
+CREATE TABLE CrewSpace
+ (
+	TL			Long Integer (4), 
+	Seated			Double (8), 
+	Standing			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-AirPlanes;
+CREATE TABLE CW-AirPlanes
+ (
+	ID			Long Integer (4), 
+	AirPlane			Text (50), 
+	Cost			Text (50), 
+	Weight			Text (50), 
+	Max Load			Text (50), 
+	Spaces F/W			Text (50), 
+	Wing DP			Text (50), 
+	HC			Text (50), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-AirShips;
+CREATE TABLE CW-AirShips
+ (
+	ID			Long Integer (4), 
+	AirShip			Text (50), 
+	Price			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max Wt			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Armour $/Wt			Text (50), 
+	Cntrl DP			Long Integer (4), 
+	Prop DP			Long Integer (4), 
+	Env DP			Long Integer (4), 
+	HC			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Armour;
+CREATE TABLE CW-Armour
+ (
+	ID			Long Integer (4), 
+	Armour Type			Text (50), 
+	Cost			Double (8), 
+	Weight			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Artillery;
+CREATE TABLE CW-Artillery
+ (
+	ID			Long Integer (4), 
+	Weapon			Text (50), 
+	Abbrev			Text (50), 
+	Burst			Text (50), 
+	ToHit			Long Integer (4), 
+	DAM			Text (50), 
+	DP			Long Integer (4), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Crew			Long Integer (4), 
+	Shots			Text (50), 
+	Space			Long Integer (4), 
+	CPS			Long Integer (4), 
+	WPS			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Bikes;
+CREATE TABLE CW-Bikes
+ (
+	ID			Long Integer (4), 
+	Bike Type			Text (50), 
+	Cost			Text (50), 
+	Weight			Text (50), 
+	Max Wt			Text (50), 
+	Spaces			Text (50), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-BoatPropellors;
+CREATE TABLE CW-BoatPropellors
+ (
+	ID			Long Integer (4), 
+	Propellor by Plant			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	DP			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Boats;
+CREATE TABLE CW-Boats
+ (
+	ID			Long Integer (4), 
+	Boat Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max Wgt			Long Integer (4), 
+	Spaces			Text (50), 
+	Armour			Text (50), 
+	HC			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Buses;
+CREATE TABLE CW-Buses
+ (
+	ID			Long Integer (4), 
+	Bus Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Load			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Cabs;
+CREATE TABLE CW-Cabs
+ (
+	ID			Long Integer (4), 
+	Cab Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max Wgt			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Carriers;
+CREATE TABLE CW-Carriers
+ (
+	ID			Long Integer (4), 
+	Carrier Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Cars;
+CREATE TABLE CW-Cars
+ (
+	ID			Long Integer (4), 
+	Car Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max Wt			Long Integer (4), 
+	Spaces			Text (50), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Defence;
+CREATE TABLE CW-Defence
+ (
+	ID			Long Integer (4), 
+	Defence			Text (50), 
+	Cost/Pt			Text (50), 
+	Weight/Pt			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Design;
+CREATE TABLE CW-Design
+ (
+	ID			Long Integer (4), 
+	Item			Text (50), 
+	Cost			Text (50), 
+	Total Cost			Text (50), 
+	Space			Text (50), 
+	Spaces Left			Text (50), 
+	Weight			Text (50), 
+	Total Weight			Text (50), 
+	Notes			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-GasPlant;
+CREATE TABLE CW-GasPlant
+ (
+	ID			Long Integer (4), 
+	Gas Engine CID			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	DP			Long Integer (4), 
+	Power			Long Integer (4), 
+	Max Load			Long Integer (4), 
+	Base MPG			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-GasTank;
+CREATE TABLE CW-GasTank
+ (
+	ID			Long Integer (4), 
+	Tank			Text (50), 
+	DP			Long Integer (4), 
+	Wt/Gal			Long Integer (4), 
+	Cost/Gal			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Helicopters;
+CREATE TABLE CW-Helicopters
+ (
+	ID			Long Integer (4), 
+	Helicopter Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Text (50), 
+	HC			Long Integer (4), 
+	Rotor			DateTime (Short) (8), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Hitches;
+CREATE TABLE CW-Hitches
+ (
+	ID			Long Integer (4), 
+	Hitch			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max			Long Integer (4), 
+	DP			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Hovers;
+CREATE TABLE CW-Hovers
+ (
+	ID			Long Integer (4), 
+	Hovercraft Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max Wgt			Long Integer (4), 
+	Spaces			Text (50), 
+	Armour			Text (50), 
+	Fan DP			Long Integer (4), 
+	HC			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Info;
+CREATE TABLE CW-Info
+ (
+	ID			Long Integer (4), 
+	Name			Text (50), 
+	Size			Text (50), 
+	Weight			Text (50), 
+	Cost			Text (50), 
+	Chassis			Text (50), 
+	Suspension			Text (50), 
+	HC			Text (50), 
+	Acc			Text (50), 
+	Power/MPG			Text (50), 
+	Cruise			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-JetEngine;
+CREATE TABLE CW-JetEngine
+ (
+	ID			Long Integer (4), 
+	JetEngine			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	DP			Long Integer (4), 
+	PF			Long Integer (4), 
+	MPG			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-JetPlane;
+CREATE TABLE CW-JetPlane
+ (
+	ID			Long Integer (4), 
+	JetPlane			Text (50), 
+	Cost			Text (50), 
+	Weight			Text (50), 
+	Max Load			Text (50), 
+	Spaces F/W			Text (50), 
+	Wing DP			Text (50), 
+	HC			Text (50), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-MicroPlane;
+CREATE TABLE CW-MicroPlane
+ (
+	ID			Long Integer (4), 
+	MicroPlane			Text (50), 
+	Cost			Text (50), 
+	Weight			Text (50), 
+	Max Load			Text (50), 
+	Spaces F/W			Text (50), 
+	Wing DP			Text (50), 
+	HC			Text (50), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Modification;
+CREATE TABLE CW-Modification
+ (
+	ID			Long Integer (4), 
+	Modification			Text (50), 
+	Cost			Text (50), 
+	Weight			Text (50), 
+	Notes			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-PowerPlant;
+CREATE TABLE CW-PowerPlant
+ (
+	ID			Long Integer (4), 
+	Plant			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	DP			Long Integer (4), 
+	Max Load			Long Integer (4), 
+	PF			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Propellors;
+CREATE TABLE CW-Propellors
+ (
+	ID			Long Integer (4), 
+	Propellors			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	DP			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Skirts;
+CREATE TABLE CW-Skirts
+ (
+	ID			Long Integer (4), 
+	Skirt			Text (50), 
+	Standard $/Wt/DP			Text (50), 
+	Heavy $/Wt/DP			Text (50), 
+	X-Heavy $/Wt/DP			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Suspension;
+CREATE TABLE CW-Suspension
+ (
+	ID			Long Integer (4), 
+	Suspension			Text (50), 
+	CarCost			Double (8), 
+	CarHC			Long Integer (4), 
+	Trike / Bike Cost			Long Integer (4), 
+	Trike /  Bike HC			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Tanks;
+CREATE TABLE CW-Tanks
+ (
+	ID			Long Integer (4), 
+	Tank Body			Text (50), 
+	Cost			Text (50), 
+	Weight			Long Integer (4), 
+	Max Wgt			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	HC			Long Integer (4), 
+	Wheels			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Tractors;
+CREATE TABLE CW-Tractors
+ (
+	ID			Long Integer (4), 
+	Tractor Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Load			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Trailers;
+CREATE TABLE CW-Trailers
+ (
+	ID			Long Integer (4), 
+	Trailer Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Spaces			Text (50), 
+	Load			Text (50), 
+	Tongue DP			Long Integer (4), 
+	Armour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Trikes;
+CREATE TABLE CW-Trikes
+ (
+	ID			Long Integer (4), 
+	Trike Type			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Max Wgt			Long Integer (4), 
+	Spaces			Long Integer (4), 
+	Armour			DateTime (Short) (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Tyres;
+CREATE TABLE CW-Tyres
+ (
+	ID			Long Integer (4), 
+	Tyre			Text (50), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	DP			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Vehicle;
+CREATE TABLE CW-Vehicle
+ (
+	ID			Long Integer (4), 
+	Frame			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-Weapon;
+CREATE TABLE CW-Weapon
+ (
+	ID			Long Integer (4), 
+	Type			Text (50), 
+	Ammo			Text (50), 
+	Weapon			Text (50), 
+	Abb2			Text (50), 
+	Abb1			Text (50), 
+	Effect			Text (50), 
+	ToHit			Long Integer (4), 
+	Dam			Text (50), 
+	DP			Long Integer (4), 
+	Cost			Long Integer (4), 
+	Weight			Long Integer (4), 
+	Space			Long Integer (4), 
+	Shots			Long Integer (4), 
+	CPS			Long Integer (4), 
+	Loaded $			Long Integer (4), 
+	Loaded Wt			Long Integer (4), 
+	Mag $			Long Integer (4), 
+	Mag Wt			Long Integer (4), 
+	WPS			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE CW-WingMods;
+CREATE TABLE CW-WingMods
+ (
+	ID			Long Integer (4), 
+	Wing Mods			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE GT-Calendar;
+CREATE TABLE GT-Calendar
+ (
+	WEEK			Text (50), 
+	Wonday			Text (50), 
+	Tuday			Text (50), 
+	Thirday			Text (50), 
+	Forday			Text (50), 
+	Fiday			Text (50), 
+	Siday			Text (50), 
+	Senday			Text (50), 
+	-			Text (50), 
+	RACE			Text (50), 
+	EQUALS			Text (50), 
+	TRANSLATION			Text (50), 
+	IMPERIAL			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE GT-Jobs;
+CREATE TABLE GT-Jobs
+ (
+	Status			Text (50), 
+	Job			Text (50), 
+	PR1			Text (50), 
+	PR2			Text (50), 
+	PR3			Text (50), 
+	PR4			Text (50), 
+	CR/MTH			Text (50), 
+	EXTRA			Text (50), 
+	SUCCESS			Text (50), 
+	CRIT			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE GT-JumpMasking;
+CREATE TABLE GT-JumpMasking
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Armour;
+CREATE TABLE Har-Armour
+ (
+	NAME			Text (50), 
+	DT=+			Text (50), 
+	DR			Text (50), 
+	HP			Text (50), 
+	PSig			Text (50), 
+	AScan			Text (50), 
+	CRAFT			Text (50), 
+	TL			Text (50), 
+	TOP			Text (50), 
+	ACC			Text (50), 
+	PASSENGERS			Text (50), 
+	CARGO			Text (50), 
+	CREW			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Cra;
+CREATE TABLE Har-Cra
+ (
+	CODE			Text (50), 
+	CLASS			Text (50), 
+	DESC			Text (50), 
+	DT=+			Text (50), 
+	DR			Text (50), 
+	HP			Text (50), 
+	P			Text (50), 
+	A			Text (50), 
+	C			Text (50), 
+	J			Text (50), 
+	G			Text (50), 
+	CR			Text (50), 
+	PA			Text (50), 
+	CA			Text (50), 
+	W1			Text (50), 
+	W2			Text (50), 
+	W3			Text (50), 
+	TL			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-EquipmentCW;
+CREATE TABLE Har-EquipmentCW
+ (
+	Field1			Text (255), 
+	Field2			Text (255), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Equ-MT;
+CREATE TABLE Har-Equ-MT
+ (
+	EQUIP			Text (50), 
+	TTL			Text (50), 
+	VOL			Text (50), 
+	MASS			Text (50), 
+	COST			Text (50), 
+	NOTE			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Equ-MTE;
+CREATE TABLE Har-Equ-MTE
+ (
+	EQUIP			Text (50), 
+	GTL			Text (50), 
+	COST			Text (50), 
+	MASS			Text (50), 
+	VOL			Text (50), 
+	Field6			Long Integer (4), 
+	Field7			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-HarOLD;
+CREATE TABLE Har-HarOLD
+ (
+	Field1			Text (255), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-InfoMTVehicle;
+CREATE TABLE Har-InfoMTVehicle
+ (
+	CraftID			Text (50), 
+	Accom			Text (50), 
+	Field6			Text (50), 
+	Field8			Text (50), 
+	Field12			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiBuild;
+CREATE TABLE Har-ShiBuild
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiCombat;
+CREATE TABLE Har-ShiCombat
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiCT;
+CREATE TABLE Har-ShiCT
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field26			Text (50), 
+	Field27			Text (50), 
+	Field28			Text (50), 
+	Field29			Text (50), 
+	Field30			Text (50), 
+	Field31			Text (50), 
+	Field32			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiCut-Frames;
+CREATE TABLE Har-ShiCut-Frames
+ (
+	Field1			Text (50), 
+	PLANS			Long Integer (4), 
+	TITLE			Text (50), 
+	Career-Norm			Text (50), 
+	HP			Long Integer (4), 
+	PAYLOAD			Text (50), 
+	LWT			Long Integer (4), 
+	CARGO			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiCut-Modules;
+CREATE TABLE Har-ShiCut-Modules
+ (
+	Module			Text (50), 
+	Payload			Long Integer (4), 
+	LWgt			Long Integer (4), 
+	Cargo DT			Long Integer (4), 
+	HP			Text (50), 
+	Occ			Long Integer (4), 
+	Plans			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiCutter;
+CREATE TABLE Har-ShiCutter
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiCutters;
+CREATE TABLE Har-ShiCutters
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiGT;
+CREATE TABLE Har-ShiGT
+ (
+	CLASS			Text (50), 
+	TYPE			Text (50), 
+	TL			Text (50), 
+	DT=+			Text (50), 
+	SL			Text (50), 
+	DR			Text (50), 
+	BRIDGE			Text (50), 
+	M-D			Text (50), 
+	J-D			Text (50), 
+	DOCK			Text (50), 
+	VEH			Text (50), 
+	LOW			Text (50), 
+	ROOMS			Text (50), 
+	PRO			Text (50), 
+	TRTS			Text (50), 
+	CARGO			Text (50), 
+	EMASS			Text (50), 
+	LMASS			Text (50), 
+	MCr			Text (50), 
+	HP			Text (50), 
+	G			Text (50), 
+	J			Text (50), 
+	SPD			Text (50), 
+	FUEL			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Shi-Kinunir-Class;
+CREATE TABLE Har-Shi-Kinunir-Class
+ (
+	Hull ID			Text (50), 
+	NAME			Text (50), 
+	LAID DOWN			Text (50), 
+	1ST FLIGHT			Text (50), 
+	BUILDER			Text (50), 
+	FATE			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Shi-Kinunir-Crew;
+CREATE TABLE Har-Shi-Kinunir-Crew
+ (
+	ID1			Long Integer (4), 
+	ID			Long Integer (4), 
+	Rank			Text (50), 
+	Job			Text (50), 
+	Age			Long Integer (4), 
+	Terms			Long Integer (4), 
+	Skills			Long Integer (4), 
+	Duty			Text (50), 
+	Quarters			Text (50), 
+	Battle			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiNavy;
+CREATE TABLE Har-ShiNavy
+ (
+	ID			Text (50), 
+	Type			Text (50), 
+	TL			Text (50), 
+	MCr			Text (50), 
+	DTons			Text (50), 
+	Config			Text (50), 
+	MTArmour			Text (50), 
+	Unladen			Text (50), 
+	Laden			Text (50), 
+	G			Text (50), 
+	J			Text (50), 
+	NOE			Text (50), 
+	CRUISE			Text (50), 
+	TOP			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field26			Text (50), 
+	Field27			Text (50), 
+	Field28			Text (50), 
+	Field29			Text (50), 
+	Field30			Text (50), 
+	Field31			Text (50), 
+	Field32			Text (50), 
+	Field33			Text (50), 
+	Field34			Text (50), 
+	Field35			Text (50), 
+	Field36			Text (50), 
+	Field37			Text (50), 
+	Field38			Text (50), 
+	Field39			Text (50), 
+	Field40			Text (50), 
+	Field41			Text (50), 
+	Field42			Text (50), 
+	Field43			Text (50), 
+	Field44			Text (50), 
+	Field45			Text (50), 
+	Field46			Text (50), 
+	Field47			Text (50), 
+	Field48			Text (50), 
+	Field49			Text (50), 
+	Field50			Text (50), 
+	Field51			Text (50), 
+	Endurance			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiOLD;
+CREATE TABLE Har-ShiOLD
+ (
+	Field1			Text (255), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiSky;
+CREATE TABLE Har-ShiSky
+ (
+	DESC			Text (50), 
+	Payload			Text (50), 
+	LWt			Text (50), 
+	Cargo-DT			Text (50), 
+	TL			Text (50), 
+	V			Text (50), 
+	M			Text (50), 
+	MCr			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-ShiZhodani;
+CREATE TABLE Har-ShiZhodani
+ (
+	Field1			Text (255), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field26			Text (50), 
+	Field27			Text (50), 
+	Field28			Text (50), 
+	Field29			Text (50), 
+	Field30			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-StaCrew;
+CREATE TABLE Har-StaCrew
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field5			Text (50), 
+	Field6			Double (8), 
+	Field8			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-StaParts;
+CREATE TABLE Har-StaParts
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Long Integer (4), 
+	Field5			Long Integer (4), 
+	Field6			Text (50), 
+	Field7			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-StaPorts;
+CREATE TABLE Har-StaPorts
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-StaWorldInfo;
+CREATE TABLE Har-StaWorldInfo
+ (
+	DEST			Text (50), 
+	HEX			Text (50), 
+	ZONE			Text (50), 
+	X-ROUTE?			Text (50), 
+	TL			Text (50), 
+	PR			Text (50), 
+	SP			Text (50), 
+	CR			Text (50), 
+	REMARKS			Text (50), 
+	WTN			Text (50), 
+	G			Text (50), 
+	SIZE			Text (50), 
+	CPA			Text (50), 
+	CAvg			Text (50), 
+	CSystem			Text (50), 
+	CTransient			Text (50), 
+	PPA			Text (50), 
+	PAvg			Text (50), 
+	PSystem			Text (50), 
+	PTransient			Text (50), 
+	FREE			Text (50), 
+	SHIPS			Text (50), 
+	BUY			Text (50), 
+	SELL			Text (50), 
+	BLANK			Text (50), 
+	PERCENTAGE			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-VarShi;
+CREATE TABLE Har-VarShi
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Vehicles;
+CREATE TABLE Har-Vehicles
+ (
+	PASS			Text (50), 
+	TYPE			Text (50), 
+	ID			Text (50), 
+	DT			Text (50), 
+	(=+)			Text (50), 
+	DR			Text (50), 
+	HP			Text (50), 
+	PAS			Text (50), 
+	ACT			Text (50), 
+	CRAFT			Text (50), 
+	TL			Text (50), 
+	MAX			Text (50), 
+	ACC			Text (50), 
+	CREW			Text (50), 
+	CARGO			Text (50), 
+	W1			Text (50), 
+	W2			Text (50), 
+	W3			Text (50), 
+	NAME			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Har-Wea;
+CREATE TABLE Har-Wea
+ (
+	WEAPON			Text (255), 
+	MALF			Text (50), 
+	TYPE			Text (50), 
+	DAM			Text (50), 
+	SS			Text (50), 
+	ACC			Text (50), 
+	1/2D			Text (50), 
+	MAX			Text (50), 
+	WT			Text (50), 
+	ROF			Text (50), 
+	SHOTS			Text (50), 
+	ST			Text (50), 
+	RCL			Text (50), 
+	CR			Text (50), 
+	LC			Text (50), 
+	HLD			Text (50), 
+	TL			Text (50), 
+	AWT			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-AslDarkNebula;
+CREATE TABLE Imp-AslDarkNebula
+ (
+	NAME			Text (50), 
+	HEX			Text (50), 
+	SUB			Text (50), 
+	PORT			Text (50), 
+	SIZE			Text (50), 
+	ATMOS			Text (50), 
+	HYDRO			Text (50), 
+	POP			Text (50), 
+	GOVT			Text (50), 
+	TL			Text (50), 
+	TAS			Text (50), 
+	TRADE			Text (50), 
+	PMULT			Text (50), 
+	GGs			Text (50), 
+	PBs			Text (50), 
+	ALLEG			Text (50), 
+	PRIM			Text (50), 
+	SECON			Text (50), 
+	TERT			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	LL			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-AslGear;
+CREATE TABLE Imp-AslGear
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field26			Text (50), 
+	Field27			Text (50), 
+	Field28			Text (50), 
+	Field29			Text (50), 
+	Field30			Text (50), 
+	Field31			Text (50), 
+	Field32			Text (50), 
+	Field33			Text (50), 
+	Field34			Text (50), 
+	Field35			Text (50), 
+	Field36			Text (50), 
+	Field37			Text (50), 
+	Field38			Text (50), 
+	Field39			Text (50), 
+	Field40			Text (50), 
+	Field41			Text (50), 
+	Field42			Text (50), 
+	Field43			Text (50), 
+	Field44			Text (50), 
+	Field45			Text (50), 
+	Field46			Text (50), 
+	Field47			Text (50), 
+	Field48			Text (50), 
+	Field49			Text (50), 
+	Field50			Text (50), 
+	Field51			Text (50), 
+	Field52			Text (50), 
+	Field53			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-AslKusyu;
+CREATE TABLE Imp-AslKusyu
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field12			Text (50), 
+	Field13			Long Integer (4), 
+	Field14			Long Integer (4), 
+	Field15			Long Integer (4), 
+	Field16			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-AslLang;
+CREATE TABLE Imp-AslLang
+ (
+	Field1			Long Integer (4), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field18			Long Integer (4), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Long Integer (4), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-AslSounds;
+CREATE TABLE Imp-AslSounds
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-DroLang;
+CREATE TABLE Imp-DroLang
+ (
+	Field1			Long Integer (4), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field18			Long Integer (4), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Long Integer (4), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-DroSounds;
+CREATE TABLE Imp-DroSounds
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-Factions;
+CREATE TABLE Imp-Factions
+ (
+	POLITIC			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Long Integer (4), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-Language;
+CREATE TABLE Imp-Language
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-Sectors;
+CREATE TABLE Imp-Sectors
+ (
+	Y			Long Integer (4), 
+	-8			Text (50), 
+	-7			Text (50), 
+	-6			Text (50), 
+	-5			Text (50), 
+	-4			Text (50), 
+	-3			Text (50), 
+	-2			Text (50), 
+	-1			Text (50), 
+	1			Text (50), 
+	2			Text (50), 
+	Field13			Long Integer (4), 
+	0			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-Timeline;
+CREATE TABLE Imp-Timeline
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field16			Text (50), 
+	Field18			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-VarLang;
+CREATE TABLE Imp-VarLang
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-VarSounds;
+CREATE TABLE Imp-VarSounds
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-VilLang;
+CREATE TABLE Imp-VilLang
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-VilSounds;
+CREATE TABLE Imp-VilSounds
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-ZhoArmy;
+CREATE TABLE Imp-ZhoArmy
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-ZhoCommando;
+CREATE TABLE Imp-ZhoCommando
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	GROUPMENT			Text (50), 
+	VEH			Text (50), 
+	SQD			Text (50), 
+	SQD-VEH			Text (50), 
+	DET			Text (50), 
+	GRP			Text (50), 
+	TRANSPORT			Text (50), 
+	VEHICLE			Text (50), 
+	DET-VEH			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-ZhoLang;
+CREATE TABLE Imp-ZhoLang
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field23			Text (50), 
+	Field24			Text (50), 
+	Field25			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-ZhoSounds;
+CREATE TABLE Imp-ZhoSounds
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Imp-ZhoStatus;
+CREATE TABLE Imp-ZhoStatus
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mar-MACR;
+CREATE TABLE Mar-MACR
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mar-MACRSetup;
+CREATE TABLE Mar-MACRSetup
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mar-MCC;
+CREATE TABLE Mar-MCC
+ (
+	ID			Text (50), 
+	MEN			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mar-MLR;
+CREATE TABLE Mar-MLR
+ (
+	Field1			Text (50), 
+	Field2			Long Integer (4), 
+	Field4			Text (50), 
+	Field5			Long Integer (4), 
+	Field6			Long Integer (4), 
+	Field7			Text (50), 
+	Field8			Long Integer (4), 
+	Field9			Long Integer (4), 
+	Field11			Long Integer (4), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Long Integer (4), 
+	Field15			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mer-Cargo;
+CREATE TABLE Mer-Cargo
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE MERCHANT;
+CREATE TABLE MERCHANT
+ (
+	ID			Long Integer (4), 
+	Name			Text (255), 
+	Type			Text (255), 
+	Allegiance			Text (255), 
+	Home Port			Text (255)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mer-Companies;
+CREATE TABLE Mer-Companies
+ (
+	NAME			Text (50), 
+	TYPE			Text (50), 
+	ALLEGIANCE			Text (50), 
+	HomePort			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mer-Containers;
+CREATE TABLE Mer-Containers
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mer--ShippingTerms;
+CREATE TABLE Mer--ShippingTerms
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Mer-Trade;
+CREATE TABLE Mer-Trade
+ (
+	Field1			Text (255), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (255), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Nav-Budget;
+CREATE TABLE Nav-Budget
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Nav-Command;
+CREATE TABLE Nav-Command
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Nav-Depots;
+CREATE TABLE Nav-Depots
+ (
+	Hex			Long Integer (4), 
+	UWP			Text (50), 
+	Rem			Text (50), 
+	Alleg			Text (50), 
+	GG			Text (255), 
+	Mothballl			Text (50), 
+	Training			Text (50), 
+	Security			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Nav-Fleets;
+CREATE TABLE Nav-Fleets
+ (
+	y			Text (50), 
+	x-4			Text (50), 
+	aeim			Long Integer (4), 
+	bfjn			Long Integer (4), 
+	cgko			Long Integer (4), 
+	dhlp			Long Integer (4), 
+	x-3			Text (50), 
+	Field7			Long Integer (4), 
+	Field8			Long Integer (4), 
+	Field9			Long Integer (4), 
+	Field11			Long Integer (4), 
+	x-2			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	x-1			Text (50), 
+	Field18			Long Integer (4), 
+	Field19			Long Integer (4), 
+	Field20			Long Integer (4), 
+	Field21			Long Integer (4), 
+	x0			Text (50), 
+	Field23			Long Integer (4), 
+	Field24			Long Integer (4), 
+	Field25			Text (50), 
+	Field26			Long Integer (4), 
+	Field27			Text (50), 
+	Field28			Long Integer (4), 
+	Field29			Long Integer (4), 
+	Field30			Long Integer (4), 
+	Field31			Long Integer (4), 
+	Field32			Text (50), 
+	Field33			Long Integer (4), 
+	Field34			Long Integer (4), 
+	Field35			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Nav-SDBs;
+CREATE TABLE Nav-SDBs
+ (
+	TL			Text (50), 
+	PR7			Long Integer (4), 
+	PR8			Long Integer (4), 
+	PR9			Long Integer (4), 
+	PR10			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE NAVY;
+CREATE TABLE NAVY
+ (
+	HEX			Text (50), 
+	NAME			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE OTHER;
+CREATE TABLE OTHER
+ (
+	HEX			Text (50), 
+	NAME			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-OrbitSetup;
+CREATE TABLE Sco-OrbitSetup
+ (
+	NOTE			Text (50), 
+	INFO1			Text (50), 
+	INFO2			Text (50), 
+	INFO3			Text (50), 
+	INFO4			Text (50), 
+	INFO5			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-Setup;
+CREATE TABLE Sco-Setup
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-StarAge;
+CREATE TABLE Sco-StarAge
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-StarOrbit;
+CREATE TABLE Sco-StarOrbit
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-StarType;
+CREATE TABLE Sco-StarType
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-StellarDetails;
+CREATE TABLE Sco-StellarDetails
+ (
+	CLASS			Text (50), 
+	TYPE			Text (50), 
+	TEMP			Text (50), 
+	LUMINOSITY			Text (50), 
+	MASS			Text (50), 
+	RADIUS			Text (50), 
+	LIFESPAN			Text (50), 
+	COLOUR			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-Tech;
+CREATE TABLE Sco-Tech
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SCOUT;
+CREATE TABLE SCOUT
+ (
+	HEX			Text (50), 
+	NAME			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sco-WorldOrbit;
+CREATE TABLE Sco-WorldOrbit
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Long Integer (4), 
+	Field5			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-1RegPort;
+CREATE TABLE Sky-1RegPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-2RouPort;
+CREATE TABLE Sky-2RouPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-3FerPort;
+CREATE TABLE Sky-3FerPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-4BouPort;
+CREATE TABLE Sky-4BouPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-5EfaPort;
+CREATE TABLE Sky-5EfaPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-6LysPort;
+CREATE TABLE Sky-6LysPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-7JewPort;
+CREATE TABLE Sky-7JewPort
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Balances;
+CREATE TABLE Sky-Balances
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field11			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-BouCrew;
+CREATE TABLE Sky-BouCrew
+ (
+	Where			Text (50), 
+	Who			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-BouFlights;
+CREATE TABLE Sky-BouFlights
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Carry;
+CREATE TABLE Sky-Carry
+ (
+	WHEN			Text (50), 
+	WHERE			Text (50), 
+	SPARE			Text (50), 
+	A-BOAT			Text (50), 
+	B-BOAT			Text (50), 
+	C-BOAT			Text (50), 
+	E-BOAT			Text (50), 
+	F-BOAT			Text (50), 
+	D-BOAT			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Crew;
+CREATE TABLE Sky-Crew
+ (
+	Title			Text (50), 
+	Status			Text (50), 
+	Rank			Text (50), 
+	Name			Text (50), 
+	Position			Text (50), 
+	Birthworld			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Cutters;
+CREATE TABLE Sky-Cutters
+ (
+	WEEK			Text (50), 
+	WHERE			Text (50), 
+	OUR-BOAT			Text (50), 
+	A-BOAT			Text (50), 
+	B-BOAT			Text (50), 
+	C-BOAT			Text (50), 
+	D-BOAT			Text (50), 
+	E-BOAT			Text (50), 
+	F-BOAT			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-EfaCrew;
+CREATE TABLE Sky-EfaCrew
+ (
+	REGARDING			Text (50), 
+	NAME			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-EfaFlights;
+CREATE TABLE Sky-EfaFlights
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-FerCrew;
+CREATE TABLE Sky-FerCrew
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-FerFlights;
+CREATE TABLE Sky-FerFlights
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Hold;
+CREATE TABLE Sky-Hold
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-JewCrew;
+CREATE TABLE Sky-JewCrew
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-JewFlights;
+CREATE TABLE Sky-JewFlights
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-LysCrew;
+CREATE TABLE Sky-LysCrew
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-LysFlights;
+CREATE TABLE Sky-LysFlights
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Neighbours;
+CREATE TABLE Sky-Neighbours
+ (
+	WORLD			Text (50), 
+	HEX			Text (50), 
+	NUMBER			Long Integer (4), 
+	TAS			Text (50), 
+	X-ROUTE			Text (50), 
+	TL			Text (50), 
+	PR			Text (50), 
+	SP			Text (50), 
+	CR			Text (50), 
+	TRADE			Text (50), 
+	HI			Text (50), 
+	LO			Text (50), 
+	SPs			Text (50), 
+	GIC			Text (50), 
+	RSM			Text (50), 
+	RAD			Text (50), 
+	HVY			Text (50), 
+	IND			Text (50), 
+	LGT			Text (50), 
+	ORG			Text (50), 
+	PLU			Text (50), 
+	TOL			Text (50), 
+	SOL			Text (50), 
+	TRA			Text (50), 
+	AGG			Text (50), 
+	PRA			Text (50), 
+	INN			Text (50), 
+	PRO			Text (50), 
+	WTN			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Passengers;
+CREATE TABLE Sky-Passengers
+ (
+	WHEN			Text (50), 
+	WHO			Text (50), 
+	WHERE			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-RegCrew;
+CREATE TABLE Sky-RegCrew
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-RegFlights;
+CREATE TABLE Sky-RegFlights
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-RouCrew;
+CREATE TABLE Sky-RouCrew
+ (
+	Field1			Text (50), 
+	Field2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-RouFlights;
+CREATE TABLE Sky-RouFlights
+ (
+	Field1			Text (50), 
+	Field2			Long Integer (4), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Long Integer (4), 
+	Field6			Long Integer (4), 
+	Field7			Long Integer (4), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field10			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-RouteInfo;
+CREATE TABLE Sky-RouteInfo
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sky-Timeline;
+CREATE TABLE Sky-Timeline
+ (
+	Week			Text (50), 
+	Location			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sol-Counters;
+CREATE TABLE Sol-Counters
+ (
+	Field1			Text (50), 
+	Field2			Text (50), 
+	Field3			Text (50), 
+	Field4			Text (50), 
+	Field5			Text (50), 
+	Field6			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field12			Text (50), 
+	Field13			Text (50), 
+	Field14			Text (50), 
+	Field15			Text (50), 
+	Field16			Text (50), 
+	Field17			Text (50), 
+	Field18			Text (50), 
+	Field19			Text (50), 
+	Field20			Text (50), 
+	Field21			Text (50), 
+	Field22			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SolomaniRim;
+CREATE TABLE SolomaniRim
+ (
+	HEX			Text (255), 
+	S			Text (255), 
+	NAME			Text (255), 
+	ALL			Text (255), 
+	TAS			Text (255), 
+	SP			Text (255), 
+	DIA			Text (255), 
+	G			Text (255), 
+	ATM			Text (255), 
+	H%			Text (255), 
+	CLIMATE			Text (255), 
+	POP			Text (255), 
+	GOV			Text (255), 
+	CR			Text (255), 
+	TL			Text (255), 
+	WTN			Text (255), 
+	PRI			Text (255), 
+	COM			Text (255), 
+	GG			Text (255), 
+	PB			Text (255), 
+	AU			Text (255), 
+	MN			Text (255)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SolPorts;
+CREATE TABLE SolPorts
+ (
+	HEX			Text (50), 
+	NAME			Text (50), 
+	HiPorts			Long Integer (4), 
+	LoPorts			Long Integer (4), 
+	SpacePorts			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SolResources;
+CREATE TABLE SolResources
+ (
+	ORG			Text (50), 
+	GIC			Text (50), 
+	RSM			Text (50), 
+	RAD			Text (50), 
+	HVY			Text (50), 
+	IND			Text (50), 
+	LGT			Text (50), 
+	HEX			Text (50), 
+	NAME			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SolSociety;
+CREATE TABLE SolSociety
+ (
+	PRO			Text (50), 
+	NAME			Text (50), 
+	PLU			Text (50), 
+	TOL			Text (50), 
+	SOL			Text (50), 
+	TRA			Text (50), 
+	AGG			Text (50), 
+	PRA			Text (50), 
+	INN			Text (50), 
+	HEX			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sol-Terra&Politics;
+CREATE TABLE Sol-Terra&Politics
+ (
+	Planet			Text (50), 
+	Moon			Long Integer (4), 
+	Name			Text (50), 
+	UWP			Text (50), 
+	Note			Text (50), 
+	Field7			Text (50), 
+	Field8			Text (50), 
+	Field9			Text (50), 
+	Field11			Text (50), 
+	Field10			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Spi-Counters;
+CREATE TABLE Spi-Counters
+ (
+	HEX			Text (50), 
+	SUB			Text (50), 
+	WORLD			Text (50), 
+	ALL			Text (50), 
+	TAS			Text (50), 
+	SP			Text (50), 
+	DIA			Text (50), 
+	G			Text (50), 
+	ATM			Text (50), 
+	CLIMATE			Text (50), 
+	POP			Text (50), 
+	GOV			Text (50), 
+	CR			Text (50), 
+	TL			Text (50), 
+	WTN			Text (50), 
+	TRADE			Text (50), 
+	PRI			Text (50), 
+	COM			Text (50), 
+	TER			Text (50), 
+	GG			Text (50), 
+	PB			Text (50), 
+	AU			Text (50), 
+	MN			Text (50), 
+	H%			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SpinwardMarches;
+CREATE TABLE SpinwardMarches
+ (
+	HEX			Text (50), 
+	SUB			Text (50), 
+	NAME			Text (50), 
+	ALL			Text (50), 
+	TAS			Text (50), 
+	SP			Text (50), 
+	DIA			Text (50), 
+	G			Text (50), 
+	ATMOS			Text (50), 
+	CLIMATE			Text (50), 
+	HYDRO			Text (50), 
+	POP			Text (50), 
+	GOV			Text (50), 
+	CR			Text (50), 
+	TL			Text (50), 
+	WTN			Text (50), 
+	TRADE			Text (50), 
+	PRIM			Text (50), 
+	SEC			Text (50), 
+	GGS			Text (50), 
+	PBS			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SpiPorts;
+CREATE TABLE SpiPorts
+ (
+	HEX			Text (50), 
+	NAME			Text (50), 
+	HiPorts			Long Integer (4), 
+	LoPorts			Long Integer (4), 
+	SpacePorts			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SpiResources;
+CREATE TABLE SpiResources
+ (
+	NAME			Text (50), 
+	ORG			Text (50), 
+	GIC			Text (50), 
+	RSM			Text (50), 
+	RAD			Text (50), 
+	HVY			Text (50), 
+	IND			Text (50), 
+	LGT			Text (50), 
+	HEX			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE SpiSociety;
+CREATE TABLE SpiSociety
+ (
+	PRO			Text (50), 
+	MAINWORLD			Text (50), 
+	PLU			Text (50), 
+	TOL			Text (50), 
+	SOL			Text (50), 
+	TRA			Text (50), 
+	AGG			Text (50), 
+	PRA			Text (50), 
+	INN			Text (50), 
+	HEX			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-AirFrame;
+CREATE TABLE Str-AirFrame
+ (
+	TL			Long Integer (4), 
+	Type			Text (50), 
+	Mass			Double (8), 
+	KCr			Long Integer (4), 
+	Min Speed			Long Integer (4), 
+	Max Spd			Long Integer (4), 
+	Design Limit			Long Integer (4), 
+	G-Eff			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Armour;
+CREATE TABLE Str-Armour
+ (
+	TL			Text (50), 
+	Description			Text (50), 
+	T			Double (8), 
+	Mass			Long Integer (4), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Armour-Combine;
+CREATE TABLE Str-Armour-Combine
+ (
+	Armour-armour			Text (50), 
+	Addition			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-ArmourRatings;
+CREATE TABLE Str-ArmourRatings
+ (
+	Rating			Text (50), 
+	CM			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-AutoFire;
+CREATE TABLE Str-AutoFire
+ (
+	Rounds			Long Integer (4), 
+	Effective			Long Integer (4), 
+	Long			Long Integer (4), 
+	Extreme			Long Integer (4), 
+	Targets			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Avionics;
+CREATE TABLE Str-Avionics
+ (
+	TL			Text (50), 
+	Vol			Double (8), 
+	Cr			Long Integer (4), 
+	NOE			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Battery;
+CREATE TABLE Str-Battery
+ (
+	TL			Long Integer (4), 
+	MWs			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-BeatenZone;
+CREATE TABLE Str-BeatenZone
+ (
+	Rounds			Text (50), 
+	Sheaf Size Mult			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Controls;
+CREATE TABLE Str-Controls
+ (
+	TL			Long Integer (4), 
+	Type			Text (50), 
+	AirFrame			Text (50), 
+	MP			Long Integer (4), 
+	Mass			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-CPR-Accuracy;
+CREATE TABLE Str-CPR-Accuracy
+ (
+	Type			Text (50), 
+	1/2D			Long Integer (4), 
+	Max			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-CPR-Carriage;
+CREATE TABLE Str-CPR-Carriage
+ (
+	Type			Text (50), 
+	Mass			Double (8), 
+	Cr			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-CPR-DirectRange;
+CREATE TABLE Str-CPR-DirectRange
+ (
+	TL			Text (50), 
+	Effective			Long Integer (4), 
+	Long			Long Integer (4), 
+	Extreme			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-CPR-GunTable;
+CREATE TABLE Str-CPR-GunTable
+ (
+	Bore cm			Double (8), 
+	Crew			Text (50), 
+	aWt			Text (50), 
+	Cr			Text (50), 
+	Setup			Text (50), 
+	Mortar			Text (50), 
+	Howitzer			Text (50), 
+	Gun			Text (50), 
+	HE			Text (50), 
+	HEAP			Text (50), 
+	CBM			Text (50), 
+	ILLUMUN			Text (50), 
+	KEAP			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-CPR-Multiple;
+CREATE TABLE Str-CPR-Multiple
+ (
+	Type			Text (50), 
+	Mass			Double (8), 
+	Cr			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-CPR-Signature;
+CREATE TABLE Str-CPR-Signature
+ (
+	Bore			Text (50), 
+	DM			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Deviation;
+CREATE TABLE Str-Deviation
+ (
+	Modified Roll			Text (50), 
+	Deviation/Direction			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-DirectFire;
+CREATE TABLE Str-DirectFire
+ (
+	Range			Text (50), 
+	Roll 2D>			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Energy-RangePenMult;
+CREATE TABLE Str-Energy-RangePenMult
+ (
+	Range			Text (50), 
+	Plasma Range			Long Integer (4), 
+	Plasma Pen			Long Integer (4), 
+	Fusion Range			Double (8), 
+	Fusion Pen			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-EnergyWeapons;
+CREATE TABLE Str-EnergyWeapons
+ (
+	TL			Long Integer (4), 
+	Mass			Double (8), 
+	Output			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-FireControl-Direct;
+CREATE TABLE Str-FireControl-Direct
+ (
+	TL			Long Integer (4), 
+	Mass			Text (50), 
+	Effective			Double (8), 
+	Long			Double (8), 
+	Extreme			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-FireControl-Indirect;
+CREATE TABLE Str-FireControl-Indirect
+ (
+	TL			Long Integer (4), 
+	Mass			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-FireDirectionCentre,;
+CREATE TABLE Str-FireDirectionCentre,
+ (
+	TL			Long Integer (4), 
+	Targets			Long Integer (4), 
+	Initiative			Text (50), 
+	Mass			Double (8), 
+	MCr			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-GravSpeed;
+CREATE TABLE Str-GravSpeed
+ (
+	G			Text (50), 
+	kph			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-GuidedMissile;
+CREATE TABLE Str-GuidedMissile
+ (
+	TL			Text (50), 
+	Link			Text (50), 
+	Mass			Text (50), 
+	Cr			Text (50), 
+	DM			Long Integer (4), 
+	Range (km)			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-HEAP-Penetration;
+CREATE TABLE Str-HEAP-Penetration
+ (
+	TL			Text (50), 
+	DOWN			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Helicopter;
+CREATE TABLE Str-Helicopter
+ (
+	TL			Long Integer (4), 
+	Type			Text (50), 
+	Mass			Double (8), 
+	Payload			Double (8), 
+	Volume			Long Integer (4), 
+	Max kph			Long Integer (4), 
+	Cruise kph			Long Integer (4), 
+	NOE kph			Long Integer (4), 
+	Agility			Long Integer (4), 
+	Fuel			Long Integer (4), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-IndirectFire;
+CREATE TABLE Str-IndirectFire
+ (
+	Indirect Hits			Text (50), 
+	Contact			Text (50), 
+	Fragmentation			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-LaserHit;
+CREATE TABLE Str-LaserHit
+ (
+	Type			Text (50), 
+	DM			Long Integer (4), 
+	Targets			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-LaserPen;
+CREATE TABLE Str-LaserPen
+ (
+	Range			Text (50), 
+	TL8-12 Beam			Long Integer (4), 
+	TL8-12 Pulse			Long Integer (4), 
+	TL13+ Beam			Long Integer (4), 
+	TL13+ Pulse			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-LaserSensors;
+CREATE TABLE Str-LaserSensors
+ (
+	TL			Long Integer (4), 
+	Vol			Double (8), 
+	Cr			Long Integer (4), 
+	Roll			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-MassDrivers;
+CREATE TABLE Str-MassDrivers
+ (
+	Type			Text (50), 
+	Mult			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Melee;
+CREATE TABLE Str-Melee
+ (
+	Die Roll			Text (50), 
+	Result			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-MineFields;
+CREATE TABLE Str-MineFields
+ (
+	Type			Text (50), 
+	Regular			Long Integer (4), 
+	Scatterable			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Missile-Brain;
+CREATE TABLE Str-Missile-Brain
+ (
+	TL			Long Integer (4), 
+	Mass			Long Integer (4), 
+	DM			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Missile-TargetDesignated;
+CREATE TABLE Str-Missile-TargetDesignated
+ (
+	TL			Long Integer (4), 
+	Mass			Long Integer (4), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Missile-TargetMemory;
+CREATE TABLE Str-Missile-TargetMemory
+ (
+	TL			Text (50), 
+	Mass			DateTime (Short) (8), 
+	DM			Long Integer (4), 
+	Multiplier			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Missile-Teleguided;
+CREATE TABLE Str-Missile-Teleguided
+ (
+	TL			Long Integer (4), 
+	Mass			DateTime (Short) (8), 
+	Cr			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Morale;
+CREATE TABLE Str-Morale
+ (
+	Failed By			Long Integer (4), 
+	Action			Text (50), 
+	Reaction			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Obscuration;
+CREATE TABLE Str-Obscuration
+ (
+	TL			Long Integer (4), 
+	Description			Text (50), 
+	Vol			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-PersonnelWounds;
+CREATE TABLE Str-PersonnelWounds
+ (
+	2D6			Long Integer (4), 
+	Result			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-PowerPlant;
+CREATE TABLE Str-PowerPlant
+ (
+	TL			Text (50), 
+	Description			Text (50), 
+	Output			Double (8), 
+	Mass			Long Integer (4), 
+	Cr			Long Integer (4), 
+	Fuel			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Propellant;
+CREATE TABLE Str-Propellant
+ (
+	Range (km)			Double (8), 
+	Mass Multiple			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-RapidPulse;
+CREATE TABLE Str-RapidPulse
+ (
+	TL			Text (50), 
+	+2			Text (50), 
+	+3			Text (50), 
+	+4			Text (50), 
+	+5			Text (50), 
+	+6			Text (50), 
+	+7			Text (50), 
+	+8			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-ScaleEfficiency;
+CREATE TABLE Str-ScaleEfficiency
+ (
+	Type			Text (50), 
+	Vol			Text (50), 
+	Output			Double (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Spotting-Air;
+CREATE TABLE Str-Spotting-Air
+ (
+	Speed (cm)			Text (50), 
+	Spot Roll			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Spotting-Ground;
+CREATE TABLE Str-Spotting-Ground
+ (
+	Unit Scrutinized			Text (50), 
+	<=150m			Text (50), 
+	150-500m			Long Integer (4), 
+	500-1500m			Long Integer (4), 
+	>1500m			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Stabilisation;
+CREATE TABLE Str-Stabilisation
+ (
+	TL			Long Integer (4), 
+	VOL			Double (8), 
+	MASS			Text (50), 
+	COST			Long Integer (4), 
+	MV<1/2			Text (50), 
+	MV>1/2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-ThrustAgency;
+CREATE TABLE Str-ThrustAgency
+ (
+	TL			Long Integer (4), 
+	Type			Text (50), 
+	Thrust			Long Integer (4), 
+	Fuel			Double (8), 
+	Cost			Long Integer (4), 
+	AirFrame			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Transmission;
+CREATE TABLE Str-Transmission
+ (
+	TL			Long Integer (4), 
+	Tracked			Double (8), 
+	Wheeled			Double (8), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Vehicle-Brain;
+CREATE TABLE Str-Vehicle-Brain
+ (
+	TL			Long Integer (4), 
+	Mass			Long Integer (4), 
+	MCr			Double (8), 
+	DM			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Vehicle-MajorPenetrartion;
+CREATE TABLE Str-Vehicle-MajorPenetrartion
+ (
+	1D6			Long Integer (4), 
+	Result			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Vehicle-MinorPenetration;
+CREATE TABLE Str-Vehicle-MinorPenetration
+ (
+	1d6			Long Integer (4), 
+	High			Text (50), 
+	F			Text (50), 
+	L/R			Text (50), 
+	B			Text (50), 
+	T			Text (50), 
+	U			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Vehicle-Penetration;
+CREATE TABLE Str-Vehicle-Penetration
+ (
+	1D6			Text (50), 
+	HE			Text (50), 
+	HEAP			Text (50), 
+	Others			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Vehicle-SurfaceDamage;
+CREATE TABLE Str-Vehicle-SurfaceDamage
+ (
+	2D6			Long Integer (4), 
+	Result			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-Vehicle-WeaponDamage;
+CREATE TABLE Str-Vehicle-WeaponDamage
+ (
+	1D6			Long Integer (4), 
+	Surface			Text (50), 
+	Minor Pen			Text (50), 
+	Major Pen			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Str-WeaponMount;
+CREATE TABLE Str-WeaponMount
+ (
+	TL			Long Integer (4), 
+	Description			Text (50), 
+	Drag			Long Integer (4), 
+	Mass			Double (8), 
+	Capacity			Text (50), 
+	Cr			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Aliegance;
+CREATE TABLE UWP-Aliegance
+ (
+	Algn			Text (2), 
+	Description			Text (255), 
+	Colour			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Codes;
+CREATE TABLE UWP-Codes
+ (
+	Code			Text (2), 
+	Description			Text (255), 
+	Paranoia			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Control;
+CREATE TABLE UWP-Control
+ (
+	LastSBSimport			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-HomeCodes;
+CREATE TABLE UWP-HomeCodes
+ (
+	Value			Text (1), 
+	Codes			Text (8)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Notes-Sector;
+CREATE TABLE UWP-Notes-Sector
+ (
+	Title			Text (100), 
+	Sector			Text (50), 
+	Note			Memo/Hyperlink
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Notes-Subsec;
+CREATE TABLE UWP-Notes-Subsec
+ (
+	Title			Text (100), 
+	Sector			Text (50), 
+	Subletter			Text (1), 
+	Note			Memo/Hyperlink
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Notes-Worlds;
+CREATE TABLE UWP-Notes-Worlds
+ (
+	Title			Text (100), 
+	Sector			Text (50), 
+	Location			Long Integer (4), 
+	Note			Memo/Hyperlink
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Sector;
+CREATE TABLE UWP-Sector
+ (
+	Sector			Text (255), 
+	Code			Text (255), 
+	X			Long Integer (4), 
+	Y			Long Integer (4), 
+	Factions			Text (50), 
+	DisplayName			Text (255), 
+	Tapestry			Long Integer (4), 
+	Systems			Long Integer (4), 
+	Pop			Double (8), 
+	Notes			Memo/Hyperlink
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-SubSec;
+CREATE TABLE UWP-SubSec
+ (
+	SubSectorN			Text (255), 
+	Sector			Text (255), 
+	SubSector			Text (255), 
+	Notes			Memo/Hyperlink
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Worlds;
+CREATE TABLE UWP-Worlds
+ (
+	Name			Text (255), 
+	Location			Long Integer (4), 
+	SDAHPGLT			Text (8), 
+	Base			Text (4), 
+	Remarks			Memo/Hyperlink, 
+	Zone			Text (1), 
+	Gas			Text (1), 
+	Sector			Text (255), 
+	SubSector			Text (1), 
+	SubSectorN			Text (255), 
+	CargoBase			Long Integer (4), 
+	Trade			Text (255), 
+	Star1			Text (10), 
+	Star2			Text (10), 
+	Star3			Text (10), 
+	HW-SDAHPLT			Text (8), 
+	Algn			Text (2), 
+	PAG			Text (3), 
+	ZonedFor			Text (255), 
+	Detailed			Text (255), 
+	Hard1			Text (10), 
+	Hard2			Text (10), 
+	Hard3			Text (10), 
+	Hard4			Text (10)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-WORLDS_ImportErrors;
+CREATE TABLE UWP-WORLDS_ImportErrors
+ (
+	Error			Text (255), 
+	Field			Text (255), 
+	Row			Long Integer (4)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE UWP-Systems;
+CREATE TABLE UWP-Systems
+ (
+	SEC			Text (20), 
+	SUB			Text (50), 
+	SYS			Text (50), 
+	HEX			Text (50), 
+	STAR1			Text (50), 
+	STAR2			Text (50), 
+	STAR3			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+DROP TABLE Sports;
+CREATE TABLE Sports
+ (
+	Team			Text (50), 
+	Goalie			Text (50), 
+	FullBack1			Text (50), 
+	FullBack2			Text (50), 
+	CentreHalf1			Text (50), 
+	CentreHalf2			Text (50), 
+	MidField1			Text (50), 
+	MidField2			Text (50), 
+	MidField3			Text (50), 
+	MidField4			Text (50), 
+	Forward1			Text (50), 
+	Forward2			Text (50)
+
+);
+-- CREATE ANY INDEXES ...
+
+
+
+-- CREATE ANY Relationships ...
+
+-- relationships are not supported for access

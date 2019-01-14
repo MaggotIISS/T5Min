@@ -1,0 +1,6 @@
+//	RI-2.txt
+#RI  6F BF 6F
+lines.gif
+box.gif c c 6FBF6F
+RI 1 1 35 H 000000
+RI-2.gif

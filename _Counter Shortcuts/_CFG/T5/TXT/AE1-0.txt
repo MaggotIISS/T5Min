@@ -1,0 +1,6 @@
+//	AE1-0.txt
+# Ranks.cfg
+lines.gif
+box.gif c c FFFFFF
+AE1.gif c c 000000
+AE1-0.gif

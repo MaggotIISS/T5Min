@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="MainworldType.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Flux","World","HZ Var","Close","Far"
+"-6","Close Satellite","-2","A","N"
+  <Catalog>
+    <col0>-6</col0>
+    <col1>Close Satellite</col1>
+    <col2>-2</col2>
+    <col3>A</col3>
+    <col4>N</col4>
+  </Catalog>
+ 
+"-5","Far Satellite","-1","B","O"
+  <Catalog>
+    <col0>-5</col0>
+    <col1>Far Satellite</col1>
+    <col2>-1</col2>
+    <col3>B</col3>
+    <col4>O</col4>
+  </Catalog>
+ 
+"-4","Far Satellite","-1","C","P"
+  <Catalog>
+    <col0>-4</col0>
+    <col1>Far Satellite</col1>
+    <col2>-1</col2>
+    <col3>C</col3>
+    <col4>P</col4>
+  </Catalog>
+ 
+"-3","Close Satellite","-1","D","Q"
+  <Catalog>
+    <col0>-3</col0>
+    <col1>Close Satellite</col1>
+    <col2>-1</col2>
+    <col3>D</col3>
+    <col4>Q</col4>
+  </Catalog>
+ 
+"-2","World","0","E","R"
+  <Catalog>
+    <col0>-2</col0>
+    <col1>World</col1>
+    <col2>0</col2>
+    <col3>E</col3>
+    <col4>R</col4>
+  </Catalog>
+ 
+"-1","World","0","F","S"
+  <Catalog>
+    <col0>-1</col0>
+    <col1>World</col1>
+    <col2>0</col2>
+    <col3>F</col3>
+    <col4>S</col4>
+  </Catalog>
+ 
+"0","World","0","G","T"
+  <Catalog>
+    <col0>0</col0>
+    <col1>World</col1>
+    <col2>0</col2>
+    <col3>G</col3>
+    <col4>T</col4>
+  </Catalog>
+ 
+"1","World","0","H","U"
+  <Catalog>
+    <col0>1</col0>
+    <col1>World</col1>
+    <col2>0</col2>
+    <col3>H</col3>
+    <col4>U</col4>
+  </Catalog>
+ 
+"2","World","0","I","V"
+  <Catalog>
+    <col0>2</col0>
+    <col1>World</col1>
+    <col2>0</col2>
+    <col3>I</col3>
+    <col4>V</col4>
+  </Catalog>
+ 
+"3","World","1","J","W"
+  <Catalog>
+    <col0>3</col0>
+    <col1>World</col1>
+    <col2>1</col2>
+    <col3>J</col3>
+    <col4>W</col4>
+  </Catalog>
+ 
+"4","World","1","K","X"
+  <Catalog>
+    <col0>4</col0>
+    <col1>World</col1>
+    <col2>1</col2>
+    <col3>K</col3>
+    <col4>X</col4>
+  </Catalog>
+ 
+"5","World","1","L","Y"
+  <Catalog>
+    <col0>5</col0>
+    <col1>World</col1>
+    <col2>1</col2>
+    <col3>L</col3>
+    <col4>Y</col4>
+  </Catalog>
+ 
+"6","World","2","M","Z"
+  <Catalog>
+    <col0>6</col0>
+    <col1>World</col1>
+    <col2>2</col2>
+    <col3>M</col3>
+    <col4>Z</col4>
+  </Catalog>
+ 
+</Catalogs>

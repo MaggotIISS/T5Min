@@ -1,0 +1,4 @@
+//	Scouts-0.txt
+lines.gif
+scouts.gif c c replace
+Scouts-0.gif

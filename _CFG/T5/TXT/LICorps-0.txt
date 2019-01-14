@@ -1,0 +1,6 @@
+//	LICorps-0.txt
+lines.gif
+box.gif c c 2F6F2F
+infantry.gif c c 000000
+O9 46 7 35 H 000000
+LICorps-0.gif

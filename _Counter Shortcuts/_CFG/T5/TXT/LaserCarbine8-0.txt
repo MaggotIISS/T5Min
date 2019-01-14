@@ -1,0 +1,12 @@
+//	LaserCarbine8-0.txt
+#####################
+# EnergyWeapons use BeamWeaponsTL (Laser OR Fusion)
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+energywpn.gif c c 000000
+LaserCarbine 2 1 35 H 000000
+TL8 50 1 35 H 000000
+50.4.0 2 7 35 H 000000
+2D+2.1 2 13 35 H 000000
+LaserCarbine8-0.gif

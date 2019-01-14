@@ -1,0 +1,5 @@
+"ID","Tractor Type","Cost","Weight","Load","Spaces","Armour"
+"1","Standard. Cabover","12000","3500","10000","19","30/14"
+"2","Standard Long-Nose","14000","3700","11000","22","32/15"
+"3","Sleeper Cabover","17000","3900","12000","24","32/15"
+"4","Sleeper Long-Nose","20000","4100","13000","27","34/16"

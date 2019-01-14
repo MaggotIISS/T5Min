@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="type.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"TYPE","CODE","TL"
+"Armor","A","8"
+  <Catalog>
+    <col0>Armor</col0>
+    <col1>A</col1>
+    <col2>8</col2>
+  </Catalog>
+ 
+"Dress","D","10"
+  <Catalog>
+    <col0>Dress</col0>
+    <col1>D</col1>
+    <col2>10</col2>
+  </Catalog>
+ 
+"Suit","S","5"
+  <Catalog>
+    <col0>Suit</col0>
+    <col1>S</col1>
+    <col2>5</col2>
+  </Catalog>
+ 
+"Unit","U","9"
+  <Catalog>
+    <col0>Unit</col0>
+    <col1>U</col1>
+    <col2>9</col2>
+  </Catalog>
+ 
+</Catalogs>

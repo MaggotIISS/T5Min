@@ -1,0 +1,22 @@
+Law
+--------------------
+Digit	Description	Note	
+0	No Law	No prohibitions	
+1	Low Law	Prohibition of WMD, Psi weapons	
+2	Low Law	Prohibition of 'portable' weapons	
+3	Low Law	Prohibition of Acid, Fire, Gas weapons	
+4	Moderate Law	Laser, Beam weapons prohibited	
+5	Moderate Law	Shock, EMP, Rad, Mag, Grav weapons prohibited	
+6	Moderate Law	Pohibition of Machineguns	
+7	Moderate Law	Prohibition of Pistols	
+8	High Law	Open display of weapons prohibited	
+9	High Law	Weapons outside the home prohibited	
+A	Extreme Law	Weapon possession prohibited	
+B	Extreme Law	Continental passports required	
+C	Extreme Law	Unrestricted invasion of privacy	
+D	Extreme Law	Paramilitary law enforcement	
+E	Extreme Law	Full-fledged police state	
+F	Extreme Law	Daily life rigidly controlled	
+G	Extreme Law	Disproportionate punishments	
+H	Extreme Law	Legalized oppressive practices	
+J	Extreme Law	Routinely oppressive and restrictive	

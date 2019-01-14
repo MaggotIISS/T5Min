@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--
+Test
+//http://www.w3schools.com/xsl/xsl_w3celementref.asp
+-->
+<html id="html">
+  <head id="head">
+    <title id="title">Test</title>
+    <script id="loadxmldoc">
+      function loadXMLDoc(filename)
+      {
+        if (window.ActiveXObject)
+        {
+          xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        else
+        {
+          xhttp = new XMLHttpRequest();
+        }
+        xhttp.open("GET", filename, false);
+        try {
+          xhttp.responseType = "msxml-document"
+        } catch (err) {
+        } // Helping IE11
+        xhttp.send("");
+        return xhttp.responseXML;
+      }
+
+      function displayResult()
+      {
+        xml = loadXMLDoc(XMLDOC);
+        xsl = loadXMLDoc(XSLDOC);
+        // code for IE
+        if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+        {
+          ex = xml.transformNode(xsl);
+          document.getElementById("example").innerHTML = ex;
+        }
+        // code for Chrome, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+          xsltProcessor = new XSLTProcessor();
+          xsltProcessor.importStylesheet(xsl);
+          resultDocument = xsltProcessor.transformToFragment(xml, document);
+          document.getElementById("example").appendChild(resultDocument);
+        }
+      }
+
+    </script>
+    <script id="headscripts">
+      SCRIPTS
+    </script>
+  </head>
+    <h2 id="heading">
+      Test
+    </h2>
+  <body id="body">
+    <!--
+    //Add picture
+    -->
+    <div id="picture">
+      PICPATH<br/>
+      <img id="picture" src="PICTURE" width="WIDTH" height="HEIGHT" alt="PICALT"/><br/>
+    </div>
+    <div id = "button">
+      <button id="button" onclick="displayButton()">
+        EDIT
+      </button><br/>
+      <script id="displayButton">
+        function displayButton() {
+          document.getElementById("button").innerHTML = "EDITING";
+        }
+      </script>
+    </div>
+Test<br/>
+<div>
+  <br/>
+  <a href="file:\\\C:\\T5\_XML\Default.html">Default</a><br/>
+  <a href="file:\\\C:\\T5\_XML\HTML.html">HTML</a><br/>
+  <a href="file:\\\C:\\T5\_XML\Test.html">Test</a><br/>
+  <a href="file:\\\C:\\T5\_XML\CSV.csv">CSV</a><br/>
+  <a href="file:\\\C:\\T5\_XML\DTD.dtd">DTD</a><br/>
+  <a href="file:\\\C:\\T5\_XML\TXT.txt">TXT</a><br/>
+  <a href="file:\\\C:\\T5\_XML\XML.xml">XML</a><br/>
+  <a href="file:\\\C:\\T5\_XML\XSL.xsl">XSL</a><br/>
+</div>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705%20Efate.html">1705 Efate</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Admiral.html">1705-Admiral</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Army.html">1705-Army</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Belts.html">1705-Belts</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Blank.html">1705-Blank</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Defences.html">1705-Defences</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Equipment-1705%20Efate.html">1705-Equipment-1705 Efate</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Fleet.html">1705-Fleet</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Gas%20Giants.html">1705-Gas Giants</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Maps.html">1705-Maps</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Marine.html">1705-Marine</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Merchant.html">1705-Merchant</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Navy.html">1705-Navy</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Orbits.html">1705-Orbits</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Other.html">1705-Other</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Population.html">1705-Population</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Scout.html">1705-Scout</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-SDBs.html">1705-SDBs</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Ship-1705%20Efate.html">1705-Ship-1705 Efate</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Ship-TZ-TankerRift-12.html">1705-Ship-TZ-TankerRift-12</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Squadron-C001.html">1705-Squadron-C001</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Squadron-C002.html">1705-Squadron-C002</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Squadron-C003.html">1705-Squadron-C003</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Squadron.html">1705-Squadron</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Squadrons.html">1705-Squadrons</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Subsector.html">1705-Subsector</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-System.html">1705-System</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-T5C-1705%20Efate.html">1705-T5C-1705 Efate</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troop-0001.html">1705-Troop-0001</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troop-0002.html">1705-Troop-0002</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troop-0003.html">1705-Troop-0003</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troop-0004.html">1705-Troop-0004</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troop-0005.html">1705-Troop-0005</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troop.html">1705-Troop</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Troops.html">1705-Troops</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-UWP.html">1705-UWP</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Vehicle-1705%20Efate.html">1705-Vehicle-1705 Efate</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/1705-Worlds.html">1705-Worlds</a><br/>
+<a href="file:///C://T5/Spinward Marches/C Regina/1705 Efate/1705 Efate/Spinward%20Marches%20Sector.html">Spinward Marches Sector</a><br/>
+
+  </body>
+</html>

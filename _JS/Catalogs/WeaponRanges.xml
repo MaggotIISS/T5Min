@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="WeaponRanges.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"RANGE","RANGE","DISTANCE","BENCHMARK"
+"0","Contact","Contact"
+  <Catalog>
+    <col0>0</col0>
+    <col1>Contact</col1>
+    <col2>Contact</col2>
+  </Catalog>
+ 
+"1","VShort","5m","Coin"
+  <Catalog>
+    <col0>1</col0>
+    <col1>VShort</col1>
+    <col2>5m</col2>
+    <col3>Coin</col3>
+  </Catalog>
+ 
+"2","Short","50m","Card"
+  <Catalog>
+    <col0>2</col0>
+    <col1>Short</col1>
+    <col2>50m</col2>
+    <col3>Card</col3>
+  </Catalog>
+ 
+"3","Medium","150m","Book"
+  <Catalog>
+    <col0>3</col0>
+    <col1>Medium</col1>
+    <col2>150m</col2>
+    <col3>Book</col3>
+  </Catalog>
+ 
+"4","Long","500m","Suitcase"
+  <Catalog>
+    <col0>4</col0>
+    <col1>Long</col1>
+    <col2>500m</col2>
+    <col3>Suitcase</col3>
+  </Catalog>
+ 
+"5","VLong","1000m","Person"
+  <Catalog>
+    <col0>5</col0>
+    <col1>VLong</col1>
+    <col2>1000m</col2>
+    <col3>Person</col3>
+  </Catalog>
+ 
+"6","Distant","5km","Truck (Horizon?)"
+  <Catalog>
+    <col0>6</col0>
+    <col1>Distant</col1>
+    <col2>5km</col2>
+    <col3>Truck (Horizon?)</col3>
+  </Catalog>
+ 
+"7","VDistant","50km","Tower"
+  <Catalog>
+    <col0>7</col0>
+    <col1>VDistant</col1>
+    <col2>50km</col2>
+    <col3>Tower</col3>
+  </Catalog>
+ 
+"8","Orbital","500km"
+  <Catalog>
+    <col0>8</col0>
+    <col1>Orbital</col1>
+    <col2>500km</col2>
+  </Catalog>
+ 
+"9","Far Orbit","5000km"
+  <Catalog>
+    <col0>9</col0>
+    <col1>Far Orbit</col1>
+    <col2>5000km</col2>
+  </Catalog>
+ 
+</Catalogs>

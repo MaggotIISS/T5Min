@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Systems.xsl"?>
+<!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+61
+2005 Feri                 B584879-B Ri Pa Ph                                 { 3 }  (C7D+4) [9B6C] BcCe  S  - 620 14 ImDd G4 V M3 V     
+  <System>
+    <hex>2005</hex>
+    <sname>Feri</sname>
+    <UWP>B584879-B</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>8</at>
+    <hy>4</hy>
+    <po>8</po>
+    <go>7</go>
+    <ll>9</ll>
+    <tl>B</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(C7D+4)</ex>
+    <cx>[9B6C]</cx>
+    <n>BcCe</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>620</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G4 V M3 V</stellar>
+  </System>
+
+128
+0915 Quare                B200545-9 Ni Va                                    { 0 }  (B44-2) [3537] -     -  - 204 10 CsIm M3 V          
+  <System>
+    <hex>0915</hex>
+    <sname>Quare</sname>
+    <UWP>B200545-9</UWP>
+    <st>B</st>
+    <si>2</si>
+    <at>0</at>
+    <hy>0</hy>
+    <po>5</po>
+    <go>4</go>
+    <ll>5</ll>
+    <tl>9</tl>
+    <remarks>Ni Va</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(B44-2)</ex>
+    <cx>[3537]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>204</pbg>
+    <w>10</w>
+    <a>CsIm</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+</Systems>

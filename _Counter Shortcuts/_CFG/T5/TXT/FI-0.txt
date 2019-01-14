@@ -1,0 +1,4 @@
+//	FI-0.txt
+lines.gif
+fs-strikefighter-12.gif c c d0d0d0
+FI-0.gif

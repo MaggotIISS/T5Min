@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+47
+1705 Efate                A646930-D Hi In An                                 { 5 }  (B8H+1) [4E18] BEf   NW - 800 8  ImDd K4 V          
+  <System>
+    <hex>1705</hex>
+    <sname>Efate</sname>
+    <UWP>A646930-D</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>4</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>3</go>
+    <ll>0</ll>
+    <tl>D</tl>
+    <remarks>Hi In An</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(B8H+1)</ex>
+    <cx>[4E18]</cx>
+    <n>BEf</n>
+    <b>NW</b>
+    <z>-</z>
+    <pbg>800</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K4 V</stellar>
+  </System>
+
+</Systems>

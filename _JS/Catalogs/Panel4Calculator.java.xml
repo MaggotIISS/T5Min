@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Panel4Calculator.java.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"/*"
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * Copyright (C) 2014 Mark Ferguson"
+  <Catalog>
+    <col0> * Copyright (C) 2014 Mark Ferguson</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * This program is free software: you can redistribute it and/or modify"
+  <Catalog>
+    <col0> * This program is free software: you can redistribute it and/or modify</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * it under the terms of the GNU General Public License as published by"
+  <Catalog>
+    <col0> * it under the terms of the GNU General Public License as published by</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * the Free Software Foundation, either version 3 of the License, or"
+  <Catalog>
+    <col0> * the Free Software Foundation, either version 3 of the License, or</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * (at your option) any later version."
+  <Catalog>
+    <col0> * (at your option) any later version.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * This program is distributed in the hope that it will be useful,"
+  <Catalog>
+    <col0> * This program is distributed in the hope that it will be useful,</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * but WITHOUT ANY WARRANTY; without even the implied warranty of"
+  <Catalog>
+    <col0> * but WITHOUT ANY WARRANTY; without even the implied warranty of</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the"
+  <Catalog>
+    <col0> * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * GNU General Public License for more details."
+  <Catalog>
+    <col0> * GNU General Public License for more details.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * You should have received a copy of the GNU General Public License"
+  <Catalog>
+    <col0> * You should have received a copy of the GNU General Public License</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * along with this program.  If not, see <http://www.gnu.org/licenses/>."
+  <Catalog>
+    <col0> * along with this program.  If not, see <http://www.gnu.org/licenses/>.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" */"
+  <Catalog>
+    <col0> */</col0>
+  </Catalog>
+ 
+"package panels;"
+  <Catalog>
+    <col0>package panels;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"import dbviewer.globals.GlobalMethods;"
+  <Catalog>
+    <col0>import dbviewer.globals.GlobalMethods;</col0>
+  </Catalog>
+ 
+"import java.awt.BorderLayout;"
+  <Catalog>
+    <col0>import java.awt.BorderLayout;</col0>
+  </Catalog>
+ 
+"import java.awt.Button;"
+  <Catalog>
+    <col0>import java.awt.Button;</col0>
+  </Catalog>
+ 
+"import java.awt.Color;"
+  <Catalog>
+    <col0>import java.awt.Color;</col0>
+  </Catalog>
+ 
+"import java.awt.GridLayout;"
+  <Catalog>
+    <col0>import java.awt.GridLayout;</col0>
+  </Catalog>
+ 
+"import java.awt.event.ActionEvent;"
+  <Catalog>
+    <col0>import java.awt.event.ActionEvent;</col0>
+  </Catalog>
+ 
+"import java.awt.event.ActionListener;"
+  <Catalog>
+    <col0>import java.awt.event.ActionListener;</col0>
+  </Catalog>
+ 
+"import javax.swing.JFrame;"
+  <Catalog>
+    <col0>import javax.swing.JFrame;</col0>
+  </Catalog>
+ 
+"import javax.swing.JLabel;"
+  <Catalog>
+    <col0>import javax.swing.JLabel;</col0>
+  </Catalog>
+ 
+"import javax.swing.JPanel;"
+  <Catalog>
+    <col0>import javax.swing.JPanel;</col0>
+  </Catalog>
+ 
+"import javax.swing.SwingConstants;"
+  <Catalog>
+    <col0>import javax.swing.SwingConstants;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"/**"
+  <Catalog>
+    <col0>/**</col0>
+  </Catalog>
+ 
+" A panel with calculator buttons and a result display."
+  <Catalog>
+    <col0> A panel with calculator buttons and a result display.</col0>
+  </Catalog>
+ 
+" */"
+  <Catalog>
+    <col0> */</col0>
+  </Catalog>
+ 
+"public class Panel4Calculator extends Panel4 {"
+  <Catalog>
+    <col0>public class Panel4Calculator extends Panel4 {</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   <p>"
+  <Catalog>
+    <col0>   <p></col0>
+  </Catalog>
+ 
+"   @param args strings to start"
+  <Catalog>
+    <col0>   @param args strings to start</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public static void main(String[] args) {"
+  <Catalog>
+    <col0>  public static void main(String[] args) {</col0>
+  </Catalog>
+ 
+"    JPanel jp = new Panel4Calculator();"
+  <Catalog>
+    <col0>    JPanel jp = new Panel4Calculator();</col0>
+  </Catalog>
+ 
+"    JFrame jf = new Frame4(jp);"
+  <Catalog>
+    <col0>    JFrame jf = new Frame4(jp);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   Panel4Calculator"
+  <Catalog>
+    <col0>   Panel4Calculator</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public Panel4Calculator() {"
+  <Catalog>
+    <col0>  public Panel4Calculator() {</col0>
+  </Catalog>
+ 
+"    super();"
+  <Catalog>
+    <col0>    super();</col0>
+  </Catalog>
+ 
+"    setLayout(new BorderLayout());"
+  <Catalog>
+    <col0>    setLayout(new BorderLayout());</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    result = 0;"
+  <Catalog>
+    <col0>    result = 0;</col0>
+  </Catalog>
+ 
+"    lastCommand = "=";"
+  <Catalog>
+    <col0>    lastCommand = =;</col0>
+  </Catalog>
+ 
+"    start = true;"
+  <Catalog>
+    <col0>    start = true;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    // add the display"
+  <Catalog>
+    <col0>    // add the display</col0>
+  </Catalog>
+ 
+"    display = new JLabel("0");"
+  <Catalog>
+    <col0>    display = new JLabel(0);</col0>
+  </Catalog>
+ 
+"    display.setOpaque(true);"
+  <Catalog>
+    <col0>    display.setOpaque(true);</col0>
+  </Catalog>
+ 
+"    display.setBackground(Color.white);"
+  <Catalog>
+    <col0>    display.setBackground(Color.white);</col0>
+  </Catalog>
+ 
+"    display.setHorizontalAlignment(SwingConstants.RIGHT);"
+  <Catalog>
+    <col0>    display.setHorizontalAlignment(SwingConstants.RIGHT);</col0>
+  </Catalog>
+ 
+"    add(display, BorderLayout.NORTH);"
+  <Catalog>
+    <col0>    add(display, BorderLayout.NORTH);</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    ActionListener insert = new InsertAction();"
+  <Catalog>
+    <col0>    ActionListener insert = new InsertAction();</col0>
+  </Catalog>
+ 
+"    ActionListener command = new CommandAction();"
+  <Catalog>
+    <col0>    ActionListener command = new CommandAction();</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    // add the buttons in a 4 x 4 grid"
+  <Catalog>
+    <col0>    // add the buttons in a 4 x 4 grid</col0>
+  </Catalog>
+ 
+"    panel = new JPanel();"
+  <Catalog>
+    <col0>    panel = new JPanel();</col0>
+  </Catalog>
+ 
+"    panel.setLayout(new GridLayout(4, 4));"
+  <Catalog>
+    <col0>    panel.setLayout(new GridLayout(4, 4));</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    addButton("7", insert);"
+  <Catalog>
+    <col0>    addButton(7, insert);</col0>
+  </Catalog>
+ 
+"    addButton("8", insert);"
+  <Catalog>
+    <col0>    addButton(8, insert);</col0>
+  </Catalog>
+ 
+"    addButton("9", insert);"
+  <Catalog>
+    <col0>    addButton(9, insert);</col0>
+  </Catalog>
+ 
+"    addButton("/", command);"
+  <Catalog>
+    <col0>    addButton(/, command);</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    addButton("4", insert);"
+  <Catalog>
+    <col0>    addButton(4, insert);</col0>
+  </Catalog>
+ 
+"    addButton("5", insert);"
+  <Catalog>
+    <col0>    addButton(5, insert);</col0>
+  </Catalog>
+ 
+"    addButton("6", insert);"
+  <Catalog>
+    <col0>    addButton(6, insert);</col0>
+  </Catalog>
+ 
+"    addButton("*", command);"
+  <Catalog>
+    <col0>    addButton(*, command);</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    addButton("1", insert);"
+  <Catalog>
+    <col0>    addButton(1, insert);</col0>
+  </Catalog>
+ 
+"    addButton("2", insert);"
+  <Catalog>
+    <col0>    addButton(2, insert);</col0>
+  </Catalog>
+ 
+"    addButton("3", insert);"
+  <Catalog>
+    <col0>    addButton(3, insert);</col0>
+  </Catalog>
+ 
+"    addButton("-", command);"
+  <Catalog>
+    <col0>    addButton(-, command);</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    addButton("0", insert);"
+  <Catalog>
+    <col0>    addButton(0, insert);</col0>
+  </Catalog>
+ 
+"    addButton(".", insert);"
+  <Catalog>
+    <col0>    addButton(., insert);</col0>
+  </Catalog>
+ 
+"    addButton("=", command);"
+  <Catalog>
+    <col0>    addButton(=, command);</col0>
+  </Catalog>
+ 
+"    addButton("+", command);"
+  <Catalog>
+    <col0>    addButton(, command);</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    add(panel, BorderLayout.CENTER);"
+  <Catalog>
+    <col0>    add(panel, BorderLayout.CENTER);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   Adds a button to the center panel."
+  <Catalog>
+    <col0>   Adds a button to the center panel.</col0>
+  </Catalog>
+ 
+"   <p>"
+  <Catalog>
+    <col0>   <p></col0>
+  </Catalog>
+ 
+"   @param label    the button label"
+  <Catalog>
+    <col0>   @param label    the button label</col0>
+  </Catalog>
+ 
+"   @param listener the button listener"
+  <Catalog>
+    <col0>   @param listener the button listener</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  private void addButton(String label, ActionListener listener) {"
+  <Catalog>
+    <col0>  private void addButton(String label, ActionListener listener) {</col0>
+  </Catalog>
+ 
+"    Button button = new Button(label);"
+  <Catalog>
+    <col0>    Button button = new Button(label);</col0>
+  </Catalog>
+ 
+"    button.addActionListener(listener);"
+  <Catalog>
+    <col0>    button.addActionListener(listener);</col0>
+  </Catalog>
+ 
+"    panel.add(button);"
+  <Catalog>
+    <col0>    panel.add(button);</col0>
+  </Catalog>
+ 
+"    GlobalMethods.autoColor(panel, Color.black, Color.LIGHT_GRAY);"
+  <Catalog>
+    <col0>    GlobalMethods.autoColor(panel, Color.black, Color.LIGHT_GRAY);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   Carries out the pending calculation."
+  <Catalog>
+    <col0>   Carries out the pending calculation.</col0>
+  </Catalog>
+ 
+"   <p>"
+  <Catalog>
+    <col0>   <p></col0>
+  </Catalog>
+ 
+"   @param x the value to be accumulated with the prior result."
+  <Catalog>
+    <col0>   @param x the value to be accumulated with the prior result.</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public void calculate(double x) {"
+  <Catalog>
+    <col0>  public void calculate(double x) {</col0>
+  </Catalog>
+ 
+"    switch (lastCommand) {"
+  <Catalog>
+    <col0>    switch (lastCommand) {</col0>
+  </Catalog>
+ 
+"      case "+":"
+  <Catalog>
+    <col0>      case :</col0>
+  </Catalog>
+ 
+"        result += x;"
+  <Catalog>
+    <col0>        result = x;</col0>
+  </Catalog>
+ 
+"        break;"
+  <Catalog>
+    <col0>        break;</col0>
+  </Catalog>
+ 
+"      case "-":"
+  <Catalog>
+    <col0>      case -:</col0>
+  </Catalog>
+ 
+"        result -= x;"
+  <Catalog>
+    <col0>        result -= x;</col0>
+  </Catalog>
+ 
+"        break;"
+  <Catalog>
+    <col0>        break;</col0>
+  </Catalog>
+ 
+"      case "*":"
+  <Catalog>
+    <col0>      case *:</col0>
+  </Catalog>
+ 
+"        result *= x;"
+  <Catalog>
+    <col0>        result *= x;</col0>
+  </Catalog>
+ 
+"        break;"
+  <Catalog>
+    <col0>        break;</col0>
+  </Catalog>
+ 
+"      case "/":"
+  <Catalog>
+    <col0>      case /:</col0>
+  </Catalog>
+ 
+"        result /= x;"
+  <Catalog>
+    <col0>        result /= x;</col0>
+  </Catalog>
+ 
+"        break;"
+  <Catalog>
+    <col0>        break;</col0>
+  </Catalog>
+ 
+"      case "=":"
+  <Catalog>
+    <col0>      case =:</col0>
+  </Catalog>
+ 
+"        result = x;"
+  <Catalog>
+    <col0>        result = x;</col0>
+  </Catalog>
+ 
+"        break;"
+  <Catalog>
+    <col0>        break;</col0>
+  </Catalog>
+ 
+"    }"
+  <Catalog>
+    <col0>    }</col0>
+  </Catalog>
+ 
+"    display.setText("" + result);"
+  <Catalog>
+    <col0>    display.setText(  result);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   This action inserts the button action string to the end of the display"
+  <Catalog>
+    <col0>   This action inserts the button action string to the end of the display</col0>
+  </Catalog>
+ 
+"   text. //"
+  <Catalog>
+    <col0>   text. //</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  private class InsertAction implements ActionListener {"
+  <Catalog>
+    <col0>  private class InsertAction implements ActionListener {</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    @Override"
+  <Catalog>
+    <col0>    @Override</col0>
+  </Catalog>
+ 
+"    public void actionPerformed(ActionEvent event) {"
+  <Catalog>
+    <col0>    public void actionPerformed(ActionEvent event) {</col0>
+  </Catalog>
+ 
+"      String input = event.getActionCommand();"
+  <Catalog>
+    <col0>      String input = event.getActionCommand();</col0>
+  </Catalog>
+ 
+"      if (start) {"
+  <Catalog>
+    <col0>      if (start) {</col0>
+  </Catalog>
+ 
+"        display.setText("");"
+  <Catalog>
+    <col0>        display.setText();</col0>
+  </Catalog>
+ 
+"        start = false;"
+  <Catalog>
+    <col0>        start = false;</col0>
+  </Catalog>
+ 
+"      }"
+  <Catalog>
+    <col0>      }</col0>
+  </Catalog>
+ 
+"      display.setText(display.getText() + input);"
+  <Catalog>
+    <col0>      display.setText(display.getText()  input);</col0>
+  </Catalog>
+ 
+"    }"
+  <Catalog>
+    <col0>    }</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   This action executes the command that the button action string denotes."
+  <Catalog>
+    <col0>   This action executes the command that the button action string denotes.</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  private class CommandAction implements ActionListener {"
+  <Catalog>
+    <col0>  private class CommandAction implements ActionListener {</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    @Override"
+  <Catalog>
+    <col0>    @Override</col0>
+  </Catalog>
+ 
+"    public void actionPerformed(ActionEvent evt) {"
+  <Catalog>
+    <col0>    public void actionPerformed(ActionEvent evt) {</col0>
+  </Catalog>
+ 
+"      String command = evt.getActionCommand();"
+  <Catalog>
+    <col0>      String command = evt.getActionCommand();</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"      if (start) {"
+  <Catalog>
+    <col0>      if (start) {</col0>
+  </Catalog>
+ 
+"        if (command.equals("-")) {"
+  <Catalog>
+    <col0>        if (command.equals(-)) {</col0>
+  </Catalog>
+ 
+"          display.setText(command);"
+  <Catalog>
+    <col0>          display.setText(command);</col0>
+  </Catalog>
+ 
+"          start = false;"
+  <Catalog>
+    <col0>          start = false;</col0>
+  </Catalog>
+ 
+"        } else {"
+  <Catalog>
+    <col0>        } else {</col0>
+  </Catalog>
+ 
+"          lastCommand = command;"
+  <Catalog>
+    <col0>          lastCommand = command;</col0>
+  </Catalog>
+ 
+"        }"
+  <Catalog>
+    <col0>        }</col0>
+  </Catalog>
+ 
+"      } else {"
+  <Catalog>
+    <col0>      } else {</col0>
+  </Catalog>
+ 
+"        calculate(Double.parseDouble(display.getText()));"
+  <Catalog>
+    <col0>        calculate(Double.parseDouble(display.getText()));</col0>
+  </Catalog>
+ 
+"        lastCommand = command;"
+  <Catalog>
+    <col0>        lastCommand = command;</col0>
+  </Catalog>
+ 
+"        start = true;"
+  <Catalog>
+    <col0>        start = true;</col0>
+  </Catalog>
+ 
+"      }"
+  <Catalog>
+    <col0>      }</col0>
+  </Catalog>
+ 
+"    }"
+  <Catalog>
+    <col0>    }</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   <p>"
+  <Catalog>
+    <col0>   <p></col0>
+  </Catalog>
+ 
+"   @return name of class"
+  <Catalog>
+    <col0>   @return name of class</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  @Override"
+  <Catalog>
+    <col0>  @Override</col0>
+  </Catalog>
+ 
+"  public String toString() {"
+  <Catalog>
+    <col0>  public String toString() {</col0>
+  </Catalog>
+ 
+"    return "" + getClass().getName() + "[]";"
+  <Catalog>
+    <col0>    return   getClass().getName()  [];</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+"  private JLabel display;"
+  <Catalog>
+    <col0>  private JLabel display;</col0>
+  </Catalog>
+ 
+"  private JPanel panel;"
+  <Catalog>
+    <col0>  private JPanel panel;</col0>
+  </Catalog>
+ 
+"  private double result;"
+  <Catalog>
+    <col0>  private double result;</col0>
+  </Catalog>
+ 
+"  private String lastCommand;"
+  <Catalog>
+    <col0>  private String lastCommand;</col0>
+  </Catalog>
+ 
+"  private boolean start;"
+  <Catalog>
+    <col0>  private boolean start;</col0>
+  </Catalog>
+ 
+"}"
+  <Catalog>
+    <col0>}</col0>
+  </Catalog>
+ 
+</Catalogs>

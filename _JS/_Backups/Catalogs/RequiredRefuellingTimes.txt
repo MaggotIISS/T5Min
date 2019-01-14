@@ -1,0 +1,5 @@
+"Source","PSL","SL","USL"
+"Gas Giant","0","0","1"
+"Ocean","0","1","1"
+"Starport","*","*","*"
+"Base","0","0","0"

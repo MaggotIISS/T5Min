@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="SystemStars.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"Flux","Primary","Close","Near","Far","Companion"
+"-5","Primary"
+  <Catalog>
+    <col0>-5</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"-4","Primary"
+  <Catalog>
+    <col0>-4</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"-3","Primary"
+  <Catalog>
+    <col0>-3</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"-2","Primary"
+  <Catalog>
+    <col0>-2</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"-1","Primary"
+  <Catalog>
+    <col0>-1</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"0","Primary"
+  <Catalog>
+    <col0>0</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"1","Primary"
+  <Catalog>
+    <col0>1</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"2","Primary"
+  <Catalog>
+    <col0>2</col0>
+    <col1>Primary</col1>
+  </Catalog>
+ 
+"3","Primary","Close","Near","Far","Companion"
+  <Catalog>
+    <col0>3</col0>
+    <col1>Primary</col1>
+    <col2>Close</col2>
+    <col3>Near</col3>
+    <col4>Far</col4>
+    <col5>Companion</col5>
+  </Catalog>
+ 
+"4","Primary","Close","Near","Far","Companion"
+  <Catalog>
+    <col0>4</col0>
+    <col1>Primary</col1>
+    <col2>Close</col2>
+    <col3>Near</col3>
+    <col4>Far</col4>
+    <col5>Companion</col5>
+  </Catalog>
+ 
+"5","Primary","Close","Near","Far","Companion"
+  <Catalog>
+    <col0>5</col0>
+    <col1>Primary</col1>
+    <col2>Close</col2>
+    <col3>Near</col3>
+    <col4>Far</col4>
+    <col5>Companion</col5>
+  </Catalog>
+ 
+</Catalogs>

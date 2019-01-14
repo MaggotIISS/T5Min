@@ -1,0 +1,4 @@
+//	TA-0.txt
+lines.gif
+tanker.gif c c d0d0d0
+TA-0.gif

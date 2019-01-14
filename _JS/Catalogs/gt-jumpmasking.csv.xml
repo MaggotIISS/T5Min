@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="gt-jumpmasking.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""CLASS","DIA","100D(AU)","FREE ON","0.5G","1G","2G","TRAFFIC CONTROL","""
+""O5","18","16.84","AUTO","2W","10D","7D","O","NONE""
+  <Catalog>
+    <col0>O5</col0>
+    <col1>18</col1>
+    <col2>16.84</col2>
+    <col3>AUTO</col3>
+    <col4>2W</col4>
+    <col5>10D</col5>
+    <col6>7D</col6>
+    <col7>O</col7>
+    <col8>NONE</col8>
+  </Catalog>
+ 
+""B0","73.4","6.92","AUTO","9D","6.3D","4.5D","I","ADVISORY""
+  <Catalog>
+    <col0>B0</col0>
+    <col1>73.4</col1>
+    <col2>6.92</col2>
+    <col3>AUTO</col3>
+    <col4>9D</col4>
+    <col5>6.3D</col5>
+    <col6>4.5D</col6>
+    <col7>I</col7>
+    <col8>ADVISORY</col8>
+  </Catalog>
+ 
+""B5","3.8","3.56","AUTO","6.4D","4.5D","3.2D","II","STARPORT""
+  <Catalog>
+    <col0>B5</col0>
+    <col1>3.8</col1>
+    <col2>3.56</col2>
+    <col3>AUTO</col3>
+    <col4>6.4D</col4>
+    <col5>4.5D</col5>
+    <col6>3.2D</col6>
+    <col7>II</col7>
+    <col8>STARPORT</col8>
+  </Catalog>
+ 
+""A0","2.5","2.34","17","5.2D","3.7D","2.6D","III","AIRSPACE""
+  <Catalog>
+    <col0>A0</col0>
+    <col1>2.5</col1>
+    <col2>2.34</col2>
+    <col3>17</col3>
+    <col4>5.2D</col4>
+    <col5>3.7D</col5>
+    <col6>2.6D</col6>
+    <col7>III</col7>
+    <col8>AIRSPACE</col8>
+  </Catalog>
+ 
+""A5","1.7","1.59","16","4.3D","3D","2.1D","IV","TRANSITION""
+  <Catalog>
+    <col0>A5</col0>
+    <col1>1.7</col1>
+    <col2>1.59</col2>
+    <col3>16</col3>
+    <col4>4.3D</col4>
+    <col5>3D</col5>
+    <col6>2.1D</col6>
+    <col7>IV</col7>
+    <col8>TRANSITION</col8>
+  </Catalog>
+ 
+""F0","1.3","1.22","15","3.8D","2.7D","45H","V","ORBITAL""
+  <Catalog>
+    <col0>F0</col0>
+    <col1>1.3</col1>
+    <col2>1.22</col2>
+    <col3>15</col3>
+    <col4>3.8D</col4>
+    <col5>2.7D</col5>
+    <col6>45H</col6>
+    <col7>V</col7>
+    <col8>ORBITAL</col8>
+  </Catalog>
+ 
+""F5","1.2","1.12","14","3.6D","2.6D","43H","","""
+  <Catalog>
+    <col0>F5</col0>
+    <col1>1.2</col1>
+    <col2>1.12</col2>
+    <col3>14</col3>
+    <col4>3.6D</col4>
+    <col5>2.6D</col5>
+    <col6>43H</col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""G0","1.05","0.98","12","3.4D","2.4D","40H","ADMIN REQUIREMENTS","""
+  <Catalog>
+    <col0>G0</col0>
+    <col1>1.05</col1>
+    <col2>0.98</col2>
+    <col3>12</col3>
+    <col4>3.4D</col4>
+    <col5>2.4D</col5>
+    <col6>40H</col6>
+    <col7>ADMIN REQUIREMENTS</col7>
+    <col8></col8>
+  </Catalog>
+ 
+""G5","0.93","0.87","NO","3.2D","2.2D","38H","CR","""
+  <Catalog>
+    <col0>G5</col0>
+    <col1>0.93</col1>
+    <col2>0.87</col2>
+    <col3>NO</col3>
+    <col4>3.2D</col4>
+    <col5>2.2D</col5>
+    <col6>38H</col6>
+    <col7>CR</col7>
+    <col8></col8>
+  </Catalog>
+ 
+""K0","0.85","0.8","NO","3D","2.1H","36H","0","NONE""
+  <Catalog>
+    <col0>K0</col0>
+    <col1>0.85</col1>
+    <col2>0.8</col2>
+    <col3>NO</col3>
+    <col4>3D</col4>
+    <col5>2.1H</col5>
+    <col6>36H</col6>
+    <col7>0</col7>
+    <col8>NONE</col8>
+  </Catalog>
+ 
+""K5","0.74","0.69","NO","2.8D","2D","34H","1","BILL OF HEALTH.  TRAFFIC CONTROL INTENTIONS""
+  <Catalog>
+    <col0>K5</col0>
+    <col1>0.74</col1>
+    <col2>0.69</col2>
+    <col3>NO</col3>
+    <col4>2.8D</col4>
+    <col5>2D</col5>
+    <col6>34H</col6>
+    <col7>1</col7>
+    <col8>BILL OF HEALTH.  TRAFFIC CONTROL INTENTIONS</col8>
+  </Catalog>
+ 
+""M0","0.63","0.59","NO","2.6D","44H","31H","2","FLIGHT PLAN.  CUSTOMS DECLARATION""
+  <Catalog>
+    <col0>M0</col0>
+    <col1>0.63</col1>
+    <col2>0.59</col2>
+    <col3>NO</col3>
+    <col4>2.6D</col4>
+    <col5>44H</col5>
+    <col6>31H</col6>
+    <col7>2</col7>
+    <col8>FLIGHT PLAN.  CUSTOMS DECLARATION</col8>
+  </Catalog>
+ 
+""M5","0.32","0.3","NO","45H","32H","22H","3","LAND & LEAVE CLEARANCE. FLIGHT PLAN APPROVAL""
+  <Catalog>
+    <col0>M5</col0>
+    <col1>0.32</col1>
+    <col2>0.3</col2>
+    <col3>NO</col3>
+    <col4>45H</col4>
+    <col5>32H</col5>
+    <col6>22H</col6>
+    <col7>3</col7>
+    <col8>LAND & LEAVE CLEARANCE. FLIGHT PLAN APPROVAL</col8>
+  </Catalog>
+ 
+""M0","0.13","0.12","NO","29H","20H","14H","4","BOARDING PARTY CHECKS""
+  <Catalog>
+    <col0>M0</col0>
+    <col1>0.13</col1>
+    <col2>0.12</col2>
+    <col3>NO</col3>
+    <col4>29H</col4>
+    <col5>20H</col5>
+    <col6>14H</col6>
+    <col7>4</col7>
+    <col8>BOARDING PARTY CHECKS</col8>
+  </Catalog>
+ 
+""UNKNOWN","N/A","N/A","8","2.6D","44H","31H","5","FLOW CONTROL.  ""
+  <Catalog>
+    <col0>UNKNOWN</col0>
+    <col1>N/A</col1>
+    <col2>N/A</col2>
+    <col3>8</col3>
+    <col4>2.6D</col4>
+    <col5>44H</col5>
+    <col6>31H</col6>
+    <col7>5</col7>
+    <col8>FLOW CONTROL.  </col8>
+  </Catalog>
+ 
+""","","","","","","","6","PORT GUIDE""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>6</col7>
+    <col8>PORT GUIDE</col8>
+  </Catalog>
+ 
+""ROLL","1","2","3","4","5","6","","""
+  <Catalog>
+    <col0>ROLL</col0>
+    <col1>1</col1>
+    <col2>2</col2>
+    <col3>3</col3>
+    <col4>4</col4>
+    <col5>5</col5>
+    <col6>6</col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""","0.2","0.4","0.6","0.8","0.9","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1>0.2</col1>
+    <col2>0.4</col2>
+    <col3>0.6</col3>
+    <col4>0.8</col4>
+    <col5>0.9</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""CLASS","G5","K0","K5","M0","M5","M9","","""
+  <Catalog>
+    <col0>CLASS</col0>
+    <col1>G5</col1>
+    <col2>K0</col2>
+    <col3>K5</col3>
+    <col4>M0</col4>
+    <col5>M5</col5>
+    <col6>M9</col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""","0.4","0.5","0.8","0.8","0.8","0.9","","""
+  <Catalog>
+    <col0></col0>
+    <col1>0.4</col1>
+    <col2>0.5</col2>
+    <col3>0.8</col3>
+    <col4>0.8</col4>
+    <col5>0.8</col5>
+    <col6>0.9</col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""MAINWORLD","","","HOURS","","","","","""
+  <Catalog>
+    <col0>MAINWORLD</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>HOURS</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""DIAMETER","0.5G","1G","2G","","","","","""
+  <Catalog>
+    <col0>DIAMETER</col0>
+    <col1>0.5G</col1>
+    <col2>1G</col2>
+    <col3>2G</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""Asteroid","0.9","0.7","0.5","","","","","""
+  <Catalog>
+    <col0>Asteroid</col0>
+    <col1>0.9</col1>
+    <col2>0.7</col2>
+    <col3>0.5</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""1000","2.7","1.9","1.3","","","","","""
+  <Catalog>
+    <col0>1000</col0>
+    <col1>2.7</col1>
+    <col2>1.9</col2>
+    <col3>1.3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""2000","3.8","2.7","1.9","","","","","""
+  <Catalog>
+    <col0>2000</col0>
+    <col1>3.8</col1>
+    <col2>2.7</col2>
+    <col3>1.9</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""3000","4.6","3.3","2.3","","","","","""
+  <Catalog>
+    <col0>3000</col0>
+    <col1>4.6</col1>
+    <col2>3.3</col2>
+    <col3>2.3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""4000","5.4","3.8","2.7","","","","","""
+  <Catalog>
+    <col0>4000</col0>
+    <col1>5.4</col1>
+    <col2>3.8</col2>
+    <col3>2.7</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""5000","6","4.2","3","","","","","""
+  <Catalog>
+    <col0>5000</col0>
+    <col1>6</col1>
+    <col2>4.2</col2>
+    <col3>3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""6000","6.6","4.6","3.3","","","","","""
+  <Catalog>
+    <col0>6000</col0>
+    <col1>6.6</col1>
+    <col2>4.6</col2>
+    <col3>3.3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""7000","7.1","5","3.5","","","","","""
+  <Catalog>
+    <col0>7000</col0>
+    <col1>7.1</col1>
+    <col2>5</col2>
+    <col3>3.5</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""8000","7.6","5.4","3.8","","","","","""
+  <Catalog>
+    <col0>8000</col0>
+    <col1>7.6</col1>
+    <col2>5.4</col2>
+    <col3>3.8</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""9000","8","5.7","4","","","","","""
+  <Catalog>
+    <col0>9000</col0>
+    <col1>8</col1>
+    <col2>5.7</col2>
+    <col3>4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""10000","8.5","6","4.2","","","","","""
+  <Catalog>
+    <col0>10000</col0>
+    <col1>8.5</col1>
+    <col2>6</col2>
+    <col3>4.2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""sGG","14.7","10.4","7.3","","","","","""
+  <Catalog>
+    <col0>sGG</col0>
+    <col1>14.7</col1>
+    <col2>10.4</col2>
+    <col3>7.3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""mGG","19","13.4","9.5","","","","","""
+  <Catalog>
+    <col0>mGG</col0>
+    <col1>19</col1>
+    <col2>13.4</col2>
+    <col3>9.5</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+""lGG","24","17","12","","","","","""
+  <Catalog>
+    <col0>lGG</col0>
+    <col1>24</col1>
+    <col2>17</col2>
+    <col3>12</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+  </Catalog>
+ 
+</Catalogs>

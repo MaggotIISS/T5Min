@@ -1,0 +1,10 @@
+//	PDXaser-3.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+vehicularwpn.gif c c 000000
+PDXASER 2 1 35 H 000000
+TL12 50 1 35 H 000000
+VAR.20.0 2 7 35 H 000000
+6DX5.2 2 13 35 H 000000
+PDXaser-3.gif

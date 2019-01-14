@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+1705 Efate                A646930-D Hi In An                                 { 5 }  (B8H+1) [4E18] BEf   NW - 800 8  ImDd K4 V          
+  <System>
+    <hex>1705</hex>
+    <sname>Efate</sname>
+    <UWP>A646930-D</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>4</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>3</go>
+    <ll>0</ll>
+    <tl>D</tl>
+    <remarks>Hi In An</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(B8H+1)</ex>
+    <cx>[4E18]</cx>
+    <n>BEf</n>
+    <b>NW</b>
+    <z>-</z>
+    <pbg>800</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K4 V</stellar>
+  </System>
+
+1706 Alell                B56789C-A Ri Pa Ph                                 { 3 }  (B7C+5) [BB8D] BcCe  -  - 210 6  ImDd M1 V M7 V     
+  <System>
+    <hex>1706</hex>
+    <sname>Alell</sname>
+    <UWP>B56789C-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>6</at>
+    <hy>7</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>C</ll>
+    <tl>A</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(B7C+5)</ex>
+    <cx>[BB8D]</cx>
+    <n>BcCe</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>210</pbg>
+    <w>6</w>
+    <a>ImDd</a>
+    <stellar>M1 V M7 V</stellar>
+  </System>
+
+1802 Yres                 BAC6773-9 Fl                                       { 1 }  (H6A-2) [4826] B     -  - 335 13 ImDd G5 V          
+  <System>
+    <hex>1802</hex>
+    <sname>Yres</sname>
+    <UWP>BAC6773-9</UWP>
+    <st>B</st>
+    <si>A</si>
+    <at>C</at>
+    <hy>6</hy>
+    <po>7</po>
+    <go>7</go>
+    <ll>3</ll>
+    <tl>9</tl>
+    <remarks>Fl</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(H6A-2)</ex>
+    <cx>[4826]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>335</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>G5 V</stellar>
+  </System>
+
+1803 Menorb               C652998-7 Hi Po                                    { 0 }  (B89+1) [9957] BE    -  - 310 7  ImDd K2 V          
+  <System>
+    <hex>1803</hex>
+    <sname>Menorb</sname>
+    <UWP>C652998-7</UWP>
+    <st>C</st>
+    <si>6</si>
+    <at>5</at>
+    <hy>2</hy>
+    <po>9</po>
+    <go>9</go>
+    <ll>8</ll>
+    <tl>7</tl>
+    <remarks>Hi Po</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(B89+1)</ex>
+    <cx>[9957]</cx>
+    <n>BE</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>310</pbg>
+    <w>7</w>
+    <a>ImDd</a>
+    <stellar>K2 V</stellar>
+  </System>
+
+1805 Uakye                B439598-D Ni                                       { 1 }  (945+1) [565D] B     -  - 320 12 ImDd M3 V          
+  <System>
+    <hex>1805</hex>
+    <sname>Uakye</sname>
+    <UWP>B439598-D</UWP>
+    <st>B</st>
+    <si>4</si>
+    <at>3</at>
+    <hy>9</hy>
+    <po>5</po>
+    <go>9</go>
+    <ll>8</ll>
+    <tl>D</tl>
+    <remarks>Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(945+1)</ex>
+    <cx>[565D]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>320</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+1806 Whanga               E676126-7 Lo                                       { -3 } (311-4) [1146] B     -  - 224 14 ImDd G1 V M1 V     
+  <System>
+    <hex>1806</hex>
+    <sname>Whanga</sname>
+    <UWP>E676126-7</UWP>
+    <st>E</st>
+    <si>6</si>
+    <at>7</at>
+    <hy>6</hy>
+    <po>1</po>
+    <go>2</go>
+    <ll>6</ll>
+    <tl>7</tl>
+    <remarks>Lo</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(311-4)</ex>
+    <cx>[1146]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>224</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G1 V M1 V</stellar>
+  </System>
+
+1807 Knorbes              E888787-2 Ag Ri An Re                              { 0 }  (965+1) [7752] BC    -  - 834 15 ImDd G3 V          
+  <System>
+    <hex>1807</hex>
+    <sname>Knorbes</sname>
+    <UWP>E888787-2</UWP>
+    <st>E</st>
+    <si>8</si>
+    <at>8</at>
+    <hy>8</hy>
+    <po>7</po>
+    <go>8</go>
+    <ll>7</ll>
+    <tl>2</tl>
+    <remarks>Ag Ri An Re</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(965+1)</ex>
+    <cx>[7752]</cx>
+    <n>BC</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>834</pbg>
+    <w>15</w>
+    <a>ImDd</a>
+    <stellar>G3 V</stellar>
+  </System>
+
+1808 Forboldn             D893614-5 Ni                                       { -3 } (851-5) [4333] B     -  - 312 14 ImDd G0 V          
+  <System>
+    <hex>1808</hex>
+    <sname>Forboldn</sname>
+    <UWP>D893614-5</UWP>
+    <st>D</st>
+    <si>8</si>
+    <at>9</at>
+    <hy>3</hy>
+    <po>6</po>
+    <go>1</go>
+    <ll>4</ll>
+    <tl>5</tl>
+    <remarks>Ni</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(851-5)</ex>
+    <cx>[4333]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>312</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G0 V</stellar>
+  </System>
+
+1809 Ruie                 C776977-7 Hi In Pz                                 { 1 }  (B8A+1) [9A57] -     -  A 701 9  NaHu G5 V          
+  <System>
+    <hex>1809</hex>
+    <sname>Ruie</sname>
+    <UWP>C776977-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>7</go>
+    <ll>7</ll>
+    <tl>7</tl>
+    <remarks>Hi In Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+1)</ex>
+    <cx>[9A57]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>A</z>
+    <pbg>701</pbg>
+    <w>9</w>
+    <a>NaHu</a>
+    <stellar>G5 V</stellar>
+  </System>
+
+1810 Jenghe               C799663-9 Ni O:1910                                { -1 } (D53-4) [3526] B     S  - 323 11 ImDd M0 V          
+  <System>
+    <hex>1810</hex>
+    <sname>Jenghe</sname>
+    <UWP>C799663-9</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>9</at>
+    <hy>9</hy>
+    <po>6</po>
+    <go>6</go>
+    <ll>3</ll>
+    <tl>9</tl>
+    <remarks>Ni O:1910</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(D53-4)</ex>
+    <cx>[3526]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>323</pbg>
+    <w>11</w>
+    <a>ImDd</a>
+    <stellar>M0 V</stellar>
+  </System>
+
+1903 Pixie                A100103-D Lo Va An Px                              { 1 }  (411-2) [122A] B     N  - 901 15 ImDd K1 V M0 V     
+  <System>
+    <hex>1903</hex>
+    <sname>Pixie</sname>
+    <UWP>A100103-D</UWP>
+    <st>A</st>
+    <si>1</si>
+    <at>0</at>
+    <hy>0</hy>
+    <po>1</po>
+    <go>0</go>
+    <ll>3</ll>
+    <tl>D</tl>
+    <remarks>Lo Va An Px</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(411-2)</ex>
+    <cx>[122A]</cx>
+    <n>B</n>
+    <b>N</b>
+    <z>-</z>
+    <pbg>901</pbg>
+    <w>15</w>
+    <a>ImDd</a>
+    <stellar>K1 V M0 V</stellar>
+  </System>
+
+1904 Boughene             A8B3531-D Fl Ni An                                 { 1 }  (845-3) [1619] B     S  - 601 13 ImDd M1 V          
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+1909 Hefry                C200423-7 Ni Va                                    { -2 } (631-5) [1224] B     S  - 320 13 ImDd K6 II M2 V    
+  <System>
+    <hex>1909</hex>
+    <sname>Hefry</sname>
+    <UWP>C200423-7</UWP>
+    <st>C</st>
+    <si>2</si>
+    <at>0</at>
+    <hy>0</hy>
+    <po>4</po>
+    <go>2</go>
+    <ll>3</ll>
+    <tl>7</tl>
+    <remarks>Ni Va</remarks>
+    <ix>{ -2 }</ix>
+    <ex>(631-5)</ex>
+    <cx>[1224]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>320</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>K6 II M2 V</stellar>
+  </System>
+
+1910 Regina               A788899-C Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa { 4 }  (D7E+5) [9C6D] BcCeF NS - 703 8  ImDd F7 V BD M3 V  
+  <System>
+    <hex>1910</hex>
+    <sname>Regina</sname>
+    <UWP>A788899-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>8</at>
+    <hy>8</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa</remarks>
+    <ix>{ 4 }</ix>
+    <ex>(D7E+5)</ex>
+    <cx>[9C6D]</cx>
+    <n>BcCeF</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>703</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>F7 V BD M3 V</stellar>
+  </System>
+
+2005 Feri                 B584879-B Ri Pa Ph                                 { 3 }  (C7D+4) [9B6C] BcCe  S  - 620 14 ImDd G4 V M3 V     
+  <System>
+    <hex>2005</hex>
+    <sname>Feri</sname>
+    <UWP>B584879-B</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>8</at>
+    <hy>4</hy>
+    <po>8</po>
+    <go>7</go>
+    <ll>9</ll>
+    <tl>B</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(C7D+4)</ex>
+    <cx>[9B6C]</cx>
+    <n>BcCe</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>620</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G4 V M3 V</stellar>
+  </System>
+
+2007 Roup                 C77A9A9-7 Hi In Wa Pz                              { 1 }  (B8A+2) [AA68] BE    S  A 323 14 ImDd F9 V          
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+2106 Pscias               X555423-2 Ni Pa Fo                                 { -3 } (631-5) [1121] -     -  R 501 15 ImDd K5 V          
+  <System>
+    <hex>2106</hex>
+    <sname>Pscias</sname>
+    <UWP>X555423-2</UWP>
+    <st>X</st>
+    <si>5</si>
+    <at>5</at>
+    <hy>5</hy>
+    <po>4</po>
+    <go>2</go>
+    <ll>3</ll>
+    <tl>2</tl>
+    <remarks>Ni Pa Fo</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(631-5)</ex>
+    <cx>[1121]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>R</z>
+    <pbg>501</pbg>
+    <w>15</w>
+    <a>ImDd</a>
+    <stellar>K5 V</stellar>
+  </System>
+
+2110 Yori                 C560757-A De Ri An (Zhurphani) RsB                 { 2 }  (D6B+2) [795A] BC    -  - 713 15 ImDd F1 V          
+  <System>
+    <hex>2110</hex>
+    <sname>Yori</sname>
+    <UWP>C560757-A</UWP>
+    <st>C</st>
+    <si>5</si>
+    <at>6</at>
+    <hy>0</hy>
+    <po>7</po>
+    <go>5</go>
+    <ll>7</ll>
+    <tl>A</tl>
+    <remarks>De Ri An (Zhurphani) RsB</remarks>
+    <ix>{ 2 }</ix>
+    <ex>(D6B+2)</ex>
+    <cx>[795A]</cx>
+    <n>BC</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>713</pbg>
+    <w>15</w>
+    <a>ImDd</a>
+    <stellar>F1 V</stellar>
+  </System>
+
+2201 Dentus               C979500-A Ni                                       { 0 }  (944-4) [1515] B     S  - 920 10 ImDd M2 V          
+  <System>
+    <hex>2201</hex>
+    <sname>Dentus</sname>
+    <UWP>C979500-A</UWP>
+    <st>C</st>
+    <si>9</si>
+    <at>7</at>
+    <hy>9</hy>
+    <po>5</po>
+    <go>0</go>
+    <ll>0</ll>
+    <tl>A</tl>
+    <remarks>Ni</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(944-4)</ex>
+    <cx>[1515]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>920</pbg>
+    <w>10</w>
+    <a>ImDd</a>
+    <stellar>M2 V</stellar>
+  </System>
+
+2202 Kinorb               A663659-8 Ni Ri                                    { 0 }  (C54+1) [7669] BC    -  - 622 7  ImDd G7 V          
+  <System>
+    <hex>2202</hex>
+    <sname>Kinorb</sname>
+    <UWP>A663659-8</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>6</at>
+    <hy>3</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>9</ll>
+    <tl>8</tl>
+    <remarks>Ni Ri</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(C54+1)</ex>
+    <cx>[7669]</cx>
+    <n>BC</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>622</pbg>
+    <w>7</w>
+    <a>ImDd</a>
+    <stellar>G7 V</stellar>
+  </System>
+
+2204 Beck's World         D88349D-4 Ni An                                    { -3 } (631+1) [8198] B     -  - 701 10 ImDd K0 V M2 V     
+  <System>
+    <hex>2204</hex>
+    <sname>Beck's World</sname>
+    <UWP>D88349D-4</UWP>
+    <st>D</st>
+    <si>8</si>
+    <at>8</at>
+    <hy>3</hy>
+    <po>4</po>
+    <go>9</go>
+    <ll>D</ll>
+    <tl>4</tl>
+    <remarks>Ni An</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(631+1)</ex>
+    <cx>[8198]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>701</pbg>
+    <w>10</w>
+    <a>ImDd</a>
+    <stellar>K0 V M2 V</stellar>
+  </System>
+
+2205 Enope                C411988-7 Hi Ic In Na                              { 1 }  (B8A+1) [9A57] BE    -  - 600 8  ImDd K6 V M5 V     
+  <System>
+    <hex>2205</hex>
+    <sname>Enope</sname>
+    <UWP>C411988-7</UWP>
+    <st>C</st>
+    <si>4</si>
+    <at>1</at>
+    <hy>1</hy>
+    <po>9</po>
+    <go>8</go>
+    <ll>8</ll>
+    <tl>7</tl>
+    <remarks>Hi Ic In Na</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+1)</ex>
+    <cx>[9A57]</cx>
+    <n>BE</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>600</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K6 V M5 V</stellar>
+  </System>
+
+2207 Wochiers             EAC28CC-9 Fl He Ph                                 { -1 } (D78+2) [B78C] Be    -  - 703 17 ImDd F0 V          
+  <System>
+    <hex>2207</hex>
+    <sname>Wochiers</sname>
+    <UWP>EAC28CC-9</UWP>
+    <st>E</st>
+    <si>A</si>
+    <at>C</at>
+    <hy>2</hy>
+    <po>8</po>
+    <go>C</go>
+    <ll>C</ll>
+    <tl>9</tl>
+    <remarks>Fl He Ph</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(D78+2)</ex>
+    <cx>[B78C]</cx>
+    <n>Be</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>703</pbg>
+    <w>17</w>
+    <a>ImDd</a>
+    <stellar>F0 V</stellar>
+  </System>
+
+2303 Yorbund              C7C6503-9 Fl Ni                                    { -1 } (943-4) [2426] B     -  - 220 9  ImDd M3 V          
+  <System>
+    <hex>2303</hex>
+    <sname>Yorbund</sname>
+    <UWP>C7C6503-9</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>C</at>
+    <hy>6</hy>
+    <po>5</po>
+    <go>0</go>
+    <ll>3</ll>
+    <tl>9</tl>
+    <remarks>Fl Ni</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(943-4)</ex>
+    <cx>[2426]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>220</pbg>
+    <w>9</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+2306 Shionthy             C000742-8 As Na Va An Pi Fo                        { -1 } (E67-5) [3614] -     -  R 714 14 ImDd F6 V          
+  <System>
+    <hex>2306</hex>
+    <sname>Shionthy</sname>
+    <UWP>C000742-8</UWP>
+    <st>C</st>
+    <si>0</si>
+    <at>0</at>
+    <hy>0</hy>
+    <po>7</po>
+    <go>4</go>
+    <ll>2</ll>
+    <tl>8</tl>
+    <remarks>As Na Va An Pi Fo</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(E67-5)</ex>
+    <cx>[3614]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>R</z>
+    <pbg>714</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F6 V</stellar>
+  </System>
+
+2308 Algine               X766977-4 Hi Ga Pr Fo                              { -1 } (B86-1) [9854] -     -  R 723 11 ImDd G9 V          
+  <System>
+    <hex>2308</hex>
+    <sname>Algine</sname>
+    <UWP>X766977-4</UWP>
+    <st>X</st>
+    <si>7</si>
+    <at>6</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>7</go>
+    <ll>7</ll>
+    <tl>4</tl>
+    <remarks>Hi Ga Pr Fo</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(B86-1)</ex>
+    <cx>[9854]</cx>
+    <n>-</n>
+    <b>-</b>
+    <z>R</z>
+    <pbg>723</pbg>
+    <w>11</w>
+    <a>ImDd</a>
+    <stellar>G9 V</stellar>
+  </System>
+
+2309 Yurst                E7B4643-8 Fl Ni (Ursty)                            { -3 } (E51-5) [3325] B     -  - 824 13 ImDd K9 V          
+  <System>
+    <hex>2309</hex>
+    <sname>Yurst</sname>
+    <UWP>E7B4643-8</UWP>
+    <st>E</st>
+    <si>7</si>
+    <at>B</at>
+    <hy>4</hy>
+    <po>6</po>
+    <go>4</go>
+    <ll>3</ll>
+    <tl>8</tl>
+    <remarks>Fl Ni (Ursty)</remarks>
+    <ix>{ -3 }</ix>
+    <ex>(E51-5)</ex>
+    <cx>[3325]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>824</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>K9 V</stellar>
+  </System>
+
+2402 Heya                 B687745-5 Ag Ga Ri                                 { 2 }  (969+1) [5933] BC    -  - 734 16 ImDd K6 III M3 V   
+  <System>
+    <hex>2402</hex>
+    <sname>Heya</sname>
+    <UWP>B687745-5</UWP>
+    <st>B</st>
+    <si>6</si>
+    <at>8</at>
+    <hy>7</hy>
+    <po>7</po>
+    <go>4</go>
+    <ll>5</ll>
+    <tl>5</tl>
+    <remarks>Ag Ga Ri</remarks>
+    <ix>{ 2 }</ix>
+    <ex>(969+1)</ex>
+    <cx>[5933]</cx>
+    <n>BC</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>734</pbg>
+    <w>16</w>
+    <a>ImDd</a>
+    <stellar>K6 III M3 V</stellar>
+  </System>
+
+2405 Keng                 E5718CA-5 He Ph Pi                                 { -2 } (A75+1) [A677] BDe   -  - 812 6  ImDd G5 V M9 V     
+  <System>
+    <hex>2405</hex>
+    <sname>Keng</sname>
+    <UWP>E5718CA-5</UWP>
+    <st>E</st>
+    <si>5</si>
+    <at>7</at>
+    <hy>1</hy>
+    <po>8</po>
+    <go>C</go>
+    <ll>A</ll>
+    <tl>5</tl>
+    <remarks>He Ph Pi</remarks>
+    <ix>{ -2 }</ix>
+    <ex>(A75+1)</ex>
+    <cx>[A677]</cx>
+    <n>BDe</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>812</pbg>
+    <w>6</w>
+    <a>ImDd</a>
+    <stellar>G5 V M9 V</stellar>
+  </System>
+
+2406 Moughas              CA5A588-B Ni Oc Wa                                 { 0 }  (844+1) [555B] B     -  - 801 13 ImDd K9 V M9 V     
+  <System>
+    <hex>2406</hex>
+    <sname>Moughas</sname>
+    <UWP>CA5A588-B</UWP>
+    <st>C</st>
+    <si>A</si>
+    <at>5</at>
+    <hy>A</hy>
+    <po>5</po>
+    <go>8</go>
+    <ll>8</ll>
+    <tl>B</tl>
+    <remarks>Ni Oc Wa</remarks>
+    <ix>{ 0 }</ix>
+    <ex>(844+1)</ex>
+    <cx>[555B]</cx>
+    <n>B</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>801</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>K9 V M9 V</stellar>
+  </System>
+
+2408 Rethe                E430AA8-8 De Hi Na Po                              { -1 } (H98-1) [A958] BE    -  - 323 11 ImDd G7 V          
+  <System>
+    <hex>2408</hex>
+    <sname>Rethe</sname>
+    <UWP>E430AA8-8</UWP>
+    <st>E</st>
+    <si>4</si>
+    <at>3</at>
+    <hy>0</hy>
+    <po>A</po>
+    <go>A</go>
+    <ll>8</ll>
+    <tl>8</tl>
+    <remarks>De Hi Na Po</remarks>
+    <ix>{ -1 }</ix>
+    <ex>(H98-1)</ex>
+    <cx>[A958]</cx>
+    <n>BE</n>
+    <b>-</b>
+    <z>-</z>
+    <pbg>323</pbg>
+    <w>11</w>
+    <a>ImDd</a>
+    <stellar>G7 V</stellar>
+  </System>
+
+2410 Inthe                B575776-9 Ag An Pi                                 { 3 }  (E6C+2) [6A48] BCD   NS - 423 8  ImDd F8 V          
+  <System>
+    <hex>2410</hex>
+    <sname>Inthe</sname>
+    <UWP>B575776-9</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>7</at>
+    <hy>5</hy>
+    <po>7</po>
+    <go>7</go>
+    <ll>6</ll>
+    <tl>9</tl>
+    <remarks>Ag An Pi</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(E6C+2)</ex>
+    <cx>[6A48]</cx>
+    <n>BCD</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>423</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>F8 V</stellar>
+  </System>
+
+</Systems>

@@ -1,0 +1,6 @@
+"Squadron","CF Capacity"
+"AR","600"
+"CR","20"
+"CR","DF of Squadron"
+"SR","0"
+"TR","0"

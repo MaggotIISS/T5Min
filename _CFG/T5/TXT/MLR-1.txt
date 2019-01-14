@@ -1,0 +1,6 @@
+//	MLR-1.txt
+#MLR  FF 0F FF 
+lines.gif
+box.gif c c FFFFFF
+MLR 1 1 35 H 000000
+MLR-1.gif

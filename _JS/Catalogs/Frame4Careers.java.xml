@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Frame4Careers.java.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"/*"
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * Copyright (C) 2014 Mark Ferguson"
+  <Catalog>
+    <col0> * Copyright (C) 2014 Mark Ferguson</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * This program is free software: you can redistribute it and/or modify"
+  <Catalog>
+    <col0> * This program is free software: you can redistribute it and/or modify</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * it under the terms of the GNU General Public License as published by"
+  <Catalog>
+    <col0> * it under the terms of the GNU General Public License as published by</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * the Free Software Foundation, either version 3 of the License, or"
+  <Catalog>
+    <col0> * the Free Software Foundation, either version 3 of the License, or</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * (at your option) any later version."
+  <Catalog>
+    <col0> * (at your option) any later version.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * This program is distributed in the hope that it will be useful,"
+  <Catalog>
+    <col0> * This program is distributed in the hope that it will be useful,</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * but WITHOUT ANY WARRANTY; without even the implied warranty of"
+  <Catalog>
+    <col0> * but WITHOUT ANY WARRANTY; without even the implied warranty of</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the"
+  <Catalog>
+    <col0> * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * GNU General Public License for more details."
+  <Catalog>
+    <col0> * GNU General Public License for more details.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * You should have received a copy of the GNU General Public License"
+  <Catalog>
+    <col0> * You should have received a copy of the GNU General Public License</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * along with this program.  If not, see <http://www.gnu.org/licenses/>."
+  <Catalog>
+    <col0> * along with this program.  If not, see <http://www.gnu.org/licenses/>.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" */"
+  <Catalog>
+    <col0> */</col0>
+  </Catalog>
+ 
+"package panels;"
+  <Catalog>
+    <col0>package panels;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"import dbviewer.AnyMenu;"
+  <Catalog>
+    <col0>import dbviewer.AnyMenu;</col0>
+  </Catalog>
+ 
+"import dbviewer.DBViewer;"
+  <Catalog>
+    <col0>import dbviewer.DBViewer;</col0>
+  </Catalog>
+ 
+"import dbviewer.globals.GlobalMethods;"
+  <Catalog>
+    <col0>import dbviewer.globals.GlobalMethods;</col0>
+  </Catalog>
+ 
+"import static dbviewer.globals.GlobalVariables.T5;"
+  <Catalog>
+    <col0>import static dbviewer.globals.GlobalVariables.T5;</col0>
+  </Catalog>
+ 
+"import java.awt.BorderLayout;"
+  <Catalog>
+    <col0>import java.awt.BorderLayout;</col0>
+  </Catalog>
+ 
+"import java.awt.Color;"
+  <Catalog>
+    <col0>import java.awt.Color;</col0>
+  </Catalog>
+ 
+"import java.awt.event.ActionEvent;"
+  <Catalog>
+    <col0>import java.awt.event.ActionEvent;</col0>
+  </Catalog>
+ 
+"import java.awt.event.ActionListener;"
+  <Catalog>
+    <col0>import java.awt.event.ActionListener;</col0>
+  </Catalog>
+ 
+"import java.awt.event.WindowAdapter;"
+  <Catalog>
+    <col0>import java.awt.event.WindowAdapter;</col0>
+  </Catalog>
+ 
+"import java.awt.event.WindowEvent;"
+  <Catalog>
+    <col0>import java.awt.event.WindowEvent;</col0>
+  </Catalog>
+ 
+"import java.io.File;"
+  <Catalog>
+    <col0>import java.io.File;</col0>
+  </Catalog>
+ 
+"import javax.swing.JFrame;"
+  <Catalog>
+    <col0>import javax.swing.JFrame;</col0>
+  </Catalog>
+ 
+"import javax.swing.JMenuItem;"
+  <Catalog>
+    <col0>import javax.swing.JMenuItem;</col0>
+  </Catalog>
+ 
+"import javax.swing.JPanel;"
+  <Catalog>
+    <col0>import javax.swing.JPanel;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"/**"
+  <Catalog>
+    <col0>/**</col0>
+  </Catalog>
+ 
+" <p>"
+  <Catalog>
+    <col0> <p></col0>
+  </Catalog>
+ 
+" @author maggot.iiss"
+  <Catalog>
+    <col0> @author maggot.iiss</col0>
+  </Catalog>
+ 
+" */"
+  <Catalog>
+    <col0> */</col0>
+  </Catalog>
+ 
+"public class Frame4Careers extends JFrame {"
+  <Catalog>
+    <col0>public class Frame4Careers extends JFrame {</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  static JFrame jf;"
+  <Catalog>
+    <col0>  static JFrame jf;</col0>
+  </Catalog>
+ 
+"  //<editor-fold defaultstate="opened" desc="main">"
+  <Catalog>
+    <col0>  //<editor-fold defaultstate=opened desc=main></col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   @param args the command line arguments"
+  <Catalog>
+    <col0>   @param args the command line arguments</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public static void main(String[] args) {"
+  <Catalog>
+    <col0>  public static void main(String[] args) {</col0>
+  </Catalog>
+ 
+"    jf = new JFrame();"
+  <Catalog>
+    <col0>    jf = new JFrame();</col0>
+  </Catalog>
+ 
+"    AnyMenu am = new AnyMenu(jf);"
+  <Catalog>
+    <col0>    AnyMenu am = new AnyMenu(jf);</col0>
+  </Catalog>
+ 
+"    JMenuItem jmi = new JMenuItem("Save");"
+  <Catalog>
+    <col0>    JMenuItem jmi = new JMenuItem(Save);</col0>
+  </Catalog>
+ 
+"    jf.getJMenuBar().getMenu(0).add(jmi);"
+  <Catalog>
+    <col0>    jf.getJMenuBar().getMenu(0).add(jmi);</col0>
+  </Catalog>
+ 
+"    AnyMenu.setJf(jf);"
+  <Catalog>
+    <col0>    AnyMenu.setJf(jf);</col0>
+  </Catalog>
+ 
+"    jmi.addActionListener(new ActionListener() {"
+  <Catalog>
+    <col0>    jmi.addActionListener(new ActionListener() {</col0>
+  </Catalog>
+ 
+"      @Override"
+  <Catalog>
+    <col0>      @Override</col0>
+  </Catalog>
+ 
+"      public void actionPerformed(ActionEvent ae) {"
+  <Catalog>
+    <col0>      public void actionPerformed(ActionEvent ae) {</col0>
+  </Catalog>
+ 
+"        DBViewer.jfc.setCurrentDirectory(new File(T5 + "/CSV/WHO"));"
+  <Catalog>
+    <col0>        DBViewer.jfc.setCurrentDirectory(new File(T5  /CSV/WHO));</col0>
+  </Catalog>
+ 
+"        DBViewer.jfc.setSelectedFile(new File(Panel4Careers.updateName()));"
+  <Catalog>
+    <col0>        DBViewer.jfc.setSelectedFile(new File(Panel4Careers.updateName()));</col0>
+  </Catalog>
+ 
+"        AnyMenu.viewCareer(DBViewer.jfc.getCurrentDirectory().toString(), DBViewer.jfc.getSelectedFile().toString());"
+  <Catalog>
+    <col0>        AnyMenu.viewCareer(DBViewer.jfc.getCurrentDirectory().toString(), DBViewer.jfc.getSelectedFile().toString());</col0>
+  </Catalog>
+ 
+"        //AnyMenu.sow.saveIt();"
+  <Catalog>
+    <col0>        //AnyMenu.sow.saveIt();</col0>
+  </Catalog>
+ 
+"//        int ret = DBViewer.jfc.showSaveDialog(jf);"
+  <Catalog>
+    <col0>//        int ret = DBViewer.jfc.showSaveDialog(jf);</col0>
+  </Catalog>
+ 
+"//        if (ret == JFileChooser.APPROVE_OPTION) {"
+  <Catalog>
+    <col0>//        if (ret == JFileChooser.APPROVE_OPTION) {</col0>
+  </Catalog>
+ 
+"//"
+  <Catalog>
+    <col0>//</col0>
+  </Catalog>
+ 
+"//        }"
+  <Catalog>
+    <col0>//        }</col0>
+  </Catalog>
+ 
+"      }"
+  <Catalog>
+    <col0>      }</col0>
+  </Catalog>
+ 
+"    });"
+  <Catalog>
+    <col0>    });</col0>
+  </Catalog>
+ 
+"    jf.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);"
+  <Catalog>
+    <col0>    jf.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);</col0>
+  </Catalog>
+ 
+"    jf.setBounds(200, 0, 420, 700);"
+  <Catalog>
+    <col0>    jf.setBounds(200, 0, 420, 700);</col0>
+  </Catalog>
+ 
+"    jf.setLayout(new BorderLayout());"
+  <Catalog>
+    <col0>    jf.setLayout(new BorderLayout());</col0>
+  </Catalog>
+ 
+"    //AnyMenu am = new AnyMenu(jf);"
+  <Catalog>
+    <col0>    //AnyMenu am = new AnyMenu(jf);</col0>
+  </Catalog>
+ 
+"    JPanel p4c = new Panel4Careers(args);"
+  <Catalog>
+    <col0>    JPanel p4c = new Panel4Careers(args);</col0>
+  </Catalog>
+ 
+"    jf.getContentPane().add(p4c, BorderLayout.CENTER);"
+  <Catalog>
+    <col0>    jf.getContentPane().add(p4c, BorderLayout.CENTER);</col0>
+  </Catalog>
+ 
+"    //jf.setJMenuBar(am);"
+  <Catalog>
+    <col0>    //jf.setJMenuBar(am);</col0>
+  </Catalog>
+ 
+"    jf.setVisible(true);"
+  <Catalog>
+    <col0>    jf.setVisible(true);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+"  //</editor-fold>"
+  <Catalog>
+    <col0>  //</editor-fold></col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   Frame4Careers"
+  <Catalog>
+    <col0>   Frame4Careers</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public Frame4Careers() {"
+  <Catalog>
+    <col0>  public Frame4Careers() {</col0>
+  </Catalog>
+ 
+"    super();"
+  <Catalog>
+    <col0>    super();</col0>
+  </Catalog>
+ 
+"    //<editor-fold defaultstate="collapsed" desc="DEBUG">"
+  <Catalog>
+    <col0>    //<editor-fold defaultstate=collapsed desc=DEBUG></col0>
+  </Catalog>
+ 
+"    boolean DEBUG = false;"
+  <Catalog>
+    <col0>    boolean DEBUG = false;</col0>
+  </Catalog>
+ 
+"    if (DEBUG) { // true or false"
+  <Catalog>
+    <col0>    if (DEBUG) { // true or false</col0>
+  </Catalog>
+ 
+"      //System.out.print("\t" + Thread.currentThread().getStackTrace()[1].getMethodName());"
+  <Catalog>
+    <col0>      //System.out.print(\t  Thread.currentThread().getStackTrace()[1].getMethodName());</col0>
+  </Catalog>
+ 
+"      ////System.out.print("" + " = " + );"
+  <Catalog>
+    <col0>      ////System.out.print(   =   );</col0>
+  </Catalog>
+ 
+"    }"
+  <Catalog>
+    <col0>    }</col0>
+  </Catalog>
+ 
+"    //</editor-fold>"
+  <Catalog>
+    <col0>    //</editor-fold></col0>
+  </Catalog>
+ 
+"    setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);"
+  <Catalog>
+    <col0>    setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);</col0>
+  </Catalog>
+ 
+"    setBounds(200, 0, 420, 600);"
+  <Catalog>
+    <col0>    setBounds(200, 0, 420, 600);</col0>
+  </Catalog>
+ 
+"    setLayout(new BorderLayout());"
+  <Catalog>
+    <col0>    setLayout(new BorderLayout());</col0>
+  </Catalog>
+ 
+"    final Panel4Careers p4c = new Panel4Careers();"
+  <Catalog>
+    <col0>    final Panel4Careers p4c = new Panel4Careers();</col0>
+  </Catalog>
+ 
+"    getContentPane().add(p4c, BorderLayout.CENTER);"
+  <Catalog>
+    <col0>    getContentPane().add(p4c, BorderLayout.CENTER);</col0>
+  </Catalog>
+ 
+"    addWindowListener(new WindowAdapter() {"
+  <Catalog>
+    <col0>    addWindowListener(new WindowAdapter() {</col0>
+  </Catalog>
+ 
+"      @Override"
+  <Catalog>
+    <col0>      @Override</col0>
+  </Catalog>
+ 
+"      public void windowActivated(WindowEvent arg0) {"
+  <Catalog>
+    <col0>      public void windowActivated(WindowEvent arg0) {</col0>
+  </Catalog>
+ 
+"        dbviewer.DBViewer.setTitle(panels.Panel4Careers.updateName());"
+  <Catalog>
+    <col0>        dbviewer.DBViewer.setTitle(panels.Panel4Careers.updateName());</col0>
+  </Catalog>
+ 
+"      }"
+  <Catalog>
+    <col0>      }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"      @Override"
+  <Catalog>
+    <col0>      @Override</col0>
+  </Catalog>
+ 
+"      public void windowClosed(WindowEvent arg0) {"
+  <Catalog>
+    <col0>      public void windowClosed(WindowEvent arg0) {</col0>
+  </Catalog>
+ 
+"        p4c.removeAll();"
+  <Catalog>
+    <col0>        p4c.removeAll();</col0>
+  </Catalog>
+ 
+"        removeAll();"
+  <Catalog>
+    <col0>        removeAll();</col0>
+  </Catalog>
+ 
+"      }"
+  <Catalog>
+    <col0>      }</col0>
+  </Catalog>
+ 
+"    });"
+  <Catalog>
+    <col0>    });</col0>
+  </Catalog>
+ 
+"    setVisible(true);"
+  <Catalog>
+    <col0>    setVisible(true);</col0>
+  </Catalog>
+ 
+"    GlobalMethods.autoColor(p4c, Color.black, Color.LIGHT_GRAY);"
+  <Catalog>
+    <col0>    GlobalMethods.autoColor(p4c, Color.black, Color.LIGHT_GRAY);</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   <p>"
+  <Catalog>
+    <col0>   <p></col0>
+  </Catalog>
+ 
+"   @param name setTitle()"
+  <Catalog>
+    <col0>   @param name setTitle()</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  @Override"
+  <Catalog>
+    <col0>  @Override</col0>
+  </Catalog>
+ 
+"  public void setTitle(String name) {"
+  <Catalog>
+    <col0>  public void setTitle(String name) {</col0>
+  </Catalog>
+ 
+"    //<editor-fold defaultstate="collapsed" desc="DEBUG">"
+  <Catalog>
+    <col0>    //<editor-fold defaultstate=collapsed desc=DEBUG></col0>
+  </Catalog>
+ 
+"    boolean DEBUG = false;"
+  <Catalog>
+    <col0>    boolean DEBUG = false;</col0>
+  </Catalog>
+ 
+"    if (DEBUG) { // true or false"
+  <Catalog>
+    <col0>    if (DEBUG) { // true or false</col0>
+  </Catalog>
+ 
+"      //System.out.print("\tClass " + " = " + getClass());"
+  <Catalog>
+    <col0>      //System.out.print(\tClass    =   getClass());</col0>
+  </Catalog>
+ 
+"      //System.out.print("\t" + Thread.currentThread().getStackTrace()[1].getMethodName());"
+  <Catalog>
+    <col0>      //System.out.print(\t  Thread.currentThread().getStackTrace()[1].getMethodName());</col0>
+  </Catalog>
+ 
+"      ////System.out.print("" + " = " + );"
+  <Catalog>
+    <col0>      ////System.out.print(   =   );</col0>
+  </Catalog>
+ 
+"    }"
+  <Catalog>
+    <col0>    }</col0>
+  </Catalog>
+ 
+"    //</editor-fold>"
+  <Catalog>
+    <col0>    //</editor-fold></col0>
+  </Catalog>
+ 
+"    setTitle(name);"
+  <Catalog>
+    <col0>    setTitle(name);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   <p>"
+  <Catalog>
+    <col0>   <p></col0>
+  </Catalog>
+ 
+"   @return name of class"
+  <Catalog>
+    <col0>   @return name of class</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  @Override"
+  <Catalog>
+    <col0>  @Override</col0>
+  </Catalog>
+ 
+"  public String toString() {"
+  <Catalog>
+    <col0>  public String toString() {</col0>
+  </Catalog>
+ 
+"    return "" + getClass().getName() + "[]";"
+  <Catalog>
+    <col0>    return   getClass().getName()  [];</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+"}"
+  <Catalog>
+    <col0>}</col0>
+  </Catalog>
+ 
+</Catalogs>

@@ -1,0 +1,5 @@
+//	JI-1.txt
+lines.gif
+box.gif c c 4F9849
+star.gif c c 000000
+JI-1.gif

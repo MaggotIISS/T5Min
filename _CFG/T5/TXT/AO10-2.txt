@@ -1,0 +1,5 @@
+//	AO10-2.txt
+lines.gif
+box.gif c c C0DCC0
+AO10.gif c c FFFFFF
+AO10-2.gif

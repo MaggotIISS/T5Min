@@ -1,0 +1,6 @@
+//	LI-4.txt
+#LI  2F 6F 2F
+lines.gif
+box.gif c c 2F6F2F
+LI 1 1 35 H 000000
+LI-4.gif

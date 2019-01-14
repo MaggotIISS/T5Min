@@ -1,0 +1,10 @@
+//	AutoSnub10BALL-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+pistol.gif c c 000000
+AutoSnub10 2 1 35 H 000000
+TL8 50 1 35 H 000000
+20.3.0 2 7 35 H 000000
+1D+1.1 2 13 35 H 000000
+AutoSnub10BALL-1.gif

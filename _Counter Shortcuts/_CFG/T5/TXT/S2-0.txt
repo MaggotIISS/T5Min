@@ -1,0 +1,6 @@
+//	S2-0.txt
+#S2
+lines.gif
+box.gif c c 90FF9F
+S2 1 1 35 H 000000
+S2-0.gif

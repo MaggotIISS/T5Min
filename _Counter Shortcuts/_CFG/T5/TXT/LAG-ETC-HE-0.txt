@@ -1,0 +1,10 @@
+//	LAG-ETC-HE-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+squadsupport.gif c c 000000
+LAG-ETC 2 1 35 H 000000
+TL9 50 1 35 H 000000
+5.2.-3 2 7 35 H 000000
+2D+1.2D 2 13 35 H 000000
+LAG-ETC-HE-0.gif

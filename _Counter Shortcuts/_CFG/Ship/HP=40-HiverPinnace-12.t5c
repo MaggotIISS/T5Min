@@ -1,0 +1,51 @@
+//	HP=40-HiverPinnace-12-0.txt
+// lines.gif
+// Box.gif 1 1 FFFFFF
+// Box.gif c 1 FFFFFF
+// Box.gif 43 1 FFFFFF
+// Box.gif 1 c FFFFFF
+// Box.gif c c FFFFFF
+// Box.gif 43 c FFFFFF
+// Box.gif 1 37 FFFFFF
+// Box.gif c 37 FFFFFF
+// Box.gif 43 37 FFFFFF
+// HP=40 C 1 35 H 000000
+// HIVER C 7 35 H 000000
+// PINNACE C 13 35 H 000000
+// 40DT=+6 2 19 35 H 000000
+// DR500 2 25 35 H 000000
+// HP15000 2 31 35 H 000000 
+// P 2 37 35 H 000000
+// A 2 43 35 H 000000
+// C 2 49 35 H 000000
+// TL12 23 37 35 H 000000
+// J0 23 43 35 H 000000
+// 6.2G 23 49 35 H 000000
+// C3 45 19 35 H 000000
+// P2 45 25 35 H 000000
+// C0 45 31 35 H 000000
+// HP=40-HiverPinnace-12-0.gif
+////////////////////////////////////////////////////////////////////////////////
+// HP=40-HiverPinnace-12
+FC
+0 = 
+1 = 
+2 = 
+3 = 
+4 = 
+5 = 
+6 = 
+7 = 
+8 = 
+9 = 
+BC
+0 = HP=40-HiverPinnace-12
+1 = 
+2 = 
+3 = V 
+4 = M 
+5 = C 
+6 = TL 
+7 = J 
+8 = G 
+9 =  

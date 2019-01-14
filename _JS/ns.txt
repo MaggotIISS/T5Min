@@ -1,0 +1,11 @@
+// NameSpace info
+Sectors
+SubSectors
+Systems
+Routes
+Crews
+Ships
+Rons
+Fleets
+Catalogs
+Counters

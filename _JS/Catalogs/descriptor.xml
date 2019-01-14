@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="descriptor.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"CODE","TYPE","TL","MASS","AR","CA","FL","RA","SO","PS","IN","SE","Comment","Cr"
+"A","Armor","8","30","7","3","3","3","3","1","3","3","","20000"
+  <Catalog>
+    <col0>A</col0>
+    <col1>Armor</col1>
+    <col2>8</col2>
+    <col3>30</col3>
+    <col4>7</col4>
+    <col5>3</col5>
+    <col6>3</col6>
+    <col7>3</col7>
+    <col8>3</col8>
+    <col9>1</col9>
+    <col10>3</col10>
+    <col11>3</col11>
+    <col12></col12>
+    <col13>20000</col13>
+  </Catalog>
+ 
+"D","Dress","10","40","9","6","6","6","6","1","6","6","","40000"
+  <Catalog>
+    <col0>D</col0>
+    <col1>Dress</col1>
+    <col2>10</col2>
+    <col3>40</col3>
+    <col4>9</col4>
+    <col5>6</col5>
+    <col6>6</col6>
+    <col7>6</col7>
+    <col8>6</col8>
+    <col9>1</col9>
+    <col10>6</col10>
+    <col11>6</col11>
+    <col12></col12>
+    <col13>40000</col13>
+  </Catalog>
+ 
+"S","Suit","5","10","2","1","1","1","1","1","1","1","","1000"
+  <Catalog>
+    <col0>S</col0>
+    <col1>Suit</col1>
+    <col2>5</col2>
+    <col3>10</col3>
+    <col4>2</col4>
+    <col5>1</col5>
+    <col6>1</col6>
+    <col7>1</col7>
+    <col8>1</col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>1</col11>
+    <col12></col12>
+    <col13>1000</col13>
+  </Catalog>
+ 
+"U","Unit","9","200","4","2","2","2","2","1","2","2","","60000"
+  <Catalog>
+    <col0>U</col0>
+    <col1>Unit</col1>
+    <col2>9</col2>
+    <col3>200</col3>
+    <col4>4</col4>
+    <col5>2</col5>
+    <col6>2</col6>
+    <col7>2</col7>
+    <col8>2</col8>
+    <col9>1</col9>
+    <col10>2</col10>
+    <col11>2</col11>
+    <col12></col12>
+    <col13>60000</col13>
+  </Catalog>
+ 
+</Catalogs>

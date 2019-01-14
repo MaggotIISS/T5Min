@@ -1,0 +1,6 @@
+//	BC-4.txt
+#BC  C0 D0 C0
+lines.gif
+box.gif c c C0D0C0
+BC 1 1 35 H 000000
+BC-4.gif

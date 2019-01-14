@@ -1,0 +1,5 @@
+"TYPE","CODE","TL"
+"Armor","A","8"
+"Dress","D","10"
+"Suit","S","5"
+"Unit","U","9"

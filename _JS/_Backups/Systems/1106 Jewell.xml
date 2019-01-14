@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Systems.xsl"?>
+<!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+34
+1106 Jewell               A777999-C Hi In                                    { 5 }  (G8G+5) [AE6D] BEf   NS - 623 10 ImDd G7 V          
+  <System>
+    <hex>1106</hex>
+    <sname>Jewell</sname>
+    <UWP>A777999-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>7</hy>
+    <po>9</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Hi In</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(G8G+5)</ex>
+    <cx>[AE6D]</cx>
+    <n>BEf</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>10</w>
+    <a>ImDd</a>
+    <stellar>G7 V</stellar>
+  </System>
+
+</Systems>

@@ -1,0 +1,5 @@
+//	AD-0.txt
+lines.gif
+Box.gif c c A0A0A0
+Admin.gif c c 000000
+AD-0.gif

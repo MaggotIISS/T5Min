@@ -1,0 +1,14 @@
+//	Boxes-0.txt
+# Boxes.cfg
+# Colour Boxes for notice
+lines.gif
+Box.gif 1 1 0000FF
+Box.gif c 1 0000FF
+Box.gif 43 1 0000FF
+Box.gif 1 c 0000FF
+Box.gif c c 0000FF
+Box.gif 43 c 0000FF
+Box.gif 1 37 0000FF
+Box.gif c 37 0000FF
+Box.gif 43 37 0000FF
+Boxes-0.gif

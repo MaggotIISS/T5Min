@@ -1,0 +1,6 @@
+//	ND-0.txt
+#ND  FF  
+lines.gif
+box.gif c c FF9098
+ND 1 1 35 H 000000
+ND-0.gif

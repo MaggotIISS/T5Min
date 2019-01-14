@@ -1,0 +1,4 @@
+//	LA-2.txt
+lines.gif
+box.gif c c FF0000
+LA-2.gif

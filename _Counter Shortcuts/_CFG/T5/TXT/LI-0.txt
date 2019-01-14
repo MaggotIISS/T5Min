@@ -1,0 +1,6 @@
+//	LI-0.txt
+# ArmyTypes.cfg
+lines.gif
+Box.gif c c 346631
+infantry.gif c c 000000
+LI-0.gif

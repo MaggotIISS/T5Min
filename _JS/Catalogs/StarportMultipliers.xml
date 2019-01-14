@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="StarportMultipliers.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"A","1.0"
+"B","0.9"
+  <Catalog>
+    <col0>B</col0>
+    <col1>0.9</col1>
+  </Catalog>
+ 
+"C","0.8"
+  <Catalog>
+    <col0>C</col0>
+    <col1>0.8</col1>
+  </Catalog>
+ 
+"D","0.7"
+  <Catalog>
+    <col0>D</col0>
+    <col1>0.7</col1>
+  </Catalog>
+ 
+"E","0.6"
+  <Catalog>
+    <col0>E</col0>
+    <col1>0.6</col1>
+  </Catalog>
+ 
+</Catalogs>

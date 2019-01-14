@@ -1,0 +1,7 @@
+//	CPD5-0.txt
+blank.gif
+im.gif c c replace
+harvehastr.gif c c 000000
+CPD5 C 7 35 H 000000
+6 2 7 35 H 000000
+CPD5-0.gif

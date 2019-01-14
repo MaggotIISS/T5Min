@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="D Aramis.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""2509""
+""2510""
+  <Catalog>
+    <col0>2510</col0>
+  </Catalog>
+ 
+""2602""
+  <Catalog>
+    <col0>2602</col0>
+  </Catalog>
+ 
+""2607""
+  <Catalog>
+    <col0>2607</col0>
+  </Catalog>
+ 
+""2701""
+  <Catalog>
+    <col0>2701</col0>
+  </Catalog>
+ 
+""2706""
+  <Catalog>
+    <col0>2706</col0>
+  </Catalog>
+ 
+""2708""
+  <Catalog>
+    <col0>2708</col0>
+  </Catalog>
+ 
+""2905""
+  <Catalog>
+    <col0>2905</col0>
+  </Catalog>
+ 
+""2906""
+  <Catalog>
+    <col0>2906</col0>
+  </Catalog>
+ 
+""2908""
+  <Catalog>
+    <col0>2908</col0>
+  </Catalog>
+ 
+""3001""
+  <Catalog>
+    <col0>3001</col0>
+  </Catalog>
+ 
+""3002""
+  <Catalog>
+    <col0>3002</col0>
+  </Catalog>
+ 
+""3003""
+  <Catalog>
+    <col0>3003</col0>
+  </Catalog>
+ 
+""3004""
+  <Catalog>
+    <col0>3004</col0>
+  </Catalog>
+ 
+""3005""
+  <Catalog>
+    <col0>3005</col0>
+  </Catalog>
+ 
+""3008""
+  <Catalog>
+    <col0>3008</col0>
+  </Catalog>
+ 
+""3010""
+  <Catalog>
+    <col0>3010</col0>
+  </Catalog>
+ 
+""3102""
+  <Catalog>
+    <col0>3102</col0>
+  </Catalog>
+ 
+""3103""
+  <Catalog>
+    <col0>3103</col0>
+  </Catalog>
+ 
+""3104""
+  <Catalog>
+    <col0>3104</col0>
+  </Catalog>
+ 
+""3107""
+  <Catalog>
+    <col0>3107</col0>
+  </Catalog>
+ 
+""3110""
+  <Catalog>
+    <col0>3110</col0>
+  </Catalog>
+ 
+""3202""
+  <Catalog>
+    <col0>3202</col0>
+  </Catalog>
+ 
+""3207""
+  <Catalog>
+    <col0>3207</col0>
+  </Catalog>
+ 
+""3209""
+  <Catalog>
+    <col0>3209</col0>
+  </Catalog>
+ 
+""3210""
+  <Catalog>
+    <col0>3210</col0>
+  </Catalog>
+ 
+</Catalogs>

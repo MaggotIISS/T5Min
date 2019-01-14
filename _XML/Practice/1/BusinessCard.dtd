@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/BusinessCard.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE BusinessCard SYSTEM "BusinessCard.dtd">
+
+    <BusinessCard>
+    ...
+    </BusinessCard>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT BusinessCard (Name|phone|email)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+    type CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT email (#PCDATA)>

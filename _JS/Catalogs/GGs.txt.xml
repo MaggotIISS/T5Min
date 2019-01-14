@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="GGs.txt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"2D","Size","WSize","Dia","Type"
+"1","L","20","20,000"
+  <Catalog>
+    <col0>1</col0>
+    <col1>L</col1>
+    <col2>20</col2>
+    <col3>20,000</col3>
+  </Catalog>
+ 
+"2","M","21","30,000","Neptune"
+  <Catalog>
+    <col0>2</col0>
+    <col1>M</col1>
+    <col2>21</col2>
+    <col3>30,000</col3>
+    <col4>Neptune</col4>
+  </Catalog>
+ 
+"3","N","22","40,000"
+  <Catalog>
+    <col0>3</col0>
+    <col1>N</col1>
+    <col2>22</col2>
+    <col3>40,000</col3>
+  </Catalog>
+ 
+"4","P","23","50,000"
+  <Catalog>
+    <col0>4</col0>
+    <col1>P</col1>
+    <col2>23</col2>
+    <col3>50,000</col3>
+  </Catalog>
+ 
+"5","Q","24","60,000"
+  <Catalog>
+    <col0>5</col0>
+    <col1>Q</col1>
+    <col2>24</col2>
+    <col3>60,000</col3>
+  </Catalog>
+ 
+"6","R","25","70,000","Saturn"
+  <Catalog>
+    <col0>6</col0>
+    <col1>R</col1>
+    <col2>25</col2>
+    <col3>70,000</col3>
+    <col4>Saturn</col4>
+  </Catalog>
+ 
+"7","S","26","80,000"
+  <Catalog>
+    <col0>7</col0>
+    <col1>S</col1>
+    <col2>26</col2>
+    <col3>80,000</col3>
+  </Catalog>
+ 
+"8","T","27","90,000","Jupiter"
+  <Catalog>
+    <col0>8</col0>
+    <col1>T</col1>
+    <col2>27</col2>
+    <col3>90,000</col3>
+    <col4>Jupiter</col4>
+  </Catalog>
+ 
+"9","U","28","125,000","2Mj"
+  <Catalog>
+    <col0>9</col0>
+    <col1>U</col1>
+    <col2>28</col2>
+    <col3>125,000</col3>
+    <col4>2Mj</col4>
+  </Catalog>
+ 
+"10","V","29","180,000","4Mj"
+  <Catalog>
+    <col0>10</col0>
+    <col1>V</col1>
+    <col2>29</col2>
+    <col3>180,000</col3>
+    <col4>4Mj</col4>
+  </Catalog>
+ 
+"11","W","30","220,000","6Mj"
+  <Catalog>
+    <col0>11</col0>
+    <col1>W</col1>
+    <col2>30</col2>
+    <col3>220,000</col3>
+    <col4>6Mj</col4>
+  </Catalog>
+ 
+"12","X","31","250,000","8Mj"
+  <Catalog>
+    <col0>12</col0>
+    <col1>X</col1>
+    <col2>31</col2>
+    <col3>250,000</col3>
+    <col4>8Mj</col4>
+  </Catalog>
+ 
+</Catalogs>

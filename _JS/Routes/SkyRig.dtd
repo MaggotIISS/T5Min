@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/SkyRig.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE Systems SYSTEM "SkyRig.dtd">
+
+    <Systems>
+    ...
+    </Systems>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT Systems (#PCDATA|System)*>
+<!ATTLIST Systems
+    xmlns:Systems CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT System (go|hex|sname|ix|a|ex|UWP|st|pbg|b|w|stellar|si|at|remarks|z|hy|po|ll|n|cx|tl)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hex (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sname (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT UWP (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT st (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT si (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT at (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hy (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT po (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT go (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ll (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tl (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT remarks (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ix (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ex (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT cx (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT n (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT b (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT z (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT pbg (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT w (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT a (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT stellar (#PCDATA)>

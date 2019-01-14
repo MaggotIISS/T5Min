@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Distance.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"ORBIT","AU","MKM","SOLAR RADII"
+"0","0.2","29.9","40"
+  <Catalog>
+    <col0>0</col0>
+    <col1>0.2</col1>
+    <col2>29.9</col2>
+    <col3>40</col3>
+  </Catalog>
+ 
+"1","0.4","59.8","80"
+  <Catalog>
+    <col0>1</col0>
+    <col1>0.4</col1>
+    <col2>59.8</col2>
+    <col3>80</col3>
+  </Catalog>
+ 
+"2","0.7","104.7","140"
+  <Catalog>
+    <col0>2</col0>
+    <col1>0.7</col1>
+    <col2>104.7</col2>
+    <col3>140</col3>
+  </Catalog>
+ 
+"3","1","149.6","200"
+  <Catalog>
+    <col0>3</col0>
+    <col1>1</col1>
+    <col2>149.6</col2>
+    <col3>200</col3>
+  </Catalog>
+ 
+"4","1.6","239.3","320"
+  <Catalog>
+    <col0>4</col0>
+    <col1>1.6</col1>
+    <col2>239.3</col2>
+    <col3>320</col3>
+  </Catalog>
+ 
+"5","2.8","418.9","560"
+  <Catalog>
+    <col0>5</col0>
+    <col1>2.8</col1>
+    <col2>418.9</col2>
+    <col3>560</col3>
+  </Catalog>
+ 
+"6","5.2","777.9","1040"
+  <Catalog>
+    <col0>6</col0>
+    <col1>5.2</col1>
+    <col2>777.9</col2>
+    <col3>1040</col3>
+  </Catalog>
+ 
+"7","10","1495.9","2000"
+  <Catalog>
+    <col0>7</col0>
+    <col1>10</col1>
+    <col2>1495.9</col2>
+    <col3>2000</col3>
+  </Catalog>
+ 
+"8","19.6","2932","3920"
+  <Catalog>
+    <col0>8</col0>
+    <col1>19.6</col1>
+    <col2>2932</col2>
+    <col3>3920</col3>
+  </Catalog>
+ 
+"9","38.8","5804","7760"
+  <Catalog>
+    <col0>9</col0>
+    <col1>38.8</col1>
+    <col2>5804</col2>
+    <col3>7760</col3>
+  </Catalog>
+ 
+"10","77.2","11548","15440"
+  <Catalog>
+    <col0>10</col0>
+    <col1>77.2</col1>
+    <col2>11548</col2>
+    <col3>15440</col3>
+  </Catalog>
+ 
+"11","154","23038","30800"
+  <Catalog>
+    <col0>11</col0>
+    <col1>154</col1>
+    <col2>23038</col2>
+    <col3>30800</col3>
+  </Catalog>
+ 
+"12","307.6","46016","61520"
+  <Catalog>
+    <col0>12</col0>
+    <col1>307.6</col1>
+    <col2>46016</col2>
+    <col3>61520</col3>
+  </Catalog>
+ 
+"13","614.8","91972","123498"
+  <Catalog>
+    <col0>13</col0>
+    <col1>614.8</col1>
+    <col2>91972</col2>
+    <col3>123498</col3>
+  </Catalog>
+ 
+"14","1229.2","183885","245836"
+  <Catalog>
+    <col0>14</col0>
+    <col1>1229.2</col1>
+    <col2>183885</col2>
+    <col3>245836</col3>
+  </Catalog>
+ 
+"15","2458","367711","491594"
+  <Catalog>
+    <col0>15</col0>
+    <col1>2458</col1>
+    <col2>367711</col2>
+    <col3>491594</col3>
+  </Catalog>
+ 
+"16","4915.6","735363","983106"
+  <Catalog>
+    <col0>16</col0>
+    <col1>4915.6</col1>
+    <col2>735363</col2>
+    <col3>983106</col3>
+  </Catalog>
+ 
+"17","9830.8","1470666","1966132"
+  <Catalog>
+    <col0>17</col0>
+    <col1>9830.8</col1>
+    <col2>1470666</col2>
+    <col3>1966132</col3>
+  </Catalog>
+ 
+"18","19661.2","2940274","3932184"
+  <Catalog>
+    <col0>18</col0>
+    <col1>19661.2</col1>
+    <col2>2940274</col2>
+    <col3>3932184</col3>
+  </Catalog>
+ 
+"19","39322","5882488","7864290"
+  <Catalog>
+    <col0>19</col0>
+    <col1>39322</col1>
+    <col2>5882488</col2>
+    <col3>7864290</col3>
+  </Catalog>
+ 
+</Catalogs>

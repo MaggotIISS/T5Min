@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="RequiredRefuellingTimes.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"Source","PSL","SL","USL"
+"Gas Giant","0","0","1"
+  <Catalog>
+    <col0>Gas Giant</col0>
+    <col1>0</col1>
+    <col2>0</col2>
+    <col3>1</col3>
+  </Catalog>
+ 
+"Ocean","0","1","1"
+  <Catalog>
+    <col0>Ocean</col0>
+    <col1>0</col1>
+    <col2>1</col2>
+    <col3>1</col3>
+  </Catalog>
+ 
+"Starport","*","*","*"
+  <Catalog>
+    <col0>Starport</col0>
+    <col1>*</col1>
+    <col2>*</col2>
+    <col3>*</col3>
+  </Catalog>
+ 
+"Base","0","0","0"
+  <Catalog>
+    <col0>Base</col0>
+    <col1>0</col1>
+    <col2>0</col2>
+    <col3>0</col3>
+  </Catalog>
+ 
+</Catalogs>

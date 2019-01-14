@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Size.txt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Digit","Dia(mi)","Dia(km)"
+"0","Asteroid Belt","varies"
+  <Catalog>
+    <col0>0</col0>
+    <col1>Asteroid Belt</col1>
+    <col2>varies</col2>
+  </Catalog>
+ 
+"1","1,000","1,600"
+  <Catalog>
+    <col0>1</col0>
+    <col1>1,000</col1>
+    <col2>1,600</col2>
+  </Catalog>
+ 
+"2","2,000","3,200"
+  <Catalog>
+    <col0>2</col0>
+    <col1>2,000</col1>
+    <col2>3,200</col2>
+  </Catalog>
+ 
+"3","3,000","4,800"
+  <Catalog>
+    <col0>3</col0>
+    <col1>3,000</col1>
+    <col2>4,800</col2>
+  </Catalog>
+ 
+"4","4,000","6,400"
+  <Catalog>
+    <col0>4</col0>
+    <col1>4,000</col1>
+    <col2>6,400</col2>
+  </Catalog>
+ 
+"5","5,000","8,000"
+  <Catalog>
+    <col0>5</col0>
+    <col1>5,000</col1>
+    <col2>8,000</col2>
+  </Catalog>
+ 
+"6","6,000","9,600"
+  <Catalog>
+    <col0>6</col0>
+    <col1>6,000</col1>
+    <col2>9,600</col2>
+  </Catalog>
+ 
+"7","7,000","12,200"
+  <Catalog>
+    <col0>7</col0>
+    <col1>7,000</col1>
+    <col2>12,200</col2>
+  </Catalog>
+ 
+"8","8,000","13,800"
+  <Catalog>
+    <col0>8</col0>
+    <col1>8,000</col1>
+    <col2>13,800</col2>
+  </Catalog>
+ 
+"9","9,000","14,400"
+  <Catalog>
+    <col0>9</col0>
+    <col1>9,000</col1>
+    <col2>14,400</col2>
+  </Catalog>
+ 
+"A","10,000","16,000"
+  <Catalog>
+    <col0>A</col0>
+    <col1>10,000</col1>
+    <col2>16,000</col2>
+  </Catalog>
+ 
+"B","11,000","17,600"
+  <Catalog>
+    <col0>B</col0>
+    <col1>11,000</col1>
+    <col2>17,600</col2>
+  </Catalog>
+ 
+"C","12,000","19,200"
+  <Catalog>
+    <col0>C</col0>
+    <col1>12,000</col1>
+    <col2>19,200</col2>
+  </Catalog>
+ 
+"D","13,000","20,800"
+  <Catalog>
+    <col0>D</col0>
+    <col1>13,000</col1>
+    <col2>20,800</col2>
+  </Catalog>
+ 
+"E","14,000","22,400"
+  <Catalog>
+    <col0>E</col0>
+    <col1>14,000</col1>
+    <col2>22,400</col2>
+  </Catalog>
+ 
+"F","15,000","24,000"
+  <Catalog>
+    <col0>F</col0>
+    <col1>15,000</col1>
+    <col2>24,000</col2>
+  </Catalog>
+ 
+</Catalogs>

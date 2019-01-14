@@ -1,0 +1,10 @@
+//	LaserRifle9-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+energywpn.gif c c 000000
+LasRifle 2 1 35 H 000000
+TL9 50 1 35 H 000000
+100.4.0 2 7 35 H 000000
+4D.1 2 13 35 H 000000
+LaserRifle9-1.gif

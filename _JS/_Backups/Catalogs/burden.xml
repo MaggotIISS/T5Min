@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="burden.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"BURDEN","CODE","TL"
+"VLight","Vl","1"
+  <Catalog>
+    <col0>VLight</col0>
+    <col1>Vl</col1>
+    <col2>1</col2>
+  </Catalog>
+ 
+"Light","Lt","0"
+  <Catalog>
+    <col0>Light</col0>
+    <col1>Lt</col1>
+    <col2>0</col2>
+  </Catalog>
+ 
+"(blank)","","0"
+  <Catalog>
+    <col0>(blank)</col0>
+    <col1></col1>
+    <col2>0</col2>
+  </Catalog>
+ 
+"Medium","M","0"
+  <Catalog>
+    <col0>Medium</col0>
+    <col1>M</col1>
+    <col2>0</col2>
+  </Catalog>
+ 
+"Heavy","H","1"
+  <Catalog>
+    <col0>Heavy</col0>
+    <col1>H</col1>
+    <col2>1</col2>
+  </Catalog>
+ 
+"Disposable","D","3"
+  <Catalog>
+    <col0>Disposable</col0>
+    <col1>D</col1>
+    <col2>3</col2>
+  </Catalog>
+ 
+"Oversize","OS","1"
+  <Catalog>
+    <col0>Oversize</col0>
+    <col1>OS</col1>
+    <col2>1</col2>
+  </Catalog>
+ 
+"Titan","T","3"
+  <Catalog>
+    <col0>Titan</col0>
+    <col1>T</col1>
+    <col2>3</col2>
+  </Catalog>
+ 
+</Catalogs>

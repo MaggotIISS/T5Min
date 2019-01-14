@@ -1,0 +1,7 @@
+"LINE","CODE","DESCRIPTOR","TL","RANGE","MASS","qreBs"
+"Portability","(blank)","(blank)","0","0","1.0","0"
+"Portability","C","Crewed","0","0","1.0","1"
+"Portability","F","Fixed","0","1","1.0","4"
+"Portability","P","Portable","0","1","1.0","-2"
+"Portability","V","Vehicle Mount","0","1","1.0","0"
+"Portability","T","Turret Mount","1","0","1.0","0"

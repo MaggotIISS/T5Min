@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Sports.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Team","Goalie","FullBack1","FullBack2","CentreHalf1","CentreHalf2","MidField1","MidField2","MidField3","MidField4","Forward1","Forward2""
+""Mark United","Mark","Me","Him","Her","and her","another","another one","someone","someone else","mainly me","sometimes mw""
+  <Catalog>
+    <col0>Mark United</col0>
+    <col1>Mark</col1>
+    <col2>Me</col2>
+    <col3>Him</col3>
+    <col4>Her</col4>
+    <col5>and her</col5>
+    <col6>another</col6>
+    <col7>another one</col7>
+    <col8>someone</col8>
+    <col9>someone else</col9>
+    <col10>mainly me</col10>
+    <col11>sometimes mw</col11>
+  </Catalog>
+ 
+</Catalogs>

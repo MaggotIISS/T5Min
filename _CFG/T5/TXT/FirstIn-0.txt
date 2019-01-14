@@ -1,0 +1,4 @@
+//	FirstIn-0.txt
+lines.gif
+firstin.gif c c replace
+FirstIn-0.gif

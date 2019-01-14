@@ -1,0 +1,12 @@
+StarSize
+--------------------
+Code	Description	Diameter (Sol = 1)	
+Ia	Bright Supergiant	52 - 3500	
+Ib	Weak Supergiant	30 - 3000	
+II	Bright Giant	14 - 1000	
+III	Normal Giant	4.6 - 360	
+IV	Subgiant	3.3 - 13	
+V	Main Sequence Star	0.2 - 10	
+VI	Subdwarf	0.1 - 1.2	
+VII	White Dwarf	0.006 - 0.018	
+D	White Dwarf	0.006 - 0.018	

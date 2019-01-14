@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script
+src="http://maps.googleapis.com/maps/api/js">
+</script>
+<script>
+var myCenter=new google.maps.LatLng(52.593976, 1.730794);
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:20,
+  mapTypeId:google.maps.MapTypeId.SATELLITE
+  };
+
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+var marker=new google.maps.Marker({
+  position:myCenter,
+  });
+
+marker.setMap(map);
+
+var infowindow = new google.maps.InfoWindow({
+  content:"Maggots home"
+  });
+
+infowindow.open(map,marker);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+<br>
+<script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script>
+<small><i><a href="http://www.brainyquote.com/quotes_of_the_day.html" target="_blank">more Quotes</a></i></small>
+<br>
+<p id="demo"></p>
+ <audio controls>
+  <source src="file:///E:/MUSIC/MarksMusic/CannonFodder/theme.mp3">
+  Your browser does not support the audio tag.
+</audio> <br/>
+</head>
+<body>
+<div id="googleMap" style="width:1500px;height:1000px;"></div>
+</body>
+</html>

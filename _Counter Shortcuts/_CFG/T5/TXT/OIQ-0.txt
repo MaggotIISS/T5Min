@@ -1,0 +1,6 @@
+//	OIQ-0.txt
+#OIQ   
+lines.gif
+box.gif c c 6F98C0
+OIQ 1 1 35 H 000000
+OIQ-0.gif

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE address SYSTEM "Address.dtd">
+<!--
+http://www.w3.org/TR/xml
+
+http://www.w3.org/TR/xslt
+
+http://www.w3schools.com/xml/default.asp
+
+http://www.w3schools.com/schema/default.asp
+
+http://www.w3schools.com/xsl/default.asp
+
+http://www.w3schools.com/webservices/default.asp
+
+UK postal data
+Postal address letters are sent to
+<name id=""></name>
+<street id=""></street>
+<town id=""></town>
+<region id=""></region>
+<postcode id=""></postcode>
+<country id=""></country>
+-->
+<address>
+  <name>Mark Ferguson</name>
+  <street>83 Admiralty Road</street>
+  <town>GREAT YARMOUTH</town>
+  <region>Norfolk</region>
+  <postcode>NR303DX</postcode>
+  <country>UK</country>
+
+  <name>Debi Ferguson</name>
+  <street>83 Admiralty Road</street>
+  <town>GREAT YARMOUTH</town>
+  <region>Norfolk</region>
+  <postcode>NR303DX</postcode>
+  <country>UK</country>
+</address>

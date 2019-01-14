@@ -1,0 +1,5 @@
+//	GT-0.txt
+lines.gif
+box.gif c c 2222FF
+armor.gif c c 000000
+GT-0.gif

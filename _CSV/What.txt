@@ -1,0 +1,8 @@
+Item
+Armour
+Weapon
+Structure
+Vehicle
+Craft
+Ship
+Station

@@ -1,0 +1,4 @@
+//	DetatchedDuty-0.txt
+lines.gif
+DET.gif c c replace
+DetatchedDuty-0.gif

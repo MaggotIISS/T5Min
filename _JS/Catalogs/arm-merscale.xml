@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="arm-merscale.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""SIZE""
+""TICKET""
+  <Catalog>
+    <col0>TICKET</col0>
+  </Catalog>
+ 
+""CADRE""
+  <Catalog>
+    <col0>CADRE</col0>
+  </Catalog>
+ 
+""RAID""
+  <Catalog>
+    <col0>RAID</col0>
+  </Catalog>
+ 
+""A_SUPER""
+  <Catalog>
+    <col0>A_SUPER</col0>
+  </Catalog>
+ 
+""SUPPORT""
+  <Catalog>
+    <col0>SUPPORT</col0>
+  </Catalog>
+ 
+""GENERAL""
+  <Catalog>
+    <col0>GENERAL</col0>
+  </Catalog>
+ 
+</Catalogs>

@@ -1,0 +1,5 @@
+//	MP-1.txt
+lines.gif
+box.gif c c 7FA7FF
+star.gif c c 000000
+MP-1.gif

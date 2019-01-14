@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="ResourceTradeBenefit.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Roll","Export Benefit","Import Benefit"
+"2","0.3","0.2"
+  <Catalog>
+    <col0>2</col0>
+    <col1>0.3</col1>
+    <col2>0.2</col2>
+  </Catalog>
+ 
+"3","0.3","0.2"
+  <Catalog>
+    <col0>3</col0>
+    <col1>0.3</col1>
+    <col2>0.2</col2>
+  </Catalog>
+ 
+"4","0.4","0.3"
+  <Catalog>
+    <col0>4</col0>
+    <col1>0.4</col1>
+    <col2>0.3</col2>
+  </Catalog>
+ 
+"5","0.4","0.3"
+  <Catalog>
+    <col0>5</col0>
+    <col1>0.4</col1>
+    <col2>0.3</col2>
+  </Catalog>
+ 
+"6","0.5","0.4"
+  <Catalog>
+    <col0>6</col0>
+    <col1>0.5</col1>
+    <col2>0.4</col2>
+  </Catalog>
+ 
+"7","0.5","0.4"
+  <Catalog>
+    <col0>7</col0>
+    <col1>0.5</col1>
+    <col2>0.4</col2>
+  </Catalog>
+ 
+"8","0.5","0.4"
+  <Catalog>
+    <col0>8</col0>
+    <col1>0.5</col1>
+    <col2>0.4</col2>
+  </Catalog>
+ 
+"9","0.5","0.4"
+  <Catalog>
+    <col0>9</col0>
+    <col1>0.5</col1>
+    <col2>0.4</col2>
+  </Catalog>
+ 
+"10","0.6","0.5"
+  <Catalog>
+    <col0>10</col0>
+    <col1>0.6</col1>
+    <col2>0.5</col2>
+  </Catalog>
+ 
+"11","0.6","0.5"
+  <Catalog>
+    <col0>11</col0>
+    <col1>0.6</col1>
+    <col2>0.5</col2>
+  </Catalog>
+ 
+"12","0.7","0.6"
+  <Catalog>
+    <col0>12</col0>
+    <col1>0.7</col1>
+    <col2>0.6</col2>
+  </Catalog>
+ 
+</Catalogs>

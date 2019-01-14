@@ -1,0 +1,8 @@
+"TL","Description","Drag","Mass","Capacity","Cr"
+"5","Fixed Mount","0","0","1 Weapon","0"
+"5","Bomb Hardpoint","-1","0.02","1 Bomb","2000"
+"5","Bomb Rack","-4","0.1","6 Bombs","8000"
+"5","Internal Bomb Bay","0","1","1 Ton of Bombs","15000"
+"5","Turret","4","0.4","40kg of Weapons","5000"
+"6","Remote Turret","2","0.5","60kg of Weapons","50000"
+"7","Remote Turret","1","0.5","60kg of Weapons","20000"

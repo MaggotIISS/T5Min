@@ -1,0 +1,10 @@
+//	1350Plasma-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+vehicularwpn.gif c c 000000
+1350PLASMA 2 1 35 H 000000
+TL10 50 1 35 H 000000
+VAR_0.5_0 2 7 35 H 000000
+6DX400.1 2 13 35 H 000000
+1350Plasma-0.gif

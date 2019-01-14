@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="PreparednessLevel.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"1D","PL"
+"1","0-Total Demobilisation"
+  <Catalog>
+    <col0>1</col0>
+    <col1>0-Total Demobilisation</col1>
+  </Catalog>
+ 
+"2","1-Partial Demobilisation"
+  <Catalog>
+    <col0>2</col0>
+    <col1>1-Partial Demobilisation</col1>
+  </Catalog>
+ 
+"3","2-Limited Mobilisation"
+  <Catalog>
+    <col0>3</col0>
+    <col1>2-Limited Mobilisation</col1>
+  </Catalog>
+ 
+"4","3-Moderate Mobilisation"
+  <Catalog>
+    <col0>4</col0>
+    <col1>3-Moderate Mobilisation</col1>
+  </Catalog>
+ 
+"5","4-High Mobilisation"
+  <Catalog>
+    <col0>5</col0>
+    <col1>4-High Mobilisation</col1>
+  </Catalog>
+ 
+"6","5-Full Mobilisation"
+  <Catalog>
+    <col0>6</col0>
+    <col1>5-Full Mobilisation</col1>
+  </Catalog>
+ 
+</Catalogs>

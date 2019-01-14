@@ -1,0 +1,7 @@
+//	SDA4-0.txt
+blank.gif
+im.gif c c replace
+harvehastn.gif c c 000000
+SDA4 c 7 35 H 000000
+4 2 7 35 H 000000
+SDA4-0.gif

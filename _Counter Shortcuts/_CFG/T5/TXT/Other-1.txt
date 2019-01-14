@@ -1,0 +1,6 @@
+//	Other-1.txt
+#OTHER  6F FF FF
+lines.gif
+box.gif c c 6FFFFF
+OTHER 1 1 35 H 000000
+Other-1.gif

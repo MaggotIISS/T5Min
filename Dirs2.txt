@@ -1,0 +1,647 @@
+C:\T5\.git
+C:\T5\.metadata
+C:\T5\Gushemege
+C:\T5\Solomani Rim
+C:\T5\Spinward Marches
+C:\T5\Vland
+C:\T5\_CFG
+C:\T5\_Counter Shortcuts
+C:\T5\_CSV
+C:\T5\_GIF
+C:\T5\_JS
+C:\T5\_Links
+C:\T5\_OOO
+C:\T5\_PNG
+C:\T5\_Scenarios
+C:\T5\_SEC
+C:\T5\_XML
+C:\T5\.git\hooks
+C:\T5\.git\info
+C:\T5\.git\lfs
+C:\T5\.git\logs
+C:\T5\.git\objects
+C:\T5\.git\refs
+C:\T5\.git\lfs\objects
+C:\T5\.git\lfs\tmp
+C:\T5\.git\lfs\objects\logs
+C:\T5\.git\lfs\tmp\objects
+C:\T5\.git\logs\refs
+C:\T5\.git\logs\refs\heads
+C:\T5\.git\logs\refs\remotes
+C:\T5\.git\logs\refs\remotes\origin
+C:\T5\.git\objects\00
+C:\T5\.git\objects\01
+C:\T5\.git\objects\02
+C:\T5\.git\objects\03
+C:\T5\.git\objects\04
+C:\T5\.git\objects\05
+C:\T5\.git\objects\06
+C:\T5\.git\objects\07
+C:\T5\.git\objects\08
+C:\T5\.git\objects\09
+C:\T5\.git\objects\0a
+C:\T5\.git\objects\0b
+C:\T5\.git\objects\0c
+C:\T5\.git\objects\0d
+C:\T5\.git\objects\0e
+C:\T5\.git\objects\0f
+C:\T5\.git\objects\10
+C:\T5\.git\objects\11
+C:\T5\.git\objects\12
+C:\T5\.git\objects\13
+C:\T5\.git\objects\14
+C:\T5\.git\objects\15
+C:\T5\.git\objects\16
+C:\T5\.git\objects\17
+C:\T5\.git\objects\18
+C:\T5\.git\objects\19
+C:\T5\.git\objects\1a
+C:\T5\.git\objects\1b
+C:\T5\.git\objects\1c
+C:\T5\.git\objects\1d
+C:\T5\.git\objects\1e
+C:\T5\.git\objects\1f
+C:\T5\.git\objects\20
+C:\T5\.git\objects\21
+C:\T5\.git\objects\22
+C:\T5\.git\objects\23
+C:\T5\.git\objects\24
+C:\T5\.git\objects\25
+C:\T5\.git\objects\26
+C:\T5\.git\objects\27
+C:\T5\.git\objects\28
+C:\T5\.git\objects\29
+C:\T5\.git\objects\2a
+C:\T5\.git\objects\2b
+C:\T5\.git\objects\2c
+C:\T5\.git\objects\2d
+C:\T5\.git\objects\2e
+C:\T5\.git\objects\2f
+C:\T5\.git\objects\30
+C:\T5\.git\objects\31
+C:\T5\.git\objects\32
+C:\T5\.git\objects\33
+C:\T5\.git\objects\34
+C:\T5\.git\objects\35
+C:\T5\.git\objects\36
+C:\T5\.git\objects\37
+C:\T5\.git\objects\38
+C:\T5\.git\objects\39
+C:\T5\.git\objects\3a
+C:\T5\.git\objects\3b
+C:\T5\.git\objects\3c
+C:\T5\.git\objects\3d
+C:\T5\.git\objects\3e
+C:\T5\.git\objects\3f
+C:\T5\.git\objects\40
+C:\T5\.git\objects\41
+C:\T5\.git\objects\42
+C:\T5\.git\objects\43
+C:\T5\.git\objects\44
+C:\T5\.git\objects\45
+C:\T5\.git\objects\46
+C:\T5\.git\objects\47
+C:\T5\.git\objects\48
+C:\T5\.git\objects\49
+C:\T5\.git\objects\4a
+C:\T5\.git\objects\4b
+C:\T5\.git\objects\4c
+C:\T5\.git\objects\4d
+C:\T5\.git\objects\4e
+C:\T5\.git\objects\4f
+C:\T5\.git\objects\50
+C:\T5\.git\objects\51
+C:\T5\.git\objects\52
+C:\T5\.git\objects\53
+C:\T5\.git\objects\54
+C:\T5\.git\objects\55
+C:\T5\.git\objects\56
+C:\T5\.git\objects\57
+C:\T5\.git\objects\58
+C:\T5\.git\objects\59
+C:\T5\.git\objects\5a
+C:\T5\.git\objects\5b
+C:\T5\.git\objects\5c
+C:\T5\.git\objects\5d
+C:\T5\.git\objects\5e
+C:\T5\.git\objects\5f
+C:\T5\.git\objects\60
+C:\T5\.git\objects\61
+C:\T5\.git\objects\62
+C:\T5\.git\objects\63
+C:\T5\.git\objects\64
+C:\T5\.git\objects\65
+C:\T5\.git\objects\66
+C:\T5\.git\objects\67
+C:\T5\.git\objects\68
+C:\T5\.git\objects\69
+C:\T5\.git\objects\6a
+C:\T5\.git\objects\6b
+C:\T5\.git\objects\6c
+C:\T5\.git\objects\6d
+C:\T5\.git\objects\6e
+C:\T5\.git\objects\6f
+C:\T5\.git\objects\70
+C:\T5\.git\objects\71
+C:\T5\.git\objects\72
+C:\T5\.git\objects\73
+C:\T5\.git\objects\74
+C:\T5\.git\objects\75
+C:\T5\.git\objects\76
+C:\T5\.git\objects\77
+C:\T5\.git\objects\78
+C:\T5\.git\objects\79
+C:\T5\.git\objects\7a
+C:\T5\.git\objects\7b
+C:\T5\.git\objects\7c
+C:\T5\.git\objects\7d
+C:\T5\.git\objects\7e
+C:\T5\.git\objects\7f
+C:\T5\.git\objects\80
+C:\T5\.git\objects\81
+C:\T5\.git\objects\82
+C:\T5\.git\objects\83
+C:\T5\.git\objects\84
+C:\T5\.git\objects\85
+C:\T5\.git\objects\86
+C:\T5\.git\objects\87
+C:\T5\.git\objects\88
+C:\T5\.git\objects\89
+C:\T5\.git\objects\8a
+C:\T5\.git\objects\8b
+C:\T5\.git\objects\8c
+C:\T5\.git\objects\8d
+C:\T5\.git\objects\8e
+C:\T5\.git\objects\8f
+C:\T5\.git\objects\90
+C:\T5\.git\objects\91
+C:\T5\.git\objects\92
+C:\T5\.git\objects\93
+C:\T5\.git\objects\94
+C:\T5\.git\objects\95
+C:\T5\.git\objects\96
+C:\T5\.git\objects\97
+C:\T5\.git\objects\98
+C:\T5\.git\objects\99
+C:\T5\.git\objects\9a
+C:\T5\.git\objects\9b
+C:\T5\.git\objects\9c
+C:\T5\.git\objects\9d
+C:\T5\.git\objects\9e
+C:\T5\.git\objects\9f
+C:\T5\.git\objects\a0
+C:\T5\.git\objects\a1
+C:\T5\.git\objects\a2
+C:\T5\.git\objects\a3
+C:\T5\.git\objects\a4
+C:\T5\.git\objects\a5
+C:\T5\.git\objects\a6
+C:\T5\.git\objects\a7
+C:\T5\.git\objects\a8
+C:\T5\.git\objects\a9
+C:\T5\.git\objects\aa
+C:\T5\.git\objects\ab
+C:\T5\.git\objects\ac
+C:\T5\.git\objects\ad
+C:\T5\.git\objects\ae
+C:\T5\.git\objects\af
+C:\T5\.git\objects\b0
+C:\T5\.git\objects\b1
+C:\T5\.git\objects\b2
+C:\T5\.git\objects\b3
+C:\T5\.git\objects\b4
+C:\T5\.git\objects\b5
+C:\T5\.git\objects\b6
+C:\T5\.git\objects\b7
+C:\T5\.git\objects\b8
+C:\T5\.git\objects\b9
+C:\T5\.git\objects\ba
+C:\T5\.git\objects\bb
+C:\T5\.git\objects\bc
+C:\T5\.git\objects\bd
+C:\T5\.git\objects\be
+C:\T5\.git\objects\bf
+C:\T5\.git\objects\c0
+C:\T5\.git\objects\c1
+C:\T5\.git\objects\c2
+C:\T5\.git\objects\c3
+C:\T5\.git\objects\c4
+C:\T5\.git\objects\c5
+C:\T5\.git\objects\c6
+C:\T5\.git\objects\c7
+C:\T5\.git\objects\c8
+C:\T5\.git\objects\c9
+C:\T5\.git\objects\ca
+C:\T5\.git\objects\cb
+C:\T5\.git\objects\cc
+C:\T5\.git\objects\cd
+C:\T5\.git\objects\ce
+C:\T5\.git\objects\cf
+C:\T5\.git\objects\d0
+C:\T5\.git\objects\d1
+C:\T5\.git\objects\d2
+C:\T5\.git\objects\d3
+C:\T5\.git\objects\d4
+C:\T5\.git\objects\d5
+C:\T5\.git\objects\d6
+C:\T5\.git\objects\d7
+C:\T5\.git\objects\d8
+C:\T5\.git\objects\d9
+C:\T5\.git\objects\da
+C:\T5\.git\objects\db
+C:\T5\.git\objects\dc
+C:\T5\.git\objects\dd
+C:\T5\.git\objects\de
+C:\T5\.git\objects\df
+C:\T5\.git\objects\e0
+C:\T5\.git\objects\e1
+C:\T5\.git\objects\e2
+C:\T5\.git\objects\e3
+C:\T5\.git\objects\e4
+C:\T5\.git\objects\e5
+C:\T5\.git\objects\e6
+C:\T5\.git\objects\e7
+C:\T5\.git\objects\e8
+C:\T5\.git\objects\e9
+C:\T5\.git\objects\ea
+C:\T5\.git\objects\eb
+C:\T5\.git\objects\ec
+C:\T5\.git\objects\ed
+C:\T5\.git\objects\ee
+C:\T5\.git\objects\ef
+C:\T5\.git\objects\f0
+C:\T5\.git\objects\f1
+C:\T5\.git\objects\f2
+C:\T5\.git\objects\f3
+C:\T5\.git\objects\f4
+C:\T5\.git\objects\f5
+C:\T5\.git\objects\f6
+C:\T5\.git\objects\f7
+C:\T5\.git\objects\f8
+C:\T5\.git\objects\f9
+C:\T5\.git\objects\fa
+C:\T5\.git\objects\fb
+C:\T5\.git\objects\fc
+C:\T5\.git\objects\fd
+C:\T5\.git\objects\fe
+C:\T5\.git\objects\ff
+C:\T5\.git\objects\info
+C:\T5\.git\objects\pack
+C:\T5\.git\refs\heads
+C:\T5\.git\refs\remotes
+C:\T5\.git\refs\tags
+C:\T5\.git\refs\remotes\origin
+C:\T5\Gushemege\J Sallounn
+C:\T5\Gushemege\The Gushemege Sector_files
+C:\T5\Gushemege\J Sallounn\1623 Fraynj
+C:\T5\Gushemege\J Sallounn\1623 Fraynj\1623 Fraynj
+C:\T5\Gushemege\J Sallounn\1623 Fraynj\Fraynj (world) - Traveller_files
+C:\T5\Solomani Rim\K Sol
+C:\T5\Solomani Rim\K Sol\1827 Terra
+C:\T5\Solomani Rim\K Sol\1827 Terra\1827 Terra
+C:\T5\Spinward Marches\B Jewell
+C:\T5\Spinward Marches\C Regina
+C:\T5\Spinward Marches\J Sword Worlds
+C:\T5\Spinward Marches\N District 268
+C:\T5\Spinward Marches\SkyRig
+C:\T5\Spinward Marches\B Jewell\1106 Jewell
+C:\T5\Spinward Marches\B Jewell\1307 Lysen
+C:\T5\Spinward Marches\B Jewell\1106 Jewell\1106 Jewell
+C:\T5\Spinward Marches\B Jewell\1307 Lysen\1307 Lysen
+C:\T5\Spinward Marches\C Regina\1705 Efate
+C:\T5\Spinward Marches\C Regina\1904 Boughene
+C:\T5\Spinward Marches\C Regina\1910 Regina
+C:\T5\Spinward Marches\C Regina\2005 Feri
+C:\T5\Spinward Marches\C Regina\2007 Roup
+C:\T5\Spinward Marches\C Regina\1705 Efate\1705 Efate
+C:\T5\Spinward Marches\C Regina\1904 Boughene\1904 Boughene
+C:\T5\Spinward Marches\C Regina\1910 Regina\1910 Regina
+C:\T5\Spinward Marches\C Regina\2005 Feri\2005 Feri
+C:\T5\Spinward Marches\C Regina\2007 Roup\2007 Roup
+C:\T5\Spinward Marches\J Sword Worlds\1526 Biter
+C:\T5\Spinward Marches\J Sword Worlds\1526 Biter\1526 Biter
+C:\T5\Spinward Marches\N District 268\1237 Collace
+C:\T5\Spinward Marches\N District 268\1237 Collace\1237 Collace
+C:\T5\Vland\P Kakadan
+C:\T5\Vland\TIN
+C:\T5\Vland\P Kakadan\2531 Kiddinu
+C:\T5\Vland\P Kakadan\2533 Aki
+C:\T5\Vland\P Kakadan\2534 Zerapii
+C:\T5\Vland\P Kakadan\2536 Linissa
+C:\T5\Vland\P Kakadan\2539 Nunaat
+C:\T5\Vland\P Kakadan\2540 Kalaalit
+C:\T5\Vland\P Kakadan\2631 Kane
+C:\T5\Vland\P Kakadan\2634 Wakarsat
+C:\T5\Vland\P Kakadan\2636 Kakadan
+C:\T5\Vland\P Kakadan\2637 Akon
+C:\T5\Vland\P Kakadan\2640 Statia
+C:\T5\Vland\P Kakadan\2732 Dnak'kritz
+C:\T5\Vland\P Kakadan\2733 Jarmat
+C:\T5\Vland\P Kakadan\2734 Rambant
+C:\T5\Vland\P Kakadan\2737 Kesali
+C:\T5\Vland\P Kakadan\2738 Tepmaa
+C:\T5\Vland\P Kakadan\2739 Sg'aa
+C:\T5\Vland\P Kakadan\2740 P'ginzh
+C:\T5\Vland\P Kakadan\2831 Kiimzhal
+C:\T5\Vland\P Kakadan\2832 Telkaa
+C:\T5\Vland\P Kakadan\2836 Inushir
+C:\T5\Vland\P Kakadan\2837 Piazza
+C:\T5\Vland\P Kakadan\2839 Zombagu
+C:\T5\Vland\P Kakadan\2931 Icuspin
+C:\T5\Vland\P Kakadan\2932 Zanski
+C:\T5\Vland\P Kakadan\2933 Kanat
+C:\T5\Vland\P Kakadan\2934 Assazak
+C:\T5\Vland\P Kakadan\2936 Elafdt
+C:\T5\Vland\P Kakadan\2938 Punnari
+C:\T5\Vland\P Kakadan\2939 Teralvar
+C:\T5\Vland\P Kakadan\3031 New Salen
+C:\T5\Vland\P Kakadan\3032 Matuyama
+C:\T5\Vland\P Kakadan\3035 Zhanora
+C:\T5\Vland\P Kakadan\3037 Raanbazziil
+C:\T5\Vland\P Kakadan\3039 Gilnat Paz
+C:\T5\Vland\P Kakadan\3131 Maamibrin
+C:\T5\Vland\P Kakadan\3134 Toborit
+C:\T5\Vland\P Kakadan\3135 Debekov
+C:\T5\Vland\P Kakadan\3137 Alleman
+C:\T5\Vland\P Kakadan\3138 Nasaa
+C:\T5\Vland\P Kakadan\3140 Zana
+C:\T5\Vland\P Kakadan\3231 Vanutappan
+C:\T5\Vland\P Kakadan\3232 Tamayo
+C:\T5\Vland\P Kakadan\3235 Debort
+C:\T5\Vland\P Kakadan\3237 Zhannag
+C:\T5\Vland\P Kakadan\3238 Lamiina
+C:\T5\Vland\P Kakadan\3239 Lannazol
+C:\T5\Vland\P Kakadan\Kakadan Subsector - Traveller_files
+C:\T5\Vland\P Kakadan\2531 Kiddinu\2531 Kiddinu
+C:\T5\Vland\P Kakadan\2533 Aki\2533 Aki
+C:\T5\Vland\P Kakadan\2534 Zerapii\2534 Zerapii
+C:\T5\Vland\P Kakadan\2536 Linissa\2536 Linissa
+C:\T5\Vland\P Kakadan\2539 Nunaat\2539 Nunaat
+C:\T5\Vland\P Kakadan\2540 Kalaalit\2540 Kalaalit
+C:\T5\Vland\P Kakadan\2631 Kane\2631 Kane
+C:\T5\Vland\P Kakadan\2634 Wakarsat\2634 Wakarsat
+C:\T5\Vland\P Kakadan\2636 Kakadan\2636 Kakadan
+C:\T5\Vland\P Kakadan\2637 Akon\2637 Akon
+C:\T5\Vland\P Kakadan\2640 Statia\2640 Statia
+C:\T5\Vland\P Kakadan\2732 Dnak'kritz\2732 Dnak'kritz
+C:\T5\Vland\P Kakadan\2733 Jarmat\2733 Jarmat
+C:\T5\Vland\P Kakadan\2734 Rambant\2734 Rambant
+C:\T5\Vland\P Kakadan\2737 Kesali\2737 Kesali
+C:\T5\Vland\P Kakadan\2737 Kesali\Kesali (world) - Traveller_files
+C:\T5\Vland\P Kakadan\2738 Tepmaa\2738 Tepmaa
+C:\T5\Vland\P Kakadan\2739 Sg'aa\2739 Sg'aa
+C:\T5\Vland\P Kakadan\2740 P'ginzh\2740 P'ginzh
+C:\T5\Vland\P Kakadan\2831 Kiimzhal\2831 Kiimzhal
+C:\T5\Vland\P Kakadan\2832 Telkaa\2832 Telkaa
+C:\T5\Vland\P Kakadan\2836 Inushir\2836 Inushir
+C:\T5\Vland\P Kakadan\2837 Piazza\2837 Piazza
+C:\T5\Vland\P Kakadan\2839 Zombagu\2839 Zombagu
+C:\T5\Vland\P Kakadan\2931 Icuspin\2931 Icuspin
+C:\T5\Vland\P Kakadan\2931 Icuspin\2931 Icuspin_files
+C:\T5\Vland\P Kakadan\2932 Zanski\2932 Zanski
+C:\T5\Vland\P Kakadan\2933 Kanat\2933 Kanat
+C:\T5\Vland\P Kakadan\2934 Assazak\2934 Assazak
+C:\T5\Vland\P Kakadan\2936 Elafdt\2936 Elafdt
+C:\T5\Vland\P Kakadan\2938 Punnari\2938 Punnari
+C:\T5\Vland\P Kakadan\2939 Teralvar\2939 Teralvar
+C:\T5\Vland\P Kakadan\3031 New Salen\3031 New Salen
+C:\T5\Vland\P Kakadan\3032 Matuyama\3032 Matuyama
+C:\T5\Vland\P Kakadan\3035 Zhanora\3035 Zhanora
+C:\T5\Vland\P Kakadan\3037 Raanbazziil\3037 Raanbazziil
+C:\T5\Vland\P Kakadan\3039 Gilnat Paz\3039 Gilnat Paz
+C:\T5\Vland\P Kakadan\3131 Maamibrin\3131 Maamibrin
+C:\T5\Vland\P Kakadan\3134 Toborit\3134 Toborit
+C:\T5\Vland\P Kakadan\3135 Debekov\3135 Debekov
+C:\T5\Vland\P Kakadan\3137 Alleman\3137 Alleman
+C:\T5\Vland\P Kakadan\3138 Nasaa\3138 Nasaa
+C:\T5\Vland\P Kakadan\3140 Zana\3140 Zana
+C:\T5\Vland\P Kakadan\3231 Vanutappan\3231 Vanutappan
+C:\T5\Vland\P Kakadan\3232 Tamayo\3232 Tamayo
+C:\T5\Vland\P Kakadan\3235 Debort\3235 Debort
+C:\T5\Vland\P Kakadan\3237 Zhannag\3237 Zhannag
+C:\T5\Vland\P Kakadan\3238 Lamiina\3238 Lamiina
+C:\T5\Vland\P Kakadan\3239 Lannazol\3239 Lannazol
+C:\T5\Vland\P Kakadan\Kakadan Subsector - Traveller_files\a_data
+C:\T5\Vland\P Kakadan\Kakadan Subsector - Traveller_files\a_data\fastbutton_data
+C:\T5\Vland\TIN\.projectKnowledge
+C:\T5\Vland\TIN\build
+C:\T5\Vland\TIN\dist
+C:\T5\Vland\TIN\lib
+C:\T5\Vland\TIN\nbproject
+C:\T5\Vland\TIN\src
+C:\T5\Vland\TIN\test
+C:\T5\Vland\TIN\build\classes
+C:\T5\Vland\TIN\build\empty
+C:\T5\Vland\TIN\build\generated-sources
+C:\T5\Vland\TIN\build\classes\dbviewer
+C:\T5\Vland\TIN\build\classes\tin
+C:\T5\Vland\TIN\build\classes\dbviewer\globals
+C:\T5\Vland\TIN\build\generated-sources\ap-source-output
+C:\T5\Vland\TIN\lib\CopyLibs
+C:\T5\Vland\TIN\nbproject\private
+C:\T5\Vland\TIN\src\tin
+C:\T5\_CFG\Ship
+C:\T5\_CFG\T5
+C:\T5\_CFG\Vehicle
+C:\T5\_CFG\T5\T5C
+C:\T5\_CFG\T5\TXT
+C:\T5\_CFG\T5\T5C\Admiral
+C:\T5\_CFG\T5\T5C\Army
+C:\T5\_CFG\T5\T5C\Belts
+C:\T5\_CFG\T5\T5C\Blank
+C:\T5\_CFG\T5\T5C\Defences
+C:\T5\_CFG\T5\T5C\Equipment
+C:\T5\_CFG\T5\T5C\Fleet
+C:\T5\_CFG\T5\T5C\Gas Giants
+C:\T5\_CFG\T5\T5C\Marine
+C:\T5\_CFG\T5\T5C\Merchant
+C:\T5\_CFG\T5\T5C\Navy
+C:\T5\_CFG\T5\T5C\Orbitals
+C:\T5\_CFG\T5\T5C\Orbits
+C:\T5\_CFG\T5\T5C\Other
+C:\T5\_CFG\T5\T5C\Planets
+C:\T5\_CFG\T5\T5C\Population
+C:\T5\_CFG\T5\T5C\Scout
+C:\T5\_CFG\T5\T5C\SDBs
+C:\T5\_CFG\T5\T5C\Ship
+C:\T5\_CFG\T5\T5C\Squadron
+C:\T5\_CFG\T5\T5C\Squadrons
+C:\T5\_CFG\T5\T5C\Stars
+C:\T5\_CFG\T5\T5C\T5C
+C:\T5\_CFG\T5\T5C\Troop
+C:\T5\_CFG\T5\T5C\Troops
+C:\T5\_CFG\T5\T5C\Vehicle
+C:\T5\_CFG\T5\T5C\World
+C:\T5\_CFG\T5\T5C\Worlds
+C:\T5\_Counter Shortcuts\stage1
+C:\T5\_Counter Shortcuts\stage2
+C:\T5\_Counter Shortcuts\_CFG
+C:\T5\_Counter Shortcuts\stage2\Gushemege
+C:\T5\_Counter Shortcuts\stage2\Spinward Marches
+C:\T5\_Counter Shortcuts\stage2\Vland
+C:\T5\_Counter Shortcuts\_CFG\Ship
+C:\T5\_Counter Shortcuts\_CFG\T5
+C:\T5\_Counter Shortcuts\_CFG\Vehicle
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C
+C:\T5\_Counter Shortcuts\_CFG\T5\TXT
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Admiral
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Army
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Belts
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Blank
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Defences
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Equipment
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Fleet
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Gas Giants
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Marine
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Merchant
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Navy
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Orbitals
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Orbits
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Other
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Planets
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Population
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Scout
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\SDBs
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Ship
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Squadron
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Squadrons
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Stars
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\T5C
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Troop
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Troops
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Vehicle
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\World
+C:\T5\_Counter Shortcuts\_CFG\T5\T5C\Worlds
+C:\T5\_CSV\Lists
+C:\T5\_CSV\TEXT
+C:\T5\_CSV\TEXT - Copy
+C:\T5\_CSV\_OLD
+C:\T5\_CSV\_OLD\BAT
+C:\T5\_CSV\_OLD\GLOBAL
+C:\T5\_CSV\_OLD\GT
+C:\T5\_CSV\_OLD\Lists
+C:\T5\_CSV\_OLD\WHAT
+C:\T5\_CSV\_OLD\WHEN
+C:\T5\_CSV\_OLD\WHERE
+C:\T5\_CSV\_OLD\WHY
+C:\T5\_JS\array2CSV
+C:\T5\_JS\Catalogs
+C:\T5\_JS\Counters
+C:\T5\_JS\Crews
+C:\T5\_JS\CSV
+C:\T5\_JS\csv2XML
+C:\T5\_JS\Fleets
+C:\T5\_JS\Rons
+C:\T5\_JS\Routes
+C:\T5\_JS\Sectors
+C:\T5\_JS\Ships
+C:\T5\_JS\String Array
+C:\T5\_JS\SubSectors
+C:\T5\_JS\Systems
+C:\T5\_JS\TEXT
+C:\T5\_JS\TXT
+C:\T5\_JS\txt2CSV
+C:\T5\_JS\xml2XSL
+C:\T5\_JS\xsl2HTML
+C:\T5\_JS\_Backups
+C:\T5\_JS\_Oxygen
+C:\T5\_JS\_Backups\Catalogs
+C:\T5\_JS\_Backups\Counters
+C:\T5\_JS\_Backups\Crews
+C:\T5\_JS\_Backups\Fleets
+C:\T5\_JS\_Backups\Rons
+C:\T5\_JS\_Backups\Routes
+C:\T5\_JS\_Backups\Sectors
+C:\T5\_JS\_Backups\Ships
+C:\T5\_JS\_Backups\SubSectors
+C:\T5\_JS\_Backups\Systems
+C:\T5\_JS\_Backups\_Oxygen
+C:\T5\_Links\0918 Galis
+C:\T5\_Links\1237 Collace
+C:\T5\_Links\1526 Biter
+C:\T5\_Links\1623 Fraynj
+C:\T5\_Links\1705 Efate
+C:\T5\_Links\1904 Boughene
+C:\T5\_Links\1910 Regina
+C:\T5\_Links\2005 Feri
+C:\T5\_Links\2007 Roup
+C:\T5\_Links\2531 Kiddinu
+C:\T5\_Links\2533 Aki
+C:\T5\_Links\2534 Zerapii
+C:\T5\_Links\2536 Linissa
+C:\T5\_Links\2539 Nunaat
+C:\T5\_Links\2540 Kalaalit
+C:\T5\_Links\2631 Kane
+C:\T5\_Links\2634 Wakarsat
+C:\T5\_Links\2636 Kakadan
+C:\T5\_Links\2637 Akon
+C:\T5\_Links\2640 Statia
+C:\T5\_Links\2732 Dnak'kritz
+C:\T5\_Links\2733 Jarmat
+C:\T5\_Links\2734 Rambant
+C:\T5\_Links\2737 Kesali
+C:\T5\_Links\2738 Tepmaa
+C:\T5\_Links\2739 Sg'aa
+C:\T5\_Links\2740 P'ginzh
+C:\T5\_Links\2831 Kiimzhal
+C:\T5\_Links\2832 Telkaa
+C:\T5\_Links\2836 Inushir
+C:\T5\_Links\2837 Piazza
+C:\T5\_Links\2839 Zombagu
+C:\T5\_Links\2931 Icuspin
+C:\T5\_Links\2932 Zanski
+C:\T5\_Links\2933 Kanat
+C:\T5\_Links\2934 Assazak
+C:\T5\_Links\2936 Elafdt
+C:\T5\_Links\2938 Punnari
+C:\T5\_Links\2939 Teralvar
+C:\T5\_Links\3031 New Salen
+C:\T5\_Links\3032 Matuyama
+C:\T5\_Links\3035 Zhanora
+C:\T5\_Links\3037 Raanbazziil
+C:\T5\_Links\3039 Gilnat Paz
+C:\T5\_Links\3131 Maamibrin
+C:\T5\_Links\3134 Toborit
+C:\T5\_Links\3135 Debekov
+C:\T5\_Links\3137 Alleman
+C:\T5\_Links\3138 Nasaa
+C:\T5\_Links\3140 Zana
+C:\T5\_Links\3231 Vanutappan
+C:\T5\_Links\3232 Tamayo
+C:\T5\_Links\3235 Debort
+C:\T5\_Links\3237 Zhannag
+C:\T5\_Links\3238 Lamiina
+C:\T5\_Links\3239 Lannazol
+C:\T5\_Links\CategoryBook
+C:\T5\_Links\null
+C:\T5\_Scenarios\SkyRig
+C:\T5\_SEC\copy
+C:\T5\_SEC\GIF
+C:\T5\_XML\Exercise Files
+C:\T5\_XML\OLDXML
+C:\T5\_XML\photos
+C:\T5\_XML\Practice
+C:\T5\_XML\v2ch02
+C:\T5\_XML\W3Schools
+C:\T5\_XML\_Blank
+C:\T5\_XML\Exercise Files\04_work
+C:\T5\_XML\Exercise Files\05_islands
+C:\T5\_XML\Exercise Files\06_dom
+C:\T5\_XML\Exercise Files\07_xpath
+C:\T5\_XML\Exercise Files\09_xslt
+C:\T5\_XML\Exercise Files\10_dtd
+C:\T5\_XML\Exercise Files\11_schema
+C:\T5\_XML\Exercise Files\12_processing
+C:\T5\_XML\Exercise Files\05_islands\photos
+C:\T5\_XML\Exercise Files\09_xslt\photos
+C:\T5\_XML\Practice\0
+C:\T5\_XML\Practice\1
+C:\T5\_XML\Practice\2
+C:\T5\_XML\Practice\3
+C:\T5\_XML\v2ch02\dom
+C:\T5\_XML\v2ch02\read
+C:\T5\_XML\v2ch02\sax
+C:\T5\_XML\v2ch02\stax
+C:\T5\_XML\v2ch02\transform
+C:\T5\_XML\v2ch02\write
+C:\T5\_XML\v2ch02\xpath

@@ -1,0 +1,10 @@
+//	Fusion2300-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+vehicularwpn.gif c c 000000
+FUSION2300 2 1 35 H 000000
+TL12 50 1 35 H 000000
+VAR_0.5_O 2 7 35 H 000000
+6DX750 2 13 35 H 000000
+Fusion2300-1.gif

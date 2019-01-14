@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="EffectsArmorDamage.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"CODE","TYPE","EFFECT","TYPE"
+"A","Corrode","Armor","Hit"
+  <Catalog>
+    <col0>A</col0>
+    <col1>Corrode</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"B","Bullet","Armor","Hit"
+  <Catalog>
+    <col0>B</col0>
+    <col1>Bullet</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"C","Cut","Armor","Cut"
+  <Catalog>
+    <col0>C</col0>
+    <col1>Cut</col1>
+    <col2>Armor</col2>
+    <col3>Cut</col3>
+  </Catalog>
+ 
+"D","Blast/Blow","Armor","Hit"
+  <Catalog>
+    <col0>D</col0>
+    <col1>Blast/Blow</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"E","EMP","EMCage","Fry"
+  <Catalog>
+    <col0>E</col0>
+    <col1>EMP</col1>
+    <col2>EMCage</col2>
+    <col3>Fry</col3>
+  </Catalog>
+ 
+"F","Frag","Armor","Hit"
+  <Catalog>
+    <col0>F</col0>
+    <col1>Frag</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"G","Gas","Sealed","Suff"
+  <Catalog>
+    <col0>G</col0>
+    <col1>Gas</col1>
+    <col2>Sealed</col2>
+    <col3>Suff</col3>
+  </Catalog>
+ 
+"H","Hot","Insulation","Heat"
+  <Catalog>
+    <col0>H</col0>
+    <col1>Hot</col1>
+    <col2>Insulation</col2>
+    <col3>Heat</col3>
+  </Catalog>
+ 
+"I","Infection","Sealed","Hit"
+  <Catalog>
+    <col0>I</col0>
+    <col1>Infection</col1>
+    <col2>Sealed</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"J","Psi","Psi Shield","Stun"
+  <Catalog>
+    <col0>J</col0>
+    <col1>Psi</col1>
+    <col2>Psi Shield</col2>
+    <col3>Stun</col3>
+  </Catalog>
+ 
+"K","Burn","Armor","Hit"
+  <Catalog>
+    <col0>K</col0>
+    <col1>Burn</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"L","Elec","Insulation","Hit"
+  <Catalog>
+    <col0>L</col0>
+    <col1>Elec</col1>
+    <col2>Insulation</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"M","Magnetic","-","Stun"
+  <Catalog>
+    <col0>M</col0>
+    <col1>Magnetic</col1>
+    <col2>-</col2>
+    <col3>Stun</col3>
+  </Catalog>
+ 
+"N","Bang","Soundproof","Deaf"
+  <Catalog>
+    <col0>N</col0>
+    <col1>Bang</col1>
+    <col2>Soundproof</col2>
+    <col3>Deaf</col3>
+  </Catalog>
+ 
+"O","Stench","Sealed","Stun"
+  <Catalog>
+    <col0>O</col0>
+    <col1>Stench</col1>
+    <col2>Sealed</col2>
+    <col3>Stun</col3>
+  </Catalog>
+ 
+"P","Pain","Armor+Sealed","Stun"
+  <Catalog>
+    <col0>P</col0>
+    <col1>Pain</col1>
+    <col2>ArmorSealed</col2>
+    <col3>Stun</col3>
+  </Catalog>
+ 
+"Q","Cold","Insulation","Freeze"
+  <Catalog>
+    <col0>Q</col0>
+    <col1>Cold</col1>
+    <col2>Insulation</col2>
+    <col3>Freeze</col3>
+  </Catalog>
+ 
+"R","Rad","RadProof","Hit"
+  <Catalog>
+    <col0>R</col0>
+    <col1>Rad</col1>
+    <col2>RadProof</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"S","Sound","SoundProof","Stun"
+  <Catalog>
+    <col0>S</col0>
+    <col1>Sound</col1>
+    <col2>SoundProof</col2>
+    <col3>Stun</col3>
+  </Catalog>
+ 
+"T","Poison","Sealed","Hit"
+  <Catalog>
+    <col0>T</col0>
+    <col1>Poison</col1>
+    <col2>Sealed</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"U","Flash","Flashproof","Blind"
+  <Catalog>
+    <col0>U</col0>
+    <col1>Flash</col1>
+    <col2>Flashproof</col2>
+    <col3>Blind</col3>
+  </Catalog>
+ 
+"V","Vacc","Sealed","Suff"
+  <Catalog>
+    <col0>V</col0>
+    <col1>Vacc</col1>
+    <col2>Sealed</col2>
+    <col3>Suff</col3>
+  </Catalog>
+ 
+"W","Wound","Armor","Hit"
+  <Catalog>
+    <col0>W</col0>
+    <col1>Wound</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"X","Pen","Armor","Hit"
+  <Catalog>
+    <col0>X</col0>
+    <col1>Pen</col1>
+    <col2>Armor</col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"Y","Grav","","Hit"
+  <Catalog>
+    <col0>Y</col0>
+    <col1>Grav</col1>
+    <col2></col2>
+    <col3>Hit</col3>
+  </Catalog>
+ 
+"Z","Tranq","Sealed","Stun"
+  <Catalog>
+    <col0>Z</col0>
+    <col1>Tranq</col1>
+    <col2>Sealed</col2>
+    <col3>Stun</col3>
+  </Catalog>
+ 
+</Catalogs>

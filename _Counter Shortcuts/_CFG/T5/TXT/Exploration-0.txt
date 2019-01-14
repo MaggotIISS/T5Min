@@ -1,0 +1,4 @@
+//	Exploration-0.txt
+lines.gif
+exp.gif c c replace
+Exploration-0.gif

@@ -1,0 +1,6 @@
+//	MAC-0.txt
+#MAC  FF 3F FF
+lines.gif
+box.gif c c FFFFFF
+MAC 1 1 35 H 000000
+MAC-0.gif

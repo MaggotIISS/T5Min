@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-cra.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""CODE","CLASS","DESC","DT=+","DR","HP","P","A","C","J","G","CR","PA","CA","W1","W2","W3","TL""
+""CODE","CLASS","DESC","DT=+","DR","HP","P","A","C","J","G","C","P","C","W1","W2","W3","TL""
+  <Catalog>
+    <col0>CODE</col0>
+    <col1>CLASS</col1>
+    <col2>DESC</col2>
+    <col3>DT=</col3>
+    <col4>DR</col4>
+    <col5>HP</col5>
+    <col6>P</col6>
+    <col7>A</col7>
+    <col8>C</col8>
+    <col9>J</col9>
+    <col10>G</col10>
+    <col11>C</col11>
+    <col12>P</col12>
+    <col13>C</col13>
+    <col14>W1</col14>
+    <col15>W2</col15>
+    <col16>W3</col16>
+    <col17>TL</col17>
+  </Catalog>
+ 
+</Catalogs>

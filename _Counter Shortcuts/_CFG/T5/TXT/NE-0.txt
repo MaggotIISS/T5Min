@@ -1,0 +1,6 @@
+//	NE-0.txt
+#NE  FF  
+lines.gif
+box.gif c c FFB0B8
+NE 1 1 35 H 000000
+NE-0.gif

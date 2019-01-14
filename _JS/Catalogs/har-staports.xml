@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-staports.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""PORT","%F","ID","LS","PF","TF","%P","SP","PP","TP""
+""","SYSTEM FREIGHT","","","","","SYSTEM PASSENGERS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>SYSTEM FREIGHT</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>SYSTEM PASSENGERS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""PORT","%F","ID","LS","PF","TF","%P","SP","PP","TP""
+  <Catalog>
+    <col0>PORT</col0>
+    <col1>%F</col1>
+    <col2>ID</col2>
+    <col3>LS</col3>
+    <col4>PF</col4>
+    <col5>TF</col5>
+    <col6>%P</col6>
+    <col7>SP</col7>
+    <col8>PP</col8>
+    <col9>TP</col9>
+  </Catalog>
+ 
+""HIA","","X","X","","","","X","","""
+  <Catalog>
+    <col0>HIA</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3>X</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""LOA","","","X","","X","","","","X""
+  <Catalog>
+    <col0>LOA</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>X</col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO1","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO1</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO2","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO2</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO3","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO3</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO4","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO4</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO5","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO5</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO6","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO6</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO7","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO7</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""LO8","","X","","","X","","X","","X""
+  <Catalog>
+    <col0>LO8</col0>
+    <col1></col1>
+    <col2>X</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>X</col5>
+    <col6></col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9>X</col9>
+  </Catalog>
+ 
+""CR/DT","","170","165","150","140","","500","450","460""
+  <Catalog>
+    <col0>CR/DT</col0>
+    <col1></col1>
+    <col2>170</col2>
+    <col3>165</col3>
+    <col4>150</col4>
+    <col5>140</col5>
+    <col6></col6>
+    <col7>500</col7>
+    <col8>450</col8>
+    <col9>460</col9>
+  </Catalog>
+ 
+""REVENUE","","","","","","","","","""
+  <Catalog>
+    <col0>REVENUE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""POP = REVENUE/200K","","","","","","","","","""
+  <Catalog>
+    <col0>POP = REVENUE/200K</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BUDGET=3.5 x REVENUE","","","","","","","","","""
+  <Catalog>
+    <col0>BUDGET=3.5 x REVENUE</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+</Catalogs>

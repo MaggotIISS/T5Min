@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xsl-stylesheet type="text/xsl" href="Tas.xslt"?>
+<tas>
+  <hex>Hex</hex>
+  <name>Name</name>
+  <uwp>UWP</uwp>
+  <remarks>Remarks</remarks>
+  <ix>Ix</ix>
+  <ex>Ex</ex>
+  <cx>Cx</cx>
+  <n>N</n>
+  <b>B</b>
+  <z>Z</z>
+  <pbg>PBG</pbg>
+  <w>W</w>
+  <a>A</a>
+  <stellar>Stellar</stellar>
+</tas>

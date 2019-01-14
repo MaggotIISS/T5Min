@@ -1,0 +1,8 @@
+People
+Places
+Items
+Duration
+Risk
+Note
+Time
+Location

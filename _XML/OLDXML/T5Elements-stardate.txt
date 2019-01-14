@@ -1,0 +1,8 @@
+STARDATE
+    Year
+    Day
+    Hour
+    Minute
+    Second
+    Mil
+  

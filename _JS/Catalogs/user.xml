@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="user.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"USER","CODE","MANIPULATOR"
+"(blank)"
+  <Catalog>
+    <col0>(blank)</col0>
+  </Catalog>
+ 
+"Man","M","Hand"
+  <Catalog>
+    <col0>Man</col0>
+    <col1>M</col1>
+    <col2>Hand</col2>
+  </Catalog>
+ 
+"Vargr","V"
+  <Catalog>
+    <col0>Vargr</col0>
+    <col1>V</col1>
+  </Catalog>
+ 
+"Aslan","A","Paw"
+  <Catalog>
+    <col0>Aslan</col0>
+    <col1>A</col1>
+    <col2>Paw</col2>
+  </Catalog>
+ 
+"K`kree","K"
+  <Catalog>
+    <col0>K`kree</col0>
+    <col1>K</col1>
+  </Catalog>
+ 
+"Hiver","H","Grasper"
+  <Catalog>
+    <col0>Hiver</col0>
+    <col1>H</col1>
+    <col2>Grasper</col2>
+  </Catalog>
+ 
+"Droyne","D"
+  <Catalog>
+    <col0>Droyne</col0>
+    <col1>D</col1>
+  </Catalog>
+ 
+"","G","Gripper"
+  <Catalog>
+    <col0></col0>
+    <col1>G</col1>
+    <col2>Gripper</col2>
+  </Catalog>
+ 
+"Vegan","V","Tentacle"
+  <Catalog>
+    <col0>Vegan</col0>
+    <col1>V</col1>
+    <col2>Tentacle</col2>
+  </Catalog>
+ 
+"","S","Socket"
+  <Catalog>
+    <col0></col0>
+    <col1>S</col1>
+    <col2>Socket</col2>
+  </Catalog>
+ 
+"","U","Universal"
+  <Catalog>
+    <col0></col0>
+    <col1>U</col1>
+    <col2>Universal</col2>
+  </Catalog>
+ 
+</Catalogs>

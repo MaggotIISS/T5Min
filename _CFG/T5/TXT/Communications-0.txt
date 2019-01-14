@@ -1,0 +1,4 @@
+//	Communications-0.txt
+lines.gif
+com.gif c c replace
+Communications-0.gif

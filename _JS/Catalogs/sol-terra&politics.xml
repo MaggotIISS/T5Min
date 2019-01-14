@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="sol-terra&politics.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Planet","Moon","Name","UWP","Note","Field7","Field8","Field9","Field11","Field10""
+""PRIMARY","","SOL","G2V","","DIA","12742KM","","ANUBIAN_TRADE_COALITION","AC""
+  <Catalog>
+    <col0>PRIMARY</col0>
+    <col1></col1>
+    <col2>SOL</col2>
+    <col3>G2V</col3>
+    <col4></col4>
+    <col5>DIA</col5>
+    <col6>12742KM</col6>
+    <col7></col7>
+    <col8>ANUBIAN_TRADE_COALITION</col8>
+    <col9>AC</col9>
+  </Catalog>
+ 
+""1","","MERCURY","G30046A-E","RE","DENS","1","","AUFTEI_KTAIH","AK""
+  <Catalog>
+    <col0>1</col0>
+    <col1></col1>
+    <col2>MERCURY</col2>
+    <col3>G30046A-E</col3>
+    <col4>RE</col4>
+    <col5>DENS</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>AUFTEI_KTAIH</col8>
+    <col9>AK</col9>
+  </Catalog>
+ 
+""2","","VENUS","G8B0168-E","","MASS","1","","AOIFTU_ROAKH","AR""
+  <Catalog>
+    <col0>2</col0>
+    <col1></col1>
+    <col2>VENUS</col2>
+    <col3>G8B0168-E</col3>
+    <col4></col4>
+    <col5>MASS</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>AOIFTU_ROAKH</col8>
+    <col9>AR</col9>
+  </Catalog>
+ 
+""3","","TERRA","A867A69-F","HIMR","GRAV","1","","ASLAN_HIERATE","AS""
+  <Catalog>
+    <col0>3</col0>
+    <col1></col1>
+    <col2>TERRA</col2>
+    <col3>A867A69-F</col3>
+    <col4>HIMR</col4>
+    <col5>GRAV</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>ASLAN_HIERATE</col8>
+    <col9>AS</col9>
+  </Catalog>
+ 
+""","60","LUNA","F20076D-F","CORENV","PRIM","1","","BRIGHT_STAR_COOPERATE","BS""
+  <Catalog>
+    <col0></col0>
+    <col1>60</col1>
+    <col2>LUNA</col2>
+    <col3>F20076D-F</col3>
+    <col4>CORENV</col4>
+    <col5>PRIM</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>BRIGHT_STAR_COOPERATE</col8>
+    <col9>BS</col9>
+  </Catalog>
+ 
+""4","","MARS","F43056A-F","COMI","COM","","","PRINCIPALITY_OF_CALEDON","CA""
+  <Catalog>
+    <col0>4</col0>
+    <col1></col1>
+    <col2>MARS</col2>
+    <col3>F43056A-F</col3>
+    <col4>COMI</col4>
+    <col5>COM</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>PRINCIPALITY_OF_CALEDON</col8>
+    <col9>CA</col9>
+  </Catalog>
+ 
+""5","","PLANETOID_BELT","F00066B-E","CO","ORB","3","","CARILLIAN_ASSEMBY","CB""
+  <Catalog>
+    <col0>5</col0>
+    <col1></col1>
+    <col2>PLANETOID_BELT</col2>
+    <col3>F00066B-E</col3>
+    <col4>CO</col4>
+    <col5>ORB</col5>
+    <col6>3</col6>
+    <col7></col7>
+    <col8>CARILLIAN_ASSEMBY</col8>
+    <col9>CB</col9>
+  </Catalog>
+ 
+""6","","JUPITER","SML-GG","SIZ90","PER","365.25","","CREATION_OF_NONPAREIL","CN""
+  <Catalog>
+    <col0>6</col0>
+    <col1></col1>
+    <col2>JUPITER</col2>
+    <col3>SML-GG</col3>
+    <col4>SIZ90</col4>
+    <col5>PER</col5>
+    <col6>365.25</col6>
+    <col7></col7>
+    <col8>CREATION_OF_NONPAREIL</col8>
+    <col9>CN</col9>
+  </Catalog>
+ 
+""","2","RING_SYSTEM","YR00000-0","","ROT","23HRS56M4S","","CARTER_TECHNOCRACY","CT""
+  <Catalog>
+    <col0></col0>
+    <col1>2</col1>
+    <col2>RING_SYSTEM</col2>
+    <col3>YR00000-0</col3>
+    <col4></col4>
+    <col5>ROT</col5>
+    <col6>23HRS56M4S</col6>
+    <col7></col7>
+    <col8>CARTER_TECHNOCRACY</col8>
+    <col9>CT</col9>
+  </Catalog>
+ 
+""","6","IO","Y2100000-0","","AXI","23.45","","CYTRIALIN_UNITY","CU""
+  <Catalog>
+    <col0></col0>
+    <col1>6</col1>
+    <col2>IO</col2>
+    <col3>Y2100000-0</col3>
+    <col4></col4>
+    <col5>AXI</col5>
+    <col6>23.45</col6>
+    <col7></col7>
+    <col8>CYTRIALIN_UNITY</col8>
+    <col9>CU</col9>
+  </Catalog>
+ 
+""","9","EUROPA","H200000-0","","ECC","0.016","","DELSUN_COMAGISTRANT","DC""
+  <Catalog>
+    <col0></col0>
+    <col1>9</col1>
+    <col2>EUROPA</col2>
+    <col3>H200000-0</col3>
+    <col4></col4>
+    <col5>ECC</col5>
+    <col6>0.016</col6>
+    <col7></col7>
+    <col8>DELSUN_COMAGISTRANT</col8>
+    <col9>DC</col9>
+  </Catalog>
+ 
+""","15","GANYMEDE","F300468-F","NV","STR","3","","DIENBACH_GRUPEN","DG""
+  <Catalog>
+    <col0></col0>
+    <col1>15</col1>
+    <col2>GANYMEDE</col2>
+    <col3>F300468-F</col3>
+    <col4>NV</col4>
+    <col5>STR</col5>
+    <col6>3</col6>
+    <col7></col7>
+    <col8>DIENBACH_GRUPEN</col8>
+    <col9>DG</col9>
+  </Catalog>
+ 
+""","25","CALLISTO","Y30016A-F","RE","AST","N/A","","DAPROLIX_JUNCTURE_OF_SUNS","DJ""
+  <Catalog>
+    <col0></col0>
+    <col1>25</col1>
+    <col2>CALLISTO</col2>
+    <col3>Y30016A-F</col3>
+    <col4>RE</col4>
+    <col5>AST</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8>DAPROLIX_JUNCTURE_OF_SUNS</col8>
+    <col9>DJ</col9>
+  </Catalog>
+ 
+""7","","SATURN","SML-GG","SIZ75","MASS","N/A","","DEMOS_OF_NOBLES","DN""
+  <Catalog>
+    <col0>7</col0>
+    <col1></col1>
+    <col2>SATURN</col2>
+    <col3>SML-GG</col3>
+    <col4>SIZ75</col4>
+    <col5>MASS</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8>DEMOS_OF_NOBLES</col8>
+    <col9>DN</col9>
+  </Catalog>
+ 
+""","2","RING_SYSTEM","YR00000-0","","ORB","N/A","","FEDERATION_OF_DAIBEI","FD""
+  <Catalog>
+    <col0></col0>
+    <col1>2</col1>
+    <col2>RING_SYSTEM</col2>
+    <col3>YR00000-0</col3>
+    <col4></col4>
+    <col5>ORB</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8>FEDERATION_OF_DAIBEI</col8>
+    <col9>FD</col9>
+  </Catalog>
+ 
+""","3","JANUS","YS00000-0","","PER","N/A","","FTEIHEIEL_OIH","FO""
+  <Catalog>
+    <col0></col0>
+    <col1>3</col1>
+    <col2>JANUS</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>PER</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8>FTEIHEIEL_OIH</col8>
+    <col9>FO</col9>
+  </Catalog>
+ 
+""","3","MAMAS","YS00000-0","","","","","GRALYN_ASSEMBLAGE","GA""
+  <Catalog>
+    <col0></col0>
+    <col1>3</col1>
+    <col2>MAMAS</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>GRALYN_ASSEMBLAGE</col8>
+    <col9>GA</col9>
+  </Catalog>
+ 
+""","4","ENCELADUS","GS00268-F","RE","COM","STD","","GREAT_TERBAH","GI""
+  <Catalog>
+    <col0></col0>
+    <col1>4</col1>
+    <col2>ENCELADUS</col2>
+    <col3>GS00268-F</col3>
+    <col4>RE</col4>
+    <col5>COM</col5>
+    <col6>STD</col6>
+    <col7></col7>
+    <col8>GREAT_TERBAH</col8>
+    <col9>GI</col9>
+  </Catalog>
+ 
+""","5","TETHYS","YS00000-0","","PRE","1","","KHAN_WORLD_LEAGUE","GK""
+  <Catalog>
+    <col0></col0>
+    <col1>5</col1>
+    <col2>TETHYS</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>PRE</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>KHAN_WORLD_LEAGUE</col8>
+    <col9>GK</col9>
+  </Catalog>
+ 
+""","6","DIONE","YS00000-0","","LUM","1","","GYJ-NUAH`OEW","GO""
+  <Catalog>
+    <col0></col0>
+    <col1>6</col1>
+    <col2>DIONE</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>LUM</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>GYJ-NUAH`OEW</col8>
+    <col9>GO</col9>
+  </Catalog>
+ 
+""","9","RHEA","H10046B-E","","FAC","374.025","","GREAT_TERBAH","GT""
+  <Catalog>
+    <col0></col0>
+    <col1>9</col1>
+    <col2>RHEA</col2>
+    <col3>H10046B-E</col3>
+    <col4></col4>
+    <col5>FAC</col5>
+    <col6>374.025</col6>
+    <col7></col7>
+    <col8>GREAT_TERBAH</col8>
+    <col9>GT</col9>
+  </Catalog>
+ 
+""","20","TITAN","Y3A0168-E","","ABS","0.7","","COUNCIL_OF_HEADS","HC""
+  <Catalog>
+    <col0></col0>
+    <col1>20</col1>
+    <col2>TITAN</col2>
+    <col3>Y3A0168-E</col3>
+    <col4></col4>
+    <col5>ABS</col5>
+    <col6>0.7</col6>
+    <col7></col7>
+    <col8>COUNCIL_OF_HEADS</col8>
+    <col9>HC</col9>
+  </Catalog>
+ 
+""","25","HYPERIAON","YS00000-0","","GRN","1.1","","HIVE_FEDERATION","HV""
+  <Catalog>
+    <col0></col0>
+    <col1>25</col1>
+    <col2>HYPERIAON</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>GRN</col5>
+    <col6>1.1</col6>
+    <col7></col7>
+    <col8>HIVE_FEDERATION</col8>
+    <col9>HV</col9>
+  </Catalog>
+ 
+""","60","LAPETUS","Y100000-0","","TEM","15C","","IYEAAO`FTE","IF""
+  <Catalog>
+    <col0></col0>
+    <col1>60</col1>
+    <col2>LAPETUS</col2>
+    <col3>Y100000-0</col3>
+    <col4></col4>
+    <col5>TEM</col5>
+    <col6>15C</col6>
+    <col7></col7>
+    <col8>IYEAAO`FTE</col8>
+    <col9>IF</col9>
+  </Catalog>
+ 
+""","225","PHOEBE","YS00000-0","","OEM","+-0.48","","IMPERIUM","IM""
+  <Catalog>
+    <col0></col0>
+    <col1>225</col1>
+    <col2>PHOEBE</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>OEM</col5>
+    <col6>-0.48</col6>
+    <col7></col7>
+    <col8>IMPERIUM</col8>
+    <col9>IM</col9>
+  </Catalog>
+ 
+""8","","URANUS","SML-GG","SIZ32","LTE","+21TO-49","","JOEI_DE_VIVRE","JD""
+  <Catalog>
+    <col0>8</col0>
+    <col1></col1>
+    <col2>URANUS</col2>
+    <col3>SML-GG</col3>
+    <col4>SIZ32</col4>
+    <col5>LTE</col5>
+    <col6>21TO-49</col6>
+    <col7></col7>
+    <col8>JOEI_DE_VIVRE</col8>
+    <col9>JD</col9>
+  </Catalog>
+ 
+""","2","RING_SYSTEM","YR00000-0","","ATE","","","JONSON-BOWES_FEDERATION","JF""
+  <Catalog>
+    <col0></col0>
+    <col1>2</col1>
+    <col2>RING_SYSTEM</col2>
+    <col3>YR00000-0</col3>
+    <col4></col4>
+    <col5>ATE</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>JONSON-BOWES_FEDERATION</col8>
+    <col9>JF</col9>
+  </Catalog>
+ 
+""","5","MIRANDA","YS00000-0","","DTP","+6C","","JURISTICTION_OF_NADON","JN""
+  <Catalog>
+    <col0></col0>
+    <col1>5</col1>
+    <col2>MIRANDA</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>DTP</col5>
+    <col6>6C</col6>
+    <col7></col7>
+    <col8>JURISTICTION_OF_NADON</col8>
+    <col9>JN</col9>
+  </Catalog>
+ 
+""","7","ARIEL","Y100000-0","","NTP","-12C","","COUNCIL_LEE_PERASH","LP""
+  <Catalog>
+    <col0></col0>
+    <col1>7</col1>
+    <col2>ARIEL</col2>
+    <col3>Y100000-0</col3>
+    <col4></col4>
+    <col5>NTP</col5>
+    <col6>-12C</col6>
+    <col7></col7>
+    <col8>COUNCIL_LEE_PERASH</col8>
+    <col9>LP</col9>
+  </Catalog>
+ 
+""","10","UMBRIAL","HS00269-E","","NAT","Y","","LORDS_OF_VISION","LV""
+  <Catalog>
+    <col0></col0>
+    <col1>10</col1>
+    <col2>UMBRIAL</col2>
+    <col3>HS00269-E</col3>
+    <col4></col4>
+    <col5>NAT</col5>
+    <col6>Y</col6>
+    <col7></col7>
+    <col8>LORDS_OF_VISION</col8>
+    <col9>LV</col9>
+  </Catalog>
+ 
+""","15","TITANIA","H100168-E","","ATT","NO","","MARGARETS_STRONGHOLD","MA""
+  <Catalog>
+    <col0></col0>
+    <col1>15</col1>
+    <col2>TITANIA</col2>
+    <col3>H100168-E</col3>
+    <col4></col4>
+    <col5>ATT</col5>
+    <col6>NO</col6>
+    <col7></col7>
+    <col8>MARGARETS_STRONGHOLD</col8>
+    <col9>MA</col9>
+  </Catalog>
+ 
+""","20","OBERON","Y100000-0","","GRT","NO","","GRAND_DUCHY_OF_MARLHELM","MH""
+  <Catalog>
+    <col0></col0>
+    <col1>20</col1>
+    <col2>OBERON</col2>
+    <col3>Y100000-0</col3>
+    <col4></col4>
+    <col5>GRT</col5>
+    <col6>NO</col6>
+    <col7></col7>
+    <col8>GRAND_DUCHY_OF_MARLHELM</col8>
+    <col9>MH</col9>
+  </Catalog>
+ 
+""8.5","","NEPTUNE","SML-GG","SIZ31","ALT","NO","","MALORN_UNION","MU""
+  <Catalog>
+    <col0>8.5</col0>
+    <col1></col1>
+    <col2>NEPTUNE</col2>
+    <col3>SML-GG</col3>
+    <col4>SIZ31</col4>
+    <col5>ALT</col5>
+    <col6>NO</col6>
+    <col7></col7>
+    <col8>MALORN_UNION</col8>
+    <col9>MU</col9>
+  </Catalog>
+ 
+""","1","RING_SYSTEM","YR00000-0","","ATT","N/A","","OLEAIY`FTE","OF""
+  <Catalog>
+    <col0></col0>
+    <col1>1</col1>
+    <col2>RING_SYSTEM</col2>
+    <col3>YR00000-0</col3>
+    <col4></col4>
+    <col5>ATT</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8>OLEAIY`FTE</col8>
+    <col9>OF</col9>
+  </Catalog>
+ 
+""","15","TRITON","Y210169-E","","","","","OUTCASTS_OF_THE_WHISPERING_SKY","OW""
+  <Catalog>
+    <col0></col0>
+    <col1>15</col1>
+    <col2>TRITON</col2>
+    <col3>Y210169-E</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>OUTCASTS_OF_THE_WHISPERING_SKY</col8>
+    <col9>OW</col9>
+  </Catalog>
+ 
+""","20","NEREID","YS00000-0","","HYD","0.71","","PARITY_OF_BROTHERS","PB""
+  <Catalog>
+    <col0></col0>
+    <col1>20</col1>
+    <col2>NEREID</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>HYD</col5>
+    <col6>0.71</col6>
+    <col7></col7>
+    <col8>PARITY_OF_BROTHERS</col8>
+    <col9>PB</col9>
+  </Catalog>
+ 
+""9","","PLUTO","F10046C-F","NVRE","COM","WATER","","RAL_RANTA","RA""
+  <Catalog>
+    <col0>9</col0>
+    <col1></col1>
+    <col2>PLUTO</col2>
+    <col3>F10046C-F</col3>
+    <col4>NVRE</col4>
+    <col5>COM</col5>
+    <col6>WATER</col6>
+    <col7></col7>
+    <col8>RAL_RANTA</col8>
+    <col9>RA</col9>
+  </Catalog>
+ 
+""","20","CHARON","YS00000-0","","#TP","10","","SOLOMANI_CONFEDERATION","SO""
+  <Catalog>
+    <col0></col0>
+    <col1>20</col1>
+    <col2>CHARON</col2>
+    <col3>YS00000-0</col3>
+    <col4></col4>
+    <col5>#TP</col5>
+    <col6>10</col6>
+    <col7></col7>
+    <col8>SOLOMANI_CONFEDERATION</col8>
+    <col9>SO</col9>
+  </Catalog>
+ 
+""","","","","","HYT","Y","","TEALOU_ARLAOH","TA""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>HYT</col5>
+    <col6>Y</col6>
+    <col7></col7>
+    <col8>TEALOU_ARLAOH</col8>
+    <col9>TA</col9>
+  </Catalog>
+ 
+""RELIGION","","","","","TET","Y","","TRITA_BROTHERHOOD","TB""
+  <Catalog>
+    <col0>RELIGION</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>TET</col5>
+    <col6>Y</col6>
+    <col7></col7>
+    <col8>TRITA_BROTHERHOOD</col8>
+    <col9>TB</col9>
+  </Catalog>
+ 
+""SANCTATERRA","","","","","MAC","3","","TOH_REPUBLIC","TR""
+  <Catalog>
+    <col0>SANCTATERRA</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MAC</col5>
+    <col6>3</col6>
+    <col7></col7>
+    <col8>TOH_REPUBLIC</col8>
+    <col9>TR</col9>
+  </Catalog>
+ 
+""THE_FOUNT_OF_CREATION","","","","","MIC","3","","THEOCRACY_OF_WELTSCHMERZ","TW""
+  <Catalog>
+    <col0>THE_FOUNT_OF_CREATION</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MIC</col5>
+    <col6>3</col6>
+    <col7></col7>
+    <col8>THEOCRACY_OF_WELTSCHMERZ</col8>
+    <col9>TW</col9>
+  </Catalog>
+ 
+""SEARCHERS_FOR_THE_ONE_FAITH","","","","","SMI","12","","UNION_OF_HARMONY","UH""
+  <Catalog>
+    <col0>SEARCHERS_FOR_THE_ONE_FAITH</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>SMI</col5>
+    <col6>12</col6>
+    <col7></col7>
+    <col8>UNION_OF_HARMONY</col8>
+    <col9>UH</col9>
+  </Catalog>
+ 
+""THE_APOSTLES_OF_CLARKES_LAW","","","","","ARC","14","","VEGAN_AUTONOMOUS_DISTRICT","VE""
+  <Catalog>
+    <col0>THE_APOSTLES_OF_CLARKES_LAW</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>ARC</col5>
+    <col6>14</col6>
+    <col7></col7>
+    <col8>VEGAN_AUTONOMOUS_DISTRICT</col8>
+    <col9>VE</col9>
+  </Catalog>
+ 
+""","","","","","VOL","1","","COUNSEL_OF_THE_WISE","WC""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>VOL</col5>
+    <col6>1</col6>
+    <col7></col7>
+    <col8>COUNSEL_OF_THE_WISE</col8>
+    <col9>WC</col9>
+  </Catalog>
+ 
+""","","","","","WEC","Y","","WINSTON_DEMOCRACY","WD""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>WEC</col5>
+    <col6>Y</col6>
+    <col7></col7>
+    <col8>WINSTON_DEMOCRACY</col8>
+    <col9>WD</col9>
+  </Catalog>
+ 
+""","","","","","NR1","AGRICULTURAL","","WOAL_WARLIYIR","WW""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>NR1</col5>
+    <col6>AGRICULTURAL</col6>
+    <col7></col7>
+    <col8>WOAL_WARLIYIR</col8>
+    <col9>WW</col9>
+  </Catalog>
+ 
+""","","","","","NR2","ORES","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>NR2</col5>
+    <col6>ORES</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","NR3","RADIOACTIVES","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>NR3</col5>
+    <col6>RADIOACTIVES</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","NR4","CRYSTALS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>NR4</col5>
+    <col6>CRYSTALS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","NR5","COMPOUNDS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>NR5</col5>
+    <col6>COMPOUNDS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","PR1","AGRO-PRODUCTS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PR1</col5>
+    <col6>AGRO-PRODUCTS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","PR2","METALS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PR2</col5>
+    <col6>METALS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","PR3","NON-METALS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PR3</col5>
+    <col6>NON-METALS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","MG1","PARTS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MG1</col5>
+    <col6>PARTS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","MG2","DURABLES","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MG2</col5>
+    <col6>DURABLES</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","MG3","CONSUMABLES","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MG3</col5>
+    <col6>CONSUMABLES</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","IN1","RECORDINGS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>IN1</col5>
+    <col6>RECORDINGS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","IN2","SOFTWARE","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>IN2</col5>
+    <col6>SOFTWARE</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","IN3","DOCUMENTS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>IN3</col5>
+    <col6>DOCUMENTS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","POP","42.53B","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>POP</col5>
+    <col6>42.53B</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","CU1","UNUSUAL_CLOTHING_HI-SOCIETY","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>CU1</col5>
+    <col6>UNUSUAL_CLOTHING_HI-SOCIETY</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","CU2","FIXED_VISITING_TIMES","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>CU2</col5>
+    <col6>FIXED_VISITING_TIMES</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","CU3","UNUSUAL_HOLIDAYS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>CU3</col5>
+    <col6>UNUSUAL_HOLIDAYS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","PRC","3","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PRC</col5>
+    <col6>3</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","SEC","30","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>SEC</col5>
+    <col6>30</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","TEC","750","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>TEC</col5>
+    <col6>750</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","PR1","RADICAL","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PR1</col5>
+    <col6>RADICAL</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","PR2","ENTERPRISING","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PR2</col5>
+    <col6>ENTERPRISING</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","AG1","COMPETITIVE","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>AG1</col5>
+    <col6>COMPETITIVE</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","AG2","NEUTRAL","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>AG2</col5>
+    <col6>NEUTRAL</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","EX1","HARMONIUS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>EX1</col5>
+    <col6>HARMONIUS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","EX2","FRIENDLY","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>EX2</col5>
+    <col6>FRIENDLY</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","REA","E/L/J-COUNCILS","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>REA</col5>
+    <col6>E/L/J-COUNCILS</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","GOV","CAPTI","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>GOV</col5>
+    <col6>CAPTI</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","OA1","N/A","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>OA1</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","OA2","N/A","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>OA2</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","REP","N/A","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>REP</col5>
+    <col6>N/A</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","UNL","UNDIVIDED","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>UNL</col5>
+    <col6>UNDIVIDED</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","LEP","9","OVERALL","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>LEP</col5>
+    <col6>9</col6>
+    <col7>OVERALL</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","9","WEAPONS","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>9</col6>
+    <col7>WEAPONS</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","6","TRADE","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>6</col6>
+    <col7>TRADE</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","8","CRIMINAL_LAW","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>8</col6>
+    <col7>CRIMINAL_LAW</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","B","CIVIL_LAW","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>B</col6>
+    <col7>CIVIL_LAW</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","9","PERSONAL_FREEDOM","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>9</col6>
+    <col7>PERSONAL_FREEDOM</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""","","","","","HLC","","FE","","HIGH/LOW_COMMON""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>HLC</col5>
+    <col6></col6>
+    <col7>FE</col7>
+    <col8></col8>
+    <col9>HIGH/LOW_COMMON</col9>
+  </Catalog>
+ 
+""","","","","","ENE","","F","","ENERGY""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>ENE</col5>
+    <col6></col6>
+    <col7>F</col7>
+    <col8></col8>
+    <col9>ENERGY</col9>
+  </Catalog>
+ 
+""","","","","","ROB","","F","","COMPUTER/ROBOTICS""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>ROB</col5>
+    <col6></col6>
+    <col7>F</col7>
+    <col8></col8>
+    <col9>COMPUTER/ROBOTICS</col9>
+  </Catalog>
+ 
+""","","","","","COM","","G","","COMMUNICATIONS""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>COM</col5>
+    <col6></col6>
+    <col7>G</col7>
+    <col8></col8>
+    <col9>COMMUNICATIONS</col9>
+  </Catalog>
+ 
+""","","","","","MED","","G","","MEDICAL""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MED</col5>
+    <col6></col6>
+    <col7>G</col7>
+    <col8></col8>
+    <col9>MEDICAL</col9>
+  </Catalog>
+ 
+""","","","","","ENV","","G","","ENVIROMENT""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>ENV</col5>
+    <col6></col6>
+    <col7>G</col7>
+    <col8></col8>
+    <col9>ENVIROMENT</col9>
+  </Catalog>
+ 
+""","","","","","LWAS","","EEEF","","LAND,WATER,AIR,SPACE""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>LWAS</col5>
+    <col6></col6>
+    <col7>EEEF</col7>
+    <col8></col8>
+    <col9>LAND,WATER,AIR,SPACE</col9>
+  </Catalog>
+ 
+""","","","","","PHM","","FE","","PERSONAL/HEAVY_MILITARY""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>PHM</col5>
+    <col6></col6>
+    <col7>FE</col7>
+    <col8></col8>
+    <col9>PERSONAL/HEAVY_MILITARY</col9>
+  </Catalog>
+ 
+""","","","","","NOV","","G","","NOVELTY""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>NOV</col5>
+    <col6></col6>
+    <col7>G</col7>
+    <col8></col8>
+    <col9>NOVELTY</col9>
+  </Catalog>
+ 
+</Catalogs>

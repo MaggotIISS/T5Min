@@ -1,0 +1,10 @@
+//	ASW-ETC-APS-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+squadsupport.gif c c 000000
+ASW-ETC 2 1 35 H 000000
+TL9 50 1 35 H 000000
+VAR.20.-1 2 7 35 H 000000
+16D.2 2 13 35 H 000000
+ASW-ETC-APS-0.gif

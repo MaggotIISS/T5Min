@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Panel4Careers.form.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"<?xml version="1.0" encoding="UTF-8" ?>"
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">"
+  <Catalog>
+    <col0><Form version=1.3 maxVersion=1.9 type=org.netbeans.modules.form.forminfo.JPanelFormInfo></col0>
+  </Catalog>
+ 
+"  <AuxValues>"
+  <Catalog>
+    <col0>  <AuxValues></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_autoResourcing type=java.lang.Integer value=0/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_autoSetComponentName type=java.lang.Boolean value=false/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_generateFQN type=java.lang.Boolean value=true/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_generateMnemonicsCode type=java.lang.Boolean value=false/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_i18nAutoMode type=java.lang.Boolean value=false/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_layoutCodeTarget type=java.lang.Integer value=1/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_listenerGenerationStyle type=java.lang.Integer value=0/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_variablesLocal type=java.lang.Boolean value=false/></col0>
+  </Catalog>
+ 
+"    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>"
+  <Catalog>
+    <col0>    <AuxValue name=FormSettings_variablesModifier type=java.lang.Integer value=2/></col0>
+  </Catalog>
+ 
+"  </AuxValues>"
+  <Catalog>
+    <col0>  </AuxValues></col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  <Layout>"
+  <Catalog>
+    <col0>  <Layout></col0>
+  </Catalog>
+ 
+"    <DimensionLayout dim="0">"
+  <Catalog>
+    <col0>    <DimensionLayout dim=0></col0>
+  </Catalog>
+ 
+"      <Group type="103" groupAlignment="0" attributes="0">"
+  <Catalog>
+    <col0>      <Group type=103 groupAlignment=0 attributes=0></col0>
+  </Catalog>
+ 
+"          <EmptySpace min="0" pref="400" max="32767" attributes="0"/>"
+  <Catalog>
+    <col0>          <EmptySpace min=0 pref=400 max=32767 attributes=0/></col0>
+  </Catalog>
+ 
+"      </Group>"
+  <Catalog>
+    <col0>      </Group></col0>
+  </Catalog>
+ 
+"    </DimensionLayout>"
+  <Catalog>
+    <col0>    </DimensionLayout></col0>
+  </Catalog>
+ 
+"    <DimensionLayout dim="1">"
+  <Catalog>
+    <col0>    <DimensionLayout dim=1></col0>
+  </Catalog>
+ 
+"      <Group type="103" groupAlignment="0" attributes="0">"
+  <Catalog>
+    <col0>      <Group type=103 groupAlignment=0 attributes=0></col0>
+  </Catalog>
+ 
+"          <EmptySpace min="0" pref="300" max="32767" attributes="0"/>"
+  <Catalog>
+    <col0>          <EmptySpace min=0 pref=300 max=32767 attributes=0/></col0>
+  </Catalog>
+ 
+"      </Group>"
+  <Catalog>
+    <col0>      </Group></col0>
+  </Catalog>
+ 
+"    </DimensionLayout>"
+  <Catalog>
+    <col0>    </DimensionLayout></col0>
+  </Catalog>
+ 
+"  </Layout>"
+  <Catalog>
+    <col0>  </Layout></col0>
+  </Catalog>
+ 
+"</Form>"
+  <Catalog>
+    <col0></Form></col0>
+  </Catalog>
+ 
+</Catalogs>

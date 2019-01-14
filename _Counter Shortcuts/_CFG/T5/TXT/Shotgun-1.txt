@@ -1,0 +1,12 @@
+//	Shotgun-1.txt
+#####################
+# Shotguns use GunsTL (Shotgun)
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+shotgun.gif c c 000000
+Shotgun 2 1 35 H 000000
+TL6 50 1 35 H 000000
+5.3.-3 2 7 35 H 000000
+4D.1 2 13 35 H 000000
+Shotgun-1.gif

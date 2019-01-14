@@ -1,0 +1,6 @@
+//	Merchant-0.txt
+#MERCHANT FF 00 FF
+lines.gif
+box.gif c c FF00FF
+MERCHANT 1 1 35 H 000000
+Merchant-0.gif

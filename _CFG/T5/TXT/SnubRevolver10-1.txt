@@ -1,0 +1,12 @@
+//	SnubRevolver10-1.txt
+#####################
+# ZeroGWeapons use GunsTL (Gyroc)
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+pistol.gif c c 000000
+SNUB_REVOLVER 2 1 35 H 000000
+TL8 50 1 35 H 000000
+6.3.0 2 7 35 H 000000
+VARIES.VARIES 2 13 35 H 000000
+SnubRevolver10-1.gif

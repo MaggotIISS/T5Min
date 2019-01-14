@@ -1,0 +1,5 @@
+//	LA-0.txt
+lines.gif
+box.gif c c FF0000
+arty.gif c c 000000
+LA-0.gif

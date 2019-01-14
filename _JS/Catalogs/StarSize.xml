@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="StarSize.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Code","Description","Diameter (Sol = 1)"
+"Ia","Bright Supergiant","52 - 3500"
+  <Catalog>
+    <col0>Ia</col0>
+    <col1>Bright Supergiant</col1>
+    <col2>52 - 3500</col2>
+  </Catalog>
+ 
+"Ib","Weak Supergiant","30 - 3000"
+  <Catalog>
+    <col0>Ib</col0>
+    <col1>Weak Supergiant</col1>
+    <col2>30 - 3000</col2>
+  </Catalog>
+ 
+"II","Bright Giant","14 - 1000"
+  <Catalog>
+    <col0>II</col0>
+    <col1>Bright Giant</col1>
+    <col2>14 - 1000</col2>
+  </Catalog>
+ 
+"III","Normal Giant","4.6 - 360"
+  <Catalog>
+    <col0>III</col0>
+    <col1>Normal Giant</col1>
+    <col2>4.6 - 360</col2>
+  </Catalog>
+ 
+"IV","Subgiant","3.3 - 13"
+  <Catalog>
+    <col0>IV</col0>
+    <col1>Subgiant</col1>
+    <col2>3.3 - 13</col2>
+  </Catalog>
+ 
+"V","Main Sequence Star","0.2 - 10"
+  <Catalog>
+    <col0>V</col0>
+    <col1>Main Sequence Star</col1>
+    <col2>0.2 - 10</col2>
+  </Catalog>
+ 
+"VI","Subdwarf","0.1 - 1.2"
+  <Catalog>
+    <col0>VI</col0>
+    <col1>Subdwarf</col1>
+    <col2>0.1 - 1.2</col2>
+  </Catalog>
+ 
+"VII","White Dwarf","0.006 - 0.018"
+  <Catalog>
+    <col0>VII</col0>
+    <col1>White Dwarf</col1>
+    <col2>0.006 - 0.018</col2>
+  </Catalog>
+ 
+"D","White Dwarf","0.006 - 0.018"
+  <Catalog>
+    <col0>D</col0>
+    <col1>White Dwarf</col1>
+    <col2>0.006 - 0.018</col2>
+  </Catalog>
+ 
+</Catalogs>

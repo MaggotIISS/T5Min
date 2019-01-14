@@ -1,0 +1,4 @@
+//	IGS-0.txt
+lines.gif
+igs.gif c c replace
+IGS-0.gif

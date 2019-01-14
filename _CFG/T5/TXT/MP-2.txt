@@ -1,0 +1,6 @@
+//	MP-2.txt
+#MP  80 A0 F0
+lines.gif
+box.gif c c 80A0F0
+MP 1 1 35 H 000000
+MP-2.gif

@@ -1,0 +1,6 @@
+//	BlackSun-0.txt
+# Sunbursts.cfg
+lines.gif
+box.gif c c FFFFFF
+star.gif c c 000000
+BlackSun-0.gif

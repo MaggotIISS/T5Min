@@ -1,0 +1,4 @@
+//	SC-0.txt
+lines.gif
+scout.gif c c d0d0d0
+SC-0.gif

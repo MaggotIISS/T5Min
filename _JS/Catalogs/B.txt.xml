@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="B.txt.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Digit","Description","Alleg"
+"C","Corsair Base","Vargr"
+  <Catalog>
+    <col0>C</col0>
+    <col1>Corsair Base</col1>
+    <col2>Vargr</col2>
+  </Catalog>
+ 
+"D","Naval Depot","Any"
+  <Catalog>
+    <col0>D</col0>
+    <col1>Naval Depot</col1>
+    <col2>Any</col2>
+  </Catalog>
+ 
+"K","Naval Base","Any"
+  <Catalog>
+    <col0>K</col0>
+    <col1>Naval Base</col1>
+    <col2>Any</col2>
+  </Catalog>
+ 
+"M","Military Base","Any"
+  <Catalog>
+    <col0>M</col0>
+    <col1>Military Base</col1>
+    <col2>Any</col2>
+  </Catalog>
+ 
+"N","Naval Base","Imperial"
+  <Catalog>
+    <col0>N</col0>
+    <col1>Naval Base</col1>
+    <col2>Imperial</col2>
+  </Catalog>
+ 
+"R","Clan Base","Aslan"
+  <Catalog>
+    <col0>R</col0>
+    <col1>Clan Base</col1>
+    <col2>Aslan</col2>
+  </Catalog>
+ 
+"S","Scout Base","Imperial"
+  <Catalog>
+    <col0>S</col0>
+    <col1>Scout Base</col1>
+    <col2>Imperial</col2>
+  </Catalog>
+ 
+"T","Tlaukhu Base","Aslan"
+  <Catalog>
+    <col0>T</col0>
+    <col1>Tlaukhu Base</col1>
+    <col2>Aslan</col2>
+  </Catalog>
+ 
+"V","Exploration Base","Any"
+  <Catalog>
+    <col0>V</col0>
+    <col1>Exploration Base</col1>
+    <col2>Any</col2>
+  </Catalog>
+ 
+"W","Scout Way Station","Imperial"
+  <Catalog>
+    <col0>W</col0>
+    <col1>Scout Way Station</col1>
+    <col2>Imperial</col2>
+  </Catalog>
+ 
+"X","Relay Station","Zhodani"
+  <Catalog>
+    <col0>X</col0>
+    <col1>Relay Station</col1>
+    <col2>Zhodani</col2>
+  </Catalog>
+ 
+</Catalogs>

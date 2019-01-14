@@ -1,0 +1,6 @@
+//	NC-0.txt
+#NC  FF6068  
+lines.gif
+box.gif c c FF6068
+NC 1 1 35 H 000000
+NC-0.gif

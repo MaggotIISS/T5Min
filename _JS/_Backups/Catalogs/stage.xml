@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="stage.xsl"?>
+ --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"STAGE","CODE","TL"
+"Experimental","X","-2"
+  <Catalog>
+    <col0>Experimental</col0>
+    <col1>X</col1>
+    <col2>-2</col2>
+  </Catalog>
+ 
+"Prototype","P","-1"
+  <Catalog>
+    <col0>Prototype</col0>
+    <col1>P</col1>
+    <col2>-1</col2>
+  </Catalog>
+ 
+"Early","E","-1"
+  <Catalog>
+    <col0>Early</col0>
+    <col1>E</col1>
+    <col2>-1</col2>
+  </Catalog>
+ 
+"Basic","B","0"
+  <Catalog>
+    <col0>Basic</col0>
+    <col1>B</col1>
+    <col2>0</col2>
+  </Catalog>
+ 
+"(blank)","","0"
+  <Catalog>
+    <col0>(blank)</col0>
+    <col1></col1>
+    <col2>0</col2>
+  </Catalog>
+ 
+"Standard","St","1"
+  <Catalog>
+    <col0>Standard</col0>
+    <col1>St</col1>
+    <col2>1</col2>
+  </Catalog>
+ 
+"Improved","Im","1"
+  <Catalog>
+    <col0>Improved</col0>
+    <col1>Im</col1>
+    <col2>1</col2>
+  </Catalog>
+ 
+"Modified","Mod","2"
+  <Catalog>
+    <col0>Modified</col0>
+    <col1>Mod</col1>
+    <col2>2</col2>
+  </Catalog>
+ 
+"Advanced","A","3"
+  <Catalog>
+    <col0>Advanced</col0>
+    <col1>A</col1>
+    <col2>3</col2>
+  </Catalog>
+ 
+"Obsolete","Ob","4"
+  <Catalog>
+    <col0>Obsolete</col0>
+    <col1>Ob</col1>
+    <col2>4</col2>
+  </Catalog>
+ 
+"Alternate","Alt","1"
+  <Catalog>
+    <col0>Alternate</col0>
+    <col1>Alt</col1>
+    <col2>1</col2>
+  </Catalog>
+ 
+</Catalogs>

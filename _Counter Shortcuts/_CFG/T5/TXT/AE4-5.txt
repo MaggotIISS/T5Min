@@ -1,0 +1,5 @@
+//	AE4-5.txt
+lines.gif
+box.gif c c 336633
+AE4.gif c c FFFFFF
+AE4-5.gif

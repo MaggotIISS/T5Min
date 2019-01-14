@@ -1,0 +1,10 @@
+//	Rifle9-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+rifle.gif c c 000000
+Rifle9 2 1 35 H 000000
+TL7 50 1 35 H 000000
+10.3.-2 2 7 35 H 000000
+7D-1.1 2 13 35 H 000000
+Rifle9-1.gif

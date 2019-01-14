@@ -1,0 +1,6 @@
+//	OHT-0.txt
+#OHT   
+lines.gif
+box.gif c c 6FB800
+OHT 1 1 35 H 000000
+OHT-0.gif

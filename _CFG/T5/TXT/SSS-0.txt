@@ -1,0 +1,6 @@
+//	SSS-0.txt
+#SSS   
+lines.gif
+box.gif c c 30FF3F
+SSS 1 1 35 H 000000
+SSS-0.gif

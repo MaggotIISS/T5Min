@@ -1,0 +1,4 @@
+//	Operations-0.txt
+lines.gif
+Ops.gif c c replace
+Operations-0.gif

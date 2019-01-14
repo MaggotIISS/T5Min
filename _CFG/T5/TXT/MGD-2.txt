@@ -1,0 +1,6 @@
+//	MGD-2.txt
+#MGD   
+lines.gif
+box.gif c c FF9FFF
+MGD 1 1 35 H 000000
+MGD-2.gif

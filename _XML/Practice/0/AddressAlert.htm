@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+  <head>
+    <title>Address Example</title>
+    <script language="javascript" type="text/javascript">
+      function alertAddressData() {
+        var xmldata1 = document.getElementById("xmldata1");
+        var address = xmldata1.getElementsByTagName("address")[0];
+
+        var name = address.getElementsByTagName("name")[0].firstChild.data;
+        var street = address.getElementsByTagName("street")[0].firstChild.data;
+        var town = address.getElementsByTagName("town")[0].firstChild.data;
+        var region = address.getElementsByTagName("region")[0].firstChild.data;
+        var postcode = address.getElementsByTagName("postcode")[0].firstChild.data;
+        var country = address.getElementsByTagName("country")[0].firstChild.data;
+        var homeworld = address.getElementsByTagName("homeworld")[0].firstChild.data;
+        alert("Address Data: \n\n" + name + "\n" + street + "\n" + town + "\n" + region + "\n" + postcode + "\n" + country + "\n" + homeworld + "\n");
+      }
+    </script>
+  </head>
+  <body>
+    <xml id="xmldata1" style="display:none">
+      <address >
+        <name>Mark Ferguson</name>
+        <street>83 Admiralty Road</street>
+        <town>GREAT YARMOUTH</town>
+        <region>Norfolk</region>
+        <postcode>NR303DX</postcode>
+        <country>UK</country>
+        <homeworld>1910 Regina</homeworld>
+      </address>
+    </xml>
+    <a href="javascript:alertAddressData()">Alert Address Data</a>
+  </body>
+</html>

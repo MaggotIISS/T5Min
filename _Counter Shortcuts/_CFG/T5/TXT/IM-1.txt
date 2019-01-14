@@ -1,0 +1,5 @@
+//	IM-1.txt
+lines.gif
+box.gif c c 0000FF
+star.gif c c 000000
+IM-1.gif

@@ -1,0 +1,10 @@
+//	SnubSMG10HEAT-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+smg.gif c c 000000
+SnubSMG10 2 1 35 H 000000
+TL8 50 1 35 H 000000
+40.16.-1 2 7 35 H 000000
+1D(10) 2 13 35 H 000000
+SnubSMG10HEAT-1.gif

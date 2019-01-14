@@ -1,0 +1,5 @@
+//	ReginaNorris-0.txt
+lines.gif
+huscarle.gif c c replace
+lines.gif c c 000000
+ReginaNorris-0.gif

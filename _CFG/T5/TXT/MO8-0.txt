@@ -1,0 +1,5 @@
+//	MO8-0.txt
+lines.gif
+box.gif c c FFFFFF
+MO8.gif c c 000000
+MO8-0.gif

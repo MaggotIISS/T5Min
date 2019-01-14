@@ -1,0 +1,4 @@
+//	BC-2.txt
+lines.gif
+box.gif c c C0DCC0
+BC-2.gif

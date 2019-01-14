@@ -1,0 +1,4 @@
+//	CA-3.txt
+lines.gif
+carrier.gif c c d0d0d0
+CA-3.gif

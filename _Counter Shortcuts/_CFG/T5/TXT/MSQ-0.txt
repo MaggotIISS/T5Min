@@ -1,0 +1,6 @@
+//	MSQ-0.txt
+#MSQ   
+lines.gif
+box.gif c c FFDFFF
+MSQ 1 1 35 H 000000
+MSQ-0.gif

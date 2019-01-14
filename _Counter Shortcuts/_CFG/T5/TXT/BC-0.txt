@@ -1,0 +1,5 @@
+//	BC-0.txt
+lines.gif
+Box.gif c c C0DCC0
+#HQ.gif c c 000000
+BC-0.gif

@@ -1,0 +1,7 @@
+//	SMCH-0.txt
+blank.gif
+im.gif c c replace
+harvehhrec.gif c c 000000
+SMCH c 7 35 H 000000
+5 2 7 35 H 000000
+SMCH-0.gif

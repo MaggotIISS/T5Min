@@ -1,0 +1,7 @@
+//	SSB6R-0.txt
+blank.gif
+im.gif c c replace
+harvehredd.gif c c 000000
+SSB6R c 7 35 H 000000
+1 2 7 35 H 000000
+SSB6R-0.gif

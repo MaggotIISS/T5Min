@@ -1,0 +1,10 @@
+//	LAG-20-HE-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+squadsupport.gif c c 000000
+LAG20 2 1 35 H 000000
+TL8 50 1 35 H 000000
+5.2.-3 2 7 35 H 000000
+1D+2.2D 2 13 35 H 000000
+LAG-20-HE-1.gif

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="arm-gtsquads.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Vehicle","ID","CO","Men""
+""INTREPID","THQ1","O5","5""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>THQ1</col1>
+    <col2>O5</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""INTREPID","THQ2","O4","5""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>THQ2</col1>
+    <col2>O4</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRINC","THQ3","E9","5""
+  <Catalog>
+    <col0>ASTRINC</col0>
+    <col1>THQ3</col1>
+    <col2>E9</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRINC","THQ4","O2","5""
+  <Catalog>
+    <col0>ASTRINC</col0>
+    <col1>THQ4</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRINC","THQ5","O2","5""
+  <Catalog>
+    <col0>ASTRINC</col0>
+    <col1>THQ5</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRINC","THQ6","O1","5""
+  <Catalog>
+    <col0>ASTRINC</col0>
+    <col1>THQ6</col1>
+    <col2>O1</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRINC","THQ7","O1","5""
+  <Catalog>
+    <col0>ASTRINC</col0>
+    <col1>THQ7</col1>
+    <col2>O1</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRIN","THC1","O3","6""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>THC1</col1>
+    <col2>O3</col2>
+    <col3>6</col3>
+  </Catalog>
+ 
+""GCARRIER","TMP1","O2","4""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TMP1</col1>
+    <col2>O2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""GCARRIER","TMP2","O1","3""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TMP2</col1>
+    <col2>O1</col2>
+    <col3>3</col3>
+  </Catalog>
+ 
+""AIRRAFT","TMP3","E5","2""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TMP3</col1>
+    <col2>E5</col2>
+    <col3>2</col3>
+  </Catalog>
+ 
+""AIRRAFT","TMP4","E4","2""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TMP4</col1>
+    <col2>E4</col2>
+    <col3>2</col3>
+  </Catalog>
+ 
+""GCARRIER","TMS1","E8","3""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TMS1</col1>
+    <col2>E8</col2>
+    <col3>3</col3>
+  </Catalog>
+ 
+""GCARRIER","TMS2","E7","3""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TMS2</col1>
+    <col2>E7</col2>
+    <col3>3</col3>
+  </Catalog>
+ 
+""HRV","TMS3","E5","9""
+  <Catalog>
+    <col0>HRV</col0>
+    <col1>TMS3</col1>
+    <col2>E5</col2>
+    <col3>9</col3>
+  </Catalog>
+ 
+""HRV","TMS4","E5","9""
+  <Catalog>
+    <col0>HRV</col0>
+    <col1>TMS4</col1>
+    <col2>E5</col2>
+    <col3>9</col3>
+  </Catalog>
+ 
+""HRV","TMS5","E5","9""
+  <Catalog>
+    <col0>HRV</col0>
+    <col1>TMS5</col1>
+    <col2>E5</col2>
+    <col3>9</col3>
+  </Catalog>
+ 
+""HRV","TMS6","E5","9""
+  <Catalog>
+    <col0>HRV</col0>
+    <col1>TMS6</col1>
+    <col2>E5</col2>
+    <col3>9</col3>
+  </Catalog>
+ 
+""AIRRAFT","TSP1","O2","4""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TSP1</col1>
+    <col2>O2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""AIRRAFT","TSP2","E4","4""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TSP2</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""AIRRAFT","TSP3","E3","4""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TSP3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""AIRRAFT","TSP4","E3","4""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TSP4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""AIRRAFT","TSP5","E3","4""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TSP5</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""AIRRAFT","TSP6","E2","4""
+  <Catalog>
+    <col0>AIRRAFT</col0>
+    <col1>TSP6</col1>
+    <col2>E2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""GCARRIER","TSS1","E2","3""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TSS1</col1>
+    <col2>E2</col2>
+    <col3>3</col3>
+  </Catalog>
+ 
+""GCARRIER","TSS2","E2","3""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TSS2</col1>
+    <col2>E2</col2>
+    <col3>3</col3>
+  </Catalog>
+ 
+""GCARRIER","TSS3","E2","4""
+  <Catalog>
+    <col0>GCARRIER</col0>
+    <col1>TSS3</col1>
+    <col2>E2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAH1","O3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAH1</col1>
+    <col2>O3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAH2","O2","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAH2</col1>
+    <col2>O2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""ASTRIN","TAH3","O2","5""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>TAH3</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRIN","TAH4","O2","5""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>TAH4</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""INTREPID","TAA1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAH1","O3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAH1</col1>
+    <col2>O3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAH2","O2","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAH2</col1>
+    <col2>O2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""ASTRIN","TAH3","O2","5""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>TAH3</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRIN","TAH4","O2","5""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>TAH4</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""INTREPID","TAA1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAH1","O3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAH1</col1>
+    <col2>O3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAH2","O2","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAH2</col1>
+    <col2>O2</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""ASTRIN","TAH3","O2","5""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>TAH3</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""ASTRIN","TAH4","O2","5""
+  <Catalog>
+    <col0>ASTRIN</col0>
+    <col1>TAH4</col1>
+    <col2>O2</col2>
+    <col3>5</col3>
+  </Catalog>
+ 
+""INTREPID","TAA1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAA4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAA4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAB4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAB4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC1","E4","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC1</col1>
+    <col2>E4</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC2","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC2</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC3","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC3</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+""INTREPID","TAC4","E3","4""
+  <Catalog>
+    <col0>INTREPID</col0>
+    <col1>TAC4</col1>
+    <col2>E3</col2>
+    <col3>4</col3>
+  </Catalog>
+ 
+</Catalogs>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!--
+COMMENT
+//http://www.w3schools.com/xsl/xsl_w3celementref.asp
+-->
+<html id="html">
+  <head id="head">
+    <title id="title">TITLE</title>
+    <script id="loadxmldoc">
+      function loadXMLDoc(filename)
+      {
+        if (window.ActiveXObject)
+        {
+          xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+        }
+        else
+        {
+          xhttp = new XMLHttpRequest();
+        }
+        xhttp.open("GET", filename, false);
+        try {
+          xhttp.responseType = "msxml-document"
+        } catch (err) {
+        } // Helping IE11
+        xhttp.send("");
+        return xhttp.responseXML;
+      }
+
+      function displayResult()
+      {
+        xml = loadXMLDoc("XML.xml");
+        xsl = loadXMLDoc("XSL.xsl");
+        // code for IE
+        if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+        {
+          ex = xml.transformNode(xsl);
+          document.getElementById("example").innerHTML = ex;
+        }
+        // code for Chrome, Firefox, Opera, etc.
+        else if (document.implementation && document.implementation.createDocument)
+        {
+          xsltProcessor = new XSLTProcessor();
+          xsltProcessor.importStylesheet(xsl);
+          resultDocument = xsltProcessor.transformToFragment(xml, document);
+          document.getElementById("example").appendChild(resultDocument);
+        }
+      }
+
+    </script>
+    <script id="headscripts">
+      SCRIPTS
+    </script>
+  </head>
+  <body id="body">
+    <!--
+    //Add header
+    -->
+    <header id="header">
+      
+    </header>
+    <!--
+    //Add heading
+    -->
+    <h2 id="heading">
+      HEADING
+    </h2>
+    <!--
+    //Add picture
+    -->
+    <div id="picture">
+      PICPATH<br/>
+      <img id="picture" src="PICTURE" width="WIDTH" height="HEIGHT" alt="PICALT"/><br/>
+    </div>
+    <!--
+    //Add button
+    -->
+    <div id = "button">
+      <button  id="button" onclick="displayButton()">
+        EDIT
+      </button><br/>
+      <script id="displayButton">
+        function displayButton() {
+          document.getElementById("button").innerHTML = "EDITING";
+        }
+      </script>
+    </div>
+    <!--
+    //Add text
+    -->
+    <div id="text">
+      INTRO<br/>
+      TEXT<br/>
+    </div>
+    <!--
+    //Add footnote & links
+    -->
+    <div id="footnote">
+      <br/><br/>
+      <a href="Default.html">Default</a><br/>
+      <a href="HTML.html">HTML</a><br/>
+      <a href="Test.html">Test</a><br/>
+      <a href="CSV.csv">CSV</a><br/>
+      <a href="DTD.dtd">DTD</a><br/>
+      <a href="TXT.txt">TXT</a><br/>
+      <a href="XML.xml">XML</a><br/>
+      <a href="XSL.xsl">XSL</a><br/>
+    </div>
+    <!--
+    //Add footer
+    -->
+    <footer id="footer">
+      <div>
+        <br/><br>
+      </div>
+    </footer>
+  </body>
+</html>

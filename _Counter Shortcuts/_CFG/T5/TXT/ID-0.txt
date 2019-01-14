@@ -1,0 +1,7 @@
+//	ID-0.txt
+blank.gif
+im.gif c c replace
+VEH c c 35 H 000000
+ID c 7 35 H 000000
+MEN 2 7 35 H 000000
+ID-0.gif

@@ -1,0 +1,10 @@
+//	10GJMG-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+vehicularwpn.gif c c 000000
+10GJMG 2 1 35 H 000000
+TL12 50 1 35 H 000000
+VAR_0.5_0 2 7 35 H 000000
+8DX1000.1 2 13 35 H 000000
+10GJMG-0.gif

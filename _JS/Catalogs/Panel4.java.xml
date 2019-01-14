@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Panel4.java.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"/*"
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * Copyright (C) 2014 Mark Ferguson"
+  <Catalog>
+    <col0> * Copyright (C) 2014 Mark Ferguson</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * This program is free software: you can redistribute it and/or modify"
+  <Catalog>
+    <col0> * This program is free software: you can redistribute it and/or modify</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * it under the terms of the GNU General Public License as published by"
+  <Catalog>
+    <col0> * it under the terms of the GNU General Public License as published by</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * the Free Software Foundation, either version 3 of the License, or"
+  <Catalog>
+    <col0> * the Free Software Foundation, either version 3 of the License, or</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * (at your option) any later version."
+  <Catalog>
+    <col0> * (at your option) any later version.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * This program is distributed in the hope that it will be useful,"
+  <Catalog>
+    <col0> * This program is distributed in the hope that it will be useful,</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * but WITHOUT ANY WARRANTY; without even the implied warranty of"
+  <Catalog>
+    <col0> * but WITHOUT ANY WARRANTY; without even the implied warranty of</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the"
+  <Catalog>
+    <col0> * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * GNU General Public License for more details."
+  <Catalog>
+    <col0> * GNU General Public License for more details.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" *"
+  <Catalog>
+    <col0> *</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * You should have received a copy of the GNU General Public License"
+  <Catalog>
+    <col0> * You should have received a copy of the GNU General Public License</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" * along with this program.  If not, see <http://www.gnu.org/licenses/>."
+  <Catalog>
+    <col0> * along with this program.  If not, see <http://www.gnu.org/licenses/>.</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" */"
+  <Catalog>
+    <col0> */</col0>
+  </Catalog>
+ 
+"package panels;"
+  <Catalog>
+    <col0>package panels;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"import dbviewer.globals.GlobalMethods;"
+  <Catalog>
+    <col0>import dbviewer.globals.GlobalMethods;</col0>
+  </Catalog>
+ 
+"import static dbviewer.globals.GlobalVariables.CRLF;"
+  <Catalog>
+    <col0>import static dbviewer.globals.GlobalVariables.CRLF;</col0>
+  </Catalog>
+ 
+"import dbviewer.globals.ObjectAnalyzer;"
+  <Catalog>
+    <col0>import dbviewer.globals.ObjectAnalyzer;</col0>
+  </Catalog>
+ 
+"import java.awt.AWTException;"
+  <Catalog>
+    <col0>import java.awt.AWTException;</col0>
+  </Catalog>
+ 
+"import java.awt.BorderLayout;"
+  <Catalog>
+    <col0>import java.awt.BorderLayout;</col0>
+  </Catalog>
+ 
+"import java.awt.GraphicsDevice;"
+  <Catalog>
+    <col0>import java.awt.GraphicsDevice;</col0>
+  </Catalog>
+ 
+"import java.awt.GraphicsEnvironment;"
+  <Catalog>
+    <col0>import java.awt.GraphicsEnvironment;</col0>
+  </Catalog>
+ 
+"import java.awt.Robot;"
+  <Catalog>
+    <col0>import java.awt.Robot;</col0>
+  </Catalog>
+ 
+"import java.util.logging.Level;"
+  <Catalog>
+    <col0>import java.util.logging.Level;</col0>
+  </Catalog>
+ 
+"import java.util.logging.Logger;"
+  <Catalog>
+    <col0>import java.util.logging.Logger;</col0>
+  </Catalog>
+ 
+"import javax.swing.JFrame;"
+  <Catalog>
+    <col0>import javax.swing.JFrame;</col0>
+  </Catalog>
+ 
+"import javax.swing.JPanel;"
+  <Catalog>
+    <col0>import javax.swing.JPanel;</col0>
+  </Catalog>
+ 
+"import javax.swing.JTextArea;"
+  <Catalog>
+    <col0>import javax.swing.JTextArea;</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"/**"
+  <Catalog>
+    <col0>/**</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+" @author maggot.iiss"
+  <Catalog>
+    <col0> @author maggot.iiss</col0>
+  </Catalog>
+ 
+" */"
+  <Catalog>
+    <col0> */</col0>
+  </Catalog>
+ 
+"@SuppressWarnings("serial")"
+  <Catalog>
+    <col0>@SuppressWarnings(serial)</col0>
+  </Catalog>
+ 
+"public class Panel4 extends javax.swing.JPanel {"
+  <Catalog>
+    <col0>public class Panel4 extends javax.swing.JPanel {</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  //<editor-fold defaultstate="collapsed" desc="Variables">"
+  <Catalog>
+    <col0>  //<editor-fold defaultstate=collapsed desc=Variables></col0>
+  </Catalog>
+ 
+"  private static String Name = "PanelName";"
+  <Catalog>
+    <col0>  private static String Name = PanelName;</col0>
+  </Catalog>
+ 
+"  private static String[] svarnames = new String[]{"
+  <Catalog>
+    <col0>  private static String[] svarnames = new String[]{</col0>
+  </Catalog>
+ 
+"    "Name""
+  <Catalog>
+    <col0>    Name</col0>
+  </Catalog>
+ 
+"  };"
+  <Catalog>
+    <col0>  };</col0>
+  </Catalog>
+ 
+"  private static String[] svars = new String[]{"
+  <Catalog>
+    <col0>  private static String[] svars = new String[]{</col0>
+  </Catalog>
+ 
+"    Name"
+  <Catalog>
+    <col0>    Name</col0>
+  </Catalog>
+ 
+"  };"
+  <Catalog>
+    <col0>  };</col0>
+  </Catalog>
+ 
+"  static int i;"
+  <Catalog>
+    <col0>  static int i;</col0>
+  </Catalog>
+ 
+"  private static int[] ivars = new int[]{i};"
+  <Catalog>
+    <col0>  private static int[] ivars = new int[]{i};</col0>
+  </Catalog>
+ 
+"  private static String[] ivarnames = new String[]{"i"};"
+  <Catalog>
+    <col0>  private static String[] ivarnames = new String[]{i};</col0>
+  </Catalog>
+ 
+"  static JFrame jf;"
+  <Catalog>
+    <col0>  static JFrame jf;</col0>
+  </Catalog>
+ 
+"  static JPanel jp;"
+  <Catalog>
+    <col0>  static JPanel jp;</col0>
+  </Catalog>
+ 
+"  private boolean showing = true;"
+  <Catalog>
+    <col0>  private boolean showing = true;</col0>
+  </Catalog>
+ 
+"  //</editor-fold>"
+  <Catalog>
+    <col0>  //</editor-fold></col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"   @param args text entry from keyboard"
+  <Catalog>
+    <col0>   @param args text entry from keyboard</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public static void main(String[] args) {"
+  <Catalog>
+    <col0>  public static void main(String[] args) {</col0>
+  </Catalog>
+ 
+"    jp = new Panel4(Name);"
+  <Catalog>
+    <col0>    jp = new Panel4(Name);</col0>
+  </Catalog>
+ 
+"    jf = new Frame4(jp);"
+  <Catalog>
+    <col0>    jf = new Frame4(jp);</col0>
+  </Catalog>
+ 
+"    jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);"
+  <Catalog>
+    <col0>    jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   Creates new form Panel4"
+  <Catalog>
+    <col0>   Creates new form Panel4</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public Panel4() {"
+  <Catalog>
+    <col0>  public Panel4() {</col0>
+  </Catalog>
+ 
+"    super();"
+  <Catalog>
+    <col0>    super();</col0>
+  </Catalog>
+ 
+"    getRobot();"
+  <Catalog>
+    <col0>    getRobot();</col0>
+  </Catalog>
+ 
+"    initComponents();"
+  <Catalog>
+    <col0>    initComponents();</col0>
+  </Catalog>
+ 
+"    setLayout(new BorderLayout());"
+  <Catalog>
+    <col0>    setLayout(new BorderLayout());</col0>
+  </Catalog>
+ 
+"//    GlobalMethods.autoColor(this, Color.black, Color.lightGray);"
+  <Catalog>
+    <col0>//    GlobalMethods.autoColor(this, Color.black, Color.lightGray);</col0>
+  </Catalog>
+ 
+"//    this.setName(this.getClass().getName());"
+  <Catalog>
+    <col0>//    this.setName(this.getClass().getName());</col0>
+  </Catalog>
+ 
+"    this.setToolTipText(this.getClass().getName());"
+  <Catalog>
+    <col0>    this.setToolTipText(this.getClass().getName());</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"   @param name strings to start"
+  <Catalog>
+    <col0>   @param name strings to start</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public Panel4(String name) {"
+  <Catalog>
+    <col0>  public Panel4(String name) {</col0>
+  </Catalog>
+ 
+"    this();"
+  <Catalog>
+    <col0>    this();</col0>
+  </Catalog>
+ 
+"    setName(name);"
+  <Catalog>
+    <col0>    setName(name);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"   @return name of class"
+  <Catalog>
+    <col0>   @return name of class</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  @Override"
+  <Catalog>
+    <col0>  @Override</col0>
+  </Catalog>
+ 
+"  public String toString() {"
+  <Catalog>
+    <col0>  public String toString() {</col0>
+  </Catalog>
+ 
+"//    return "" + getClass().getName();"
+  <Catalog>
+    <col0>//    return   getClass().getName();</col0>
+  </Catalog>
+ 
+"    return new ObjectAnalyzer().toString(this);"
+  <Catalog>
+    <col0>    return new ObjectAnalyzer().toString(this);</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"   @return Robot"
+  <Catalog>
+    <col0>   @return Robot</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public static Robot getRobot() {"
+  <Catalog>
+    <col0>  public static Robot getRobot() {</col0>
+  </Catalog>
+ 
+"    GraphicsEnvironment environment = GraphicsEnvironment.getLocalGraphicsEnvironment();"
+  <Catalog>
+    <col0>    GraphicsEnvironment environment = GraphicsEnvironment.getLocalGraphicsEnvironment();</col0>
+  </Catalog>
+ 
+"    final GraphicsDevice screen = environment.getDefaultScreenDevice();"
+  <Catalog>
+    <col0>    final GraphicsDevice screen = environment.getDefaultScreenDevice();</col0>
+  </Catalog>
+ 
+"    Robot robot = null;"
+  <Catalog>
+    <col0>    Robot robot = null;</col0>
+  </Catalog>
+ 
+"    try {"
+  <Catalog>
+    <col0>    try {</col0>
+  </Catalog>
+ 
+"      robot = new Robot(screen);"
+  <Catalog>
+    <col0>      robot = new Robot(screen);</col0>
+  </Catalog>
+ 
+"    } catch (AWTException ex) {"
+  <Catalog>
+    <col0>    } catch (AWTException ex) {</col0>
+  </Catalog>
+ 
+"      Logger.getLogger(Panel4.class.getName()).log(Level.SEVERE, null, ex);"
+  <Catalog>
+    <col0>      Logger.getLogger(Panel4.class.getName()).log(Level.SEVERE, null, ex);</col0>
+  </Catalog>
+ 
+"    }"
+  <Catalog>
+    <col0>    }</col0>
+  </Catalog>
+ 
+"//    String path = T5 + FS + jf.getName() + ".gif";"
+  <Catalog>
+    <col0>//    String path = T5  FS  jf.getName()  .gif;</col0>
+  </Catalog>
+ 
+"//    BufferedImage bi = robot.createScreenCapture(new Rectangle(jf.getX(), jf.getY(), jf.getWidth(), jf.getHeight()));"
+  <Catalog>
+    <col0>//    BufferedImage bi = robot.createScreenCapture(new Rectangle(jf.getX(), jf.getY(), jf.getWidth(), jf.getHeight()));</col0>
+  </Catalog>
+ 
+"////    Image scaledInstance = bi.getScaledInstance(800, 600, SCALE_REPLICATE);"
+  <Catalog>
+    <col0>////    Image scaledInstance = bi.getScaledInstance(800, 600, SCALE_REPLICATE);</col0>
+  </Catalog>
+ 
+"//    File f = new File(path);"
+  <Catalog>
+    <col0>//    File f = new File(path);</col0>
+  </Catalog>
+ 
+"//    try {"
+  <Catalog>
+    <col0>//    try {</col0>
+  </Catalog>
+ 
+"//      ImageIO.write((RenderedImage) bi, "GIF", f);"
+  <Catalog>
+    <col0>//      ImageIO.write((RenderedImage) bi, GIF, f);</col0>
+  </Catalog>
+ 
+"//    } catch (IOException ex) {"
+  <Catalog>
+    <col0>//    } catch (IOException ex) {</col0>
+  </Catalog>
+ 
+"//      Logger.getLogger(T5app.class"
+  <Catalog>
+    <col0>//      Logger.getLogger(T5app.class</col0>
+  </Catalog>
+ 
+"//        .getName()).log(Level.SEVERE, null, ex);"
+  <Catalog>
+    <col0>//        .getName()).log(Level.SEVERE, null, ex);</col0>
+  </Catalog>
+ 
+"//    }"
+  <Catalog>
+    <col0>//    }</col0>
+  </Catalog>
+ 
+"    return robot;"
+  <Catalog>
+    <col0>    return robot;</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   showThis"
+  <Catalog>
+    <col0>   showThis</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  public void showThis() {"
+  <Catalog>
+    <col0>  public void showThis() {</col0>
+  </Catalog>
+ 
+"    String[] txt = this.toString().split(",");"
+  <Catalog>
+    <col0>    String[] txt = this.toString().split(</col0>
+    <col1>);</col1>
+  </Catalog>
+ 
+"    JTextArea jta = new JTextArea();"
+  <Catalog>
+    <col0>    JTextArea jta = new JTextArea();</col0>
+  </Catalog>
+ 
+"    jta.setText(this.getClass().getName() + CRLF);"
+  <Catalog>
+    <col0>    jta.setText(this.getClass().getName()  CRLF);</col0>
+  </Catalog>
+ 
+"    jta.append(txt.toString());"
+  <Catalog>
+    <col0>    jta.append(txt.toString());</col0>
+  </Catalog>
+ 
+"    GlobalMethods.saveTextFile(".", this.getClass().getName() + " Errors", ".txt", jta.getText());"
+  <Catalog>
+    <col0>    GlobalMethods.saveTextFile(., this.getClass().getName()   Errors, .txt, jta.getText());</col0>
+  </Catalog>
+ 
+"  }"
+  <Catalog>
+    <col0>  }</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"////<editor-fold defaultstate="collapsed" desc="comment">"
+  <Catalog>
+    <col0>////<editor-fold defaultstate=collapsed desc=comment></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   * // * Grab Window and save as GIF in T5 folder //"
+  <Catalog>
+    <col0>   * // * Grab Window and save as GIF in T5 folder //</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"//  public static void Save() {"
+  <Catalog>
+    <col0>//  public static void Save() {</col0>
+  </Catalog>
+ 
+"//    Robot r = getRobot();"
+  <Catalog>
+    <col0>//    Robot r = getRobot();</col0>
+  </Catalog>
+ 
+"//    String path = T5 + FS + jf.getContentPane().getClass().getName() + ".gif";"
+  <Catalog>
+    <col0>//    String path = T5  FS  jf.getContentPane().getClass().getName()  .gif;</col0>
+  </Catalog>
+ 
+"//    BufferedImage bi = r.createScreenCapture(new Rectangle(jf.getX(), jf.getY(), jf.getWidth(), jf.getHeight()));"
+  <Catalog>
+    <col0>//    BufferedImage bi = r.createScreenCapture(new Rectangle(jf.getX(), jf.getY(), jf.getWidth(), jf.getHeight()));</col0>
+  </Catalog>
+ 
+"////    Image scaledInstance = bi.getScaledInstance(800, 600, SCALE_REPLICATE);"
+  <Catalog>
+    <col0>////    Image scaledInstance = bi.getScaledInstance(800, 600, SCALE_REPLICATE);</col0>
+  </Catalog>
+ 
+"//    File f = new File(path);"
+  <Catalog>
+    <col0>//    File f = new File(path);</col0>
+  </Catalog>
+ 
+"//    try {"
+  <Catalog>
+    <col0>//    try {</col0>
+  </Catalog>
+ 
+"//      ImageIO.write((RenderedImage) bi, "GIF", f);"
+  <Catalog>
+    <col0>//      ImageIO.write((RenderedImage) bi, GIF, f);</col0>
+  </Catalog>
+ 
+"//    } catch (IOException ex) {"
+  <Catalog>
+    <col0>//    } catch (IOException ex) {</col0>
+  </Catalog>
+ 
+"//      Logger.getLogger(T5app.class"
+  <Catalog>
+    <col0>//      Logger.getLogger(T5app.class</col0>
+  </Catalog>
+ 
+"//        .getName()).log(Level.SEVERE, null, ex);"
+  <Catalog>
+    <col0>//        .getName()).log(Level.SEVERE, null, ex);</col0>
+  </Catalog>
+ 
+"//    }"
+  <Catalog>
+    <col0>//    }</col0>
+  </Catalog>
+ 
+"//  }"
+  <Catalog>
+    <col0>//  }</col0>
+  </Catalog>
+ 
+"//"
+  <Catalog>
+    <col0>//</col0>
+  </Catalog>
+ 
+"//</editor-fold>"
+  <Catalog>
+    <col0>//</editor-fold></col0>
+  </Catalog>
+ 
+"  /**"
+  <Catalog>
+    <col0>  /**</col0>
+  </Catalog>
+ 
+"   This method is called from within the constructor to initialize the form."
+  <Catalog>
+    <col0>   This method is called from within the constructor to initialize the form.</col0>
+  </Catalog>
+ 
+"   WARNING: Do NOT modify this code. The content of this method is always"
+  <Catalog>
+    <col0>   WARNING: Do NOT modify this code. The content of this method is always</col0>
+  </Catalog>
+ 
+"   regenerated by the Form Editor."
+  <Catalog>
+    <col0>   regenerated by the Form Editor.</col0>
+  </Catalog>
+ 
+"   */"
+  <Catalog>
+    <col0>   */</col0>
+  </Catalog>
+ 
+"  // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents"
+  <Catalog>
+    <col0>  // <editor-fold defaultstate=collapsed desc=Generated Code>//GEN-BEGIN:initComponents</col0>
+  </Catalog>
+ 
+"  private void initComponents() {"
+  <Catalog>
+    <col0>  private void initComponents() {</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"    setOpaque(false);"
+  <Catalog>
+    <col0>    setOpaque(false);</col0>
+  </Catalog>
+ 
+"    setLayout(new java.awt.BorderLayout());"
+  <Catalog>
+    <col0>    setLayout(new java.awt.BorderLayout());</col0>
+  </Catalog>
+ 
+"  }// </editor-fold>//GEN-END:initComponents"
+  <Catalog>
+    <col0>  }// </editor-fold>//GEN-END:initComponents</col0>
+  </Catalog>
+ 
+"  // Variables declaration - do not modify//GEN-BEGIN:variables"
+  <Catalog>
+    <col0>  // Variables declaration - do not modify//GEN-BEGIN:variables</col0>
+  </Catalog>
+ 
+"  // End of variables declaration//GEN-END:variables"
+  <Catalog>
+    <col0>  // End of variables declaration//GEN-END:variables</col0>
+  </Catalog>
+ 
+"}"
+  <Catalog>
+    <col0>}</col0>
+  </Catalog>
+ 
+</Catalogs>

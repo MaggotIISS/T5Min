@@ -1,0 +1,7 @@
+//	SPD3-0.txt
+blank.gif
+im.gif c c replace
+harvehasdv.gif c c 000000
+SPD3 c 7 35 H 000000
+3 2 7 35 H 000000
+SPD3-0.gif

@@ -1,0 +1,5 @@
+//	BD-1.txt
+# Ships.cfg
+lines.gif
+dreadnought.gif c c d0d0d0
+BD-1.gif

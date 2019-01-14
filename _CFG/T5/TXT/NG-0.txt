@@ -1,0 +1,6 @@
+//	NG-0.txt
+#NG  FF  
+lines.gif
+box.gif c c FFF0F8
+NG 1 1 35 H 000000
+NG-0.gif

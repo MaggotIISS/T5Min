@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Alleg.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Code","Description"
+"AnTC","Anubian Trade Coalition"
+  <Catalog>
+    <col0>AnTC</col0>
+    <col1>Anubian Trade Coalition</col1>
+  </Catalog>
+ 
+"AsIf","Iyeaao'fte (Tlaukhu client state)"
+  <Catalog>
+    <col0>AsIf</col0>
+    <col1>Iyeaao'fte (Tlaukhu client state)</col1>
+  </Catalog>
+ 
+"AsMw","Aslan Hierate, single multiple-world clan dominates"
+  <Catalog>
+    <col0>AsMw</col0>
+    <col1>Aslan Hierate, single multiple-world clan dominates</col1>
+  </Catalog>
+ 
+"AsOf","Oleaiy'fte (Tlaukhu client state)"
+  <Catalog>
+    <col0>AsOf</col0>
+    <col1>Oleaiy'fte (Tlaukhu client state)</col1>
+  </Catalog>
+ 
+"AsSc","Aslan Hierate, multiple clans split control"
+  <Catalog>
+    <col0>AsSc</col0>
+    <col1>Aslan Hierate, multiple clans split control</col1>
+  </Catalog>
+ 
+"AsSF","Aslan Hierate, small facility (temporary)"
+  <Catalog>
+    <col0>AsSF</col0>
+    <col1>Aslan Hierate, small facility (temporary)</col1>
+  </Catalog>
+ 
+"AsT0","Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)"
+  <Catalog>
+    <col0>AsT0</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Yerlyaruiwo (1), Hrawoao (13), Eisohiyw (14), Ferekhearl (19)</col1>
+  </Catalog>
+ 
+"AsT1","Aslan Hierate, Tlaukhu control, Khauleairl (2), Estoieie' (16), Toaseilwi (22)"
+  <Catalog>
+    <col0>AsT1</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Khauleairl (2), Estoieie' (16), Toaseilwi (22)</col1>
+  </Catalog>
+ 
+"AsT2","Aslan Hierate, Tlaukhu control, Syoisuis (3)"
+  <Catalog>
+    <col0>AsT2</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Syoisuis (3)</col1>
+  </Catalog>
+ 
+"AsT3","Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)"
+  <Catalog>
+    <col0>AsT3</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Tralyeaeawi (4), Yulraleh (12), Aiheilar (25), Riyhalaei (28)</col1>
+  </Catalog>
+ 
+"AsT4","Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)"
+  <Catalog>
+    <col0>AsT4</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Eakhtiyho (5), Eteawyolei' (11), Fteweyeakh (23)</col1>
+  </Catalog>
+ 
+"AsT5","Aslan Hierate, Tlaukhu control, Hlyueawi (6), Isoitiyro (15)"
+  <Catalog>
+    <col0>AsT5</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Hlyueawi (6), Isoitiyro (15)</col1>
+  </Catalog>
+ 
+"AsT6","Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)"
+  <Catalog>
+    <col0>AsT6</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Uiktawa (7), Iykyasea (17), Faowaou (27)</col1>
+  </Catalog>
+ 
+"AsT7","Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerfearlyo (20), Yehtahikh (24)"
+  <Catalog>
+    <col0>AsT7</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Ikhtealyo (8), Tlerfearlyo (20), Yehtahikh (24)</col1>
+  </Catalog>
+ 
+"AsT8","Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okunir (29)"
+  <Catalog>
+    <col0>AsT8</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Seieakh (9), Akatoiloh (18), We'okunir (29)</col1>
+  </Catalog>
+ 
+"AsT9","Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)"
+  <Catalog>
+    <col0>AsT9</col0>
+    <col1>Aslan Hierate, Tlaukhu control, Aokhalte (10), Sahao' (21), Ouokhoi (26)</col1>
+  </Catalog>
+ 
+"AsTv","Aslan Hierate, Tlaukhu vassal clan dominates"
+  <Catalog>
+    <col0>AsTv</col0>
+    <col1>Aslan Hierate, Tlaukhu vassal clan dominates</col1>
+  </Catalog>
+ 
+"AsTz","Aslan Hierate, Zodia clan (Tralyeaeawi vassal)"
+  <Catalog>
+    <col0>AsTz</col0>
+    <col1>Aslan Hierate, Zodia clan (Tralyeaeawi vassal)</col1>
+  </Catalog>
+ 
+"AsVc","Aslan Hierate, vassal clan dominates"
+  <Catalog>
+    <col0>AsVc</col0>
+    <col1>Aslan Hierate, vassal clan dominates</col1>
+  </Catalog>
+ 
+"AsWc","Aslan Hierate, single one-world clan dominates"
+  <Catalog>
+    <col0>AsWc</col0>
+    <col1>Aslan Hierate, single one-world clan dominates</col1>
+  </Catalog>
+ 
+"AsXX","Aslan Hierate, unknown"
+  <Catalog>
+    <col0>AsXX</col0>
+    <col1>Aslan Hierate, unknown</col1>
+  </Catalog>
+ 
+"BlSo","Belgardian Sojurnate"
+  <Catalog>
+    <col0>BlSo</col0>
+    <col1>Belgardian Sojurnate</col1>
+  </Catalog>
+ 
+"CaAs","Carrillian Assembly"
+  <Catalog>
+    <col0>CaAs</col0>
+    <col1>Carrillian Assembly</col1>
+  </Catalog>
+ 
+"CaPr","Principality of Caledon"
+  <Catalog>
+    <col0>CaPr</col0>
+    <col1>Principality of Caledon</col1>
+  </Catalog>
+ 
+"CaTe","Carter Technocracy"
+  <Catalog>
+    <col0>CaTe</col0>
+    <col1>Carter Technocracy</col1>
+  </Catalog>
+ 
+"CoLp","Council of Leh Perash"
+  <Catalog>
+    <col0>CoLp</col0>
+    <col1>Council of Leh Perash</col1>
+  </Catalog>
+ 
+"CsCa","Client State, Principality of Caledon"
+  <Catalog>
+    <col0>CsCa</col0>
+    <col1>Client State, Principality of Caledon</col1>
+  </Catalog>
+ 
+"CsIm","Client State, Third Imperium"
+  <Catalog>
+    <col0>CsIm</col0>
+    <col1>Client State, Third Imperium</col1>
+  </Catalog>
+ 
+"CsZh","Client State, Zhodani Consulate"
+  <Catalog>
+    <col0>CsZh</col0>
+    <col1>Client State, Zhodani Consulate</col1>
+  </Catalog>
+ 
+"CyUn","Cytralin Unity"
+  <Catalog>
+    <col0>CyUn</col0>
+    <col1>Cytralin Unity</col1>
+  </Catalog>
+ 
+"DaCf","Darrian Confederation"
+  <Catalog>
+    <col0>DaCf</col0>
+    <col1>Darrian Confederation</col1>
+  </Catalog>
+ 
+"DuCf","Confederation of Duncinae"
+  <Catalog>
+    <col0>DuCf</col0>
+    <col1>Confederation of Duncinae</col1>
+  </Catalog>
+ 
+"FeHe","Federation of Heron"
+  <Catalog>
+    <col0>FeHe</col0>
+    <col1>Federation of Heron</col1>
+  </Catalog>
+ 
+"FlLe","Florian League"
+  <Catalog>
+    <col0>FlLe</col0>
+    <col1>Florian League</col1>
+  </Catalog>
+ 
+"GaRp","Gamma Republic"
+  <Catalog>
+    <col0>GaRp</col0>
+    <col1>Gamma Republic</col1>
+  </Catalog>
+ 
+"GdMh","Grand Duchy of Marlheim"
+  <Catalog>
+    <col0>GdMh</col0>
+    <col1>Grand Duchy of Marlheim</col1>
+  </Catalog>
+ 
+"GdSt","Grand Duchy of Stoner"
+  <Catalog>
+    <col0>GdSt</col0>
+    <col1>Grand Duchy of Stoner</col1>
+  </Catalog>
+ 
+"GeOr","Gerontocracy of Ormine"
+  <Catalog>
+    <col0>GeOr</col0>
+    <col1>Gerontocracy of Ormine</col1>
+  </Catalog>
+ 
+"GlEm","Glorious Empire (Aslan independent clan, outcast)"
+  <Catalog>
+    <col0>GlEm</col0>
+    <col1>Glorious Empire (Aslan independent clan, outcast)</col1>
+  </Catalog>
+ 
+"GlFe","Glimmerdrift Federation"
+  <Catalog>
+    <col0>GlFe</col0>
+    <col1>Glimmerdrift Federation</col1>
+  </Catalog>
+ 
+"GnCl","Gniivi Collective"
+  <Catalog>
+    <col0>GnCl</col0>
+    <col1>Gniivi Collective</col1>
+  </Catalog>
+ 
+"ImAp","Third Imperium, Amec Protectorate (Dagu)"
+  <Catalog>
+    <col0>ImAp</col0>
+    <col1>Third Imperium, Amec Protectorate (Dagu)</col1>
+  </Catalog>
+ 
+"ImDa","Third Imperium, Domain of Antares (Anta/Empt/Lish)"
+  <Catalog>
+    <col0>ImDa</col0>
+    <col1>Third Imperium, Domain of Antares (Anta/Empt/Lish)</col1>
+  </Catalog>
+ 
+"ImDc","Third Imperium, Domain of Sylea (Core/Delp/Forn/Mass)"
+  <Catalog>
+    <col0>ImDc</col0>
+    <col1>Third Imperium, Domain of Sylea (Core/Delp/Forn/Mass)</col1>
+  </Catalog>
+ 
+"ImDd","Third Imperium, Domain of Deneb (Dene/Reft/Spin/Troj)"
+  <Catalog>
+    <col0>ImDd</col0>
+    <col1>Third Imperium, Domain of Deneb (Dene/Reft/Spin/Troj)</col1>
+  </Catalog>
+ 
+"ImDg","Third Imperium, Domain of Gateway (Glim/Hint/Ley)"
+  <Catalog>
+    <col0>ImDg</col0>
+    <col1>Third Imperium, Domain of Gateway (Glim/Hint/Ley)</col1>
+  </Catalog>
+ 
+"ImDi","Third Imperium, Domain of Ilelish (Daib/Ilel/Reav/Verg/Zaru)"
+  <Catalog>
+    <col0>ImDi</col0>
+    <col1>Third Imperium, Domain of Ilelish (Daib/Ilel/Reav/Verg/Zaru)</col1>
+  </Catalog>
+ 
+"ImDs","Third Imperium, Domain of Sol (Alph/Dias/Magy/Olde/Solo)"
+  <Catalog>
+    <col0>ImDs</col0>
+    <col1>Third Imperium, Domain of Sol (Alph/Dias/Magy/Olde/Solo)</col1>
+  </Catalog>
+ 
+"ImDv","Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)"
+  <Catalog>
+    <col0>ImDv</col0>
+    <col1>Third Imperium, Domain of Vland (Corr/Dagu/Gush/Reft/Vlan)</col1>
+  </Catalog>
+ 
+"ImLa","Third Imperium, League of Antares (Anta)"
+  <Catalog>
+    <col0>ImLa</col0>
+    <col1>Third Imperium, League of Antares (Anta)</col1>
+  </Catalog>
+ 
+"ImLu","Third Imperium, Luriani Cultural Association (Ley/Forn)"
+  <Catalog>
+    <col0>ImLu</col0>
+    <col1>Third Imperium, Luriani Cultural Association (Ley/Forn)</col1>
+  </Catalog>
+ 
+"ImSy","Third Imperium, Sylean Worlds (Core)"
+  <Catalog>
+    <col0>ImSy</col0>
+    <col1>Third Imperium, Sylean Worlds (Core)</col1>
+  </Catalog>
+ 
+"ImVd","Third Imperium, Vegan Autonomous District (Solo)"
+  <Catalog>
+    <col0>ImVd</col0>
+    <col1>Third Imperium, Vegan Autonomous District (Solo)</col1>
+  </Catalog>
+ 
+"IsDo","Islaiat Dominate"
+  <Catalog>
+    <col0>IsDo</col0>
+    <col1>Islaiat Dominate</col1>
+  </Catalog>
+ 
+"JuHl","Julian Protectorate, Hegemony of Lorean"
+  <Catalog>
+    <col0>JuHl</col0>
+    <col1>Julian Protectorate, Hegemony of Lorean</col1>
+  </Catalog>
+ 
+"JuPr","Julian Protectorate, independent"
+  <Catalog>
+    <col0>JuPr</col0>
+    <col1>Julian Protectorate, independent</col1>
+  </Catalog>
+ 
+"JuRu","Julian Protectorate, Rukadukaz Republic"
+  <Catalog>
+    <col0>JuRu</col0>
+    <col1>Julian Protectorate, Rukadukaz Republic</col1>
+  </Catalog>
+ 
+"KhLe","Khuur League"
+  <Catalog>
+    <col0>KhLe</col0>
+    <col1>Khuur League</col1>
+  </Catalog>
+ 
+"LnRp","Loyal Nineworlds Republic"
+  <Catalog>
+    <col0>LnRp</col0>
+    <col1>Loyal Nineworlds Republic</col1>
+  </Catalog>
+ 
+"LyCo","Lanyard Colonies"
+  <Catalog>
+    <col0>LyCo</col0>
+    <col1>Lanyard Colonies</col1>
+  </Catalog>
+ 
+"MaEm","Maskai Empire"
+  <Catalog>
+    <col0>MaEm</col0>
+    <col1>Maskai Empire</col1>
+  </Catalog>
+ 
+"NaAs","Non-Aligned, Aslan-dominated (outside Hierate)"
+  <Catalog>
+    <col0>NaAs</col0>
+    <col1>Non-Aligned, Aslan-dominated (outside Hierate)</col1>
+  </Catalog>
+ 
+"NaHu","Non-Aligned, Human-dominated"
+  <Catalog>
+    <col0>NaHu</col0>
+    <col1>Non-Aligned, Human-dominated</col1>
+  </Catalog>
+ 
+"NaVa","Non-Aligned, Vargr-dominated"
+  <Catalog>
+    <col0>NaVa</col0>
+    <col1>Non-Aligned, Vargr-dominated</col1>
+  </Catalog>
+ 
+"NaXX","Unclaimed"
+  <Catalog>
+    <col0>NaXX</col0>
+    <col1>Unclaimed</col1>
+  </Catalog>
+ 
+"OcWs","Outcasts of the Whispering Sky"
+  <Catalog>
+    <col0>OcWs</col0>
+    <col1>Outcasts of the Whispering Sky</col1>
+  </Catalog>
+ 
+"RaRa","Ral Ranta"
+  <Catalog>
+    <col0>RaRa</col0>
+    <col1>Ral Ranta</col1>
+  </Catalog>
+ 
+"SeFo","Senlis Foederate"
+  <Catalog>
+    <col0>SeFo</col0>
+    <col1>Senlis Foederate</col1>
+  </Catalog>
+ 
+"SlLg","Shukikikar League"
+  <Catalog>
+    <col0>SlLg</col0>
+    <col1>Shukikikar League</col1>
+  </Catalog>
+ 
+"SoCf","Solomani Confederation"
+  <Catalog>
+    <col0>SoCf</col0>
+    <col1>Solomani Confederation</col1>
+  </Catalog>
+ 
+"StCl","Strend Cluster"
+  <Catalog>
+    <col0>StCl</col0>
+    <col1>Strend Cluster</col1>
+  </Catalog>
+ 
+"SwCf","Sword Worlds Confederation"
+  <Catalog>
+    <col0>SwCf</col0>
+    <col1>Sword Worlds Confederation</col1>
+  </Catalog>
+ 
+"TeAr","Tealou Arlaoh (Aslan independent clan, non-outcast)"
+  <Catalog>
+    <col0>TeAr</col0>
+    <col1>Tealou Arlaoh (Aslan independent clan, non-outcast)</col1>
+  </Catalog>
+ 
+"UhHa","Union of Harmony"
+  <Catalog>
+    <col0>UhHa</col0>
+    <col1>Union of Harmony</col1>
+  </Catalog>
+ 
+"V40S","40th Squadron"
+  <Catalog>
+    <col0>V40S</col0>
+    <col1>40th Squadron</col1>
+  </Catalog>
+ 
+"VARC","Anti-Rukh Coalition"
+  <Catalog>
+    <col0>VARC</col0>
+    <col1>Anti-Rukh Coalition</col1>
+  </Catalog>
+ 
+"VAug","United Followers of Augurgh"
+  <Catalog>
+    <col0>VAug</col0>
+    <col1>United Followers of Augurgh</col1>
+  </Catalog>
+ 
+"VCKd","Commonality of Kedzudh"
+  <Catalog>
+    <col0>VCKd</col0>
+    <col1>Commonality of Kedzudh</col1>
+  </Catalog>
+ 
+"VDzF","Dzarrgh Federate"
+  <Catalog>
+    <col0>VDzF</col0>
+    <col1>Dzarrgh Federate</col1>
+  </Catalog>
+ 
+"VPGa","Pact of Gaerr"
+  <Catalog>
+    <col0>VPGa</col0>
+    <col1>Pact of Gaerr</col1>
+  </Catalog>
+ 
+"VRuk","Worlds of Leader Rukh"
+  <Catalog>
+    <col0>VRuk</col0>
+    <col1>Worlds of Leader Rukh</col1>
+  </Catalog>
+ 
+"VSDp","Seaknouth Dependency"
+  <Catalog>
+    <col0>VSDp</col0>
+    <col1>Seaknouth Dependency</col1>
+  </Catalog>
+ 
+"VSEq","Society of Equals"
+  <Catalog>
+    <col0>VSEq</col0>
+    <col1>Society of Equals</col1>
+  </Catalog>
+ 
+"VThE","Thoengling Empire"
+  <Catalog>
+    <col0>VThE</col0>
+    <col1>Thoengling Empire</col1>
+  </Catalog>
+ 
+"VTzE","Thirz Empire"
+  <Catalog>
+    <col0>VTzE</col0>
+    <col1>Thirz Empire</col1>
+  </Catalog>
+ 
+"VUru","Nation of Urukhu"
+  <Catalog>
+    <col0>VUru</col0>
+    <col1>Nation of Urukhu</col1>
+  </Catalog>
+ 
+"XXXX","Unknown"
+  <Catalog>
+    <col0>XXXX</col0>
+    <col1>Unknown</col1>
+  </Catalog>
+ 
+"ZhCo","Zhodani Consulate"
+  <Catalog>
+    <col0>ZhCo</col0>
+    <col1>Zhodani Consulate</col1>
+  </Catalog>
+ 
+</Catalogs>

@@ -1,0 +1,6 @@
+//	CAVALRY-0.txt
+#CAVALRY 00 F0 F0
+lines.gif
+box.gif c c 00F0F0
+CAVALRY 1 1 35 H 000000
+CAVALRY-0.gif

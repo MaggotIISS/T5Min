@@ -1,0 +1,6 @@
+//	OSO-0.txt
+#OSO   
+lines.gif
+box.gif c c 6FD8A0
+OSO 1 1 35 H 000000
+OSO-0.gif

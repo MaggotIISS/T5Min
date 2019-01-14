@@ -1,0 +1,6 @@
+//	COACC-0.txt
+#COACC  F0 C0 A0
+lines.gif
+box.gif c c F0C0A0
+COACC 1 1 35 H 000000
+COACC-0.gif

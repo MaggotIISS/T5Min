@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/T5Elements.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE tas SYSTEM "T5Elements.dtd">
+
+    <tas>
+    ...
+    </tas>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tas (subsector|system|sector|size|mass|crew|stardate|orbit|name|id|star|gasgiant|planet|moon|info|table|npc|upp)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT system (#PCDATA|name|hex|w|uwp|remarks|stellar|ix|ex|cx|n|b|a|z|pbg)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hex (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA|first|middle|last|id)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT uwp (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT remarks (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ix (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT ex (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT cx (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT n (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT b (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT z (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT pbg (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT w (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT a (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT stellar (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT subsector (#PCDATA|letter|name|worlds)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT letter (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT worlds (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sector (#PCDATA|x|y|name|domain)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT x (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT y (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT domain (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT size (#PCDATA|unit|x|y|z)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT unit (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT mass (#PCDATA|unit|weight)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT weight (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT stardate (#PCDATA|unit|year|day|hour|minute|second|mil)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT year (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT day (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hour (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT minute (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT second (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT mil (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT orbit (#PCDATA|unit|num|type)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT num (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT type (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT star (#PCDATA|unit|col|size|type|companion)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT col (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT companion (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT gasgiant (#PCDATA|unit|size|wsize|dia)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT wsize (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dia (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT planet (#PCDATA|name|uwp|orbitdata)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT orbitdata (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT moon (#PCDATA|name|uwp|orbit)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT first (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT middle (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT last (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT id (#PCDATA|sec|sub|sys|orbit|country|commdot|email|phone|name)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT upp (#PCDATA|str|dex|end|int|edu|soc)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT str (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dex (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT end (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT int (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT edu (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT soc (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT info (#PCDATA|career|terms)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT career (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT terms (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT npc (#PCDATA|name|upp|info)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sec (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sub (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sys (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT country (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT commdot (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT email (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT phone (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT crew (#PCDATA|id|rank|position)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT rank (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT position (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT table (#PCDATA|x|y|title|type)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT title (#PCDATA)>

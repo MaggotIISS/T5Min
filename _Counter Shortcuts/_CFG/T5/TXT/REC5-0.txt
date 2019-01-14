@@ -1,0 +1,7 @@
+//	REC5-0.txt
+blank.gif
+im.gif c c replace
+harvehhrec.gif c c 000000
+REC5 c 7 35 H 000000
+4 2 7 35 H 000000
+REC5-0.gif

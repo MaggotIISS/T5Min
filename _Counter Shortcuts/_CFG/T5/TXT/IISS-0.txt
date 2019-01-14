@@ -1,0 +1,4 @@
+//	IISS-0.txt
+lines.gif
+Iiss.gif c c replace
+IISS-0.gif

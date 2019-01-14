@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Atmo.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""0101""
+""0102""
+  <Catalog>
+    <col0>0102</col0>
+  </Catalog>
+ 
+""0103""
+  <Catalog>
+    <col0>0103</col0>
+  </Catalog>
+ 
+""0104""
+  <Catalog>
+    <col0>0104</col0>
+  </Catalog>
+ 
+""0108""
+  <Catalog>
+    <col0>0108</col0>
+  </Catalog>
+ 
+""0202""
+  <Catalog>
+    <col0>0202</col0>
+  </Catalog>
+ 
+""0301""
+  <Catalog>
+    <col0>0301</col0>
+  </Catalog>
+ 
+""0303""
+  <Catalog>
+    <col0>0303</col0>
+  </Catalog>
+ 
+""0304""
+  <Catalog>
+    <col0>0304</col0>
+  </Catalog>
+ 
+""0307""
+  <Catalog>
+    <col0>0307</col0>
+  </Catalog>
+ 
+""0503""
+  <Catalog>
+    <col0>0503</col0>
+  </Catalog>
+ 
+""0601""
+  <Catalog>
+    <col0>0601</col0>
+  </Catalog>
+ 
+""0605""
+  <Catalog>
+    <col0>0605</col0>
+  </Catalog>
+ 
+""0607""
+  <Catalog>
+    <col0>0607</col0>
+  </Catalog>
+ 
+""0608""
+  <Catalog>
+    <col0>0608</col0>
+  </Catalog>
+ 
+""0610""
+  <Catalog>
+    <col0>0610</col0>
+  </Catalog>
+ 
+""0703""
+  <Catalog>
+    <col0>0703</col0>
+  </Catalog>
+ 
+""0704""
+  <Catalog>
+    <col0>0704</col0>
+  </Catalog>
+ 
+""0705""
+  <Catalog>
+    <col0>0705</col0>
+  </Catalog>
+ 
+""0710""
+  <Catalog>
+    <col0>0710</col0>
+  </Catalog>
+ 
+""0805""
+  <Catalog>
+    <col0>0805</col0>
+  </Catalog>
+ 
+""0807""
+  <Catalog>
+    <col0>0807</col0>
+  </Catalog>
+ 
+""0808""
+  <Catalog>
+    <col0>0808</col0>
+  </Catalog>
+ 
+""0810""
+  <Catalog>
+    <col0>0810</col0>
+  </Catalog>
+ 
+</Catalogs>

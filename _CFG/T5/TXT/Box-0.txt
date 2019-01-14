@@ -1,0 +1,13 @@
+//	Box-0.txt
+# Box.cfg
+lines.gif
+Box.gif 1 1 FFFFFF
+Box.gif c 1 FFFFFF
+Box.gif 43 1 FFFFFF
+Box.gif 1 c FFFFFF
+Box.gif c c FFFFFF
+Box.gif 43 c FFFFFF
+Box.gif 1 37 FFFFFF
+Box.gif c 37 FFFFFF
+Box.gif 43 37 FFFFFF
+Box-0.gif

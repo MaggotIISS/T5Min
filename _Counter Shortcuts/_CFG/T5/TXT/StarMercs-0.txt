@@ -1,0 +1,5 @@
+//	StarMercs-0.txt
+# Mercs.cfg
+lines.gif
+starmerc.gif c c replace
+StarMercs-0.gif

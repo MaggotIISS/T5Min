@@ -1,0 +1,10 @@
+//	GaussRifle-1.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+rifle.gif c c 000000
+GAUSS_RIFLE4 2 1 35 H 000000
+TL10 50 1 35 H 000000
+40.20.-1 2 7 35 H 000000
+8D+1.2 2 13 35 H 000000
+GaussRifle-1.gif

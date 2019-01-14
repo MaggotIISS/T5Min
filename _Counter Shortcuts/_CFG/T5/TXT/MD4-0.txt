@@ -1,0 +1,7 @@
+//	MD4-0.txt
+blank.gif
+im.gif c c replace
+harvehastr.gif c c 000000
+MD4 c 7 35 H 000000
+10 2 7 35 H 000000
+MD4-0.gif

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="str-vehicle-majorpenetration.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""1D6","Result""
+""1","EST4C""
+  <Catalog>
+    <col0>1</col0>
+    <col1>EST4C</col1>
+  </Catalog>
+ 
+""2","EWA6C""
+  <Catalog>
+    <col0>2</col0>
+    <col1>EWA6C</col1>
+  </Catalog>
+ 
+""3","EPF3C""
+  <Catalog>
+    <col0>3</col0>
+    <col1>EPF3C</col1>
+  </Catalog>
+ 
+""4","EFA5C""
+  <Catalog>
+    <col0>4</col0>
+    <col1>EFA5C</col1>
+  </Catalog>
+ 
+""5","Catastrophic""
+  <Catalog>
+    <col0>5</col0>
+    <col1>Catastrophic</col1>
+  </Catalog>
+ 
+""6","Catastrophic""
+  <Catalog>
+    <col0>6</col0>
+    <col1>Catastrophic</col1>
+  </Catalog>
+ 
+</Catalogs>

@@ -1,0 +1,6 @@
+//	LIArmy-0.txt
+lines.gif
+O10 46 7 35 H 000000
+box.gif c c 2F6F2F
+star.gif c c 000000
+LIArmy-0.gif

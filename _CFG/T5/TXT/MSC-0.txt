@@ -1,0 +1,7 @@
+//	MSC-0.txt
+blank.gif
+im.gif c c replace
+harvehgcar.gif c c 000000
+MSC c 7 35 H 000000
+3 2 7 35 H 000000
+MSC-0.gif

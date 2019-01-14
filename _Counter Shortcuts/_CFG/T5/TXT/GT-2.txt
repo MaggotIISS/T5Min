@@ -1,0 +1,4 @@
+//	GT-2.txt
+lines.gif
+box.gif c c 0000FF
+GT-2.gif

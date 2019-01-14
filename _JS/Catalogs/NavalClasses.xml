@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="NavalClasses.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Type","Class","Example 1","Example 2","Example 3"
+"CAPITAL","Superdreadnought","","",""
+  <Catalog>
+    <col0>CAPITAL</col0>
+    <col1>Superdreadnought</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CAPITAL","Battleship","200kdt/Plakwell","200kdt/Kokirrak","500kdt/Tigress"
+  <Catalog>
+    <col0>CAPITAL</col0>
+    <col1>Battleship</col1>
+    <col2>200kdt/Plakwell</col2>
+    <col3>200kdt/Kokirrak</col3>
+    <col4>500kdt/Tigress</col4>
+  </Catalog>
+ 
+"CAPITAL","Battlecruiser","","",""
+  <Catalog>
+    <col0>CAPITAL</col0>
+    <col1>Battlecruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CAPITAL","Battlerider","","",""
+  <Catalog>
+    <col0>CAPITAL</col0>
+    <col1>Battlerider</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"CRUISER","Heavy Cruiser","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Heavy Cruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Frontier Cruiser","60kdt/Azhanti","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Frontier Cruiser</col1>
+    <col2>60kdt/Azhanti</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Strike Cruiser","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Strike Cruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Missile Cruiser","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Missile Cruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Light Cruiser","30kdt","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Light Cruiser</col1>
+    <col2>30kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Rift Cruiser","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Rift Cruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Escort Cruiser","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Escort Cruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Recon Cruiser","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Recon Cruiser</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CRUISER","Interdiction Tender","","",""
+  <Catalog>
+    <col0>CRUISER</col0>
+    <col1>Interdiction Tender</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"CARRIER","Fleet Carrier","100kdt","",""
+  <Catalog>
+    <col0>CARRIER</col0>
+    <col1>Fleet Carrier</col1>
+    <col2>100kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CARRIER","Strike Carrier","75kdt","",""
+  <Catalog>
+    <col0>CARRIER</col0>
+    <col1>Strike Carrier</col1>
+    <col2>75kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CARRIER","Light (Escort) Carrier","30kdt","",""
+  <Catalog>
+    <col0>CARRIER</col0>
+    <col1>Light (Escort) Carrier</col1>
+    <col2>30kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"CARRIER","Battle Tender","","",""
+  <Catalog>
+    <col0>CARRIER</col0>
+    <col1>Battle Tender</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"ESCORT/COURIER","Fleet Escort","5kdt/PFSloan","",""
+  <Catalog>
+    <col0>ESCORT/COURIER</col0>
+    <col1>Fleet Escort</col1>
+    <col2>5kdt/PFSloan</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"ESCORT/COURIER","Destroyer","1-3kdt","",""
+  <Catalog>
+    <col0>ESCORT/COURIER</col0>
+    <col1>Destroyer</col1>
+    <col2>1-3kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"ESCORT/COURIER","Missile Corvette","500dt","",""
+  <Catalog>
+    <col0>ESCORT/COURIER</col0>
+    <col1>Missile Corvette</col1>
+    <col2>500dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"ESCORT/COURIER","Close Escort","300dt/Gazelle","300dt/Fiery",""
+  <Catalog>
+    <col0>ESCORT/COURIER</col0>
+    <col1>Close Escort</col1>
+    <col2>300dt/Gazelle</col2>
+    <col3>300dt/Fiery</col3>
+    <col4></col4>
+  </Catalog>
+ 
+"ESCORT/COURIER","Fleet Courier","400dt","",""
+  <Catalog>
+    <col0>ESCORT/COURIER</col0>
+    <col1>Fleet Courier</col1>
+    <col2>400dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Floating Dock","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Floating Dock</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Recovery/Repair","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Recovery/Repair</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Fleet Logistics","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Fleet Logistics</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Tanker/Re-Supply","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Tanker/Re-Supply</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Dromedary","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Dromedary</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Freighter","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Freighter</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Troop Transport","20kdt/Briann","20kdt/IronHorse",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Troop Transport</col1>
+    <col2>20kdt/Briann</col2>
+    <col3>20kdt/IronHorse</col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Fleet Auxilliary","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Fleet Auxilliary</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"REPAIR/LOGISTICS/SUPPLY","Reserve Auxilliary","","",""
+  <Catalog>
+    <col0>REPAIR/LOGISTICS/SUPPLY</col0>
+    <col1>Reserve Auxilliary</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"PLANETARY ATTACK","Assault Tender","150kdt/Iridium Titan","",""
+  <Catalog>
+    <col0>PLANETARY ATTACK</col0>
+    <col1>Assault Tender</col1>
+    <col2>150kdt/Iridium Titan</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PLANETARY ATTACK","Bombardment Cruiser","50kdt/Warspite","",""
+  <Catalog>
+    <col0>PLANETARY ATTACK</col0>
+    <col1>Bombardment Cruiser</col1>
+    <col2>50kdt/Warspite</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PLANETARY ATTACK","Marine Carrier","40kdt/Tarawa","",""
+  <Catalog>
+    <col0>PLANETARY ATTACK</col0>
+    <col1>Marine Carrier</col1>
+    <col2>40kdt/Tarawa</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PLANETARY ATTACK","Assault Ship Landing","5kdt/Outrider","",""
+  <Catalog>
+    <col0>PLANETARY ATTACK</col0>
+    <col1>Assault Ship Landing</col1>
+    <col2>5kdt/Outrider</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PLANETARY ATTACK","Assault Lander","1.2kdt/Nakerkh","",""
+  <Catalog>
+    <col0>PLANETARY ATTACK</col0>
+    <col1>Assault Lander</col1>
+    <col2>1.2kdt/Nakerkh</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PLANETARY ATTACK","Fire Support Craft","1kdt/Hansnaht","1-3kdt",""
+  <Catalog>
+    <col0>PLANETARY ATTACK</col0>
+    <col1>Fire Support Craft</col1>
+    <col2>1kdt/Hansnaht</col2>
+    <col3>1-3kdt</col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"PATROL SHIP","Patrol Cruiser","400dt","",""
+  <Catalog>
+    <col0>PATROL SHIP</col0>
+    <col1>Patrol Cruiser</col1>
+    <col2>400dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PATROL SHIP","Colonial Cruiser","1.2kdt/Kinunir","",""
+  <Catalog>
+    <col0>PATROL SHIP</col0>
+    <col1>Colonial Cruiser</col1>
+    <col2>1.2kdt/Kinunir</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PATROL SHIP","Huscarle Cruiser","2kdt","",""
+  <Catalog>
+    <col0>PATROL SHIP</col0>
+    <col1>Huscarle Cruiser</col1>
+    <col2>2kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PATROL SHIP","System Control Ship","5kdt","",""
+  <Catalog>
+    <col0>PATROL SHIP</col0>
+    <col1>System Control Ship</col1>
+    <col2>5kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"PATROL SHIP","Fleet Picket","1kdt","",""
+  <Catalog>
+    <col0>PATROL SHIP</col0>
+    <col1>Fleet Picket</col1>
+    <col2>1kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"SPECIALIST VESSEL","Rapid Assistance Vessel","10kdt/Messiah","",""
+  <Catalog>
+    <col0>SPECIALIST VESSEL</col0>
+    <col1>Rapid Assistance Vessel</col1>
+    <col2>10kdt/Messiah</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SPECIALIST VESSEL","Hospital Ship","10kdt/Giranis","",""
+  <Catalog>
+    <col0>SPECIALIST VESSEL</col0>
+    <col1>Hospital Ship</col1>
+    <col2>10kdt/Giranis</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SPECIALIST VESSEL","Intelligence Ship","","",""
+  <Catalog>
+    <col0>SPECIALIST VESSEL</col0>
+    <col1>Intelligence Ship</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SPECIALIST VESSEL","Covert Operations Vessel","200dt/Onyx","",""
+  <Catalog>
+    <col0>SPECIALIST VESSEL</col0>
+    <col1>Covert Operations Vessel</col1>
+    <col2>200dt/Onyx</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SPECIALIST VESSEL","Repair/Recovery Ship","","",""
+  <Catalog>
+    <col0>SPECIALIST VESSEL</col0>
+    <col1>Repair/Recovery Ship</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"NON-STARSHIP","Battle Monitor","100kdt","",""
+  <Catalog>
+    <col0>NON-STARSHIP</col0>
+    <col1>Battle Monitor</col1>
+    <col2>100kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"NON-STARSHIP","Light Monitor","5kdt","",""
+  <Catalog>
+    <col0>NON-STARSHIP</col0>
+    <col1>Light Monitor</col1>
+    <col2>5kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"NON-STARSHIP","Heavy Monitor","80kdt","",""
+  <Catalog>
+    <col0>NON-STARSHIP</col0>
+    <col1>Heavy Monitor</col1>
+    <col2>80kdt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"NON-STARSHIP","SDB/Gunboat/Missile Boat","400dt","",""
+  <Catalog>
+    <col0>NON-STARSHIP</col0>
+    <col1>SDB/Gunboat/Missile Boat</col1>
+    <col2>400dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+"SMALL CRAFT","Cutter","50dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Cutter</col1>
+    <col2>50dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Military Gig","20dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Military Gig</col1>
+    <col2>20dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Naval Lifeboat","20dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Naval Lifeboat</col1>
+    <col2>20dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Pinnace","40dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Pinnace</col1>
+    <col2>40dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Troop Shuttle","50dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Troop Shuttle</col1>
+    <col2>50dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Shuttle","100dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Shuttle</col1>
+    <col2>100dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Fighter","10dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Fighter</col1>
+    <col2>10dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Heavy Fighter","50dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Heavy Fighter</col1>
+    <col2>50dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Missile Fighter (Bomber)","50dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Missile Fighter (Bomber)</col1>
+    <col2>50dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Strike Fighter","50dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Strike Fighter</col1>
+    <col2>50dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+"SMALL CRAFT","Picket Boat","50dt","",""
+  <Catalog>
+    <col0>SMALL CRAFT</col0>
+    <col1>Picket Boat</col1>
+    <col2>50dt</col2>
+    <col3></col3>
+    <col4></col4>
+  </Catalog>
+ 
+</Catalogs>

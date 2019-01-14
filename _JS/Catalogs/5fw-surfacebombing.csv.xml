@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="5fw-surfacebombing.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""1d6","1BF","3BF","6BF","12BF","18BF","24BF","30BF","36BF","42BF","48BF""
+""-2","20","30","30","40","40","50","50","50","50","50""
+  <Catalog>
+    <col0>-2</col0>
+    <col1>20</col1>
+    <col2>30</col2>
+    <col3>30</col3>
+    <col4>40</col4>
+    <col5>40</col5>
+    <col6>50</col6>
+    <col7>50</col7>
+    <col8>50</col8>
+    <col9>50</col9>
+    <col10>50</col10>
+  </Catalog>
+ 
+""-1","20","20","30","30","40","40","50","50","50","50""
+  <Catalog>
+    <col0>-1</col0>
+    <col1>20</col1>
+    <col2>20</col2>
+    <col3>30</col3>
+    <col4>30</col4>
+    <col5>40</col5>
+    <col6>40</col6>
+    <col7>50</col7>
+    <col8>50</col8>
+    <col9>50</col9>
+    <col10>50</col10>
+  </Catalog>
+ 
+""0","10","20","20","30","30","40","40","50","50","50""
+  <Catalog>
+    <col0>0</col0>
+    <col1>10</col1>
+    <col2>20</col2>
+    <col3>20</col3>
+    <col4>30</col4>
+    <col5>30</col5>
+    <col6>40</col6>
+    <col7>40</col7>
+    <col8>50</col8>
+    <col9>50</col9>
+    <col10>50</col10>
+  </Catalog>
+ 
+""1","10","10","20","20","30","30","40","40","50","50""
+  <Catalog>
+    <col0>1</col0>
+    <col1>10</col1>
+    <col2>10</col2>
+    <col3>20</col3>
+    <col4>20</col4>
+    <col5>30</col5>
+    <col6>30</col6>
+    <col7>40</col7>
+    <col8>40</col8>
+    <col9>50</col9>
+    <col10>50</col10>
+  </Catalog>
+ 
+""2","-","10","10","20","20","30","30","40","40","50""
+  <Catalog>
+    <col0>2</col0>
+    <col1>-</col1>
+    <col2>10</col2>
+    <col3>10</col3>
+    <col4>20</col4>
+    <col5>20</col5>
+    <col6>30</col6>
+    <col7>30</col7>
+    <col8>40</col8>
+    <col9>40</col9>
+    <col10>50</col10>
+  </Catalog>
+ 
+""3","-","","10","10","20","20","30","30","40","40""
+  <Catalog>
+    <col0>3</col0>
+    <col1>-</col1>
+    <col2></col2>
+    <col3>10</col3>
+    <col4>10</col4>
+    <col5>20</col5>
+    <col6>20</col6>
+    <col7>30</col7>
+    <col8>30</col8>
+    <col9>40</col9>
+    <col10>40</col10>
+  </Catalog>
+ 
+""4","-","","","10","10","20","20","30","30","40""
+  <Catalog>
+    <col0>4</col0>
+    <col1>-</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>10</col4>
+    <col5>10</col5>
+    <col6>20</col6>
+    <col7>20</col7>
+    <col8>30</col8>
+    <col9>30</col9>
+    <col10>40</col10>
+  </Catalog>
+ 
+""5","-","","","","10","10","20","20","30","30""
+  <Catalog>
+    <col0>5</col0>
+    <col1>-</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>10</col5>
+    <col6>10</col6>
+    <col7>20</col7>
+    <col8>20</col8>
+    <col9>30</col9>
+    <col10>30</col10>
+  </Catalog>
+ 
+""6","-","","","","","10","10","20","20","30""
+  <Catalog>
+    <col0>6</col0>
+    <col1>-</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>10</col6>
+    <col7>10</col7>
+    <col8>20</col8>
+    <col9>20</col9>
+    <col10>30</col10>
+  </Catalog>
+ 
+""7","-","","","","","","10","10","20","20""
+  <Catalog>
+    <col0>7</col0>
+    <col1>-</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7>10</col7>
+    <col8>10</col8>
+    <col9>20</col9>
+    <col10>20</col10>
+  </Catalog>
+ 
+""8","-","","","","","","","10","10","20""
+  <Catalog>
+    <col0>8</col0>
+    <col1>-</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>10</col8>
+    <col9>10</col9>
+    <col10>20</col10>
+  </Catalog>
+ 
+</Catalogs>

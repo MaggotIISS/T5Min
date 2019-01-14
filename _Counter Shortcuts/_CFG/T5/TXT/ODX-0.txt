@@ -1,0 +1,6 @@
+//	ODX-0.txt
+#ODX   
+lines.gif
+box.gif c c 6F6830
+ODX 1 1 35 H 000000
+ODX-0.gif

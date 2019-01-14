@@ -1,0 +1,6 @@
+//	Corps-0.txt
+# Corps.cfg
+lines.gif
+box.gif c c 505050
+O9 46 7 35 H 000000
+Corps-0.gif

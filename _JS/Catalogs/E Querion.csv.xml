@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="E Querion.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""0111""
+""0114""
+  <Catalog>
+    <col0>0114</col0>
+  </Catalog>
+ 
+""0115""
+  <Catalog>
+    <col0>0115</col0>
+  </Catalog>
+ 
+""0212""
+  <Catalog>
+    <col0>0212</col0>
+  </Catalog>
+ 
+""0215""
+  <Catalog>
+    <col0>0215</col0>
+  </Catalog>
+ 
+""0218""
+  <Catalog>
+    <col0>0218</col0>
+  </Catalog>
+ 
+""0311""
+  <Catalog>
+    <col0>0311</col0>
+  </Catalog>
+ 
+""0412""
+  <Catalog>
+    <col0>0412</col0>
+  </Catalog>
+ 
+""0414""
+  <Catalog>
+    <col0>0414</col0>
+  </Catalog>
+ 
+""0416""
+  <Catalog>
+    <col0>0416</col0>
+  </Catalog>
+ 
+""0511""
+  <Catalog>
+    <col0>0511</col0>
+  </Catalog>
+ 
+""0512""
+  <Catalog>
+    <col0>0512</col0>
+  </Catalog>
+ 
+""0518""
+  <Catalog>
+    <col0>0518</col0>
+  </Catalog>
+ 
+""0613""
+  <Catalog>
+    <col0>0613</col0>
+  </Catalog>
+ 
+""0614""
+  <Catalog>
+    <col0>0614</col0>
+  </Catalog>
+ 
+""0618""
+  <Catalog>
+    <col0>0618</col0>
+  </Catalog>
+ 
+""0620""
+  <Catalog>
+    <col0>0620</col0>
+  </Catalog>
+ 
+""0712""
+  <Catalog>
+    <col0>0712</col0>
+  </Catalog>
+ 
+""0717""
+  <Catalog>
+    <col0>0717</col0>
+  </Catalog>
+ 
+""0720""
+  <Catalog>
+    <col0>0720</col0>
+  </Catalog>
+ 
+""0820""
+  <Catalog>
+    <col0>0820</col0>
+  </Catalog>
+ 
+</Catalogs>

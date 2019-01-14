@@ -1,0 +1,5 @@
+//	Star1-1.txt
+# Stars.cfg
+lines.gif
+star1.gif c c replace
+Star1-1.gif

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="cw-cars.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""ID","Car Type","Cost","Weight","Max Wt","Spaces","Armour""
+""1","Subcompact","300","1000","2300","7","11/5""
+  <Catalog>
+    <col0>1</col0>
+    <col1>Subcompact</col1>
+    <col2>300</col2>
+    <col3>1000</col3>
+    <col4>2300</col4>
+    <col5>7</col5>
+    <col6>11/5</col6>
+  </Catalog>
+ 
+""2","Compact","400","1300","3700","10","13/6""
+  <Catalog>
+    <col0>2</col0>
+    <col1>Compact</col1>
+    <col2>400</col2>
+    <col3>1300</col3>
+    <col4>3700</col4>
+    <col5>10</col5>
+    <col6>13/6</col6>
+  </Catalog>
+ 
+""3","Mid-sized","600","1600","4800","13","16/8""
+  <Catalog>
+    <col0>3</col0>
+    <col1>Mid-sized</col1>
+    <col2>600</col2>
+    <col3>1600</col3>
+    <col4>4800</col4>
+    <col5>13</col5>
+    <col6>16/8</col6>
+  </Catalog>
+ 
+""4","Sedan","700","1700","5100","16","18/9""
+  <Catalog>
+    <col0>4</col0>
+    <col1>Sedan</col1>
+    <col2>700</col2>
+    <col3>1700</col3>
+    <col4>5100</col4>
+    <col5>16</col5>
+    <col6>18/9</col6>
+  </Catalog>
+ 
+""5","Luxury","800","1800","5500","19","20/10""
+  <Catalog>
+    <col0>5</col0>
+    <col1>Luxury</col1>
+    <col2>800</col2>
+    <col3>1800</col3>
+    <col4>5500</col4>
+    <col5>19</col5>
+    <col6>20/10</col6>
+  </Catalog>
+ 
+""6","Station wagon","800","1800","5500","24(+7)","20/10""
+  <Catalog>
+    <col0>6</col0>
+    <col1>Station wagon</col1>
+    <col2>800</col2>
+    <col3>1800</col3>
+    <col4>5500</col4>
+    <col5>24(7)</col5>
+    <col6>20/10</col6>
+  </Catalog>
+ 
+""7","Pickup","900","2100","6500","13(+11)","22/11""
+  <Catalog>
+    <col0>7</col0>
+    <col1>Pickup</col1>
+    <col2>900</col2>
+    <col3>2100</col3>
+    <col4>6500</col4>
+    <col5>13(11)</col5>
+    <col6>22/11</col6>
+  </Catalog>
+ 
+""8","Camper","1400","2300","6500","17(+7)","30/14""
+  <Catalog>
+    <col0>8</col0>
+    <col1>Camper</col1>
+    <col2>1400</col2>
+    <col3>2300</col3>
+    <col4>6500</col4>
+    <col5>17(7)</col5>
+    <col6>30/14</col6>
+  </Catalog>
+ 
+""9","Van","1000","2000","6000","24(+6)","30/14""
+  <Catalog>
+    <col0>9</col0>
+    <col1>Van</col1>
+    <col2>1000</col2>
+    <col3>2000</col3>
+    <col4>6000</col4>
+    <col5>24(6)</col5>
+    <col6>30/14</col6>
+  </Catalog>
+ 
+""10","Formula-1","6500","600","4000","15","22/10""
+  <Catalog>
+    <col0>10</col0>
+    <col1>Formula-1</col1>
+    <col2>6500</col2>
+    <col3>600</col3>
+    <col4>4000</col4>
+    <col5>15</col5>
+    <col6>22/10</col6>
+  </Catalog>
+ 
+""11","Can-Am","6500","800","4500","18","24/12""
+  <Catalog>
+    <col0>11</col0>
+    <col1>Can-Am</col1>
+    <col2>6500</col2>
+    <col3>800</col3>
+    <col4>4500</col4>
+    <col5>18</col5>
+    <col6>24/12</col6>
+  </Catalog>
+ 
+""12","Sprint","5600","300","3200","10","15/7""
+  <Catalog>
+    <col0>12</col0>
+    <col1>Sprint</col1>
+    <col2>5600</col2>
+    <col3>300</col3>
+    <col4>3200</col4>
+    <col5>10</col5>
+    <col6>15/7</col6>
+  </Catalog>
+ 
+""13","Funny car","6600","700","4500","20","26/13""
+  <Catalog>
+    <col0>13</col0>
+    <col1>Funny car</col1>
+    <col2>6600</col2>
+    <col3>700</col3>
+    <col4>4500</col4>
+    <col5>20</col5>
+    <col6>26/13</col6>
+  </Catalog>
+ 
+""14","Dragster","6200","600","4000","16","20/8""
+  <Catalog>
+    <col0>14</col0>
+    <col1>Dragster</col1>
+    <col2>6200</col2>
+    <col3>600</col3>
+    <col4>4000</col4>
+    <col5>16</col5>
+    <col6>20/8</col6>
+  </Catalog>
+ 
+</Catalogs>

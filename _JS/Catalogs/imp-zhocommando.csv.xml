@@ -1,0 +1,2098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="imp-zhocommando.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Field1","Field2","Field3","Field4","GROUPMENT","VEH","SQD","SQD-VEH","DET","GRP","TRANSPORT","VEHICLE","DET-VEH""
+""ZHODANI COMMANDO GROUPMENT","","","","531","59","","","","","","","""
+  <Catalog>
+    <col0>ZHODANI COMMANDO GROUPMENT</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>531</col4>
+    <col5>59</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","505","89","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4>505</col4>
+    <col5>89</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","HQSQUADRON","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>HQSQUADRON</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","COMMAND POST DETACHMENT","","","","","","48","","","","14""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>COMMAND POST DETACHMENT</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>48</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>14</col12>
+  </Catalog>
+ 
+""","","","INTELLIGENCE GROUP","","","","","","5","1","GRAVSLED","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>INTELLIGENCE GROUP</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>5</col9>
+    <col10>1</col10>
+    <col11>GRAVSLED</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","COMMUNICATIONS GROUP","","","","","","4","1","LRSLED","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>COMMUNICATIONS GROUP</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>4</col9>
+    <col10>1</col10>
+    <col11>LRSLED</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","COMPUTER GROUP","","","","","","4","1","GRAVSLED","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>COMPUTER GROUP</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>4</col9>
+    <col10>1</col10>
+    <col11>GRAVSLED</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","MEDICAL DETACHMENT","","","","","","4","1","SURGISLED","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>MEDICAL DETACHMENT</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>4</col9>
+    <col10>1</col10>
+    <col11>SURGISLED</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","3","1","AMBUGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>AMBUGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","3","1","AMBUGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>AMBUGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","3","1","AMBUGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>AMBUGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","NUCLEAR DAMPER DETACHMENT","","","","","","2","1","LUTIL","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>NUCLEAR DAMPER DETACHMENT</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>1</col10>
+    <col11>LUTIL</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","3","1","NDSLED","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>NDSLED</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","3","1","NDSLED","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>NDSLED</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","POINT DEFENCE DETACHMENT","","","","","","3","1","PDGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>POINT DEFENCE DETACHMENT</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>PDGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","4","1","PDGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>4</col9>
+    <col10>1</col10>
+    <col11>PDGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","3","1","PDGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>3</col9>
+    <col10>1</col10>
+    <col11>PDGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","4","1","PDGRAV","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>4</col9>
+    <col10>1</col10>
+    <col11>PDGRAV</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","COMMANDO SQUADRON A","","","","","153","25","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>COMMANDO SQUADRON A</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>153</col6>
+    <col7>25</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","SQUADRON HEADQUARTERS","","","","","","2","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>SQUADRON HEADQUARTERS</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>2</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","TRANSPORT/ROBOT DETACHMENT","","","","","","13","","","","13""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>TRANSPORT/ROBOT DETACHMENT</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>13</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>13</col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","1ST COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>1ST COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","1ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","2ND COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>2ND COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","2ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","3RD COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>3RD COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","3ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","COMMANDO SQUADRON A","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>COMMANDO SQUADRON A</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","SQUADRON HEADQUARTERS","","","","","","","2","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>SQUADRON HEADQUARTERS</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","TRANSPORT/ROBOT DETACHMENT","","","","","","13","","","","13""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>TRANSPORT/ROBOT DETACHMENT</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>13</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>13</col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","1ST COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>1ST COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","1ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","2ND COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>2ND COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","2ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","3RD COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>3RD COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","3ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","COMMANDO SQUADRON A","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1>COMMANDO SQUADRON A</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","SQUADRON HEADQUARTERS","","","","","","","2","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>SQUADRON HEADQUARTERS</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","TRANSPORT/ROBOT DETACHMENT","","","","","","13","","","","13""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>TRANSPORT/ROBOT DETACHMENT</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>13</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>13</col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","","","","","","","1","1","APC","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>APC</col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","1ST COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>1ST COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","1ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","1ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>1ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","2ND COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>2ND COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","2ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","2ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","3RD COMMANDO A","","","","","","46","","","","4""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>3RD COMMANDO A</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>46</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12>4</col12>
+  </Catalog>
+ 
+""","","","3ACOM","","","","","","2","0","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>2</col9>
+    <col10>0</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM1","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM1</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM2","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM2</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM3","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM3</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+""","","","3ACOM4","","","","","","11","1","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>3ACOM4</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9>11</col9>
+    <col10>1</col10>
+    <col11></col11>
+    <col12></col12>
+  </Catalog>
+ 
+</Catalogs>

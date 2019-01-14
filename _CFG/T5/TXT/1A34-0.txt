@@ -1,0 +1,7 @@
+//	1A34-0.txt
+blank.gif
+im.gif c c replace
+harvehberg.gif c c 000000
+1A34 c 7 35 H 000000
+3 2 7 35 H 000000
+1A34-0.gif

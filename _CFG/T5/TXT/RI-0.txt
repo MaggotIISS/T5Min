@@ -1,0 +1,4 @@
+//	RI-0.txt
+lines.gif
+box.gif c c 4f9f4f
+RI-0.gif

@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="Systems.xsl"?> --><!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+World 1
+"1910"
+  <System>
+    <hex>1910</hex>
+    <sname>Regina</sname>
+    <UWP>A788899-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>8</at>
+    <hy>8</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa</remarks>
+    <ix>{ 4 }</ix>
+    <ex>(D7E+5)</ex>
+    <cx>[9C6D]</cx>
+    <n>BcCeF</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>703</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>F7 V BD M3 V</stellar>
+  </System>
+
+World 2
+"2007"
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+World 3
+"2005"
+  <System>
+    <hex>2005</hex>
+    <sname>Feri</sname>
+    <UWP>B584879-B</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>8</at>
+    <hy>4</hy>
+    <po>8</po>
+    <go>7</go>
+    <ll>9</ll>
+    <tl>B</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(C7D+4)</ex>
+    <cx>[9B6C]</cx>
+    <n>BcCe</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>620</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G4 V M3 V</stellar>
+  </System>
+
+World 4
+"1904"
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+World 5
+"1705"
+  <System>
+    <hex>1705</hex>
+    <sname>Efate</sname>
+    <UWP>A646930-D</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>4</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>3</go>
+    <ll>0</ll>
+    <tl>D</tl>
+    <remarks>Hi In An</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(B8H+1)</ex>
+    <cx>[4E18]</cx>
+    <n>BEf</n>
+    <b>NW</b>
+    <z>-</z>
+    <pbg>800</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K4 V</stellar>
+  </System>
+
+World 6
+"1307"
+  <System>
+    <hex>1307</hex>
+    <sname>Lysen</sname>
+    <UWP>B592655-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>2</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>5</ll>
+    <tl>A</tl>
+    <remarks>He Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(D55-1)</ex>
+    <cx>[4738]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 7
+"1106"
+  <System>
+    <hex>1106</hex>
+    <sname>Jewell</sname>
+    <UWP>A777999-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>7</hy>
+    <po>9</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Hi In</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(G8G+5)</ex>
+    <cx>[AE6D]</cx>
+    <n>BEf</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>10</w>
+    <a>ImDd</a>
+    <stellar>G7 V</stellar>
+  </System>
+
+World 8
+"1307"
+  <System>
+    <hex>1307</hex>
+    <sname>Lysen</sname>
+    <UWP>B592655-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>2</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>5</ll>
+    <tl>A</tl>
+    <remarks>He Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(D55-1)</ex>
+    <cx>[4738]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 9
+"1705"
+  <System>
+    <hex>1705</hex>
+    <sname>Efate</sname>
+    <UWP>A646930-D</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>4</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>3</go>
+    <ll>0</ll>
+    <tl>D</tl>
+    <remarks>Hi In An</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(B8H+1)</ex>
+    <cx>[4E18]</cx>
+    <n>BEf</n>
+    <b>NW</b>
+    <z>-</z>
+    <pbg>800</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K4 V</stellar>
+  </System>
+
+World 10
+"1904"
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+World 11
+"2005"
+  <System>
+    <hex>2005</hex>
+    <sname>Feri</sname>
+    <UWP>B584879-B</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>8</at>
+    <hy>4</hy>
+    <po>8</po>
+    <go>7</go>
+    <ll>9</ll>
+    <tl>B</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(C7D+4)</ex>
+    <cx>[9B6C]</cx>
+    <n>BcCe</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>620</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G4 V M3 V</stellar>
+  </System>
+
+World 12
+"2007"
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+World 13
+"1910"
+  <System>
+    <hex>1910</hex>
+    <sname>Regina</sname>
+    <UWP>A788899-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>8</at>
+    <hy>8</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa</remarks>
+    <ix>{ 4 }</ix>
+    <ex>(D7E+5)</ex>
+    <cx>[9C6D]</cx>
+    <n>BcCeF</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>703</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>F7 V BD M3 V</stellar>
+  </System>
+
+World 14
+"2007"
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+World 15
+"2005"
+  <System>
+    <hex>2005</hex>
+    <sname>Feri</sname>
+    <UWP>B584879-B</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>8</at>
+    <hy>4</hy>
+    <po>8</po>
+    <go>7</go>
+    <ll>9</ll>
+    <tl>B</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(C7D+4)</ex>
+    <cx>[9B6C]</cx>
+    <n>BcCe</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>620</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G4 V M3 V</stellar>
+  </System>
+
+World 16
+"1904"
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+World 17
+"1705"
+  <System>
+    <hex>1705</hex>
+    <sname>Efate</sname>
+    <UWP>A646930-D</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>4</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>3</go>
+    <ll>0</ll>
+    <tl>D</tl>
+    <remarks>Hi In An</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(B8H+1)</ex>
+    <cx>[4E18]</cx>
+    <n>BEf</n>
+    <b>NW</b>
+    <z>-</z>
+    <pbg>800</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K4 V</stellar>
+  </System>
+
+World 18
+"1307"
+  <System>
+    <hex>1307</hex>
+    <sname>Lysen</sname>
+    <UWP>B592655-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>2</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>5</ll>
+    <tl>A</tl>
+    <remarks>He Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(D55-1)</ex>
+    <cx>[4738]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 19
+"1106"
+  <System>
+    <hex>1106</hex>
+    <sname>Jewell</sname>
+    <UWP>A777999-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>7</hy>
+    <po>9</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Hi In</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(G8G+5)</ex>
+    <cx>[AE6D]</cx>
+    <n>BEf</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>10</w>
+    <a>ImDd</a>
+    <stellar>G7 V</stellar>
+  </System>
+
+World 20
+"1307"
+  <System>
+    <hex>1307</hex>
+    <sname>Lysen</sname>
+    <UWP>B592655-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>2</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>5</ll>
+    <tl>A</tl>
+    <remarks>He Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(D55-1)</ex>
+    <cx>[4738]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+World 21
+"1705"
+  <System>
+    <hex>1705</hex>
+    <sname>Efate</sname>
+    <UWP>A646930-D</UWP>
+    <st>A</st>
+    <si>6</si>
+    <at>4</at>
+    <hy>6</hy>
+    <po>9</po>
+    <go>3</go>
+    <ll>0</ll>
+    <tl>D</tl>
+    <remarks>Hi In An</remarks>
+    <ix>{ 5 }</ix>
+    <ex>(B8H+1)</ex>
+    <cx>[4E18]</cx>
+    <n>BEf</n>
+    <b>NW</b>
+    <z>-</z>
+    <pbg>800</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>K4 V</stellar>
+  </System>
+
+World 22
+"1904"
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+World 23
+"2005"
+  <System>
+    <hex>2005</hex>
+    <sname>Feri</sname>
+    <UWP>B584879-B</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>8</at>
+    <hy>4</hy>
+    <po>8</po>
+    <go>7</go>
+    <ll>9</ll>
+    <tl>B</tl>
+    <remarks>Ri Pa Ph</remarks>
+    <ix>{ 3 }</ix>
+    <ex>(C7D+4)</ex>
+    <cx>[9B6C]</cx>
+    <n>BcCe</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>620</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>G4 V M3 V</stellar>
+  </System>
+
+World 24
+"2007"
+  <System>
+    <hex>2007</hex>
+    <sname>Roup</sname>
+    <UWP>C77A9A9-7</UWP>
+    <st>C</st>
+    <si>7</si>
+    <at>7</at>
+    <hy>A</hy>
+    <po>9</po>
+    <go>A</go>
+    <ll>9</ll>
+    <tl>7</tl>
+    <remarks>Hi In Wa Pz</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(B8A+2)</ex>
+    <cx>[AA68]</cx>
+    <n>BE</n>
+    <b>S</b>
+    <z>A</z>
+    <pbg>323</pbg>
+    <w>14</w>
+    <a>ImDd</a>
+    <stellar>F9 V</stellar>
+  </System>
+
+World 25
+"1910"
+  <System>
+    <hex>1910</hex>
+    <sname>Regina</sname>
+    <UWP>A788899-C</UWP>
+    <st>A</st>
+    <si>7</si>
+    <at>8</at>
+    <hy>8</hy>
+    <po>8</po>
+    <go>9</go>
+    <ll>9</ll>
+    <tl>C</tl>
+    <remarks>Ri Pa Ph An Cp (Amindii)2 Varg0 Asla0 Sa</remarks>
+    <ix>{ 4 }</ix>
+    <ex>(D7E+5)</ex>
+    <cx>[9C6D]</cx>
+    <n>BcCeF</n>
+    <b>NS</b>
+    <z>-</z>
+    <pbg>703</pbg>
+    <w>8</w>
+    <a>ImDd</a>
+    <stellar>F7 V BD M3 V</stellar>
+  </System>
+
+</Systems>"1910"
+"2007"
+  <Route>
+    <col0>2007</col0>
+  </Route>
+ 
+"2005"
+  <Route>
+    <col0>2005</col0>
+  </Route>
+ 
+"1904"
+  <Route>
+    <col0>1904</col0>
+  </Route>
+ 
+"1705"
+  <Route>
+    <col0>1705</col0>
+  </Route>
+ 
+"1307"
+  <Route>
+    <col0>1307</col0>
+  </Route>
+ 
+"1106"
+  <Route>
+    <col0>1106</col0>
+  </Route>
+ 
+"1307"
+  <Route>
+    <col0>1307</col0>
+  </Route>
+ 
+"1705"
+  <Route>
+    <col0>1705</col0>
+  </Route>
+ 
+"1904"
+  <Route>
+    <col0>1904</col0>
+  </Route>
+ 
+"2005"
+  <Route>
+    <col0>2005</col0>
+  </Route>
+ 
+"2007"
+  <Route>
+    <col0>2007</col0>
+  </Route>
+ 
+"1910"
+  <Route>
+    <col0>1910</col0>
+  </Route>
+ 
+"2007"
+  <Route>
+    <col0>2007</col0>
+  </Route>
+ 
+"2005"
+  <Route>
+    <col0>2005</col0>
+  </Route>
+ 
+"1904"
+  <Route>
+    <col0>1904</col0>
+  </Route>
+ 
+"1705"
+  <Route>
+    <col0>1705</col0>
+  </Route>
+ 
+"1307"
+  <Route>
+    <col0>1307</col0>
+  </Route>
+ 
+"1106"
+  <Route>
+    <col0>1106</col0>
+  </Route>
+ 
+"1307"
+  <Route>
+    <col0>1307</col0>
+  </Route>
+ 
+"1705"
+  <Route>
+    <col0>1705</col0>
+  </Route>
+ 
+"1904"
+  <Route>
+    <col0>1904</col0>
+  </Route>
+ 
+"2005"
+  <Route>
+    <col0>2005</col0>
+  </Route>
+ 
+"2007"
+  <Route>
+    <col0>2007</col0>
+  </Route>
+ 
+"1910"
+  <Route>
+    <col0>1910</col0>
+  </Route>
+ 
+</Systems>

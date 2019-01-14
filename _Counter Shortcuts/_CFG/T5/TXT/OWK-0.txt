@@ -1,0 +1,6 @@
+//	OWK-0.txt
+#OWK   
+lines.gif
+box.gif c c FFFFFF
+OWK 1 1 35 H 000000
+OWK-0.gif

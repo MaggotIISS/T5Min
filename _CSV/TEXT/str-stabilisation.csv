@@ -1,0 +1,7 @@
+"TL","VOL","MASS","COST","MV<1/2","MV>1/2"
+"0","0","","0","-4FFP, No Fire EFP","No Fire"
+"6","0.05","","20000","-4 EFP","-4 FFP, No Fire EFP"
+"7","0.075","","40000","-2 EFP","-2 FFP, No Fie EFP"
+"8","0.1","","50000","No Effect","-4 EFP"
+"9","0.1","","60000","No Effect","-2 EFP"
+"10","0.1","","70000","No Effect","No Effect"

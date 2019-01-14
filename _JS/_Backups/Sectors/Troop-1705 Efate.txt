@@ -1,0 +1,2 @@
+"WORLD","","SYSTEM","","","","","","","","","","","","","SYSTEM","UWP","SDBS","RONS","DEF CF","TROOPS","POPULATION","BELTS","GGS","WORLDS"
+"World","","1705 Efate","Troop-1705 Efate","","","","","","","","","","","","1705 Efate","A646930-D","SDBs 150","Rons 3","Def CF 1500","Troops 100","Pop &lt; 8 B","Belts 0","GGs 0","Worlds 8 G"

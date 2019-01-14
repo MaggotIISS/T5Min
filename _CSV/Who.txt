@@ -1,0 +1,14 @@
+Location 
+ID
+Name
+Race
+Sex
+Age()
+Hex
+System
+UPP
+Career
+Terms
+Rank
+DOB
+POB

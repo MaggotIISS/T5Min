@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="sky-crew.csv.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Title","Status","Rank","Name","Position","Birthworld""
+""Captain","2","4","Carl","B1","Regina""
+  <Catalog>
+    <col0>Captain</col0>
+    <col1>2</col1>
+    <col2>4</col2>
+    <col3>Carl</col3>
+    <col4>B1</col4>
+    <col5>Regina</col5>
+  </Catalog>
+ 
+""Co-pilot","1","3","Terry","B2","ROUP*""
+  <Catalog>
+    <col0>Co-pilot</col0>
+    <col1>1</col1>
+    <col2>3</col2>
+    <col3>Terry</col3>
+    <col4>B2</col4>
+    <col5>ROUP*</col5>
+  </Catalog>
+ 
+""Doctor","1","2","Anna","F1","Feri*""
+  <Catalog>
+    <col0>Doctor</col0>
+    <col1>1</col1>
+    <col2>2</col2>
+    <col3>Anna</col3>
+    <col4>F1</col4>
+    <col5>Feri*</col5>
+  </Catalog>
+ 
+""Trader","2","3","Nool","F2","Boughene""
+  <Catalog>
+    <col0>Trader</col0>
+    <col1>2</col1>
+    <col2>3</col2>
+    <col3>Nool</col3>
+    <col4>F2</col4>
+    <col5>Boughene</col5>
+  </Catalog>
+ 
+""Chief Engineer","0","4","Raoul","E1","EFATE""
+  <Catalog>
+    <col0>Chief Engineer</col0>
+    <col1>0</col1>
+    <col2>4</col2>
+    <col3>Raoul</col3>
+    <col4>E1</col4>
+    <col5>EFATE</col5>
+  </Catalog>
+ 
+""2nd Engineer","0","2","Teelan","E2","Lysen""
+  <Catalog>
+    <col0>2nd Engineer</col0>
+    <col1>0</col1>
+    <col2>2</col2>
+    <col3>Teelan</col3>
+    <col4>E2</col4>
+    <col5>Lysen</col5>
+  </Catalog>
+ 
+""Mailman","0","0","Max","G1","JEWELL""
+  <Catalog>
+    <col0>Mailman</col0>
+    <col1>0</col1>
+    <col2>0</col2>
+    <col3>Max</col3>
+    <col4>G1</col4>
+    <col5>JEWELL</col5>
+  </Catalog>
+ 
+</Catalogs>

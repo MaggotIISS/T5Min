@@ -1,0 +1,473 @@
+D:\Cyberboard\BMP\bmptogtl.cfg
+D:\Cyberboard\BMP\CoOrds.cfg
+D:\Cyberboard\BMP\PASTE.CFG
+D:\Cyberboard\BMP\scntobmp.cfg
+D:\Cyberboard\BMP\Arm\ArmyTypes.cfg
+D:\Cyberboard\BMP\Arm\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Bas\Bases.cfg
+D:\Cyberboard\BMP\Arm\Bas\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Bat\Battalion.cfg
+D:\Cyberboard\BMP\Arm\Bat\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Bri\ArmyBrigade.cfg
+D:\Cyberboard\BMP\Arm\Bri\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Bri\Brigades.CFG
+D:\Cyberboard\BMP\Arm\Com\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\Company.cfg
+D:\Cyberboard\BMP\Arm\Com\AS\ASCompanies.cfg
+D:\Cyberboard\BMP\Arm\Com\AS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\BC\BCCompanies.CFG
+D:\Cyberboard\BMP\Arm\Com\BC\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\GT\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\GT\GTCompanies.cfg
+D:\Cyberboard\BMP\Arm\Com\LA\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\LA\LACompanies.cfg
+D:\Cyberboard\BMP\Arm\Com\LI\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\LI\LICompanies.cfg
+D:\Cyberboard\BMP\Arm\Com\RI\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Com\RI\RICompanies.cfg
+D:\Cyberboard\BMP\Arm\Cor\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Cor\Corps.cfg
+D:\Cyberboard\BMP\Arm\Div\ArmyDivision.cfg
+D:\Cyberboard\BMP\Arm\Div\ArmyDivisions.CFG
+D:\Cyberboard\BMP\Arm\Div\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Fie\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Fie\FieldArmy.cfg
+D:\Cyberboard\BMP\Arm\Hus\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Hus\Huscarles.cfg
+D:\Cyberboard\BMP\Arm\Mer\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Mer\Mercs.cfg
+D:\Cyberboard\BMP\Arm\Ran\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Ran\Ranks.cfg
+D:\Cyberboard\BMP\Arm\Sec\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\Sections.cfg
+D:\Cyberboard\BMP\Arm\Sec\ASS\ASSections.cfg
+D:\Cyberboard\BMP\Arm\Sec\ASS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\BCS\BCSections.cfg
+D:\Cyberboard\BMP\Arm\Sec\BCS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\GTS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\GTS\GTSections.cfg
+D:\Cyberboard\BMP\Arm\Sec\LAS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\LAS\LASections.cfg
+D:\Cyberboard\BMP\Arm\Sec\LIS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\LIS\LISections.cfg
+D:\Cyberboard\BMP\Arm\Sec\RIS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sec\RIS\RISections.cfg
+D:\Cyberboard\BMP\Arm\Squ\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\Squads.cfg
+D:\Cyberboard\BMP\Arm\Squ\AS\ASSquads.cfg
+D:\Cyberboard\BMP\Arm\Squ\AS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\BC\BCSquads.cfg
+D:\Cyberboard\BMP\Arm\Squ\BC\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\GT\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\GT\GTSquads.cfg
+D:\Cyberboard\BMP\Arm\Squ\LA\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\LA\LASquads.cfg
+D:\Cyberboard\BMP\Arm\Squ\LI\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\LI\LISquads.cfg
+D:\Cyberboard\BMP\Arm\Squ\RI\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Squ\RI\RISquads.cfg
+D:\Cyberboard\BMP\Arm\Sun\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Sun\Sunbursts.cfg
+D:\Cyberboard\BMP\Arm\Uni\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\Units.cfg
+D:\Cyberboard\BMP\Arm\Uni\ASB\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\ASB\Units.cfg
+D:\Cyberboard\BMP\Arm\Uni\BCD\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\BCD\Units.cfg
+D:\Cyberboard\BMP\Arm\Uni\GTS\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\GTS\Units.cfg
+D:\Cyberboard\BMP\Arm\Uni\LAB\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\LAB\Units.cfg
+D:\Cyberboard\BMP\Arm\Uni\LIB\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\LIB\Units.cfg
+D:\Cyberboard\BMP\Arm\Uni\RIB\bmptogtl.cfg
+D:\Cyberboard\BMP\Arm\Uni\RIB\Units.cfg
+D:\Cyberboard\BMP\Arm\UTP\Capital.cfg
+D:\Cyberboard\BMP\Har\bmptogtl.cfg
+D:\Cyberboard\BMP\Har\Hardware.cfg
+D:\Cyberboard\BMP\Har\Cra\bmptogtl.cfg
+D:\Cyberboard\BMP\Har\Cra\Craft.cfg
+D:\Cyberboard\BMP\Har\Shi\bmptogtl.cfg
+D:\Cyberboard\BMP\Har\Shi\Ships.cfg
+D:\Cyberboard\BMP\Har\Veh\bmptogtl.cfg
+D:\Cyberboard\BMP\Har\Veh\Vehicles.cfg
+D:\Cyberboard\BMP\Har\Wea\bmptogtl.cfg
+D:\Cyberboard\BMP\Har\Wea\Weapons.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\40MM-RAM-8-HE.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\40MM-RAM-8-HEAT.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\40MM-RAM-9-HE.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\40MM-RAM-9-HEAT.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACCELERATOR-RIFLE-10MM-AP.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACCELERATOR-RIFLE-10MM-CHEM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACCELERATOR-RIFLE-10MM-HEAT.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACCELERATOR-RIFLE-10MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACR-7MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACR-9MM-APS.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACR-9MM-SOLID.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ACR-9MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\ASSAULT-RIFLE-7.5MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\AUTO-PISTOL-7MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\AUTO-PISTOL-9MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\AUTO-SHOTGUN.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\AUTO-SNUB-PISTOL-10MM-BALL.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\AUTO-SNUB-PISTOL-10MM-HEAT(TL9).cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\AUTO-SNUB-PISTOL-10MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\bmptogtl.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\BODY-PISTOL-5MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\CARBINE-7MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\FGMP-11.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\FGMP-12.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LAG-20MM-APDS.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LAG-20MM-BEEHIVE.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LAG-20MM-HE.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LAG-20MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LASER-CARBINE-10.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LASER-CARBINE-8.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LASER-PISTOL-10.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LASER-PISTOL-9.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\LASER-RIFLE-10.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\MAGNUM-9MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\PGMP-10.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\PGMP-10A.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\PGMP-11.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\REVOLVER-5MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\REVOLVER-7MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\REVOLVER-9MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\RIFLE-13MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\RIFLE-7MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\RIFLE-9MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\SHOTGUN.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\SMG-9MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\SNUB-REVOLVER-10MM.cfg
+D:\Cyberboard\BMP\Har\Wea\AutoGen\WEAPON.cfg
+D:\Cyberboard\BMP\Imp\AMDU\Armour.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\-.-7.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\..cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\0103-.-A.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\A0.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\ACR-9MM-HEAT.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\AlphaCentre.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Anastasia'sMate.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Armour.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\ARMY.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\AUTO-PISTOL-7MM.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\BMPToGTL.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\BRIGADE.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Capital.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Cargo.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Combo1.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Counter.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Craft.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Equipment.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\FWTroop.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Group.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Gul.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\HEX.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Hunyadi.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\LaLuzNegra.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\MAGNUM-9MM.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\mo.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Montrachet.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\MULTI.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\N'dao.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\OmegaSextans.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Regina.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\REVOLVER-7MM.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Robots.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Roup.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Shushan.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\StationOne.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\SubSectorN.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Trayfowen.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\TrocadentiliusXIX.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\TroopStrength.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\UWP-SubSec.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\VEHICLE.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Vlad.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\YirshPoy.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Zero-G.cfg
+D:\Cyberboard\BMP\Imp\CORE\P - Saregon\Zero-GZero-G.cfg
+D:\Cyberboard\BMP\Imp\DENE\Counter.cfg
+D:\Cyberboard\BMP\Imp\DENE\VEHICLE.cfg
+D:\Cyberboard\BMP\Imp\MASS\VEHICLE.cfg
+D:\Cyberboard\BMP\Imp\Pol\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\Pol\CoOrds.cfg
+D:\Cyberboard\BMP\Imp\Pol\Politics.cfg
+D:\Cyberboard\BMP\Imp\REAV\0207-Nasi-F.cfg
+D:\Cyberboard\BMP\Imp\REAV\1721--.cfg
+D:\Cyberboard\BMP\Imp\REAV\La'Belle.cfg
+D:\Cyberboard\BMP\Imp\SOLO\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\Cipango.cfg
+D:\Cyberboard\BMP\Imp\SOLO\Ikaakur.cfg
+D:\Cyberboard\BMP\Imp\SOLO\Solomani.cfg
+D:\Cyberboard\BMP\Imp\SOLO\A - Ultima\A-Ultima.cfg
+D:\Cyberboard\BMP\Imp\SOLO\A - Ultima\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\B - Suleiman\B-Suleiman.cfg
+D:\Cyberboard\BMP\Imp\SOLO\B - Suleiman\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\C - Concorde\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\C - Concorde\C-Concord.cfg
+D:\Cyberboard\BMP\Imp\SOLO\D - Harlequin\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\D - Harlequin\D-Harlequin.cfg
+D:\Cyberboard\BMP\Imp\SOLO\E - Alderamin\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\E - Alderamin\E-Alderamin.cfg
+D:\Cyberboard\BMP\Imp\SOLO\F - Esperance\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\F - Esperance\F-Esperance.cfg
+D:\Cyberboard\BMP\Imp\SOLO\G - Vega\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\G - Vega\G-Vega.cfg
+D:\Cyberboard\BMP\Imp\SOLO\H - Banasdan\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\H - Banasdan\H-Banasdan.cfg
+D:\Cyberboard\BMP\Imp\SOLO\I - Albadawi\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\I - Albadawi\I-Albadawi.cfg
+D:\Cyberboard\BMP\Imp\SOLO\J - Dingir\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\J - Dingir\J-Dingir.cfg
+D:\Cyberboard\BMP\Imp\SOLO\K - Sol\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\K - Sol\K-Sol.cfg
+D:\Cyberboard\BMP\Imp\SOLO\L - Arcturus\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\L - Arcturus\L-Arcturus.cfg
+D:\Cyberboard\BMP\Imp\SOLO\M - Jardin\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\M - Jardin\M-Jardin.cfg
+D:\Cyberboard\BMP\Imp\SOLO\N - Capella\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\N - Capella\N-Capella.cfg
+D:\Cyberboard\BMP\Imp\SOLO\O - Gemini\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\O - Gemini\O-Gemini.cfg
+D:\Cyberboard\BMP\Imp\SOLO\P - Kukulcan\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SOLO\P - Kukulcan\P-Kukulcan.cfg
+D:\Cyberboard\BMP\Imp\SOLO\_GTL\Bases\GTLtoBMP.cfg
+D:\Cyberboard\BMP\Imp\SPIN\--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\-.-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\-Shionthy-8.cfg
+D:\Cyberboard\BMP\Imp\SPIN\..cfg
+D:\Cyberboard\BMP\Imp\SPIN\.cfg
+D:\Cyberboard\BMP\Imp\SPIN\0101-Zeycude-9.cfg
+D:\Cyberboard\BMP\Imp\SPIN\0101.cfg
+D:\Cyberboard\BMP\Imp\SPIN\0104-Cantrel-9.cfg
+D:\Cyberboard\BMP\Imp\SPIN\0108-Gyomar-5.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1103--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1705-Efate-D.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1803-Menorb-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1808-Forboldn-4.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1809-Ruie-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1810-Jenghe-9.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1827-Terra-F.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1903--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1903-Pixie-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1904--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1909-Hefry-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1910--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1910-Regina-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1910-Regina-A.cfg
+D:\Cyberboard\BMP\Imp\SPIN\1912-Dinomn-3.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2005--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2005-Feri-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2005-Feri-B.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2007-Roup-6.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2007-Roup-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2011-Wypoc-C.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2110-Yori-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2202-Kinorb-5.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2204-Beck'sWorld-4.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2512-Kinorb-5.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2512-Kinorb-9.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2610-Hemmonallterra-A.cfg
+D:\Cyberboard\BMP\Imp\SPIN\2613-Fulacin-D.cfg
+D:\Cyberboard\BMP\Imp\SPIN\3019-457-973-4.cfg
+D:\Cyberboard\BMP\Imp\SPIN\BarbaAmarilla.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Beck'sWorld.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Blank.cfg
+D:\Cyberboard\BMP\Imp\SPIN\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Boughene.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Cargo.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Condoyle.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Dentus.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Efate.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Engrange.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Extolay.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Feri.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Hefry-7.cfg
+D:\Cyberboard\BMP\Imp\SPIN\HEX.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Ju--.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Junction.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Kardin.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Kinorb.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Lysen.cfg
+D:\Cyberboard\BMP\Imp\SPIN\MAGNUM-9MM.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Moughas.cfg
+D:\Cyberboard\BMP\Imp\SPIN\NewCounters.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Ninjar.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Pixie.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Regina.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Roup.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Sheyou.cfg
+D:\Cyberboard\BMP\Imp\SPIN\SM5FW.cfg
+D:\Cyberboard\BMP\Imp\SPIN\SpinwardMarches.cfg
+D:\Cyberboard\BMP\Imp\SPIN\StationOne.cfg
+D:\Cyberboard\BMP\Imp\SPIN\VEHICLE.cfg
+D:\Cyberboard\BMP\Imp\SPIN\World.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Zero-G.cfg
+D:\Cyberboard\BMP\Imp\SPIN\Zeycude.cfg
+D:\Cyberboard\BMP\Imp\SPIN\A - Chronor\A-Chronor.cfg
+D:\Cyberboard\BMP\Imp\SPIN\A - Chronor\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\B - Jewell\B-Jewell.cfg
+D:\Cyberboard\BMP\Imp\SPIN\B - Jewell\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\C - Regina\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\C - Regina\C-Regina.cfg
+D:\Cyberboard\BMP\Imp\SPIN\C - Regina - Copy\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\C - Regina - Copy\C-Regina.cfg
+D:\Cyberboard\BMP\Imp\SPIN\D - Aramis\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\D - Aramis\D-Aramis.cfg
+D:\Cyberboard\BMP\Imp\SPIN\E - Querion\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\E - Querion\E-Querion.cfg
+D:\Cyberboard\BMP\Imp\SPIN\F - Vilis\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\F - Vilis\F-Vilis.cfg
+D:\Cyberboard\BMP\Imp\SPIN\G - Lanth\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\G - Lanth\G-Lanth.cfg
+D:\Cyberboard\BMP\Imp\SPIN\H - Rhylanor\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\H - Rhylanor\H-Rhylanor.cfg
+D:\Cyberboard\BMP\Imp\SPIN\I - Darrian\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\I - Darrian\I-Darrian.cfg
+D:\Cyberboard\BMP\Imp\SPIN\K - Lunion\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\K - Lunion\K-Lunion.cfg
+D:\Cyberboard\BMP\Imp\SPIN\L - Mora\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\L - Mora\L-Mora.cfg
+D:\Cyberboard\BMP\Imp\SPIN\O - Glisten\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\O - Glisten\O-Glisten.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\J - SwordWorlds\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\J - SwordWorlds\J-SwordWorlds.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\M - FiveSisters\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\M - FiveSisters\M-FiveSisters.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\N - District268\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\N - District268\N-District268.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\P - TrinsVeil\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\P - TrinsVeil\P-TrinsVeil.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\P - Trin`sVeil\bmptogtl.cfg
+D:\Cyberboard\BMP\Imp\SPIN\OLD\P - Trin`sVeil\P-TrinsVeil.cfg
+D:\Cyberboard\BMP\Imp\SPIN\_GTL\Bases\GTLtoBMP.cfg
+D:\Cyberboard\BMP\Imp\ZARU\Counter.cfg
+D:\Cyberboard\BMP\Mar\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\CoOrds.cfg
+D:\Cyberboard\BMP\Mar\Marine.cfg
+D:\Cyberboard\BMP\Mar\ScnToBmp.cfg
+D:\Cyberboard\BMP\Mar\MACR\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\MACR\MACR.cfg
+D:\Cyberboard\BMP\Mar\MACR\MarineACR.cfg
+D:\Cyberboard\BMP\Mar\MCC\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\MCC\MarineCC.cfg
+D:\Cyberboard\BMP\Mar\MCC\MarineCommandoCorps.cfg
+D:\Cyberboard\BMP\Mar\MCC\MCC.cfg
+D:\Cyberboard\BMP\Mar\MGD\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\MGD\MarineGD.cfg
+D:\Cyberboard\BMP\Mar\MGD\MGD.cfg
+D:\Cyberboard\BMP\Mar\MLR\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\MLR\MarineLR.CFG
+D:\Cyberboard\BMP\Mar\MLR\MLR.cfg
+D:\Cyberboard\BMP\Mar\MSQ\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\MSQ\MarineSQ.cfg
+D:\Cyberboard\BMP\Mar\MSQ\MSQ.cfg
+D:\Cyberboard\BMP\Mar\MST\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\MST\MarineST.cfg
+D:\Cyberboard\BMP\Mar\MST\MST.cfg
+D:\Cyberboard\BMP\Mar\Ran\bmptogtl.cfg
+D:\Cyberboard\BMP\Mar\Ran\Ranks.cfg
+D:\Cyberboard\BMP\Mer\bmptogtl.cfg
+D:\Cyberboard\BMP\Mer\Merchant.cfg
+D:\Cyberboard\BMP\Mer\AutoGen\AutoGen.cfg
+D:\Cyberboard\BMP\Mer\Car\Cargoes.cfg
+D:\Cyberboard\BMP\Mer\Com\bmptogtl.cfg
+D:\Cyberboard\BMP\Mer\Com\Companies.cfg
+D:\Cyberboard\BMP\Mer\Cont\Containers.cfg
+D:\Cyberboard\BMP\Mer\Haz\Hazards.cfg
+D:\Cyberboard\BMP\Mer\Meg\Megacorps.cfg
+D:\Cyberboard\BMP\Mer\Mod\Modules.cfg
+D:\Cyberboard\BMP\Mer\Pas\Passengers.cfg
+D:\Cyberboard\BMP\Mer\Ran\Ranks.cfg
+D:\Cyberboard\BMP\Mer\Ter\Terms.cfg
+D:\Cyberboard\BMP\Mer\UEE\N'dao.cfg
+D:\Cyberboard\BMP\Mer\UEE\UEE.cfg
+D:\Cyberboard\BMP\Nav\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\NavyTypes.cfg
+D:\Cyberboard\BMP\Nav\ScnToBmp.cfg
+D:\Cyberboard\BMP\Nav\Bas\Bases.cfg
+D:\Cyberboard\BMP\Nav\Bas\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Cre\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Cre\Crew.cfg
+D:\Cyberboard\BMP\Nav\Dep\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Dep\Departments.cfg
+D:\Cyberboard\BMP\Nav\Man\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Man\Man.cfg
+D:\Cyberboard\BMP\Nav\Ran\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Ran\Ranks.cfg
+D:\Cyberboard\BMP\Nav\Sec\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Sec\NamedFleets.cfg
+D:\Cyberboard\BMP\Nav\Sub\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Sub\NumberedFleets.cfg
+D:\Cyberboard\BMP\Nav\Sys\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Sys\Squadrons.cfg
+D:\Cyberboard\BMP\Nav\Typ\bmptogtl.cfg
+D:\Cyberboard\BMP\Nav\Typ\Types.cfg
+D:\Cyberboard\BMP\Nav\USqP\..cfg
+D:\Cyberboard\BMP\Nav\USqP\Capital.cfg
+D:\Cyberboard\BMP\Nav\USqP\N'dao.cfg
+D:\Cyberboard\BMP\Nav\USqP\Regina.cfg
+D:\Cyberboard\BMP\Oth\bmptogtl.cfg
+D:\Cyberboard\BMP\Oth\CoOrds.cfg
+D:\Cyberboard\BMP\Oth\Other.cfg
+D:\Cyberboard\BMP\Oth\ScnToBmp.cfg
+D:\Cyberboard\BMP\Oth\Bra\bmptogtl.cfg
+D:\Cyberboard\BMP\Oth\Bra\ColourRef.cfg
+D:\Cyberboard\BMP\Oth\Bra\ScnToBmp.cfg
+D:\Cyberboard\BMP\Oth\Lin\bmptogtl.cfg
+D:\Cyberboard\BMP\Oth\Lin\Box.cfg
+D:\Cyberboard\BMP\Oth\Lin\Boxed.cfg
+D:\Cyberboard\BMP\Oth\Lin\Boxes.cfg
+D:\Cyberboard\BMP\Oth\Lin\CoOrds.cfg
+D:\Cyberboard\BMP\Oth\Lin\Lines.cfg
+D:\Cyberboard\BMP\Oth\Lin\ScnToBmp.cfg
+D:\Cyberboard\BMP\Oth\Pol\bmptogtl.cfg
+D:\Cyberboard\BMP\Oth\Pol\CoOrds.cfg
+D:\Cyberboard\BMP\Oth\Pol\Politics.cfg
+D:\Cyberboard\BMP\Oth\Ran\bmptogtl.cfg
+D:\Cyberboard\BMP\Oth\Ran\Ranks.cfg
+D:\Cyberboard\BMP\Sco\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\CoOrds.cfg
+D:\Cyberboard\BMP\Sco\ScnToBmp.cfg
+D:\Cyberboard\BMP\Sco\Scout.cfg
+D:\Cyberboard\BMP\Sco\Bas\Bas.cfg
+D:\Cyberboard\BMP\Sco\Bas\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Adm\Adm.cfg
+D:\Cyberboard\BMP\Sco\Bra\Adm\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Com\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Com\Com.cfg
+D:\Cyberboard\BMP\Sco\Bra\Det\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Det\Det.cfg
+D:\Cyberboard\BMP\Sco\Bra\Exp\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Exp\Exp.cfg
+D:\Cyberboard\BMP\Sco\Bra\IGS\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\IGS\IGS.cfg
+D:\Cyberboard\BMP\Sco\Bra\Ops\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Ops\Ops.cfg
+D:\Cyberboard\BMP\Sco\Bra\Tec\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Bra\Tec\Tec.cfg
+D:\Cyberboard\BMP\Sco\Ran\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Ran\Ran.cfg
+D:\Cyberboard\BMP\Sco\Sta\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Sta\Sta.cfg
+D:\Cyberboard\BMP\Sco\Sys\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Sys\Sys.cfg
+D:\Cyberboard\BMP\Sco\Wor\bmptogtl.cfg
+D:\Cyberboard\BMP\Sco\Wor\Wor.cfg
+D:\Cyberboard\BMP\Sky\bmptogtl.cfg
+D:\Cyberboard\BMP\xSky\bmptogtl.cfg
+D:\Cyberboard\BMP\xSky\Cam.cfg
+D:\Cyberboard\BMP\xSky\SkyRig.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\bmptogtl.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Boughene.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Efate.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Feri.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Jewell.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Lysen.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Regina.cfg
+D:\Cyberboard\BMP\xSky\AutoGen\Roup.cfg
+D:\Cyberboard\BMP\xSky\Cam\bmptogtl.cfg

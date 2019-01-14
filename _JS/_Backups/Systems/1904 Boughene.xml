@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Systems.xsl"?>
+<!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+58
+1904 Boughene             A8B3531-D Fl Ni An                                 { 1 }  (845-3) [1619] B     S  - 601 13 ImDd M1 V          
+  <System>
+    <hex>1904</hex>
+    <sname>Boughene</sname>
+    <UWP>A8B3531-D</UWP>
+    <st>A</st>
+    <si>8</si>
+    <at>B</at>
+    <hy>3</hy>
+    <po>5</po>
+    <go>3</go>
+    <ll>1</ll>
+    <tl>D</tl>
+    <remarks>Fl Ni An</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(845-3)</ex>
+    <cx>[1619]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>601</pbg>
+    <w>13</w>
+    <a>ImDd</a>
+    <stellar>M1 V</stellar>
+  </System>
+
+</Systems>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="cw-artillery.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""ID","Weapon","Abbrev","Burst","ToHit","DAM","DP","Cost","Weight","Spaces","Catalog","Shots","Space","CPS","WPS""
+""1","50mm","A5","1", 1D","9","3D","5","1000","400","3","2","1","10","40","10""
+  <Catalog>
+    <col0>1</col0>
+    <col1>50mm</col1>
+    <col2>A5</col2>
+    <col3>1, 1D</col3>
+    <col4>9</col4>
+    <col5>3D</col5>
+    <col6>5</col6>
+    <col7>1000</col7>
+    <col8>400</col8>
+    <col9>3</col9>
+    <col10>2</col10>
+    <col11>1</col11>
+    <col12>10</col12>
+    <col13>40</col13>
+    <col14>10</col14>
+  </Catalog>
+ 
+""2","75mm","A7","2", 2D","9","8D","10","6500","800","10","4","1","10","100","20""
+  <Catalog>
+    <col0>2</col0>
+    <col1>75mm</col1>
+    <col2>A7</col2>
+    <col3>2, 2D</col3>
+    <col4>9</col4>
+    <col5>8D</col5>
+    <col6>10</col6>
+    <col7>6500</col7>
+    <col8>800</col8>
+    <col9>10</col9>
+    <col10>4</col10>
+    <col11>1</col11>
+    <col12>10</col12>
+    <col13>100</col13>
+    <col14>20</col14>
+  </Catalog>
+ 
+""3","105mm","A10","2", 3D","9","10D","20","35000","1500","14","8","1","5","250","70""
+  <Catalog>
+    <col0>3</col0>
+    <col1>105mm</col1>
+    <col2>A10</col2>
+    <col3>2, 3D</col3>
+    <col4>9</col4>
+    <col5>10D</col5>
+    <col6>20</col6>
+    <col7>35000</col7>
+    <col8>1500</col8>
+    <col9>14</col9>
+    <col10>8</col10>
+    <col11>1</col11>
+    <col12>5</col12>
+    <col13>250</col13>
+    <col14>70</col14>
+  </Catalog>
+ 
+""4","120mm","A12","3",4D","9","12D","30","100000","2000","16","10","1/2","1","500","100""
+  <Catalog>
+    <col0>4</col0>
+    <col1>120mm</col1>
+    <col2>A12</col2>
+    <col3>3,4D</col3>
+    <col4>9</col4>
+    <col5>12D</col5>
+    <col6>30</col6>
+    <col7>100000</col7>
+    <col8>2000</col8>
+    <col9>16</col9>
+    <col10>10</col10>
+    <col11>1/2</col11>
+    <col12>1</col12>
+    <col13>500</col13>
+    <col14>100</col14>
+  </Catalog>
+ 
+""5","150mm","A15","4",5D","9","15D","35","200000","3000","20","10","1/4","1","750","150""
+  <Catalog>
+    <col0>5</col0>
+    <col1>150mm</col1>
+    <col2>A15</col2>
+    <col3>4,5D</col3>
+    <col4>9</col4>
+    <col5>15D</col5>
+    <col6>35</col6>
+    <col7>200000</col7>
+    <col8>3000</col8>
+    <col9>20</col9>
+    <col10>10</col10>
+    <col11>1/4</col11>
+    <col12>1</col12>
+    <col13>750</col13>
+    <col14>150</col14>
+  </Catalog>
+ 
+""6","175","A17","6", 6D","9","18D","40","500000","6000","30","15","1/6","1","1000","200""
+  <Catalog>
+    <col0>6</col0>
+    <col1>175</col1>
+    <col2>A17</col2>
+    <col3>6, 6D</col3>
+    <col4>9</col4>
+    <col5>18D</col5>
+    <col6>40</col6>
+    <col7>500000</col7>
+    <col8>6000</col8>
+    <col9>30</col9>
+    <col10>15</col10>
+    <col11>1/6</col11>
+    <col12>1</col12>
+    <col13>1000</col13>
+    <col14>200</col14>
+  </Catalog>
+ 
+""7","200","A20","10", 8D","9","20D","50","750000","11000","50","20","1/8","1","2500","250""
+  <Catalog>
+    <col0>7</col0>
+    <col1>200</col1>
+    <col2>A20</col2>
+    <col3>10, 8D</col3>
+    <col4>9</col4>
+    <col5>20D</col5>
+    <col6>50</col6>
+    <col7>750000</col7>
+    <col8>11000</col8>
+    <col9>50</col9>
+    <col10>20</col10>
+    <col11>1/8</col11>
+    <col12>1</col12>
+    <col13>2500</col13>
+    <col14>250</col14>
+  </Catalog>
+ 
+""8","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>8</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+  </Catalog>
+ 
+""9","2"","R2","1", 1D","9","2D","2","140","75","1","1","1","1","","""
+  <Catalog>
+    <col0>9</col0>
+    <col1>2</col1>
+    <col2>R2</col2>
+    <col3>1, 1D</col3>
+    <col4>9</col4>
+    <col5>2D</col5>
+    <col6>2</col6>
+    <col7>140</col7>
+    <col8>75</col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>1</col11>
+    <col12>1</col12>
+    <col13></col13>
+    <col14></col14>
+  </Catalog>
+ 
+""10","3"","R3","2", 1D","9","3D","2","200","150","1","1","1","1","","""
+  <Catalog>
+    <col0>10</col0>
+    <col1>3</col1>
+    <col2>R3</col2>
+    <col3>2, 1D</col3>
+    <col4>9</col4>
+    <col5>3D</col5>
+    <col6>2</col6>
+    <col7>200</col7>
+    <col8>150</col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>1</col11>
+    <col12>1</col12>
+    <col13></col13>
+    <col14></col14>
+  </Catalog>
+ 
+""11","5"","R5","3", 3D","9","9D","2","750","250","1","1","1","1","","""
+  <Catalog>
+    <col0>11</col0>
+    <col1>5</col1>
+    <col2>R5</col2>
+    <col3>3, 3D</col3>
+    <col4>9</col4>
+    <col5>9D</col5>
+    <col6>2</col6>
+    <col7>750</col7>
+    <col8>250</col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>1</col11>
+    <col12>1</col12>
+    <col13></col13>
+    <col14></col14>
+  </Catalog>
+ 
+""12","7"","R7","4", 5D","9","15D","3","1500","450","1","1","1","1","","""
+  <Catalog>
+    <col0>12</col0>
+    <col1>7</col1>
+    <col2>R7</col2>
+    <col3>4, 5D</col3>
+    <col4>9</col4>
+    <col5>15D</col5>
+    <col6>3</col6>
+    <col7>1500</col7>
+    <col8>450</col8>
+    <col9>1</col9>
+    <col10>1</col10>
+    <col11>1</col11>
+    <col12>1</col12>
+    <col13></col13>
+    <col14></col14>
+  </Catalog>
+ 
+</Catalogs>

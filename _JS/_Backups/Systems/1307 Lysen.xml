@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Systems.xsl"?>
+<!DOCTYPE Systems SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Systems.xsl -->
+<Systems xmlns:Systems="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+41
+1307 Lysen                B592655-A He Ni                                    { 1 }  (D55-1) [4738] B     S  - 623 12 ImDd M3 V          
+  <System>
+    <hex>1307</hex>
+    <sname>Lysen</sname>
+    <UWP>B592655-A</UWP>
+    <st>B</st>
+    <si>5</si>
+    <at>9</at>
+    <hy>2</hy>
+    <po>6</po>
+    <go>5</go>
+    <ll>5</ll>
+    <tl>A</tl>
+    <remarks>He Ni</remarks>
+    <ix>{ 1 }</ix>
+    <ex>(D55-1)</ex>
+    <cx>[4738]</cx>
+    <n>B</n>
+    <b>S</b>
+    <z>-</z>
+    <pbg>623</pbg>
+    <w>12</w>
+    <a>ImDd</a>
+    <stellar>M3 V</stellar>
+  </System>
+
+</Systems>

@@ -1,0 +1,6 @@
+//	ENG-0.txt
+#ENG  30 30 F0
+lines.gif
+box.gif c c 3030F0
+ENG 1 1 35 H 000000
+ENG-0.gif

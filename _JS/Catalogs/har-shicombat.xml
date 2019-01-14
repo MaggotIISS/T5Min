@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="har-shicombat.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Field1","Field2","Field3","Field4","Field5","Field6","Field7","Field8","Field12","Field13","Field14","Field15","Field16","Field17","Field18","Field19","Field20""
+""","","","","","","","","NAME","TYPE","ACC","SS","DMG","1/2D","MAX","ROF","FP""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>NAME</col8>
+    <col9>TYPE</col9>
+    <col10>ACC</col10>
+    <col11>SS</col11>
+    <col12>DMG</col12>
+    <col13>1/2D</col13>
+    <col14>MAX</col14>
+    <col15>ROF</col15>
+    <col16>FP</col16>
+  </Catalog>
+ 
+""","","","","","","","","LASER,250MJ","IMP","32","30","5D*50(2)","17045","51135*","1/60","3""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>LASER,250MJ</col8>
+    <col9>IMP</col9>
+    <col10>32</col10>
+    <col11>30</col11>
+    <col12>5D*50(2)</col12>
+    <col13>17045</col13>
+    <col14>51135*</col14>
+    <col15>1/60</col15>
+    <col16>3</col16>
+  </Catalog>
+ 
+""","","COCKPIT","BRIDGE","","COMM. RANGE","","","LASER,405MJ","IMP","33","30","5D*100(2)","26022","78068*","1/60","7""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>COCKPIT</col2>
+    <col3>BRIDGE</col3>
+    <col4></col4>
+    <col5>COMM. RANGE</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>LASER,405MJ</col8>
+    <col9>IMP</col9>
+    <col10>33</col10>
+    <col11>30</col11>
+    <col12>5D*100(2)</col12>
+    <col13>26022</col13>
+    <col14>78068*</col14>
+    <col15>1/60</col15>
+    <col16>7</col16>
+  </Catalog>
+ 
+""","","SENSOR/RANGE","","","MILLION MILES","","","P-BEAM_BAY","IMP","33","30","6D*1000","14630","43890*","1/60","63""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>SENSOR/RANGE</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MILLION MILES</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>P-BEAM_BAY</col8>
+    <col9>IMP</col9>
+    <col10>33</col10>
+    <col11>30</col11>
+    <col12>6D*1000</col12>
+    <col13>14630</col13>
+    <col14>43890*</col14>
+    <col15>1/60</col15>
+    <col16>63</col16>
+  </Catalog>
+ 
+""TL","COMP","AESA","PESA","RAD","RADIO","LASER","MESON","MES.GUN_BAY","EXP","30","30","6D*1000(!)","14630","43890*","1/60","63(!)""
+  <Catalog>
+    <col0>TL</col0>
+    <col1>COMP</col1>
+    <col2>AESA</col2>
+    <col3>PESA</col3>
+    <col4>RAD</col4>
+    <col5>RADIO</col5>
+    <col6>LASER</col6>
+    <col7>MESON</col7>
+    <col8>MES.GUN_BAY</col8>
+    <col9>EXP</col9>
+    <col10>30</col10>
+    <col11>30</col11>
+    <col12>6D*1000(!)</col12>
+    <col13>14630</col13>
+    <col14>43890*</col14>
+    <col15>1/60</col15>
+    <col16>63(!)</col16>
+  </Catalog>
+ 
+""7","3","","","","","","","SPINAL_PARTICLE_BEAM","EXP","36","30","7D*3000","97600","292800*","1/60","424""
+  <Catalog>
+    <col0>7</col0>
+    <col1>3</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>SPINAL_PARTICLE_BEAM</col8>
+    <col9>EXP</col9>
+    <col10>36</col10>
+    <col11>30</col11>
+    <col12>7D*3000</col12>
+    <col13>97600</col13>
+    <col14>292800*</col14>
+    <col15>1/60</col15>
+    <col16>424</col16>
+  </Catalog>
+ 
+""8","4","","","","","","","SPINAL_MESON_GUN","EXP","36","30","7D*3000(!)","97600","292800*","1/60","424(!)""
+  <Catalog>
+    <col0>8</col0>
+    <col1>4</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>SPINAL_MESON_GUN</col8>
+    <col9>EXP</col9>
+    <col10>36</col10>
+    <col11>30</col11>
+    <col12>7D*3000(!)</col12>
+    <col13>97600</col13>
+    <col14>292800*</col14>
+    <col15>1/60</col15>
+    <col16>424(!)</col16>
+  </Catalog>
+ 
+""9","5","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>9</col0>
+    <col1>5</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""A","6","35/50K","39/10K","29/1K","0.5M","1M","X","","","","","","","","","""
+  <Catalog>
+    <col0>A</col0>
+    <col1>6</col1>
+    <col2>35/50K</col2>
+    <col3>39/10K</col3>
+    <col4>29/1K</col4>
+    <col5>0.5M</col5>
+    <col6>1M</col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""B","7","36/60K","39/15K","30/1.5K","0.5M","1M","X","WEAPON CONVENTIONS","","","","","","","","""
+  <Catalog>
+    <col0>B</col0>
+    <col1>7</col1>
+    <col2>36/60K</col2>
+    <col3>39/15K</col3>
+    <col4>30/1.5K</col4>
+    <col5>0.5M</col5>
+    <col6>1M</col6>
+    <col7>X</col7>
+    <col8>WEAPON CONVENTIONS</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""C","8","37/70K","40/20K","31/2K","0.5M","1M","X","1ST","","","2ND","","","3RD","","""
+  <Catalog>
+    <col0>C</col0>
+    <col1>8</col1>
+    <col2>37/70K</col2>
+    <col3>40/20K</col3>
+    <col4>31/2K</col4>
+    <col5>0.5M</col5>
+    <col6>1M</col6>
+    <col7>X</col7>
+    <col8>1ST</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11>2ND</col11>
+    <col12></col12>
+    <col13></col13>
+    <col14>3RD</col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""D","9","","","","","","","M","MISSILE","","M","MISSILE","","M","MISSILE","""
+  <Catalog>
+    <col0>D</col0>
+    <col1>9</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>M</col8>
+    <col9>MISSILE</col9>
+    <col10></col10>
+    <col11>M</col11>
+    <col12>MISSILE</col12>
+    <col13></col13>
+    <col14>M</col14>
+    <col15>MISSILE</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","S","SAND","","S","SAND","","S","SAND","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>S</col8>
+    <col9>SAND</col9>
+    <col10></col10>
+    <col11>S</col11>
+    <col12>SAND</col12>
+    <col13></col13>
+    <col14>S</col14>
+    <col15>SAND</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","BASIC","BRIDGE","","COMM. RANGE","","","B","BEAM","","B","BEAM","","B","BEAM","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>BASIC</col2>
+    <col3>BRIDGE</col3>
+    <col4></col4>
+    <col5>COMM. RANGE</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>B</col8>
+    <col9>BEAM</col9>
+    <col10></col10>
+    <col11>B</col11>
+    <col12>BEAM</col12>
+    <col13></col13>
+    <col14>B</col14>
+    <col15>BEAM</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","SENSOR/RANGE","","","MILLION MILES","","","P","PULSE","","P","PULSE","","P","PULSE","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>SENSOR/RANGE</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MILLION MILES</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>P</col8>
+    <col9>PULSE</col9>
+    <col10></col10>
+    <col11>P</col11>
+    <col12>PULSE</col12>
+    <col13></col13>
+    <col14>P</col14>
+    <col15>PULSE</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""TL","COMP","BASIC","BRIDGE","","RADIO","LASER","MESON","","","","","","","","","""
+  <Catalog>
+    <col0>TL</col0>
+    <col1>COMP</col1>
+    <col2>BASIC</col2>
+    <col3>BRIDGE</col3>
+    <col4></col4>
+    <col5>RADIO</col5>
+    <col6>LASER</col6>
+    <col7>MESON</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""7","4","","","","","","","P","PARTIC.","","A","ACCEL.","","B","BAY","""
+  <Catalog>
+    <col0>7</col0>
+    <col1>4</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>P</col8>
+    <col9>PARTIC.</col9>
+    <col10></col10>
+    <col11>A</col11>
+    <col12>ACCEL.</col12>
+    <col13></col13>
+    <col14>B</col14>
+    <col15>BAY</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""8","5","","","","","","","M","MESON","","G","GUN","","","","""
+  <Catalog>
+    <col0>8</col0>
+    <col1>5</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>M</col8>
+    <col9>MESON</col9>
+    <col10></col10>
+    <col11>G</col11>
+    <col12>GUN</col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""9","6","","","","","","","X","OTHER","","","","","","","""
+  <Catalog>
+    <col0>9</col0>
+    <col1>6</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>X</col8>
+    <col9>OTHER</col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""A","7","37/100K","41/20K","31/2K","5M","10M","X","","","","","","","","","""
+  <Catalog>
+    <col0>A</col0>
+    <col1>7</col1>
+    <col2>37/100K</col2>
+    <col3>41/20K</col3>
+    <col4>31/2K</col4>
+    <col5>5M</col5>
+    <col6>10M</col6>
+    <col7>X</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""B","8","37/125K","41/25K","33/6K","5M","10M","X","P","PARTIC.","","A","ACCEL.","","S","SPINAL","""
+  <Catalog>
+    <col0>B</col0>
+    <col1>8</col1>
+    <col2>37/125K</col2>
+    <col3>41/25K</col3>
+    <col4>33/6K</col4>
+    <col5>5M</col5>
+    <col6>10M</col6>
+    <col7>X</col7>
+    <col8>P</col8>
+    <col9>PARTIC.</col9>
+    <col10></col10>
+    <col11>A</col11>
+    <col12>ACCEL.</col12>
+    <col13></col13>
+    <col14>S</col14>
+    <col15>SPINAL</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""C","9","38/150K","42/30K","35/10K","5M","10M","0.02M","M","MESON","","","","","","","""
+  <Catalog>
+    <col0>C</col0>
+    <col1>9</col1>
+    <col2>38/150K</col2>
+    <col3>42/30K</col3>
+    <col4>35/10K</col4>
+    <col5>5M</col5>
+    <col6>10M</col6>
+    <col7>0.02M</col7>
+    <col8>M</col8>
+    <col9>MESON</col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""D","10","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>D</col0>
+    <col1>10</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","WPN","ROF","1/2D","MAX","ACC","DMG","","FP","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>WPN</col8>
+    <col9>ROF</col9>
+    <col10>1/2D</col10>
+    <col11>MAX</col11>
+    <col12>ACC</col12>
+    <col13>DMG</col13>
+    <col14></col14>
+    <col15>FP</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","COMMAND","BRIDGE","","COMM. RANGE","","","M","1/60","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>COMMAND</col2>
+    <col3>BRIDGE</col3>
+    <col4></col4>
+    <col5>COMM. RANGE</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>M</col8>
+    <col9>1/60</col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","SENSOR/RANGE","","","MILLION MILES","","","S","1/60","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2>SENSOR/RANGE</col2>
+    <col3></col3>
+    <col4></col4>
+    <col5>MILLION MILES</col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>S</col8>
+    <col9>1/60</col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""TL","COMP","AESA","PESA","RAD","RADIO","LASER","MESON","P","1/60","2","6","32","5D*50(2)","","3","""
+  <Catalog>
+    <col0>TL</col0>
+    <col1>COMP</col1>
+    <col2>AESA</col2>
+    <col3>PESA</col3>
+    <col4>RAD</col4>
+    <col5>RADIO</col5>
+    <col6>LASER</col6>
+    <col7>MESON</col7>
+    <col8>P</col8>
+    <col9>1/60</col9>
+    <col10>2</col10>
+    <col11>6</col11>
+    <col12>32</col12>
+    <col13>5D*50(2)</col13>
+    <col14></col14>
+    <col15>3</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""7","5","","","","","","","B","1/60","3","8","33","5D*100(2)","","7","""
+  <Catalog>
+    <col0>7</col0>
+    <col1>5</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>B</col8>
+    <col9>1/60</col9>
+    <col10>3</col10>
+    <col11>8</col11>
+    <col12>33</col12>
+    <col13>5D*100(2)</col13>
+    <col14></col14>
+    <col15>7</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""8","6","","","","","","","BAP","1/60","1","4","30","6D*1000","","63","""
+  <Catalog>
+    <col0>8</col0>
+    <col1>6</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>BAP</col8>
+    <col9>1/60</col9>
+    <col10>1</col10>
+    <col11>4</col11>
+    <col12>30</col12>
+    <col13>6D*1000</col13>
+    <col14></col14>
+    <col15>63</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""9","7","","","","","","","BAM","1/60","1","4","30","6D*1000(!)","","63(!)","""
+  <Catalog>
+    <col0>9</col0>
+    <col1>7</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8>BAM</col8>
+    <col9>1/60</col9>
+    <col10>1</col10>
+    <col11>4</col11>
+    <col12>30</col12>
+    <col13>6D*1000(!)</col13>
+    <col14></col14>
+    <col15>63(!)</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""A","8","39/150K","42/50K","32/4K","5M","10M","0.1M","SWP","1/60","5","15","36","7D*3000","","424","""
+  <Catalog>
+    <col0>A</col0>
+    <col1>8</col1>
+    <col2>39/150K</col2>
+    <col3>42/50K</col3>
+    <col4>32/4K</col4>
+    <col5>5M</col5>
+    <col6>10M</col6>
+    <col7>0.1M</col7>
+    <col8>SWP</col8>
+    <col9>1/60</col9>
+    <col10>5</col10>
+    <col11>15</col11>
+    <col12>36</col12>
+    <col13>7D*3000</col13>
+    <col14></col14>
+    <col15>424</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""B","9","40/175K","42/75K","35/10K","5M","10M","0.15M","SWM","1/60","5","15","36","7D*3000(!)","","424(!)","""
+  <Catalog>
+    <col0>B</col0>
+    <col1>9</col1>
+    <col2>40/175K</col2>
+    <col3>42/75K</col3>
+    <col4>35/10K</col4>
+    <col5>5M</col5>
+    <col6>10M</col6>
+    <col7>0.15M</col7>
+    <col8>SWM</col8>
+    <col9>1/60</col9>
+    <col10>5</col10>
+    <col11>15</col11>
+    <col12>36</col12>
+    <col13>7D*3000(!)</col13>
+    <col14></col14>
+    <col15>424(!)</col15>
+    <col16></col16>
+  </Catalog>
+ 
+""C","10","41/200K","43/100K","38/30K","5M","10M","0.2M","","","","","","","","","""
+  <Catalog>
+    <col0>C</col0>
+    <col1>10</col1>
+    <col2>41/200K</col2>
+    <col3>43/100K</col3>
+    <col4>38/30K</col4>
+    <col5>5M</col5>
+    <col6>10M</col6>
+    <col7>0.2M</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""D","11","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>D</col0>
+    <col1>11</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""NAME","TYPE","ACC","SS","DMG","1/2D","MAX","ROF","FP","","","","","","","","""
+  <Catalog>
+    <col0>NAME</col0>
+    <col1>TYPE</col1>
+    <col2>ACC</col2>
+    <col3>SS</col3>
+    <col4>DMG</col4>
+    <col5>1/2D</col5>
+    <col6>MAX</col6>
+    <col7>ROF</col7>
+    <col8>FP</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""LASER,250MJ","IMP","32","30","5D*50(2)","17045","51135*","1/60","3","","","","","","","","""
+  <Catalog>
+    <col0>LASER,250MJ</col0>
+    <col1>IMP</col1>
+    <col2>32</col2>
+    <col3>30</col3>
+    <col4>5D*50(2)</col4>
+    <col5>17045</col5>
+    <col6>51135*</col6>
+    <col7>1/60</col7>
+    <col8>3</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""LASER,405MJ","IMP","33","30","5D*100(2)","26022","78068*","1/60","7","","","","","","","","""
+  <Catalog>
+    <col0>LASER,405MJ</col0>
+    <col1>IMP</col1>
+    <col2>33</col2>
+    <col3>30</col3>
+    <col4>5D*100(2)</col4>
+    <col5>26022</col5>
+    <col6>78068*</col6>
+    <col7>1/60</col7>
+    <col8>7</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""P-BEAM_BAY","IMP","33","30","6D*1000","14630","43890*","1/60","63","","","","","","","","""
+  <Catalog>
+    <col0>P-BEAM_BAY</col0>
+    <col1>IMP</col1>
+    <col2>33</col2>
+    <col3>30</col3>
+    <col4>6D*1000</col4>
+    <col5>14630</col5>
+    <col6>43890*</col6>
+    <col7>1/60</col7>
+    <col8>63</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""MES.GUN_BAY","EXP","30","30","6D*1000(!)","14630","43890*","1/60","63(!)","","","","","","","","""
+  <Catalog>
+    <col0>MES.GUN_BAY</col0>
+    <col1>EXP</col1>
+    <col2>30</col2>
+    <col3>30</col3>
+    <col4>6D*1000(!)</col4>
+    <col5>14630</col5>
+    <col6>43890*</col6>
+    <col7>1/60</col7>
+    <col8>63(!)</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""SPINAL_PARTICLE_BEAM","EXP","36","30","7D*3000","97600","292800*","1/60","424","","","","","","","","""
+  <Catalog>
+    <col0>SPINAL_PARTICLE_BEAM</col0>
+    <col1>EXP</col1>
+    <col2>36</col2>
+    <col3>30</col3>
+    <col4>7D*3000</col4>
+    <col5>97600</col5>
+    <col6>292800*</col6>
+    <col7>1/60</col7>
+    <col8>424</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""SPINAL_MESON_GUN","EXP","36","30","7D*3000(!)","97600","292800*","1/60","424(!)","","","","","","","","""
+  <Catalog>
+    <col0>SPINAL_MESON_GUN</col0>
+    <col1>EXP</col1>
+    <col2>36</col2>
+    <col3>30</col3>
+    <col4>7D*3000(!)</col4>
+    <col5>97600</col5>
+    <col6>292800*</col6>
+    <col7>1/60</col7>
+    <col8>424(!)</col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""WEAPON CONVENTIONS","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>WEAPON CONVENTIONS</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""1ST","","","2ND","","","3RD","","","","","","","","","","""
+  <Catalog>
+    <col0>1ST</col0>
+    <col1></col1>
+    <col2></col2>
+    <col3>2ND</col3>
+    <col4></col4>
+    <col5></col5>
+    <col6>3RD</col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""M","MISSILE","","M","MISSILE","","M","MISSILE","","","","","","","","","""
+  <Catalog>
+    <col0>M</col0>
+    <col1>MISSILE</col1>
+    <col2></col2>
+    <col3>M</col3>
+    <col4>MISSILE</col4>
+    <col5></col5>
+    <col6>M</col6>
+    <col7>MISSILE</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""S","SAND","","S","SAND","","S","SAND","","","","","","","","","""
+  <Catalog>
+    <col0>S</col0>
+    <col1>SAND</col1>
+    <col2></col2>
+    <col3>S</col3>
+    <col4>SAND</col4>
+    <col5></col5>
+    <col6>S</col6>
+    <col7>SAND</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""B","BEAM","","B","BEAM","","B","BEAM","","","","","","","","","""
+  <Catalog>
+    <col0>B</col0>
+    <col1>BEAM</col1>
+    <col2></col2>
+    <col3>B</col3>
+    <col4>BEAM</col4>
+    <col5></col5>
+    <col6>B</col6>
+    <col7>BEAM</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""P","PULSE","","P","PULSE","","P","PULSE","","","","","","","","","""
+  <Catalog>
+    <col0>P</col0>
+    <col1>PULSE</col1>
+    <col2></col2>
+    <col3>P</col3>
+    <col4>PULSE</col4>
+    <col5></col5>
+    <col6>P</col6>
+    <col7>PULSE</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""P","PARTIC.","","A","ACCEL.","","B","BAY","","","","","","","","","""
+  <Catalog>
+    <col0>P</col0>
+    <col1>PARTIC.</col1>
+    <col2></col2>
+    <col3>A</col3>
+    <col4>ACCEL.</col4>
+    <col5></col5>
+    <col6>B</col6>
+    <col7>BAY</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""M","MESON","","G","GUN","","","","","","","","","","","","""
+  <Catalog>
+    <col0>M</col0>
+    <col1>MESON</col1>
+    <col2></col2>
+    <col3>G</col3>
+    <col4>GUN</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""X","OTHER","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>X</col0>
+    <col1>OTHER</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""P","PARTIC.","","A","ACCEL.","","S","SPINAL","","","","","","","","","""
+  <Catalog>
+    <col0>P</col0>
+    <col1>PARTIC.</col1>
+    <col2></col2>
+    <col3>A</col3>
+    <col4>ACCEL.</col4>
+    <col5></col5>
+    <col6>S</col6>
+    <col7>SPINAL</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""M","MESON","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>M</col0>
+    <col1>MESON</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""WPN","ROF","1/2D","MAX","ACC","DMG","","FP","","","","","","","","","""
+  <Catalog>
+    <col0>WPN</col0>
+    <col1>ROF</col1>
+    <col2>1/2D</col2>
+    <col3>MAX</col3>
+    <col4>ACC</col4>
+    <col5>DMG</col5>
+    <col6></col6>
+    <col7>FP</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""M","1/60","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>M</col0>
+    <col1>1/60</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""S","1/60","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0>S</col0>
+    <col1>1/60</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""P","1/60","2","6","32","5D*50(2)","","3","","","","","","","","","""
+  <Catalog>
+    <col0>P</col0>
+    <col1>1/60</col1>
+    <col2>2</col2>
+    <col3>6</col3>
+    <col4>32</col4>
+    <col5>5D*50(2)</col5>
+    <col6></col6>
+    <col7>3</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""B","1/60","3","8","33","5D*100(2)","","7","","","","","","","","","""
+  <Catalog>
+    <col0>B</col0>
+    <col1>1/60</col1>
+    <col2>3</col2>
+    <col3>8</col3>
+    <col4>33</col4>
+    <col5>5D*100(2)</col5>
+    <col6></col6>
+    <col7>7</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""BAP","1/60","1","4","30","6D*1000","","63","","","","","","","","","""
+  <Catalog>
+    <col0>BAP</col0>
+    <col1>1/60</col1>
+    <col2>1</col2>
+    <col3>4</col3>
+    <col4>30</col4>
+    <col5>6D*1000</col5>
+    <col6></col6>
+    <col7>63</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""BAM","1/60","1","4","30","6D*1000(!)","","63(!)","","","","","","","","","""
+  <Catalog>
+    <col0>BAM</col0>
+    <col1>1/60</col1>
+    <col2>1</col2>
+    <col3>4</col3>
+    <col4>30</col4>
+    <col5>6D*1000(!)</col5>
+    <col6></col6>
+    <col7>63(!)</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""SWP","1/60","5","15","36","7D*3000","","424","","","","","","","","","""
+  <Catalog>
+    <col0>SWP</col0>
+    <col1>1/60</col1>
+    <col2>5</col2>
+    <col3>15</col3>
+    <col4>36</col4>
+    <col5>7D*3000</col5>
+    <col6></col6>
+    <col7>424</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""SWM","1/60","5","15","36","7D*3000(!)","","424(!)","","","","","","","","","""
+  <Catalog>
+    <col0>SWM</col0>
+    <col1>1/60</col1>
+    <col2>5</col2>
+    <col3>15</col3>
+    <col4>36</col4>
+    <col5>7D*3000(!)</col5>
+    <col6></col6>
+    <col7>424(!)</col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+""","","","","","","","","","","","","","","","","""
+  <Catalog>
+    <col0></col0>
+    <col1></col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+    <col10></col10>
+    <col11></col11>
+    <col12></col12>
+    <col13></col13>
+    <col14></col14>
+    <col15></col15>
+    <col16></col16>
+  </Catalog>
+ 
+</Catalogs>

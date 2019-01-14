@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="arm-rib.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Battalion","Batt-Men","Company","Com-Men","Section","Sec-Men""
+""RIB","513","","","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2></col2>
+    <col3></col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCS","14","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCS</col2>
+    <col3>14</col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCS","14","JO5","7""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCS</col2>
+    <col3>14</col3>
+    <col4>JO5</col4>
+    <col5>7</col5>
+  </Catalog>
+ 
+""RIB","513","JCS","14","JO4","7""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCS</col2>
+    <col3>14</col3>
+    <col4>JO4</col4>
+    <col5>7</col5>
+  </Catalog>
+ 
+""RIB","513","JCM","11","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCM</col2>
+    <col3>11</col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCM","11","JS","3""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCM</col2>
+    <col3>11</col3>
+    <col4>JS</col4>
+    <col5>3</col5>
+  </Catalog>
+ 
+""RIB","513","JCM","11","JMA","4""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCM</col2>
+    <col3>11</col3>
+    <col4>JMA</col4>
+    <col5>4</col5>
+  </Catalog>
+ 
+""RIB","513","JCM","11","JMA","4""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCM</col2>
+    <col3>11</col3>
+    <col4>JMA</col4>
+    <col5>4</col5>
+  </Catalog>
+ 
+""RIB","513","JCA","122","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCA</col2>
+    <col3>122</col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCA","122","JAC","3""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCA</col2>
+    <col3>122</col3>
+    <col4>JAC</col4>
+    <col5>3</col5>
+  </Catalog>
+ 
+""RIB","513","JCA","122","JA1","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCA</col2>
+    <col3>122</col3>
+    <col4>JA1</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCA","122","JA2","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCA</col2>
+    <col3>122</col3>
+    <col4>JA2</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCA","122","JA3","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCA</col2>
+    <col3>122</col3>
+    <col4>JA3</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCA","122","JAW","23""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCA</col2>
+    <col3>122</col3>
+    <col4>JAW</col4>
+    <col5>23</col5>
+  </Catalog>
+ 
+""RIB","513","JCB","122","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCB</col2>
+    <col3>122</col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCB","122","JBC","3""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCB</col2>
+    <col3>122</col3>
+    <col4>JBC</col4>
+    <col5>3</col5>
+  </Catalog>
+ 
+""RIB","513","JCB","122","JB1","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCB</col2>
+    <col3>122</col3>
+    <col4>JB1</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCB","122","JB2","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCB</col2>
+    <col3>122</col3>
+    <col4>JB2</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCB","122","JB3","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCB</col2>
+    <col3>122</col3>
+    <col4>JB3</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCB","122","JBW","23""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCB</col2>
+    <col3>122</col3>
+    <col4>JBW</col4>
+    <col5>23</col5>
+  </Catalog>
+ 
+""RIB","513","JCC","122","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCC</col2>
+    <col3>122</col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCC","122","JCC","3""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCC</col2>
+    <col3>122</col3>
+    <col4>JCC</col4>
+    <col5>3</col5>
+  </Catalog>
+ 
+""RIB","513","JCC","122","JC1","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCC</col2>
+    <col3>122</col3>
+    <col4>JC1</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCC","122","JC2","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCC</col2>
+    <col3>122</col3>
+    <col4>JC2</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCC","122","JC3","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCC</col2>
+    <col3>122</col3>
+    <col4>JC3</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCC","122","JCW","23""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCC</col2>
+    <col3>122</col3>
+    <col4>JCW</col4>
+    <col5>23</col5>
+  </Catalog>
+ 
+""RIB","513","JCD","122","","""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCD</col2>
+    <col3>122</col3>
+    <col4></col4>
+    <col5></col5>
+  </Catalog>
+ 
+""RIB","513","JCD","122","JDC","3""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCD</col2>
+    <col3>122</col3>
+    <col4>JDC</col4>
+    <col5>3</col5>
+  </Catalog>
+ 
+""RIB","513","JCD","122","JD1","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCD</col2>
+    <col3>122</col3>
+    <col4>JD1</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCD","122","JD2","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCD</col2>
+    <col3>122</col3>
+    <col4>JD2</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCD","122","JD3","32""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCD</col2>
+    <col3>122</col3>
+    <col4>JD3</col4>
+    <col5>32</col5>
+  </Catalog>
+ 
+""RIB","513","JCD","122","JDW","23""
+  <Catalog>
+    <col0>RIB</col0>
+    <col1>513</col1>
+    <col2>JCD</col2>
+    <col3>122</col3>
+    <col4>JDW</col4>
+    <col5>23</col5>
+  </Catalog>
+ 
+</Catalogs>

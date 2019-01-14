@@ -1,0 +1,7 @@
+//	TD3-0.txt
+blank.gif
+im.gif c c replace
+harvehgcar.gif c c 000000
+TD3 c 7 35 H 000000
+2 2 7 35 H 000000
+TD3-0.gif

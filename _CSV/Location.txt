@@ -1,0 +1,6 @@
+Structure
+X
+Y
+Z
+Sealed
+Exits

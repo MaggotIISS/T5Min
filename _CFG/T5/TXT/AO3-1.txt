@@ -1,0 +1,5 @@
+//	AO3-1.txt
+lines.gif
+box.gif c c 505050
+AO3.gif c c FFFFFF
+AO3-1.gif

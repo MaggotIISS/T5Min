@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="arm-bcd.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+""Bat","Colour","Company","Com-Men","Com-Veh","Section","Sec-Men","Sec-Veh","Squad","Sqd-Men""
+""Battalion","BBGGRR","COMPANY","CoMen","CoVeh","SEC","MEN","VEH","SQUAD","MEN""
+  <Catalog>
+    <col0>Battalion</col0>
+    <col1>BBGGRR</col1>
+    <col2>COMPANY</col2>
+    <col3>CoMen</col3>
+    <col4>CoVeh</col4>
+    <col5>SEC</col5>
+    <col6>MEN</col6>
+    <col7>VEH</col7>
+    <col8>SQUAD</col8>
+    <col9>MEN</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","5"," "," "," "," ","29"," ","270""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>5</col2>
+    <col3> </col3>
+    <col4> </col4>
+    <col5> </col5>
+    <col6> </col6>
+    <col7>29</col7>
+    <col8> </col8>
+    <col9>270</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","","","","","""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5></col5>
+    <col6></col6>
+    <col7></col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","","""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC1","5""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC1</col8>
+    <col9>5</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC2","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC2</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC3","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC3</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC4","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC4</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC5","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC5</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC6","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC6</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC7","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC7</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC8","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC8</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BC9","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BC9</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BCA","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BCA</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BCB","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BCB</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BCC","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BCC</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BCD","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BCD</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BCE","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BCE</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BCS","89","15","BCF","6""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BCS</col5>
+    <col6>89</col6>
+    <col7>15</col7>
+    <col8>BCF</col8>
+    <col9>6</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BHC","100","16","BHQ","11","1","BHQ","11""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BHC</col2>
+    <col3>100</col3>
+    <col4>16</col4>
+    <col5>BHQ</col5>
+    <col6>11</col6>
+    <col7>1</col7>
+    <col8>BHQ</col8>
+    <col9>11</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","","""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SPH","1""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SPH</col8>
+    <col9>1</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS1","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS1</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS2","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS2</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS3","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS3</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS4","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS4</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS5","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS5</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS6","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS6</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS7","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS7</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS8","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS8</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SS9","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SS9</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SSA","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SSA</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSP","45","12","BSP","45","12","SSB","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSP</col2>
+    <col3>45</col3>
+    <col4>12</col4>
+    <col5>BSP</col5>
+    <col6>45</col6>
+    <col7>12</col7>
+    <col8>SSB</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSS","85","4","BSS","85","4","","""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSS</col2>
+    <col3>85</col3>
+    <col4>4</col4>
+    <col5>BSS</col5>
+    <col6>85</col6>
+    <col7>4</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSS","85","4","BSS","85","4","SSH","10""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSS</col2>
+    <col3>85</col3>
+    <col4>4</col4>
+    <col5>BSS</col5>
+    <col6>85</col6>
+    <col7>4</col7>
+    <col8>SSH</col8>
+    <col9>10</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSS","85","4","BSS","85","4","SA1","25""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSS</col2>
+    <col3>85</col3>
+    <col4>4</col4>
+    <col5>BSS</col5>
+    <col6>85</col6>
+    <col7>4</col7>
+    <col8>SA1</col8>
+    <col9>25</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSS","85","4","BSS","85","4","SA2","25""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSS</col2>
+    <col3>85</col3>
+    <col4>4</col4>
+    <col5>BSS</col5>
+    <col6>85</col6>
+    <col7>4</col7>
+    <col8>SA2</col8>
+    <col9>25</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BSS","85","4","BSS","85","4","SA3","25""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BSS</col2>
+    <col3>85</col3>
+    <col4>4</col4>
+    <col5>BSS</col5>
+    <col6>85</col6>
+    <col7>4</col7>
+    <col8>SA3</col8>
+    <col9>25</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BND","15","4","BND","15","4","","""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BND</col2>
+    <col3>15</col3>
+    <col4>4</col4>
+    <col5>BND</col5>
+    <col6>15</col6>
+    <col7>4</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BND","15","4","BND","15","4","ND1","3""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BND</col2>
+    <col3>15</col3>
+    <col4>4</col4>
+    <col5>BND</col5>
+    <col6>15</col6>
+    <col7>4</col7>
+    <col8>ND1</col8>
+    <col9>3</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BND","15","4","BND","15","4","ND2","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BND</col2>
+    <col3>15</col3>
+    <col4>4</col4>
+    <col5>BND</col5>
+    <col6>15</col6>
+    <col7>4</col7>
+    <col8>ND2</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BND","15","4","BND","15","4","ND3","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BND</col2>
+    <col3>15</col3>
+    <col4>4</col4>
+    <col5>BND</col5>
+    <col6>15</col6>
+    <col7>4</col7>
+    <col8>ND3</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BND","15","4","BND","15","4","ND4","4""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BND</col2>
+    <col3>15</col3>
+    <col4>4</col4>
+    <col5>BND</col5>
+    <col6>15</col6>
+    <col7>4</col7>
+    <col8>ND4</col8>
+    <col9>4</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BFS","25","5","BFS","25","5","","""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BFS</col2>
+    <col3>25</col3>
+    <col4>5</col4>
+    <col5>BFS</col5>
+    <col6>25</col6>
+    <col7>5</col7>
+    <col8></col8>
+    <col9></col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BFS","25","5","BFS","25","5","FS1","5""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BFS</col2>
+    <col3>25</col3>
+    <col4>5</col4>
+    <col5>BFS</col5>
+    <col6>25</col6>
+    <col7>5</col7>
+    <col8>FS1</col8>
+    <col9>5</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BFS","25","5","BFS","25","5","FS2","5""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BFS</col2>
+    <col3>25</col3>
+    <col4>5</col4>
+    <col5>BFS</col5>
+    <col6>25</col6>
+    <col7>5</col7>
+    <col8>FS2</col8>
+    <col9>5</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BFS","25","5","BFS","25","5","FS3","5""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BFS</col2>
+    <col3>25</col3>
+    <col4>5</col4>
+    <col5>BFS</col5>
+    <col6>25</col6>
+    <col7>5</col7>
+    <col8>FS3</col8>
+    <col9>5</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BFS","25","5","BFS","25","5","FS4","5""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BFS</col2>
+    <col3>25</col3>
+    <col4>5</col4>
+    <col5>BFS</col5>
+    <col6>25</col6>
+    <col7>5</col7>
+    <col8>FS4</col8>
+    <col9>5</col9>
+  </Catalog>
+ 
+""BCD","C0DCC0","BFS","25","5","BFS","25","5","FS5","5""
+  <Catalog>
+    <col0>BCD</col0>
+    <col1>C0DCC0</col1>
+    <col2>BFS</col2>
+    <col3>25</col3>
+    <col4>5</col4>
+    <col5>BFS</col5>
+    <col6>25</col6>
+    <col7>5</col7>
+    <col8>FS5</col8>
+    <col9>5</col9>
+  </Catalog>
+ 
+</Catalogs>

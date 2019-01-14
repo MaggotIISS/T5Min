@@ -1,0 +1,10 @@
+//	PGMP10-0.txt
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+energywpn.gif c c 000000
+PGMP10 2 1 35 H 000000
+TL10 50 1 35 H 000000
+46.1.-3 2 7 35 H 000000
+6DX8.1 2 13 35 H 000000
+PGMP10-0.gif

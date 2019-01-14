@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="AdmiralsInCombat.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"1D","Result"
+"1","Battlefield promotion"
+  <Catalog>
+    <col0>1</col0>
+    <col1>Battlefield promotion</col1>
+  </Catalog>
+ 
+"2","Critical battle"
+  <Catalog>
+    <col0>2</col0>
+    <col1>Critical battle</col1>
+  </Catalog>
+ 
+"3","No effect"
+  <Catalog>
+    <col0>3</col0>
+    <col1>No effect</col1>
+  </Catalog>
+ 
+"4","No effect"
+  <Catalog>
+    <col0>4</col0>
+    <col1>No effect</col1>
+  </Catalog>
+ 
+"5","Wounded"
+  <Catalog>
+    <col0>5</col0>
+    <col1>Wounded</col1>
+  </Catalog>
+ 
+"6","KIA"
+  <Catalog>
+    <col0>6</col0>
+    <col1>KIA</col1>
+  </Catalog>
+ 
+</Catalogs>

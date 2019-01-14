@@ -1,0 +1,4 @@
+//	MA-1.txt
+lines.gif
+m-beowulf-10.gif c c d0d0d0
+MA-1.gif

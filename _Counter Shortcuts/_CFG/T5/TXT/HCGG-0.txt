@@ -1,0 +1,12 @@
+//	HCGG-0.txt
+#####################
+# GaussWeapons
+lines.gif
+box.gif 2 1 FFFFFF
+box.gif 35 1 FFFFFF
+pistol.gif c c 000000
+HCGG 2 1 35 H 000000
+TL10 50 1 35 H 000000
+SHT.ROF.RCL 2 7 35 H 000000
+DAM.DIV 2 13 35 H 000000
+HCGG-0.gif

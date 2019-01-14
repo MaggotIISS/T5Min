@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="0-Carl Anderson.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- ---------------------------------------- ------ ------- ------ ----- -- - --- -- ---- --------------
+"Carl Anderson","his","A00helm","Solomani","Conscious"
+11
+  <Catalog>
+    <col0>11</col0>
+  </Catalog>
+ 
+"","Identification",0
+  <Catalog>
+    <col0></col0>
+    <col1>Identification,0</col1>
+  </Catalog>
+ 
+16
+  <Catalog>
+    <col0>16</col0>
+  </Catalog>
+ 
+"Age",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Age,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Residence",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Residence,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Birthdate",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Birthdate,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Birth Planet",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Birth Planet,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Birth Subsector",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Birth Subsector,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Race",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Race,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Height",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Height,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Weight",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Weight,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Hair Color",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Hair Color,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Eye Color",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Eye Color,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Complexion",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Complexion,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Marital Status",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Marital Status,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Spouse's Name",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Spouse's Name,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Dependents",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Dependents,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Citizenship",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Citizenship,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Religion",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Religion,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"","UPP",0
+  <Catalog>
+    <col0></col0>
+    <col1>UPP,0</col1>
+  </Catalog>
+ 
+6
+  <Catalog>
+    <col0>6</col0>
+  </Catalog>
+ 
+"Dex",1,"","",1,"!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!",0,""
+  <Catalog>
+    <col0>Dex,1,</col0>
+    <col1>,1,!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!,0,</col1>
+  </Catalog>
+ 
+"Str",1,"","",1,"!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!",0,""
+  <Catalog>
+    <col0>Str,1,</col0>
+    <col1>,1,!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!,0,</col1>
+  </Catalog>
+ 
+"End",1,"","",1,"!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!",0,""
+  <Catalog>
+    <col0>End,1,</col0>
+    <col1>,1,!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!,0,</col1>
+  </Catalog>
+ 
+"Int",0,"","",1,"!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!",0,""
+  <Catalog>
+    <col0>Int,0,</col0>
+    <col1>,1,!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!,0,</col1>
+  </Catalog>
+ 
+"Edu",0,"","",1,"!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!",0,""
+  <Catalog>
+    <col0>Edu,0,</col0>
+    <col1>,1,!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!,0,</col1>
+  </Catalog>
+ 
+"Soc",0,"","",1,"!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!",0,""
+  <Catalog>
+    <col0>Soc,0,</col0>
+    <col1>,1,!CHARNAME! attempts to apply !GENDER! !NAME! attribute towards the task at hand, rolling !XDICE 2d6! against a score of !BASE!,0,</col1>
+  </Catalog>
+ 
+"","College Record",0
+  <Catalog>
+    <col0></col0>
+    <col1>College Record,0</col1>
+  </Catalog>
+ 
+7
+  <Catalog>
+    <col0>7</col0>
+  </Catalog>
+ 
+"College1",0,"","",0,"",0,""
+  <Catalog>
+    <col0>College1,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"College2",0,"","",0,"",0,""
+  <Catalog>
+    <col0>College2,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Degree1",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Degree1,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Degree2",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Degree2,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Honors1",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Honors1,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Honors2",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Honors2,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"OtherEducation",0,"","",0,"",0,""
+  <Catalog>
+    <col0>OtherEducation,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"","Service Record",0
+  <Catalog>
+    <col0></col0>
+    <col1>Service Record,0</col1>
+  </Catalog>
+ 
+12
+  <Catalog>
+    <col0>12</col0>
+  </Catalog>
+ 
+"Service",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Service,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Branch",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Branch,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Terms",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Terms,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Rank",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Rank,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Retired1",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Retired1,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Retired2",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Retired2,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"RetirePay",0,"","",0,"",0,""
+  <Catalog>
+    <col0>RetirePay,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Discharge",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Discharge,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"DischargeDate",0,"","",0,"",0,""
+  <Catalog>
+    <col0>DischargeDate,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"DischargeWorld",0,"","",0,"",0,""
+  <Catalog>
+    <col0>DischargeWorld,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"SpecialAssignments",0,"","",0,"",0,""
+  <Catalog>
+    <col0>SpecialAssignments,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Decorations",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Decorations,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"","MOS",0
+  <Catalog>
+    <col0></col0>
+    <col1>MOS,0</col1>
+  </Catalog>
+ 
+2
+  <Catalog>
+    <col0>2</col0>
+  </Catalog>
+ 
+"PrimarySkill",0,"","",1,"!CHARNAME! attempts to use !GENDER! !CALL !BASE!.Name! skill, rolling !XDICE 2d6! + !CALL !BASE!.BaseValue! for a total roll of !CALC !LDRT!+!CALL !BASE!.BaseValue!!",0,""
+  <Catalog>
+    <col0>PrimarySkill,0,</col0>
+    <col1>,1,!CHARNAME! attempts to use !GENDER! !CALL !BASE!.Name! skill, rolling !XDICE 2d6!  !CALL !BASE!.BaseValue! for a total roll of !CALC !LDRT!!CALL !BASE!.BaseValue!!,0,</col1>
+  </Catalog>
+ 
+"SecondarySkill",0,"","",1,"!CHARNAME! attempts to use !GENDER! !CALL !BASE!.Name! skill, rolling !XDICE 2d6! + !CALL !BASE!.BaseValue! for a total roll of !CALC !LDRT!+!CALL !BASE!.BaseValue!!",0,""
+  <Catalog>
+    <col0>SecondarySkill,0,</col0>
+    <col1>,1,!CHARNAME! attempts to use !GENDER! !CALL !BASE!.Name! skill, rolling !XDICE 2d6!  !CALL !BASE!.BaseValue! for a total roll of !CALC !LDRT!!CALL !BASE!.BaseValue!!,0,</col1>
+  </Catalog>
+ 
+"","Miscellaneous",0
+  <Catalog>
+    <col0></col0>
+    <col1>Miscellaneous,0</col1>
+  </Catalog>
+ 
+8
+  <Catalog>
+    <col0>8</col0>
+  </Catalog>
+ 
+"Credits",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Credits,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"TAS1",0,"","",0,"",0,""
+  <Catalog>
+    <col0>TAS1,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"TAS2",0,"","",0,"",0,""
+  <Catalog>
+    <col0>TAS2,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"PsiTested2",0,"","",0,"",0,""
+  <Catalog>
+    <col0>PsiTested2,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"PsiTested1",0,"","",0,"",0,""
+  <Catalog>
+    <col0>PsiTested1,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Test Date",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Test Date,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Psionic Strength",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Psionic Strength,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Abilities and Levels",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Abilities and Levels,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"2d6","Skills",2
+  <Catalog>
+    <col0>2d6</col0>
+    <col1>Skills,2</col1>
+  </Catalog>
+ 
+0
+  <Catalog>
+    <col0>0</col0>
+  </Catalog>
+ 
+"","Equipment",0
+  <Catalog>
+    <col0></col0>
+    <col1>Equipment,0</col1>
+  </Catalog>
+ 
+0
+  <Catalog>
+    <col0>0</col0>
+  </Catalog>
+ 
+"","Combat",0
+  <Catalog>
+    <col0></col0>
+    <col1>Combat,0</col1>
+  </Catalog>
+ 
+3
+  <Catalog>
+    <col0>3</col0>
+  </Catalog>
+ 
+"Melee",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Melee,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Ranged",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Ranged,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"Armour",0,"","",0,"",0,""
+  <Catalog>
+    <col0>Armour,0,</col0>
+    <col1>,0,,0,</col1>
+  </Catalog>
+ 
+"","Worn",0
+  <Catalog>
+    <col0></col0>
+    <col1>Worn,0</col1>
+  </Catalog>
+ 
+0
+  <Catalog>
+    <col0>0</col0>
+  </Catalog>
+ 
+"","Carried",0
+  <Catalog>
+    <col0></col0>
+    <col1>Carried,0</col1>
+  </Catalog>
+ 
+0
+  <Catalog>
+    <col0>0</col0>
+  </Catalog>
+ 
+""
+  <Catalog>
+    <col0></col0>
+  </Catalog>
+ 
+</Catalogs>

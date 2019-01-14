@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="body.xsl"?> --><!DOCTYPE Catalogs SYSTEM "file:///C://T5/_JS/DTD.dtd">
+<!-- Use Catalogs.xsl -->
+<Catalogs xmlns:Catalogs="file:///C://T5/_JS/ns.txt">
+---- -------------------- --------- -------------------------- ------ ------- ------ ---- -- - --- -- ---- ---------------
+"CODE","BODY","TL","MASS","AR","CA","FL","RA","SO","PS","IN","SE","Comment","Cr"
+"J","Jack","1","1","1","5","0","0","0","0","0","4","-","50"
+  <Catalog>
+    <col0>J</col0>
+    <col1>Jack</col1>
+    <col2>1</col2>
+    <col3>1</col3>
+    <col4>1</col4>
+    <col5>5</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>4</col11>
+    <col12>-</col12>
+    <col13>50</col13>
+  </Catalog>
+ 
+"Ma","Mail","4","3","2","6","0","0","0","0","0","0","-","400"
+  <Catalog>
+    <col0>Ma</col0>
+    <col1>Mail</col1>
+    <col2>4</col2>
+    <col3>3</col3>
+    <col4>2</col4>
+    <col5>6</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>0</col11>
+    <col12>-</col12>
+    <col13>400</col13>
+  </Catalog>
+ 
+"M","Mesh","7","2","1","10","0","0","0","0","0","2","-","150"
+  <Catalog>
+    <col0>M</col0>
+    <col1>Mesh</col1>
+    <col2>7</col2>
+    <col3>2</col3>
+    <col4>1</col4>
+    <col5>10</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>2</col11>
+    <col12>-</col12>
+    <col13>150</col13>
+  </Catalog>
+ 
+"K","Cloth","8","2","1","14","0","0","0","0","0","6","-","250"
+  <Catalog>
+    <col0>K</col0>
+    <col1>Cloth</col1>
+    <col2>8</col2>
+    <col3>2</col3>
+    <col4>1</col4>
+    <col5>14</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>6</col11>
+    <col12>-</col12>
+    <col13>250</col13>
+  </Catalog>
+ 
+"Q","Quilt","9","1","1","18","0","0","0","0","0","9","-","600"
+  <Catalog>
+    <col0>Q</col0>
+    <col1>Quilt</col1>
+    <col2>9</col2>
+    <col3>1</col3>
+    <col4>1</col4>
+    <col5>18</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>9</col11>
+    <col12>-</col12>
+    <col13>600</col13>
+  </Catalog>
+ 
+"P","Plate","6","4","1","22","0","0","0","0","0","0","B=+2","900"
+  <Catalog>
+    <col0>P</col0>
+    <col1>Plate</col1>
+    <col2>6</col2>
+    <col3>4</col3>
+    <col4>1</col4>
+    <col5>22</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>0</col11>
+    <col12>B=2</col12>
+    <col13>900</col13>
+  </Catalog>
+ 
+"A","Ablat","9","2","3","12","0","0","0","0","0","8","B=+3 2x vs K*","375"
+  <Catalog>
+    <col0>A</col0>
+    <col1>Ablat</col1>
+    <col2>9</col2>
+    <col3>2</col3>
+    <col4>3</col4>
+    <col5>12</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>8</col11>
+    <col12>B=3 2x vs K*</col12>
+    <col13>375</col13>
+  </Catalog>
+ 
+"R","Reflec","10","1","0","0","0","0","0","0","0","0","Deflects laser","10"
+  <Catalog>
+    <col0>R</col0>
+    <col1>Reflec</col1>
+    <col2>10</col2>
+    <col3>1</col3>
+    <col4>0</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>0</col11>
+    <col12>Deflects laser</col12>
+    <col13>10</col13>
+  </Catalog>
+ 
+"C","Coat","1","1","2","0","0","0","0","0","0","5","-","100"
+  <Catalog>
+    <col0>C</col0>
+    <col1>Coat</col1>
+    <col2>1</col2>
+    <col3>1</col3>
+    <col4>2</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>5</col11>
+    <col12>-</col12>
+    <col13>100</col13>
+  </Catalog>
+ 
+"hC","Heavy Coat","2","2","3","0","0","0","0","0","0","10","-","200"
+  <Catalog>
+    <col0>hC</col0>
+    <col1>Heavy Coat</col1>
+    <col2>2</col2>
+    <col3>2</col3>
+    <col4>3</col4>
+    <col5>0</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>10</col11>
+    <col12>-</col12>
+    <col13>200</col13>
+  </Catalog>
+ 
+"Sh","Shield","2","3","3","12","0","0","0","0","0","0","-","100"
+  <Catalog>
+    <col0>Sh</col0>
+    <col1>Shield</col1>
+    <col2>2</col2>
+    <col3>3</col3>
+    <col4>3</col4>
+    <col5>12</col5>
+    <col6>0</col6>
+    <col7>0</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>0</col11>
+    <col12>-</col12>
+    <col13>100</col13>
+  </Catalog>
+ 
+"aSh","Adv Shield","8","2","2","14","0","8","0","0","0","0","-","400"
+  <Catalog>
+    <col0>aSh</col0>
+    <col1>Adv Shield</col1>
+    <col2>8</col2>
+    <col3>2</col3>
+    <col4>2</col4>
+    <col5>14</col5>
+    <col6>0</col6>
+    <col7>8</col7>
+    <col8>0</col8>
+    <col9>0</col9>
+    <col10>0</col10>
+    <col11>0</col11>
+    <col12>-</col12>
+    <col13>400</col13>
+  </Catalog>
+ 
+</Catalogs>
